@@ -1,0 +1,5426 @@
+{
+  "generated_at": "2026-04-30T14:29:28.045Z",
+  "projects": [
+    {
+      "account_id": "act_1579613729153862",
+      "name": "Academy Aclima",
+      "currency": "USD",
+      "campaigns": [
+        {
+          "id": "120242230358500027",
+          "name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120241793018460027",
+          "name": "ОН Проєктування сучасних систем вентиляції 22.04",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120241616519650027",
+          "name": "Вебінар Вальравен - кріплення теплових насосоів",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120240705598100027",
+          "name": "ОН revit -50% 30.03",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120240705494560027",
+          "name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120240509574130027",
+          "name": "Вебінар - Помилки Теплові насоси 27.03",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120240507040320027",
+          "name": "Вебінар - Помилки VRF 27.03",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120240076633140027",
+          "name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120240076115370027",
+          "name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120240075900160027",
+          "name": "Вебінар - Помилки Теплові насоси 17.03",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120240075192190027",
+          "name": "Вебінар - Помилки VRF 17.03",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120239921780460027",
+          "name": "Онлайн Курс «Монт Конд» 13.03",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120239719714360027",
+          "name": "FGAZ UKR Polish",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120239652707380027",
+          "name": "ОН Серв.Обсл. Спліт систем",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120239652104390027",
+          "name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120239652006410027",
+          "name": "ОН Теплові насоси лендінг – копія",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120238980136970027",
+          "name": "ОН Теплові насоси лендінг",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120238917510040027",
+          "name": "КУРС F-GASY ЄВРОПА 16.02",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120238545914700027",
+          "name": "Вадим Рубан (вакансія 1) ліди",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120238545324470027",
+          "name": "Вадим РУбан (вакансія 1) трафік",
+          "status": "PAUSED",
+          "objective": "OUTCOME_TRAFFIC"
+        },
+        {
+          "id": "120238303003340027",
+          "name": "Реклама Вадим Рубан (вакансія 1)",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120237996941460027",
+          "name": "Курс ОН Монтажник кондиціонерів 23.01",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120237714507050027",
+          "name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120237713864630027",
+          "name": "ОН Теплові насоси ВИКЛИК",
+          "status": "PAUSED",
+          "objective": "OUTCOME_ENGAGEMENT"
+        },
+        {
+          "id": "120237713435660027",
+          "name": "ОН Теплові насоси 12.11 – копія",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120236014716370027",
+          "name": "Post: „”",
+          "status": "PAUSED",
+          "objective": "VIDEO_VIEWS"
+        },
+        {
+          "id": "120235665449960027",
+          "name": "БФ Ліди 24.11 мега – копія",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120235601062360027",
+          "name": "БФ Ліди відео пісня",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120235600300840027",
+          "name": "БФ Ліди конкр.курси",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120235576737840027",
+          "name": "БФ Ліди 27.11 мега",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120235443190020027",
+          "name": "БФ Ліди 24.11 мега",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120235442168460027",
+          "name": "BF Lead 20.11",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120235312361270027",
+          "name": "БФ Ліди 21.11",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120235302365170027",
+          "name": "Анонс ЧП охоплення",
+          "status": "PAUSED",
+          "objective": "OUTCOME_AWARENESS"
+        },
+        {
+          "id": "120234800968700027",
+          "name": "ОН Теплові насоси 12.11",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120234466208600027",
+          "name": "Вебінар - Помилки VRF діагностика спліт систем",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120234285504910027",
+          "name": "ОН Теплові насос 03.11 широка",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120234224975260027",
+          "name": "ОН Теплові насос03.11",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120233928901230027",
+          "name": "Курс ОН сервісант систем конд і вент хеловін",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120233928589580027",
+          "name": "Курс ОН Монтажник кондиціонерів хеловін",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120233921042460027",
+          "name": "ОН Теплові насоси хеловін",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120233549624810027",
+          "name": "ОН Гідравлічний розрахунок 22.10",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120233504052980027",
+          "name": "ОН Гідравлічний розрахунок 21.10",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120233427027760027",
+          "name": "ТН Практика 20.10",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120233426181220027",
+          "name": "Хелловін Акція",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120232992486260027",
+          "name": "ОН Проєкт пром буд вент 13.10",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120232669842330027",
+          "name": "ОН AutoCAD -50% 08.10",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120232606613690027",
+          "name": "Вебінар - Помилки VRF нова",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120232563017950027",
+          "name": "ЛЕКТОР",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120232017194760027",
+          "name": "Курс ОФ Сервісант сист мікро 26.09",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120232016485120027",
+          "name": "ОН Теплові насоси 26.09",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120231330310220027",
+          "name": "Курс ОН Монтажник кондиціонерів 10.09",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120231228214570027",
+          "name": "Вебінар - Помилки VRF",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120231002724650027",
+          "name": "ОН revit -50% – копія",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120231002518730027",
+          "name": "Вебінар - Помилки Теплові насоси 03.09",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120231002226950027",
+          "name": "ОН Теплові насоси 03.09",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120231002031810027",
+          "name": "Курс ОФ Монтажник кондиціонерів та вентиляції 03.09",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120230321667760027",
+          "name": "Вебінар - Помилки Теплові насоси 21.08",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120230278460120027",
+          "name": "ОН AutoCAD -50%",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120230278298150027",
+          "name": "ОН revit -50%",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120230172525300027",
+          "name": "ОН акція 1=2 18.08",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120229840500510027",
+          "name": "ОН Теплові насоси 12.08",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120229838455720027",
+          "name": "ОН Проєктування сучасних систем вентиляції",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120229800938990027",
+          "name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120229600566260027",
+          "name": "Курс ОН Монтажник кондиціонерів",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120228068208930027",
+          "name": "ОН Теплові насоси 15.07",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120227801373020027",
+          "name": "Офлайн Курс «ТЕПЛОВІ НАСОСИ 21.07»",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120227687143040027",
+          "name": "Акція 1+1=3",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120227442174290027",
+          "name": "ОН Проєктування сучасних систем вентиляції",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120227441680170027",
+          "name": "ОН Теплові насоси 04.07",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120227440591130027",
+          "name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120227440530620027",
+          "name": "Онлайн ТН — Копия",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120226341274840027",
+          "name": "ТГ канал ( не виключати)",
+          "status": "PAUSED",
+          "objective": "OUTCOME_ENGAGEMENT"
+        },
+        {
+          "id": "120224895010050027",
+          "name": "Офлайн Курс «Сервісний інженер систем мікроклімату»",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120223921186480027",
+          "name": "ОН Теплові насоси 15.05",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120223804381840027",
+          "name": "Курс ОФ Теплові насоси 26.05",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120223749899860027",
+          "name": "ОН Проєктування вентиляційних систем в Autodesk Revit",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120223570124200027",
+          "name": "Курс ОН Монтажник кондиціонерів",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120220809117860027",
+          "name": "ОН Теплові насоси 10.04",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120218210655830027",
+          "name": "Автовебінар спліт системи 26.03",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120218156977720027",
+          "name": "ОН Теплові насоси 23.03 відео",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120218121953890027",
+          "name": "Онлайн Курс Теплові насоси 24.02 — Копия",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120218121772840027",
+          "name": "Курс ОФ Теплові насоси керівник монт комп",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120218107576250027",
+          "name": "Курс ОН VRF Знижка",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120217512460020027",
+          "name": "Реклама телеграм каналу, трафік КИЇВ",
+          "status": "PAUSED",
+          "objective": "OUTCOME_TRAFFIC"
+        },
+        {
+          "id": "120217420948220027",
+          "name": "Курс ОФ Монтажник систем кондиціювання та вентиляції",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120217420022280027",
+          "name": "Курс ОФ Теплові насоси",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120216732939470027",
+          "name": "Онлайн Курс Теплові насоси 24.02",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120216315259700027",
+          "name": "Реклама телеграм каналу, трафік",
+          "status": "PAUSED",
+          "objective": "OUTCOME_TRAFFIC"
+        },
+        {
+          "id": "120216303363830027",
+          "name": "Атмосфера - керівник",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120216070057170027",
+          "name": "Вебінар - Помилки Теплові насоси перероблена",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120216041179820027",
+          "name": "Вебінар - Помилки Кондиціонери аудиторія Kampania",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120216026660920027",
+          "name": "Вебінар - Помилки Кондиціонери Kampania",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120216020303620027",
+          "name": "Вебінар - Помилки Теплові насоси",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120215630640470027",
+          "name": "Офлайн Курс «Сервісний інженер систем мікроклімату» — Копия",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120215629777490027",
+          "name": "Онлайн Курс «Сервісний інженер систем мікроклімату»",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120215628071770027",
+          "name": "Онлайн Курс Теплові насоси",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120215625722450027",
+          "name": "Офлайн Курс Теплові насоси",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120215216583540027",
+          "name": "LH\"Ліди на сайт - Проєктування вентиляційних систем",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120214547164340027",
+          "name": "LH\"SMS.20.01",
+          "status": "PAUSED",
+          "objective": "OUTCOME_ENGAGEMENT"
+        },
+        {
+          "id": "120214380261560027",
+          "name": "LH|Ліди на сайті|Ремаркетинг",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120214254485550027",
+          "name": "LH|Ліди на сайті|Онлайн курс (Інженер з проєктування систем опалення)",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120214244902170027",
+          "name": "LH|Ліди на сайті|Онлайн курс Партнери",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120214129477980027",
+          "name": "LH|Ліди на сайті|Онлайн курс — 06.12",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120214129390380027",
+          "name": "LH|Офлайн курс \"Спеціаліст з теплових насосів\"",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120214074786500027",
+          "name": "LH|Лідформи|ВебінарПТМСС",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120214074567510027",
+          "name": "LH|LeadWeb|ВебінарПТМСС",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120213675779100027",
+          "name": "LH|Traffic|TG",
+          "status": "PAUSED",
+          "objective": "OUTCOME_TRAFFIC"
+        },
+        {
+          "id": "120213586556660027",
+          "name": "РемаркетингʼLH|Ліди на сайті|Онлайн курс — NY SALE",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120213586044110027",
+          "name": "LH|Ліди на сайті|Онлайн курс — NY SALE",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120213269413010027",
+          "name": "LH|Офлайн курс \"Сервісний інженер\"",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120213262505260027",
+          "name": "LH|Ліди на сайті|Онлайн курсʼRemarketing",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120213261621040027",
+          "name": "LH|Ліди на сайті|Онлайн курс — 03.12",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120213261533180027",
+          "name": "LH|Ліди на сайті|Онлайн курс — 03.12",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120213175499840027",
+          "name": "BF\\LH\\Lead 20.11 (2)",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120212930548810027",
+          "name": "BF\\LH\\Lead 20.11 Remarketing",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120212930048780027",
+          "name": "BF\\LH\\Lead 20.11",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120212556646520027",
+          "name": "LH|Лідформи|Онлайн курс",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120212538926180027",
+          "name": "Пошук викладача_quiz(листопад)",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120212452467390027",
+          "name": "LH|Ліди на сайті|Ремаркетинг",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120212451484910027",
+          "name": "LH|Ліди на сайті|Онлайн курс",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120212450331130027",
+          "name": "LH|Ліди на сайті|Офлайн-курс",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120212258403340027",
+          "name": "Онлайн ТН",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120212258358250027",
+          "name": "Конверсія на сайті /Онлайн-курс «Спеціаліст із теплових насосів»",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120212258091560027",
+          "name": "Конверсія на сайті / Онлайн-курс пром",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120212204418700027",
+          "name": "Конверсія на сайті / Онлайн-курс «Інженер з проєктування систем опалення» 21.10",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120212193640270027",
+          "name": "Конверсія на сайті /Безкоштовний модуль «Технологія інформаційного моделювання» 21.10",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120212152911430027",
+          "name": "Конверсія на сайті /Дистанційне навчання форма",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120212098640950027",
+          "name": "Корпоративне навчання форма",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120211986598340027",
+          "name": "Конверсія на сайті /Дистанційне навчання 12.10",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120211941089080027",
+          "name": "Конверсія на сайті /Онлайн-курс «Автоматика щитів керування вентиляцією» 10.10",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120211929899790027",
+          "name": "Пошук викладача_quiz",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120211926465630027",
+          "name": "Конверсія на сайті /Офлайн-курс «Монтажник сонячних електростанцій» 10.10",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120211843794290027",
+          "name": "Конверсія на сайті /Онлайн-курс «Спеціаліст із теплових насосів» 08.10",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120211723553070027",
+          "name": "Конверсія на сайті /Онлайн-курс «Спеціаліст із теплових насосів» 03.10",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120211723447380027",
+          "name": "Конверсія на сайті /Курс Сервісний інженер систем мікроклімату 03.10",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120211705307000027",
+          "name": "Конверсія на сайті / КВІЗ 02.10",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120211662315830027",
+          "name": "Конверсія на сайті / КВІЗ",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120211611179140027",
+          "name": "Конверсія на сайті /Безкоштовний модуль «Підбір внутрішніх блоків» з курсу «Основи проєктування VRF-систем»",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120211589587450027",
+          "name": "Конверсія на телеграм 26.09",
+          "status": "PAUSED",
+          "objective": "OUTCOME_TRAFFIC"
+        },
+        {
+          "id": "120211497826790027",
+          "name": "Конверсія на телеграм 23.09",
+          "status": "PAUSED",
+          "objective": "OUTCOME_TRAFFIC"
+        },
+        {
+          "id": "120211497139910027",
+          "name": "Конверсія на сайті /Онлайн-курс «Проєктування сучасних систем вентиляції» 23.09",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120211378966450027",
+          "name": "Конверсія на сайті /Онлайн-курс «Автоматика щитів керування вентиляцією»/18.09",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120211378881700027",
+          "name": "Конверсія на сайті /Онлайн-курс «Сервісний інженер систем мікроклімату»/ 18.09",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120211263729270027",
+          "name": "Розіграш ТГ",
+          "status": "PAUSED",
+          "objective": "OUTCOME_TRAFFIC"
+        },
+        {
+          "id": "120211248587310027",
+          "name": "Реклама на підписку",
+          "status": "PAUSED",
+          "objective": "OUTCOME_TRAFFIC"
+        },
+        {
+          "id": "120211167626710027",
+          "name": "Офлайн ТН",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120211067296930027",
+          "name": "Передзамовлення",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210988434550027",
+          "name": "Онлайн «Інженер з проєктування систем опалення»",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210973710520027",
+          "name": "Атмосфера монтажник",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210973559580027",
+          "name": "Офлайн Монтажник 03.09.24",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210710308720027",
+          "name": "Конверсія на сайті /Онлайн-курс «Вентиляція і кондиціонування повітря промислових будівель та споруд»/ 22.08",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210702647390027",
+          "name": "Конверсія на сайті /Онлайн-курс «ТН»/ 21.08",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210610957800027",
+          "name": "Конверсія на сайті /СЕРПНЕВИЙ РОЗПРОДАЖ/ 18.08",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210610915840027",
+          "name": "Конверсія на сайті /Онлайн-курс «Автоматика щитів керування вентиляцією»/ 18.08",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210518669960027",
+          "name": "Конверсія на сайті /Онлайн-курс «Монтажник»/ 14.08 –",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210429890850027",
+          "name": "Конверсія на сайті /Вебінар «Фахівець з обладнання для сонячних електростанцій»/10.08",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210364855140027",
+          "name": "Конверсія на сайті /Онлайн-курс«Фахівець з обладнання для сонячних електростанцій»/07.08",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210364608970027",
+          "name": "Конверсія на сайті /Курс Сервісний інженер систем мікроклімату - навчання в Києві/07.08",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210270446360027",
+          "name": "Конверсія на сайті /Дистанційне навчання/ 03.07",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210146655420027",
+          "name": "Конверсія на сайті /Онлайн-курс «Проєктування вентиляційних систем в Autodesk Revit»/ 27.07",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210146636670027",
+          "name": "Конверсія на сайті /Онлайн-курс «Проєктування сучасних систем вентиляції»/ 27.07",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210073290120027",
+          "name": "Конверсія на сайті /Атмосфера/ 23.07",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120210005568360027",
+          "name": "TELEGRAM-КАНАЛ",
+          "status": "PAUSED",
+          "objective": "OUTCOME_TRAFFIC"
+        },
+        {
+          "id": "120210005393390027",
+          "name": "Конверсія на сайті /Онлайн-курс «Інженер з проєкт»/ 19.07",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209897651350027",
+          "name": "Конверсія на сайті /Онлайн-курс «Енергоаудитор систем опалення» / 15.07",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209897598460027",
+          "name": "Конверсія на сайті /Вебінар «Вплив температурно-вологісних параметрів / 15.07",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209897548830027",
+          "name": "Конверсія на сайті /Онлайн-курс «Сервісний інженер систем мікроклімату»/ 15.07",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209835900550027",
+          "name": "Конверсія на сайті /Вебінар «Вплив температурно-вологісних параметрів / 11.07",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209835298400027",
+          "name": "Конверсія на сайті /«Курс Монтажник систем кондиціювання та вентиляції» / 11.07",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209648090160027",
+          "name": "Конверсія на сайті /«Курс Спеціаліст із теплових насосів» / 02.07",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209510663280027",
+          "name": "Конверсія на сайті /«Монтажник систем кондиціювання» / 24.06",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209510599080027",
+          "name": "Конверсія на сайті /«Енергоаудитор систем опалення» / 24.06",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209510537590027",
+          "name": "Конверсія на сайті /«Енергоаудитор систем опалення»/ 24.06",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209444195460027",
+          "name": "Конверсія на сайті /«Проєктування сучасних систем вентиляції» / 20.06",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209301860350027",
+          "name": "Конверсія на сайті / «Енергоаудитор систем опалення» / 12.06",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209301487000027",
+          "name": "Конверсія на сайті / «Монтажник систем кондиціювання» / 12.06",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209136491000027",
+          "name": "Монтажник систем кондиціювання/ Курси / 04.06",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209015456720027",
+          "name": "Конверсія на сайті /«Проєктування сучасних систем вентиляції» / 29.05",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209015415080027",
+          "name": "Конверсія на сайті / «Монтажник систем кондиціювання» / 29.05",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209015315690027",
+          "name": "Конверсія на сайті / «Спеціаліст із теплових насосів» / 29.05",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120209015266800027",
+          "name": "Конверсія на сайті / «Енергоаудитор систем опалення» / 29.05",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120208779245990027",
+          "name": "Конверсія на сайті / Курси / 21.05",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120208779020240027",
+          "name": "Конверсія на сайті / Курси / 21.05",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120208778045650027",
+          "name": "Конверсія на сайті / Курси / 21.05",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120208603539870027",
+          "name": "Конверсія на сайті / Курси / 17.05",
+          "status": "PAUSED",
+          "objective": "OUTCOME_TRAFFIC"
+        },
+        {
+          "id": "120208475341460027",
+          "name": "Конверсія на сайті / Курси / 14.05",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120208474287260027",
+          "name": "Конверсія на сайті / Курси / 14.05",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120208270456390027",
+          "name": "Конверсія на сайті / Курси / 09.05",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120208270330860027",
+          "name": "Конверсія на сайті / Курси / 09.05",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120207799336960027",
+          "name": "Конверсія на сайті / Курси / 25.04",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120207762973920027",
+          "name": "Конверсія на сайті / ПЕРЕДЗАМОВЛЕННЯ / 24.04",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120207694436130027",
+          "name": "Конверсія на сайті / Курси / 22.04",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120207626853950027",
+          "name": "Конверсія на сайті / Курси / 20.04",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120207626768810027",
+          "name": "Конверсія на сайті / Курси / 20.04",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120207260102400027",
+          "name": "Конверсія на сайті / Курси / 08.04",
+          "status": "PAUSED",
+          "objective": "OUTCOME_TRAFFIC"
+        },
+        {
+          "id": "120207259755820027",
+          "name": "Конверсія на сайті / Акція / 08.04",
+          "status": "PAUSED",
+          "objective": "OUTCOME_TRAFFIC"
+        },
+        {
+          "id": "120207259360880027",
+          "name": "Конверсія на сайті / Акція / 08.04",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120207131638840027",
+          "name": "Конверсія на сайті / Курси / 03.04",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120207066975670027",
+          "name": "Конверсія на сайті / Курси / 02.04",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-01-30",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 11.15,
+          "impressions": 7886,
+          "clicks": 103,
+          "leads": 4
+        },
+        {
+          "date": "2026-01-30",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 19.27,
+          "impressions": 11410,
+          "clicks": 225,
+          "leads": 12
+        },
+        {
+          "date": "2026-01-30",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 14.53,
+          "impressions": 4459,
+          "clicks": 99,
+          "leads": 14
+        },
+        {
+          "date": "2026-01-31",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 11.03,
+          "impressions": 8244,
+          "clicks": 110,
+          "leads": 13
+        },
+        {
+          "date": "2026-01-31",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 19.84,
+          "impressions": 12363,
+          "clicks": 254,
+          "leads": 16
+        },
+        {
+          "date": "2026-01-31",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 14.7,
+          "impressions": 4336,
+          "clicks": 114,
+          "leads": 14
+        },
+        {
+          "date": "2026-02-01",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 11.07,
+          "impressions": 9097,
+          "clicks": 131,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-01",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 22.79,
+          "impressions": 16000,
+          "clicks": 331,
+          "leads": 18
+        },
+        {
+          "date": "2026-02-01",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 16.36,
+          "impressions": 5683,
+          "clicks": 128,
+          "leads": 26
+        },
+        {
+          "date": "2026-02-01",
+          "campaign_id": "120238303003340027",
+          "campaign_name": "Реклама Вадим Рубан (вакансія 1)",
+          "spend": 4.62,
+          "impressions": 943,
+          "clicks": 24,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-02",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.89,
+          "impressions": 5876,
+          "clicks": 95,
+          "leads": 11
+        },
+        {
+          "date": "2026-02-02",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 19.83,
+          "impressions": 14101,
+          "clicks": 295,
+          "leads": 10
+        },
+        {
+          "date": "2026-02-02",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 14.81,
+          "impressions": 6338,
+          "clicks": 140,
+          "leads": 10
+        },
+        {
+          "date": "2026-02-02",
+          "campaign_id": "120238303003340027",
+          "campaign_name": "Реклама Вадим Рубан (вакансія 1)",
+          "spend": 5.71,
+          "impressions": 841,
+          "clicks": 18,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-03",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.68,
+          "impressions": 5853,
+          "clicks": 95,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-03",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 19.79,
+          "impressions": 9917,
+          "clicks": 244,
+          "leads": 10
+        },
+        {
+          "date": "2026-02-03",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 14.57,
+          "impressions": 5545,
+          "clicks": 95,
+          "leads": 14
+        },
+        {
+          "date": "2026-02-03",
+          "campaign_id": "120238303003340027",
+          "campaign_name": "Реклама Вадим Рубан (вакансія 1)",
+          "spend": 5.63,
+          "impressions": 1025,
+          "clicks": 31,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-04",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 10.05,
+          "impressions": 6087,
+          "clicks": 75,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-04",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 19.36,
+          "impressions": 12117,
+          "clicks": 257,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-04",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 15.17,
+          "impressions": 5239,
+          "clicks": 112,
+          "leads": 12
+        },
+        {
+          "date": "2026-02-04",
+          "campaign_id": "120238303003340027",
+          "campaign_name": "Реклама Вадим Рубан (вакансія 1)",
+          "spend": 0.45,
+          "impressions": 91,
+          "clicks": 5,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-05",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 10,
+          "impressions": 6065,
+          "clicks": 109,
+          "leads": 5
+        },
+        {
+          "date": "2026-02-05",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 19.93,
+          "impressions": 9975,
+          "clicks": 216,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-05",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 14.98,
+          "impressions": 5063,
+          "clicks": 130,
+          "leads": 18
+        },
+        {
+          "date": "2026-02-06",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.32,
+          "impressions": 4780,
+          "clicks": 93,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-06",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 18.36,
+          "impressions": 6576,
+          "clicks": 200,
+          "leads": 8
+        },
+        {
+          "date": "2026-02-06",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 13.53,
+          "impressions": 4626,
+          "clicks": 90,
+          "leads": 14
+        },
+        {
+          "date": "2026-02-06",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 0.15,
+          "impressions": 720,
+          "clicks": 3,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-06",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 1.83,
+          "impressions": 362,
+          "clicks": 4,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-07",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.98,
+          "impressions": 5956,
+          "clicks": 85,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-07",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 19.94,
+          "impressions": 6324,
+          "clicks": 191,
+          "leads": 10
+        },
+        {
+          "date": "2026-02-07",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 15.55,
+          "impressions": 4512,
+          "clicks": 115,
+          "leads": 16
+        },
+        {
+          "date": "2026-02-07",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 3.15,
+          "impressions": 5997,
+          "clicks": 121,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-07",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.2,
+          "impressions": 3895,
+          "clicks": 54,
+          "leads": 8
+        },
+        {
+          "date": "2026-02-08",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 10.91,
+          "impressions": 6623,
+          "clicks": 104,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-08",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 21.3,
+          "impressions": 8739,
+          "clicks": 228,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-08",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 15.8,
+          "impressions": 4422,
+          "clicks": 85,
+          "leads": 10
+        },
+        {
+          "date": "2026-02-08",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 3.02,
+          "impressions": 4798,
+          "clicks": 132,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-08",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 8.6,
+          "impressions": 4152,
+          "clicks": 43,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-09",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 10.12,
+          "impressions": 5625,
+          "clicks": 89,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-09",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 19.99,
+          "impressions": 6987,
+          "clicks": 176,
+          "leads": 17
+        },
+        {
+          "date": "2026-02-09",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 14.84,
+          "impressions": 4105,
+          "clicks": 92,
+          "leads": 12
+        },
+        {
+          "date": "2026-02-09",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 2.77,
+          "impressions": 4264,
+          "clicks": 109,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-09",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 12.38,
+          "impressions": 5490,
+          "clicks": 55,
+          "leads": 10
+        },
+        {
+          "date": "2026-02-10",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 10.23,
+          "impressions": 6910,
+          "clicks": 122,
+          "leads": 11
+        },
+        {
+          "date": "2026-02-10",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 20.38,
+          "impressions": 9101,
+          "clicks": 222,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-10",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 14.99,
+          "impressions": 4124,
+          "clicks": 99,
+          "leads": 8
+        },
+        {
+          "date": "2026-02-10",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 3.07,
+          "impressions": 3305,
+          "clicks": 106,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-10",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.51,
+          "impressions": 6068,
+          "clicks": 47,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-11",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.79,
+          "impressions": 5971,
+          "clicks": 91,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-11",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 20.16,
+          "impressions": 7490,
+          "clicks": 161,
+          "leads": 8
+        },
+        {
+          "date": "2026-02-11",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 14.33,
+          "impressions": 4586,
+          "clicks": 106,
+          "leads": 18
+        },
+        {
+          "date": "2026-02-11",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 2.92,
+          "impressions": 5214,
+          "clicks": 109,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-11",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 10.07,
+          "impressions": 8580,
+          "clicks": 75,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-12",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.47,
+          "impressions": 4814,
+          "clicks": 69,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-12",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 19.13,
+          "impressions": 6732,
+          "clicks": 153,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-12",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 14.94,
+          "impressions": 5333,
+          "clicks": 120,
+          "leads": 12
+        },
+        {
+          "date": "2026-02-12",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 3.23,
+          "impressions": 3727,
+          "clicks": 136,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-12",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.91,
+          "impressions": 11178,
+          "clicks": 103,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-13",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.56,
+          "impressions": 4649,
+          "clicks": 93,
+          "leads": 10
+        },
+        {
+          "date": "2026-02-13",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 18.92,
+          "impressions": 8103,
+          "clicks": 185,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-13",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 14.88,
+          "impressions": 4406,
+          "clicks": 120,
+          "leads": 10
+        },
+        {
+          "date": "2026-02-13",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 2.77,
+          "impressions": 3409,
+          "clicks": 89,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-13",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.83,
+          "impressions": 13297,
+          "clicks": 107,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-14",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.91,
+          "impressions": 4771,
+          "clicks": 68,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-14",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 20,
+          "impressions": 5878,
+          "clicks": 133,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-14",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 15.12,
+          "impressions": 3754,
+          "clicks": 109,
+          "leads": 10
+        },
+        {
+          "date": "2026-02-14",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 3.17,
+          "impressions": 4989,
+          "clicks": 107,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-14",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.63,
+          "impressions": 13917,
+          "clicks": 98,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-15",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 11.37,
+          "impressions": 6847,
+          "clicks": 113,
+          "leads": 8
+        },
+        {
+          "date": "2026-02-15",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 22.59,
+          "impressions": 8419,
+          "clicks": 184,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-15",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 15.51,
+          "impressions": 5348,
+          "clicks": 115,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-15",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 3.41,
+          "impressions": 4418,
+          "clicks": 133,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-15",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 10.28,
+          "impressions": 14736,
+          "clicks": 123,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-16",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.19,
+          "impressions": 5556,
+          "clicks": 68,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-16",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 17.51,
+          "impressions": 5592,
+          "clicks": 137,
+          "leads": 10
+        },
+        {
+          "date": "2026-02-16",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 14.39,
+          "impressions": 4067,
+          "clicks": 107,
+          "leads": 12
+        },
+        {
+          "date": "2026-02-16",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 2.74,
+          "impressions": 5290,
+          "clicks": 115,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-16",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.23,
+          "impressions": 14189,
+          "clicks": 101,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-16",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 0.92,
+          "impressions": 237,
+          "clicks": 25,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-17",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 10.25,
+          "impressions": 6711,
+          "clicks": 116,
+          "leads": 10
+        },
+        {
+          "date": "2026-02-17",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 19.19,
+          "impressions": 7682,
+          "clicks": 177,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-17",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 10.77,
+          "impressions": 2933,
+          "clicks": 82,
+          "leads": 16
+        },
+        {
+          "date": "2026-02-17",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 3.1,
+          "impressions": 9019,
+          "clicks": 125,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-17",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.97,
+          "impressions": 10119,
+          "clicks": 100,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-17",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 6.1,
+          "impressions": 1988,
+          "clicks": 133,
+          "leads": 8
+        },
+        {
+          "date": "2026-02-18",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 10.03,
+          "impressions": 6138,
+          "clicks": 89,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-18",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 20.27,
+          "impressions": 8116,
+          "clicks": 167,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-18",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 6.97,
+          "impressions": 1509,
+          "clicks": 54,
+          "leads": 10
+        },
+        {
+          "date": "2026-02-18",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 2.68,
+          "impressions": 6391,
+          "clicks": 109,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-18",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 10.22,
+          "impressions": 11199,
+          "clicks": 102,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-18",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 7.17,
+          "impressions": 2053,
+          "clicks": 129,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-18",
+          "campaign_id": "120238980136970027",
+          "campaign_name": "ОН Теплові насоси лендінг",
+          "spend": 5.75,
+          "impressions": 2813,
+          "clicks": 76,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-19",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.19,
+          "impressions": 5763,
+          "clicks": 83,
+          "leads": 10
+        },
+        {
+          "date": "2026-02-19",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 19.08,
+          "impressions": 6207,
+          "clicks": 118,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-19",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 6.52,
+          "impressions": 1285,
+          "clicks": 34,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-19",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 3.14,
+          "impressions": 5623,
+          "clicks": 133,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-19",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.89,
+          "impressions": 15931,
+          "clicks": 121,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-19",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 13.26,
+          "impressions": 3254,
+          "clicks": 158,
+          "leads": 12
+        },
+        {
+          "date": "2026-02-19",
+          "campaign_id": "120238980136970027",
+          "campaign_name": "ОН Теплові насоси лендінг",
+          "spend": 13.63,
+          "impressions": 4672,
+          "clicks": 105,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-20",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.98,
+          "impressions": 5515,
+          "clicks": 65,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-20",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 20.53,
+          "impressions": 9565,
+          "clicks": 230,
+          "leads": 14
+        },
+        {
+          "date": "2026-02-20",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 6.34,
+          "impressions": 1460,
+          "clicks": 38,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-20",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 3.04,
+          "impressions": 5314,
+          "clicks": 111,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-20",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 8.6,
+          "impressions": 14050,
+          "clicks": 116,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-20",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 14.93,
+          "impressions": 4194,
+          "clicks": 137,
+          "leads": 12
+        },
+        {
+          "date": "2026-02-20",
+          "campaign_id": "120238980136970027",
+          "campaign_name": "ОН Теплові насоси лендінг",
+          "spend": 11.82,
+          "impressions": 3058,
+          "clicks": 56,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-21",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.95,
+          "impressions": 6228,
+          "clicks": 91,
+          "leads": 13
+        },
+        {
+          "date": "2026-02-21",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 20.83,
+          "impressions": 8991,
+          "clicks": 216,
+          "leads": 16
+        },
+        {
+          "date": "2026-02-21",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 7.4,
+          "impressions": 1525,
+          "clicks": 22,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-21",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 2.7,
+          "impressions": 3875,
+          "clicks": 88,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-21",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 11.76,
+          "impressions": 15665,
+          "clicks": 138,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-21",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 15.16,
+          "impressions": 3981,
+          "clicks": 150,
+          "leads": 10
+        },
+        {
+          "date": "2026-02-21",
+          "campaign_id": "120238980136970027",
+          "campaign_name": "ОН Теплові насоси лендінг",
+          "spend": 17.63,
+          "impressions": 5098,
+          "clicks": 87,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-22",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 10.81,
+          "impressions": 7014,
+          "clicks": 101,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-22",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 21.59,
+          "impressions": 9322,
+          "clicks": 190,
+          "leads": 12
+        },
+        {
+          "date": "2026-02-22",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 6.57,
+          "impressions": 1215,
+          "clicks": 26,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-22",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 3.21,
+          "impressions": 3104,
+          "clicks": 136,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-22",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 10.38,
+          "impressions": 13959,
+          "clicks": 105,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-22",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 17.63,
+          "impressions": 5156,
+          "clicks": 142,
+          "leads": 12
+        },
+        {
+          "date": "2026-02-22",
+          "campaign_id": "120238980136970027",
+          "campaign_name": "ОН Теплові насоси лендінг",
+          "spend": 12.62,
+          "impressions": 3322,
+          "clicks": 72,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-23",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.59,
+          "impressions": 4966,
+          "clicks": 51,
+          "leads": 3
+        },
+        {
+          "date": "2026-02-23",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 19.37,
+          "impressions": 6862,
+          "clicks": 162,
+          "leads": 13
+        },
+        {
+          "date": "2026-02-23",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 6.01,
+          "impressions": 1441,
+          "clicks": 39,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-23",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 3.17,
+          "impressions": 3706,
+          "clicks": 136,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-23",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 10.69,
+          "impressions": 17113,
+          "clicks": 133,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-23",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 14.33,
+          "impressions": 4171,
+          "clicks": 136,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-23",
+          "campaign_id": "120238980136970027",
+          "campaign_name": "ОН Теплові насоси лендінг",
+          "spend": 10.83,
+          "impressions": 4283,
+          "clicks": 72,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-24",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 10.24,
+          "impressions": 4762,
+          "clicks": 69,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-24",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 19.73,
+          "impressions": 5951,
+          "clicks": 122,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-24",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 7.01,
+          "impressions": 2038,
+          "clicks": 48,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-24",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 2.8,
+          "impressions": 4910,
+          "clicks": 96,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-24",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.14,
+          "impressions": 12843,
+          "clicks": 109,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-24",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 13.93,
+          "impressions": 3888,
+          "clicks": 132,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-24",
+          "campaign_id": "120238980136970027",
+          "campaign_name": "ОН Теплові насоси лендінг",
+          "spend": 16.26,
+          "impressions": 4653,
+          "clicks": 71,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-25",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 10.06,
+          "impressions": 5884,
+          "clicks": 94,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-25",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 20.19,
+          "impressions": 6069,
+          "clicks": 129,
+          "leads": 8
+        },
+        {
+          "date": "2026-02-25",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 7.34,
+          "impressions": 1881,
+          "clicks": 47,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-25",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 3.23,
+          "impressions": 9871,
+          "clicks": 119,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-25",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.07,
+          "impressions": 8271,
+          "clicks": 85,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-25",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 12.34,
+          "impressions": 3558,
+          "clicks": 82,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-25",
+          "campaign_id": "120238980136970027",
+          "campaign_name": "ОН Теплові насоси лендінг",
+          "spend": 17.19,
+          "impressions": 4141,
+          "clicks": 133,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-26",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.76,
+          "impressions": 4428,
+          "clicks": 76,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-26",
+          "campaign_id": "120237713435660027",
+          "campaign_name": "ОН Теплові насоси 12.11 – копія",
+          "spend": 11.43,
+          "impressions": 2432,
+          "clicks": 43,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-26",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 7.55,
+          "impressions": 1730,
+          "clicks": 56,
+          "leads": 8
+        },
+        {
+          "date": "2026-02-26",
+          "campaign_id": "120238545324470027",
+          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
+          "spend": 1.52,
+          "impressions": 7017,
+          "clicks": 72,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-26",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 10.04,
+          "impressions": 9852,
+          "clicks": 96,
+          "leads": 8
+        },
+        {
+          "date": "2026-02-26",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 17.99,
+          "impressions": 4020,
+          "clicks": 83,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-26",
+          "campaign_id": "120238980136970027",
+          "campaign_name": "ОН Теплові насоси лендінг",
+          "spend": 17.42,
+          "impressions": 4933,
+          "clicks": 130,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-27",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.82,
+          "impressions": 5057,
+          "clicks": 86,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-27",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 7.19,
+          "impressions": 2212,
+          "clicks": 44,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-27",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 10.5,
+          "impressions": 7703,
+          "clicks": 76,
+          "leads": 5
+        },
+        {
+          "date": "2026-02-27",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 14.79,
+          "impressions": 2835,
+          "clicks": 76,
+          "leads": 4
+        },
+        {
+          "date": "2026-02-27",
+          "campaign_id": "120238980136970027",
+          "campaign_name": "ОН Теплові насоси лендінг",
+          "spend": 12.98,
+          "impressions": 3714,
+          "clicks": 64,
+          "leads": 0
+        },
+        {
+          "date": "2026-02-28",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.66,
+          "impressions": 4359,
+          "clicks": 70,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-28",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 7.31,
+          "impressions": 1439,
+          "clicks": 39,
+          "leads": 6
+        },
+        {
+          "date": "2026-02-28",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 10.13,
+          "impressions": 7379,
+          "clicks": 60,
+          "leads": 2
+        },
+        {
+          "date": "2026-02-28",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 13.87,
+          "impressions": 2318,
+          "clicks": 74,
+          "leads": 8
+        },
+        {
+          "date": "2026-02-28",
+          "campaign_id": "120238980136970027",
+          "campaign_name": "ОН Теплові насоси лендінг",
+          "spend": 14.22,
+          "impressions": 4292,
+          "clicks": 106,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-01",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 11.22,
+          "impressions": 5350,
+          "clicks": 93,
+          "leads": 8
+        },
+        {
+          "date": "2026-03-01",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 7.19,
+          "impressions": 1615,
+          "clicks": 44,
+          "leads": 14
+        },
+        {
+          "date": "2026-03-01",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 11.01,
+          "impressions": 6951,
+          "clicks": 55,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-01",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 18.2,
+          "impressions": 4628,
+          "clicks": 126,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-01",
+          "campaign_id": "120238980136970027",
+          "campaign_name": "ОН Теплові насоси лендінг",
+          "spend": 15.71,
+          "impressions": 3224,
+          "clicks": 78,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-02",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 10.1,
+          "impressions": 5221,
+          "clicks": 97,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-02",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 6.96,
+          "impressions": 1806,
+          "clicks": 41,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-02",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 10.84,
+          "impressions": 8795,
+          "clicks": 85,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-02",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 13.62,
+          "impressions": 4269,
+          "clicks": 114,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-02",
+          "campaign_id": "120238980136970027",
+          "campaign_name": "ОН Теплові насоси лендінг",
+          "spend": 13.02,
+          "impressions": 3289,
+          "clicks": 75,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-03",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 10.16,
+          "impressions": 5386,
+          "clicks": 77,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-03",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 7.13,
+          "impressions": 2351,
+          "clicks": 63,
+          "leads": 8
+        },
+        {
+          "date": "2026-03-03",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 11.11,
+          "impressions": 7412,
+          "clicks": 88,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-03",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 13.42,
+          "impressions": 3181,
+          "clicks": 80,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-03",
+          "campaign_id": "120238980136970027",
+          "campaign_name": "ОН Теплові насоси лендінг",
+          "spend": 14.69,
+          "impressions": 3923,
+          "clicks": 132,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-04",
+          "campaign_id": "120231002518730027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09",
+          "spend": 8.22,
+          "impressions": 2829,
+          "clicks": 44,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-04",
+          "campaign_id": "120232606613690027",
+          "campaign_name": "Вебінар - Помилки VRF нова",
+          "spend": 8.83,
+          "impressions": 2903,
+          "clicks": 53,
+          "leads": 12
+        },
+        {
+          "date": "2026-03-04",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.44,
+          "impressions": 4062,
+          "clicks": 92,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-04",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 2.99,
+          "impressions": 1060,
+          "clicks": 20,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-04",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.49,
+          "impressions": 7443,
+          "clicks": 41,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-04",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 15.3,
+          "impressions": 3798,
+          "clicks": 90,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-04",
+          "campaign_id": "120238980136970027",
+          "campaign_name": "ОН Теплові насоси лендінг",
+          "spend": 5.85,
+          "impressions": 1317,
+          "clicks": 28,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-05",
+          "campaign_id": "120231002518730027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09",
+          "spend": 9.39,
+          "impressions": 2753,
+          "clicks": 53,
+          "leads": 8
+        },
+        {
+          "date": "2026-03-05",
+          "campaign_id": "120232606613690027",
+          "campaign_name": "Вебінар - Помилки VRF нова",
+          "spend": 8.51,
+          "impressions": 2648,
+          "clicks": 43,
+          "leads": 8
+        },
+        {
+          "date": "2026-03-05",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 7.17,
+          "impressions": 2896,
+          "clicks": 49,
+          "leads": 9
+        },
+        {
+          "date": "2026-03-05",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.97,
+          "impressions": 8405,
+          "clicks": 89,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-05",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 14.99,
+          "impressions": 3226,
+          "clicks": 83,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-06",
+          "campaign_id": "120231002518730027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09",
+          "spend": 4.82,
+          "impressions": 1333,
+          "clicks": 34,
+          "leads": 8
+        },
+        {
+          "date": "2026-03-06",
+          "campaign_id": "120232606613690027",
+          "campaign_name": "Вебінар - Помилки VRF нова",
+          "spend": 7.94,
+          "impressions": 2771,
+          "clicks": 40,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-06",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 11,
+          "impressions": 5284,
+          "clicks": 79,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-06",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 2.61,
+          "impressions": 701,
+          "clicks": 9,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-06",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.35,
+          "impressions": 12592,
+          "clicks": 110,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-06",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 13.72,
+          "impressions": 2466,
+          "clicks": 57,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-06",
+          "campaign_id": "120239652006410027",
+          "campaign_name": "ОН Теплові насоси лендінг – копія",
+          "spend": 12.09,
+          "impressions": 6538,
+          "clicks": 383,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-06",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 4.46,
+          "impressions": 1599,
+          "clicks": 31,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-06",
+          "campaign_id": "120239652707380027",
+          "campaign_name": "ОН Серв.Обсл. Спліт систем",
+          "spend": 1.99,
+          "impressions": 1009,
+          "clicks": 15,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-07",
+          "campaign_id": "120232606613690027",
+          "campaign_name": "Вебінар - Помилки VRF нова",
+          "spend": 9.64,
+          "impressions": 2809,
+          "clicks": 47,
+          "leads": 12
+        },
+        {
+          "date": "2026-03-07",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 10.88,
+          "impressions": 5236,
+          "clicks": 91,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-07",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 3.86,
+          "impressions": 1042,
+          "clicks": 31,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-07",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 8.17,
+          "impressions": 8766,
+          "clicks": 57,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-07",
+          "campaign_id": "120238917510040027",
+          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
+          "spend": 0.49,
+          "impressions": 65,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-07",
+          "campaign_id": "120239652006410027",
+          "campaign_name": "ОН Теплові насоси лендінг – копія",
+          "spend": 20.29,
+          "impressions": 5825,
+          "clicks": 253,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-07",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 8.4,
+          "impressions": 3150,
+          "clicks": 66,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-07",
+          "campaign_id": "120239652707380027",
+          "campaign_name": "ОН Серв.Обсл. Спліт систем",
+          "spend": 5.44,
+          "impressions": 1891,
+          "clicks": 37,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-08",
+          "campaign_id": "120232606613690027",
+          "campaign_name": "Вебінар - Помилки VRF нова",
+          "spend": 9.63,
+          "impressions": 3301,
+          "clicks": 37,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-08",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 11.62,
+          "impressions": 6333,
+          "clicks": 94,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-08",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 4.59,
+          "impressions": 912,
+          "clicks": 28,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-08",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 10.99,
+          "impressions": 10114,
+          "clicks": 65,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-08",
+          "campaign_id": "120239652006410027",
+          "campaign_name": "ОН Теплові насоси лендінг – копія",
+          "spend": 27.77,
+          "impressions": 8143,
+          "clicks": 260,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-08",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 10.66,
+          "impressions": 5160,
+          "clicks": 100,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-08",
+          "campaign_id": "120239652707380027",
+          "campaign_name": "ОН Серв.Обсл. Спліт систем",
+          "spend": 6.11,
+          "impressions": 2500,
+          "clicks": 38,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-09",
+          "campaign_id": "120232606613690027",
+          "campaign_name": "Вебінар - Помилки VRF нова",
+          "spend": 9.74,
+          "impressions": 3318,
+          "clicks": 32,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-09",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.73,
+          "impressions": 5051,
+          "clicks": 63,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-09",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 4.73,
+          "impressions": 1255,
+          "clicks": 21,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-09",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 10.1,
+          "impressions": 10600,
+          "clicks": 91,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-09",
+          "campaign_id": "120239652006410027",
+          "campaign_name": "ОН Теплові насоси лендінг – копія",
+          "spend": 22.52,
+          "impressions": 9767,
+          "clicks": 242,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-09",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 12.11,
+          "impressions": 6548,
+          "clicks": 113,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-09",
+          "campaign_id": "120239652707380027",
+          "campaign_name": "ОН Серв.Обсл. Спліт систем",
+          "spend": 5.78,
+          "impressions": 2495,
+          "clicks": 24,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-09",
+          "campaign_id": "120239719714360027",
+          "campaign_name": "FGAZ UKR Polish",
+          "spend": 1.87,
+          "impressions": 381,
+          "clicks": 25,
+          "leads": 8
+        },
+        {
+          "date": "2026-03-10",
+          "campaign_id": "120231002518730027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09",
+          "spend": 0,
+          "impressions": 0,
+          "clicks": 0,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-10",
+          "campaign_id": "120232606613690027",
+          "campaign_name": "Вебінар - Помилки VRF нова",
+          "spend": 9.1,
+          "impressions": 3091,
+          "clicks": 44,
+          "leads": 20
+        },
+        {
+          "date": "2026-03-10",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.88,
+          "impressions": 4943,
+          "clicks": 70,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-10",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 5.29,
+          "impressions": 1154,
+          "clicks": 23,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-10",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 10.57,
+          "impressions": 11102,
+          "clicks": 76,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-10",
+          "campaign_id": "120239652006410027",
+          "campaign_name": "ОН Теплові насоси лендінг – копія",
+          "spend": 12.86,
+          "impressions": 4394,
+          "clicks": 895,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-10",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 9.7,
+          "impressions": 3468,
+          "clicks": 81,
+          "leads": 13
+        },
+        {
+          "date": "2026-03-10",
+          "campaign_id": "120239652707380027",
+          "campaign_name": "ОН Серв.Обсл. Спліт систем",
+          "spend": 6.67,
+          "impressions": 2460,
+          "clicks": 33,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-10",
+          "campaign_id": "120239719714360027",
+          "campaign_name": "FGAZ UKR Polish",
+          "spend": 3.95,
+          "impressions": 638,
+          "clicks": 25,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-11",
+          "campaign_id": "120232606613690027",
+          "campaign_name": "Вебінар - Помилки VRF нова",
+          "spend": 11.22,
+          "impressions": 4272,
+          "clicks": 49,
+          "leads": 14
+        },
+        {
+          "date": "2026-03-11",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.84,
+          "impressions": 4624,
+          "clicks": 84,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-11",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 5.34,
+          "impressions": 1027,
+          "clicks": 15,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-11",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 10.49,
+          "impressions": 8253,
+          "clicks": 54,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-11",
+          "campaign_id": "120239652006410027",
+          "campaign_name": "ОН Теплові насоси лендінг – копія",
+          "spend": 10.81,
+          "impressions": 2665,
+          "clicks": 76,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-11",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 9.98,
+          "impressions": 4326,
+          "clicks": 70,
+          "leads": 10
+        },
+        {
+          "date": "2026-03-11",
+          "campaign_id": "120239652707380027",
+          "campaign_name": "ОН Серв.Обсл. Спліт систем",
+          "spend": 3.24,
+          "impressions": 1011,
+          "clicks": 9,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-11",
+          "campaign_id": "120239719714360027",
+          "campaign_name": "FGAZ UKR Polish",
+          "spend": 4.01,
+          "impressions": 729,
+          "clicks": 17,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-12",
+          "campaign_id": "120232606613690027",
+          "campaign_name": "Вебінар - Помилки VRF нова",
+          "spend": 10.32,
+          "impressions": 3414,
+          "clicks": 36,
+          "leads": 12
+        },
+        {
+          "date": "2026-03-12",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 8.62,
+          "impressions": 3610,
+          "clicks": 46,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-12",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 4.93,
+          "impressions": 939,
+          "clicks": 21,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-12",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.24,
+          "impressions": 2867,
+          "clicks": 32,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-12",
+          "campaign_id": "120239652006410027",
+          "campaign_name": "ОН Теплові насоси лендінг – копія",
+          "spend": 7.89,
+          "impressions": 1518,
+          "clicks": 98,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-12",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 9.03,
+          "impressions": 3939,
+          "clicks": 70,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-12",
+          "campaign_id": "120239652707380027",
+          "campaign_name": "ОН Серв.Обсл. Спліт систем",
+          "spend": 0,
+          "impressions": 0,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-12",
+          "campaign_id": "120239719714360027",
+          "campaign_name": "FGAZ UKR Polish",
+          "spend": 4.09,
+          "impressions": 699,
+          "clicks": 20,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-13",
+          "campaign_id": "120232606613690027",
+          "campaign_name": "Вебінар - Помилки VRF нова",
+          "spend": 9.88,
+          "impressions": 3528,
+          "clicks": 37,
+          "leads": 8
+        },
+        {
+          "date": "2026-03-13",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 10.75,
+          "impressions": 4265,
+          "clicks": 59,
+          "leads": 7
+        },
+        {
+          "date": "2026-03-13",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 5.15,
+          "impressions": 827,
+          "clicks": 22,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-13",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.34,
+          "impressions": 2839,
+          "clicks": 44,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-13",
+          "campaign_id": "120239652006410027",
+          "campaign_name": "ОН Теплові насоси лендінг – копія",
+          "spend": 10.14,
+          "impressions": 2270,
+          "clicks": 121,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-13",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 8.73,
+          "impressions": 3535,
+          "clicks": 73,
+          "leads": 8
+        },
+        {
+          "date": "2026-03-13",
+          "campaign_id": "120239719714360027",
+          "campaign_name": "FGAZ UKR Polish",
+          "spend": 6.72,
+          "impressions": 958,
+          "clicks": 31,
+          "leads": 8
+        },
+        {
+          "date": "2026-03-13",
+          "campaign_id": "120239921780460027",
+          "campaign_name": "Онлайн Курс «Монт Конд» 13.03",
+          "spend": 5.89,
+          "impressions": 2198,
+          "clicks": 32,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-14",
+          "campaign_id": "120232606613690027",
+          "campaign_name": "Вебінар - Помилки VRF нова",
+          "spend": 10.11,
+          "impressions": 4012,
+          "clicks": 34,
+          "leads": 8
+        },
+        {
+          "date": "2026-03-14",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.5,
+          "impressions": 4144,
+          "clicks": 58,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-14",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 4.88,
+          "impressions": 858,
+          "clicks": 18,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-14",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 9.24,
+          "impressions": 2646,
+          "clicks": 23,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-14",
+          "campaign_id": "120239652006410027",
+          "campaign_name": "ОН Теплові насоси лендінг – копія",
+          "spend": 10.14,
+          "impressions": 4187,
+          "clicks": 283,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-14",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 9.32,
+          "impressions": 3550,
+          "clicks": 54,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-14",
+          "campaign_id": "120239719714360027",
+          "campaign_name": "FGAZ UKR Polish",
+          "spend": 8.41,
+          "impressions": 1130,
+          "clicks": 27,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-14",
+          "campaign_id": "120239921780460027",
+          "campaign_name": "Онлайн Курс «Монт Конд» 13.03",
+          "spend": 8.58,
+          "impressions": 3146,
+          "clicks": 46,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-15",
+          "campaign_id": "120232606613690027",
+          "campaign_name": "Вебінар - Помилки VRF нова",
+          "spend": 10.15,
+          "impressions": 3433,
+          "clicks": 38,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-15",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 10.91,
+          "impressions": 5608,
+          "clicks": 59,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-15",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 5.15,
+          "impressions": 915,
+          "clicks": 21,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-15",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 11.34,
+          "impressions": 5092,
+          "clicks": 59,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-15",
+          "campaign_id": "120239652006410027",
+          "campaign_name": "ОН Теплові насоси лендінг – копія",
+          "spend": 10.99,
+          "impressions": 6321,
+          "clicks": 407,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-15",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 10.71,
+          "impressions": 4410,
+          "clicks": 61,
+          "leads": 8
+        },
+        {
+          "date": "2026-03-15",
+          "campaign_id": "120239719714360027",
+          "campaign_name": "FGAZ UKR Polish",
+          "spend": 5.25,
+          "impressions": 763,
+          "clicks": 14,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-15",
+          "campaign_id": "120239921780460027",
+          "campaign_name": "Онлайн Курс «Монт Конд» 13.03",
+          "spend": 9.56,
+          "impressions": 3968,
+          "clicks": 37,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-16",
+          "campaign_id": "120232606613690027",
+          "campaign_name": "Вебінар - Помилки VRF нова",
+          "spend": 9.19,
+          "impressions": 3156,
+          "clicks": 23,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-16",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 9.54,
+          "impressions": 4313,
+          "clicks": 51,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-16",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 4.11,
+          "impressions": 843,
+          "clicks": 21,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-16",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 10.04,
+          "impressions": 4836,
+          "clicks": 51,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-16",
+          "campaign_id": "120239652006410027",
+          "campaign_name": "ОН Теплові насоси лендінг – копія",
+          "spend": 6.3,
+          "impressions": 4426,
+          "clicks": 269,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-16",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 9.15,
+          "impressions": 3826,
+          "clicks": 60,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-16",
+          "campaign_id": "120239719714360027",
+          "campaign_name": "FGAZ UKR Polish",
+          "spend": 4.62,
+          "impressions": 702,
+          "clicks": 8,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-16",
+          "campaign_id": "120239921780460027",
+          "campaign_name": "Онлайн Курс «Монт Конд» 13.03",
+          "spend": 9.02,
+          "impressions": 3140,
+          "clicks": 28,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-17",
+          "campaign_id": "120232606613690027",
+          "campaign_name": "Вебінар - Помилки VRF нова",
+          "spend": 4.12,
+          "impressions": 1152,
+          "clicks": 17,
+          "leads": 9
+        },
+        {
+          "date": "2026-03-17",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 7.04,
+          "impressions": 2531,
+          "clicks": 36,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-17",
+          "campaign_id": "120237714507050027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "spend": 2.72,
+          "impressions": 605,
+          "clicks": 14,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-17",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 10.07,
+          "impressions": 4984,
+          "clicks": 42,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-17",
+          "campaign_id": "120239652006410027",
+          "campaign_name": "ОН Теплові насоси лендінг – копія",
+          "spend": 0,
+          "impressions": 0,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-17",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 8.83,
+          "impressions": 2466,
+          "clicks": 43,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-17",
+          "campaign_id": "120239719714360027",
+          "campaign_name": "FGAZ UKR Polish",
+          "spend": 5.16,
+          "impressions": 747,
+          "clicks": 12,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-17",
+          "campaign_id": "120239921780460027",
+          "campaign_name": "Онлайн Курс «Монт Конд» 13.03",
+          "spend": 5.16,
+          "impressions": 1205,
+          "clicks": 11,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-17",
+          "campaign_id": "120240075192190027",
+          "campaign_name": "Вебінар - Помилки VRF 17.03",
+          "spend": 5.5,
+          "impressions": 2208,
+          "clicks": 32,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-17",
+          "campaign_id": "120240075900160027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 17.03",
+          "spend": 4.85,
+          "impressions": 2288,
+          "clicks": 48,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-17",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 5.5,
+          "impressions": 2714,
+          "clicks": 54,
+          "leads": 12
+        },
+        {
+          "date": "2026-03-17",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 5.45,
+          "impressions": 2511,
+          "clicks": 49,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-18",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 2.25,
+          "impressions": 814,
+          "clicks": 7,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-18",
+          "campaign_id": "120238545914700027",
+          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
+          "spend": 6.39,
+          "impressions": 3963,
+          "clicks": 35,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-18",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 4.88,
+          "impressions": 1503,
+          "clicks": 30,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-18",
+          "campaign_id": "120239719714360027",
+          "campaign_name": "FGAZ UKR Polish",
+          "spend": 4.98,
+          "impressions": 848,
+          "clicks": 7,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-18",
+          "campaign_id": "120240075192190027",
+          "campaign_name": "Вебінар - Помилки VRF 17.03",
+          "spend": 10.06,
+          "impressions": 4483,
+          "clicks": 43,
+          "leads": 12
+        },
+        {
+          "date": "2026-03-18",
+          "campaign_id": "120240075900160027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 17.03",
+          "spend": 9.33,
+          "impressions": 3995,
+          "clicks": 65,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-18",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 11.66,
+          "impressions": 4778,
+          "clicks": 101,
+          "leads": 12
+        },
+        {
+          "date": "2026-03-18",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 9.91,
+          "impressions": 4310,
+          "clicks": 73,
+          "leads": 12
+        },
+        {
+          "date": "2026-03-19",
+          "campaign_id": "120232606613690027",
+          "campaign_name": "Вебінар - Помилки VRF нова",
+          "spend": 0,
+          "impressions": 0,
+          "clicks": 0,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-19",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 4.96,
+          "impressions": 1498,
+          "clicks": 25,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-19",
+          "campaign_id": "120239719714360027",
+          "campaign_name": "FGAZ UKR Polish",
+          "spend": 4.73,
+          "impressions": 732,
+          "clicks": 7,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-19",
+          "campaign_id": "120240075192190027",
+          "campaign_name": "Вебінар - Помилки VRF 17.03",
+          "spend": 8.08,
+          "impressions": 4464,
+          "clicks": 60,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-19",
+          "campaign_id": "120240075900160027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 17.03",
+          "spend": 8.09,
+          "impressions": 3998,
+          "clicks": 71,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-19",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 12.71,
+          "impressions": 4722,
+          "clicks": 99,
+          "leads": 10
+        },
+        {
+          "date": "2026-03-19",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 7.9,
+          "impressions": 3625,
+          "clicks": 55,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-20",
+          "campaign_id": "120234800968700027",
+          "campaign_name": "ОН Теплові насоси 12.11",
+          "spend": 0,
+          "impressions": 0,
+          "clicks": 0,
+          "leads": 3
+        },
+        {
+          "date": "2026-03-20",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 4.81,
+          "impressions": 2413,
+          "clicks": 45,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-20",
+          "campaign_id": "120239719714360027",
+          "campaign_name": "FGAZ UKR Polish",
+          "spend": 0.37,
+          "impressions": 43,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-20",
+          "campaign_id": "120240075192190027",
+          "campaign_name": "Вебінар - Помилки VRF 17.03",
+          "spend": 9.59,
+          "impressions": 4914,
+          "clicks": 39,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-20",
+          "campaign_id": "120240075900160027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 17.03",
+          "spend": 10.33,
+          "impressions": 3604,
+          "clicks": 65,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-20",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 14.93,
+          "impressions": 5145,
+          "clicks": 92,
+          "leads": 20
+        },
+        {
+          "date": "2026-03-20",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 10.18,
+          "impressions": 3955,
+          "clicks": 53,
+          "leads": 12
+        },
+        {
+          "date": "2026-03-21",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 4.66,
+          "impressions": 2090,
+          "clicks": 39,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-21",
+          "campaign_id": "120240075192190027",
+          "campaign_name": "Вебінар - Помилки VRF 17.03",
+          "spend": 10.36,
+          "impressions": 4233,
+          "clicks": 44,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-21",
+          "campaign_id": "120240075900160027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 17.03",
+          "spend": 10.92,
+          "impressions": 2755,
+          "clicks": 62,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-21",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 15.97,
+          "impressions": 4714,
+          "clicks": 103,
+          "leads": 20
+        },
+        {
+          "date": "2026-03-21",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 9.9,
+          "impressions": 2942,
+          "clicks": 38,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-22",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 5.68,
+          "impressions": 2230,
+          "clicks": 31,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-22",
+          "campaign_id": "120240075192190027",
+          "campaign_name": "Вебінар - Помилки VRF 17.03",
+          "spend": 9.76,
+          "impressions": 3566,
+          "clicks": 39,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-22",
+          "campaign_id": "120240075900160027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 17.03",
+          "spend": 10.2,
+          "impressions": 3188,
+          "clicks": 60,
+          "leads": 8
+        },
+        {
+          "date": "2026-03-22",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 12.87,
+          "impressions": 4501,
+          "clicks": 59,
+          "leads": 16
+        },
+        {
+          "date": "2026-03-22",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 9.09,
+          "impressions": 2704,
+          "clicks": 49,
+          "leads": 12
+        },
+        {
+          "date": "2026-03-23",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 5.07,
+          "impressions": 2183,
+          "clicks": 33,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-23",
+          "campaign_id": "120240075192190027",
+          "campaign_name": "Вебінар - Помилки VRF 17.03",
+          "spend": 8.21,
+          "impressions": 3622,
+          "clicks": 44,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-23",
+          "campaign_id": "120240075900160027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 17.03",
+          "spend": 7.91,
+          "impressions": 2557,
+          "clicks": 39,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-23",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 12.32,
+          "impressions": 4692,
+          "clicks": 75,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-23",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 8.94,
+          "impressions": 3433,
+          "clicks": 41,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-24",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 4.92,
+          "impressions": 2634,
+          "clicks": 29,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-24",
+          "campaign_id": "120240075192190027",
+          "campaign_name": "Вебінар - Помилки VRF 17.03",
+          "spend": 9.23,
+          "impressions": 3889,
+          "clicks": 51,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-24",
+          "campaign_id": "120240075900160027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 17.03",
+          "spend": 9.74,
+          "impressions": 2607,
+          "clicks": 49,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-24",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 13.8,
+          "impressions": 5717,
+          "clicks": 84,
+          "leads": 12
+        },
+        {
+          "date": "2026-03-24",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 9.36,
+          "impressions": 3721,
+          "clicks": 41,
+          "leads": 12
+        },
+        {
+          "date": "2026-03-25",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 5.26,
+          "impressions": 3888,
+          "clicks": 53,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-25",
+          "campaign_id": "120240075192190027",
+          "campaign_name": "Вебінар - Помилки VRF 17.03",
+          "spend": 10.73,
+          "impressions": 4827,
+          "clicks": 38,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-25",
+          "campaign_id": "120240075900160027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 17.03",
+          "spend": 10.66,
+          "impressions": 3461,
+          "clicks": 62,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-25",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 17.27,
+          "impressions": 5667,
+          "clicks": 98,
+          "leads": 10
+        },
+        {
+          "date": "2026-03-25",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 11.48,
+          "impressions": 4359,
+          "clicks": 78,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-26",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 4.68,
+          "impressions": 2523,
+          "clicks": 39,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-26",
+          "campaign_id": "120240075192190027",
+          "campaign_name": "Вебінар - Помилки VRF 17.03",
+          "spend": 10.85,
+          "impressions": 4542,
+          "clicks": 36,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-26",
+          "campaign_id": "120240075900160027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 17.03",
+          "spend": 9.95,
+          "impressions": 3106,
+          "clicks": 61,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-26",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 15.46,
+          "impressions": 5304,
+          "clicks": 93,
+          "leads": 10
+        },
+        {
+          "date": "2026-03-26",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 9.25,
+          "impressions": 3441,
+          "clicks": 64,
+          "leads": 14
+        },
+        {
+          "date": "2026-03-27",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 4.58,
+          "impressions": 3243,
+          "clicks": 59,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-27",
+          "campaign_id": "120240075192190027",
+          "campaign_name": "Вебінар - Помилки VRF 17.03",
+          "spend": 4.37,
+          "impressions": 2040,
+          "clicks": 11,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-27",
+          "campaign_id": "120240075900160027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 17.03",
+          "spend": 4.82,
+          "impressions": 1233,
+          "clicks": 30,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-27",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 15.57,
+          "impressions": 6610,
+          "clicks": 95,
+          "leads": 12
+        },
+        {
+          "date": "2026-03-27",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 10.2,
+          "impressions": 3762,
+          "clicks": 42,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-27",
+          "campaign_id": "120240507040320027",
+          "campaign_name": "Вебінар - Помилки VRF 27.03",
+          "spend": 5.17,
+          "impressions": 1696,
+          "clicks": 15,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-27",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 8.35,
+          "impressions": 3124,
+          "clicks": 62,
+          "leads": 12
+        },
+        {
+          "date": "2026-03-28",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 4.75,
+          "impressions": 2823,
+          "clicks": 36,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-28",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 17.66,
+          "impressions": 6241,
+          "clicks": 87,
+          "leads": 8
+        },
+        {
+          "date": "2026-03-28",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 11.62,
+          "impressions": 4212,
+          "clicks": 55,
+          "leads": 8
+        },
+        {
+          "date": "2026-03-28",
+          "campaign_id": "120240507040320027",
+          "campaign_name": "Вебінар - Помилки VRF 27.03",
+          "spend": 8.7,
+          "impressions": 3343,
+          "clicks": 30,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-28",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 12.18,
+          "impressions": 5377,
+          "clicks": 98,
+          "leads": 22
+        },
+        {
+          "date": "2026-03-29",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 5.88,
+          "impressions": 2826,
+          "clicks": 37,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-29",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 15.7,
+          "impressions": 4870,
+          "clicks": 94,
+          "leads": 8
+        },
+        {
+          "date": "2026-03-29",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 10.92,
+          "impressions": 3823,
+          "clicks": 60,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-29",
+          "campaign_id": "120240507040320027",
+          "campaign_name": "Вебінар - Помилки VRF 27.03",
+          "spend": 10.01,
+          "impressions": 3887,
+          "clicks": 20,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-29",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 17.25,
+          "impressions": 9273,
+          "clicks": 157,
+          "leads": 38
+        },
+        {
+          "date": "2026-03-30",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 4.88,
+          "impressions": 2060,
+          "clicks": 33,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-30",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 5.87,
+          "impressions": 2506,
+          "clicks": 28,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-30",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 6.95,
+          "impressions": 2723,
+          "clicks": 32,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-30",
+          "campaign_id": "120240507040320027",
+          "campaign_name": "Вебінар - Помилки VRF 27.03",
+          "spend": 0.26,
+          "impressions": 78,
+          "clicks": 2,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-30",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 26.44,
+          "impressions": 13434,
+          "clicks": 206,
+          "leads": 16
+        },
+        {
+          "date": "2026-03-30",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 9.89,
+          "impressions": 3545,
+          "clicks": 60,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-30",
+          "campaign_id": "120240705598100027",
+          "campaign_name": "ОН revit -50% 30.03",
+          "spend": 4.25,
+          "impressions": 1052,
+          "clicks": 9,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-31",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 4.78,
+          "impressions": 2232,
+          "clicks": 25,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-31",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 16.49,
+          "impressions": 7516,
+          "clicks": 111,
+          "leads": 16
+        },
+        {
+          "date": "2026-03-31",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 23.03,
+          "impressions": 8752,
+          "clicks": 163,
+          "leads": 12
+        },
+        {
+          "date": "2026-03-31",
+          "campaign_id": "120240705598100027",
+          "campaign_name": "ОН revit -50% 30.03",
+          "spend": 12.55,
+          "impressions": 4192,
+          "clicks": 68,
+          "leads": 2
+        },
+        {
+          "date": "2026-04-01",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 5.07,
+          "impressions": 2410,
+          "clicks": 33,
+          "leads": 4
+        },
+        {
+          "date": "2026-04-01",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 20.18,
+          "impressions": 8047,
+          "clicks": 137,
+          "leads": 18
+        },
+        {
+          "date": "2026-04-01",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 14.52,
+          "impressions": 5679,
+          "clicks": 100,
+          "leads": 8
+        },
+        {
+          "date": "2026-04-01",
+          "campaign_id": "120240705598100027",
+          "campaign_name": "ОН revit -50% 30.03",
+          "spend": 10.39,
+          "impressions": 4675,
+          "clicks": 43,
+          "leads": 4
+        },
+        {
+          "date": "2026-04-02",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 13.37,
+          "impressions": 5267,
+          "clicks": 95,
+          "leads": 16
+        },
+        {
+          "date": "2026-04-02",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 18.85,
+          "impressions": 7716,
+          "clicks": 129,
+          "leads": 16
+        },
+        {
+          "date": "2026-04-02",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 27.78,
+          "impressions": 11633,
+          "clicks": 160,
+          "leads": 16
+        },
+        {
+          "date": "2026-04-02",
+          "campaign_id": "120240705598100027",
+          "campaign_name": "ОН revit -50% 30.03",
+          "spend": 8,
+          "impressions": 2645,
+          "clicks": 38,
+          "leads": 2
+        },
+        {
+          "date": "2026-04-03",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 12.25,
+          "impressions": 7044,
+          "clicks": 111,
+          "leads": 10
+        },
+        {
+          "date": "2026-04-03",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 18.7,
+          "impressions": 6481,
+          "clicks": 109,
+          "leads": 22
+        },
+        {
+          "date": "2026-04-03",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 25.78,
+          "impressions": 10996,
+          "clicks": 110,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-03",
+          "campaign_id": "120240705598100027",
+          "campaign_name": "ОН revit -50% 30.03",
+          "spend": 9.3,
+          "impressions": 3019,
+          "clicks": 17,
+          "leads": 2
+        },
+        {
+          "date": "2026-04-04",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 12.78,
+          "impressions": 6254,
+          "clicks": 72,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-04",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 22.98,
+          "impressions": 8222,
+          "clicks": 105,
+          "leads": 14
+        },
+        {
+          "date": "2026-04-04",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 29.53,
+          "impressions": 14662,
+          "clicks": 163,
+          "leads": 12
+        },
+        {
+          "date": "2026-04-04",
+          "campaign_id": "120240705598100027",
+          "campaign_name": "ОН revit -50% 30.03",
+          "spend": 10.88,
+          "impressions": 3540,
+          "clicks": 39,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-05",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 15.59,
+          "impressions": 7560,
+          "clicks": 97,
+          "leads": 10
+        },
+        {
+          "date": "2026-04-05",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 19.79,
+          "impressions": 7206,
+          "clicks": 118,
+          "leads": 18
+        },
+        {
+          "date": "2026-04-05",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 30.34,
+          "impressions": 15418,
+          "clicks": 177,
+          "leads": 14
+        },
+        {
+          "date": "2026-04-05",
+          "campaign_id": "120240705598100027",
+          "campaign_name": "ОН revit -50% 30.03",
+          "spend": 10,
+          "impressions": 2926,
+          "clicks": 34,
+          "leads": 2
+        },
+        {
+          "date": "2026-04-06",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 15.07,
+          "impressions": 8162,
+          "clicks": 105,
+          "leads": 13
+        },
+        {
+          "date": "2026-04-06",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 14.1,
+          "impressions": 5609,
+          "clicks": 75,
+          "leads": 4
+        },
+        {
+          "date": "2026-04-06",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 26.51,
+          "impressions": 12282,
+          "clicks": 130,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-07",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 13.82,
+          "impressions": 8814,
+          "clicks": 116,
+          "leads": 10
+        },
+        {
+          "date": "2026-04-07",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 19.1,
+          "impressions": 11133,
+          "clicks": 145,
+          "leads": 16
+        },
+        {
+          "date": "2026-04-07",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 27.62,
+          "impressions": 14881,
+          "clicks": 156,
+          "leads": 10
+        },
+        {
+          "date": "2026-04-08",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 15.22,
+          "impressions": 9317,
+          "clicks": 111,
+          "leads": 2
+        },
+        {
+          "date": "2026-04-08",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 24.16,
+          "impressions": 9791,
+          "clicks": 131,
+          "leads": 18
+        },
+        {
+          "date": "2026-04-08",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 32.76,
+          "impressions": 14653,
+          "clicks": 148,
+          "leads": 8
+        },
+        {
+          "date": "2026-04-09",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 20.09,
+          "impressions": 11312,
+          "clicks": 124,
+          "leads": 11
+        },
+        {
+          "date": "2026-04-09",
+          "campaign_id": "120239921780460027",
+          "campaign_name": "Онлайн Курс «Монт Конд» 13.03",
+          "spend": 11.65,
+          "impressions": 3775,
+          "clicks": 44,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-09",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 22.32,
+          "impressions": 9136,
+          "clicks": 135,
+          "leads": 20
+        },
+        {
+          "date": "2026-04-09",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 32.82,
+          "impressions": 15740,
+          "clicks": 162,
+          "leads": 8
+        },
+        {
+          "date": "2026-04-10",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 23.8,
+          "impressions": 13510,
+          "clicks": 180,
+          "leads": 8
+        },
+        {
+          "date": "2026-04-10",
+          "campaign_id": "120239921780460027",
+          "campaign_name": "Онлайн Курс «Монт Конд» 13.03",
+          "spend": 16.31,
+          "impressions": 5396,
+          "clicks": 52,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-10",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 18.84,
+          "impressions": 7879,
+          "clicks": 99,
+          "leads": 16
+        },
+        {
+          "date": "2026-04-10",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 28.56,
+          "impressions": 14260,
+          "clicks": 142,
+          "leads": 13
+        },
+        {
+          "date": "2026-04-11",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 23.77,
+          "impressions": 10650,
+          "clicks": 163,
+          "leads": 8
+        },
+        {
+          "date": "2026-04-11",
+          "campaign_id": "120239921780460027",
+          "campaign_name": "Онлайн Курс «Монт Конд» 13.03",
+          "spend": 17.12,
+          "impressions": 4715,
+          "clicks": 38,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-11",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 21.54,
+          "impressions": 8576,
+          "clicks": 110,
+          "leads": 16
+        },
+        {
+          "date": "2026-04-11",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 31.32,
+          "impressions": 12708,
+          "clicks": 117,
+          "leads": 5
+        },
+        {
+          "date": "2026-04-12",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 26.31,
+          "impressions": 17887,
+          "clicks": 236,
+          "leads": 10
+        },
+        {
+          "date": "2026-04-12",
+          "campaign_id": "120239921780460027",
+          "campaign_name": "Онлайн Курс «Монт Конд» 13.03",
+          "spend": 11.22,
+          "impressions": 3822,
+          "clicks": 33,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-12",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 19.44,
+          "impressions": 7687,
+          "clicks": 98,
+          "leads": 14
+        },
+        {
+          "date": "2026-04-12",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 29.75,
+          "impressions": 13753,
+          "clicks": 129,
+          "leads": 12
+        },
+        {
+          "date": "2026-04-13",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 25.01,
+          "impressions": 15519,
+          "clicks": 194,
+          "leads": 6
+        },
+        {
+          "date": "2026-04-13",
+          "campaign_id": "120239921780460027",
+          "campaign_name": "Онлайн Курс «Монт Конд» 13.03",
+          "spend": 8.81,
+          "impressions": 2738,
+          "clicks": 20,
+          "leads": 2
+        },
+        {
+          "date": "2026-04-13",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 18.8,
+          "impressions": 10503,
+          "clicks": 133,
+          "leads": 24
+        },
+        {
+          "date": "2026-04-13",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 30.75,
+          "impressions": 19860,
+          "clicks": 158,
+          "leads": 12
+        },
+        {
+          "date": "2026-04-14",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 23.13,
+          "impressions": 12043,
+          "clicks": 143,
+          "leads": 4
+        },
+        {
+          "date": "2026-04-14",
+          "campaign_id": "120239921780460027",
+          "campaign_name": "Онлайн Курс «Монт Конд» 13.03",
+          "spend": 5.52,
+          "impressions": 2007,
+          "clicks": 7,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-14",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 20.11,
+          "impressions": 11130,
+          "clicks": 142,
+          "leads": 14
+        },
+        {
+          "date": "2026-04-14",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 29.34,
+          "impressions": 16362,
+          "clicks": 133,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-15",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 24.67,
+          "impressions": 13020,
+          "clicks": 149,
+          "leads": 6
+        },
+        {
+          "date": "2026-04-15",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 18.38,
+          "impressions": 8068,
+          "clicks": 91,
+          "leads": 18
+        },
+        {
+          "date": "2026-04-15",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 27.8,
+          "impressions": 13725,
+          "clicks": 110,
+          "leads": 6
+        },
+        {
+          "date": "2026-04-16",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 25.56,
+          "impressions": 10706,
+          "clicks": 150,
+          "leads": 14
+        },
+        {
+          "date": "2026-04-16",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 20.84,
+          "impressions": 8388,
+          "clicks": 111,
+          "leads": 22
+        },
+        {
+          "date": "2026-04-16",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 30.74,
+          "impressions": 14284,
+          "clicks": 104,
+          "leads": 6
+        },
+        {
+          "date": "2026-04-17",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 25.77,
+          "impressions": 11136,
+          "clicks": 141,
+          "leads": 6
+        },
+        {
+          "date": "2026-04-17",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 20.44,
+          "impressions": 8592,
+          "clicks": 95,
+          "leads": 16
+        },
+        {
+          "date": "2026-04-17",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 31.34,
+          "impressions": 13033,
+          "clicks": 92,
+          "leads": 8
+        },
+        {
+          "date": "2026-04-18",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 24.45,
+          "impressions": 10555,
+          "clicks": 148,
+          "leads": 6
+        },
+        {
+          "date": "2026-04-18",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 21.81,
+          "impressions": 8722,
+          "clicks": 91,
+          "leads": 12
+        },
+        {
+          "date": "2026-04-18",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 30.16,
+          "impressions": 13600,
+          "clicks": 156,
+          "leads": 6
+        },
+        {
+          "date": "2026-04-19",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 28.38,
+          "impressions": 13368,
+          "clicks": 138,
+          "leads": 6
+        },
+        {
+          "date": "2026-04-19",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 12.14,
+          "impressions": 4707,
+          "clicks": 55,
+          "leads": 12
+        },
+        {
+          "date": "2026-04-19",
+          "campaign_id": "120240705494560027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
+          "spend": 18.18,
+          "impressions": 8992,
+          "clicks": 77,
+          "leads": 4
+        },
+        {
+          "date": "2026-04-19",
+          "campaign_id": "120241616519650027",
+          "campaign_name": "Вебінар Вальравен - кріплення теплових насосоів",
+          "spend": 9.15,
+          "impressions": 3512,
+          "clicks": 52,
+          "leads": 18
+        },
+        {
+          "date": "2026-04-20",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 24.38,
+          "impressions": 11229,
+          "clicks": 123,
+          "leads": 8
+        },
+        {
+          "date": "2026-04-20",
+          "campaign_id": "120241616519650027",
+          "campaign_name": "Вебінар Вальравен - кріплення теплових насосоів",
+          "spend": 21.46,
+          "impressions": 7083,
+          "clicks": 113,
+          "leads": 28
+        },
+        {
+          "date": "2026-04-21",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 24.86,
+          "impressions": 10612,
+          "clicks": 151,
+          "leads": 8
+        },
+        {
+          "date": "2026-04-22",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 23.31,
+          "impressions": 12566,
+          "clicks": 135,
+          "leads": 16
+        },
+        {
+          "date": "2026-04-22",
+          "campaign_id": "120241793018460027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
+          "spend": 4.74,
+          "impressions": 2098,
+          "clicks": 27,
+          "leads": 2
+        },
+        {
+          "date": "2026-04-23",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 24.53,
+          "impressions": 9849,
+          "clicks": 143,
+          "leads": 6
+        },
+        {
+          "date": "2026-04-23",
+          "campaign_id": "120241793018460027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
+          "spend": 10.13,
+          "impressions": 3608,
+          "clicks": 31,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-24",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 24.52,
+          "impressions": 9730,
+          "clicks": 118,
+          "leads": 6
+        },
+        {
+          "date": "2026-04-24",
+          "campaign_id": "120241793018460027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
+          "spend": 10.03,
+          "impressions": 4079,
+          "clicks": 24,
+          "leads": 2
+        },
+        {
+          "date": "2026-04-25",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 24.96,
+          "impressions": 12290,
+          "clicks": 151,
+          "leads": 10
+        },
+        {
+          "date": "2026-04-25",
+          "campaign_id": "120241616519650027",
+          "campaign_name": "Вебінар Вальравен - кріплення теплових насосоів",
+          "spend": 0,
+          "impressions": 0,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-25",
+          "campaign_id": "120241793018460027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
+          "spend": 9.54,
+          "impressions": 3772,
+          "clicks": 34,
+          "leads": 4
+        },
+        {
+          "date": "2026-04-26",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 27.36,
+          "impressions": 11124,
+          "clicks": 149,
+          "leads": 6
+        },
+        {
+          "date": "2026-04-26",
+          "campaign_id": "120241793018460027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
+          "spend": 10.5,
+          "impressions": 4425,
+          "clicks": 34,
+          "leads": 2
+        },
+        {
+          "date": "2026-04-27",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 23.97,
+          "impressions": 9538,
+          "clicks": 114,
+          "leads": 8
+        },
+        {
+          "date": "2026-04-27",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 5,
+          "impressions": 2172,
+          "clicks": 51,
+          "leads": 10
+        },
+        {
+          "date": "2026-04-27",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 5.3,
+          "impressions": 1710,
+          "clicks": 34,
+          "leads": 6
+        },
+        {
+          "date": "2026-04-27",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 20.52,
+          "impressions": 7331,
+          "clicks": 110,
+          "leads": 14
+        },
+        {
+          "date": "2026-04-27",
+          "campaign_id": "120241793018460027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
+          "spend": 8.92,
+          "impressions": 3545,
+          "clicks": 20,
+          "leads": 4
+        },
+        {
+          "date": "2026-04-28",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 24.85,
+          "impressions": 8524,
+          "clicks": 135,
+          "leads": 8
+        },
+        {
+          "date": "2026-04-28",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 7.58,
+          "impressions": 3511,
+          "clicks": 57,
+          "leads": 12
+        },
+        {
+          "date": "2026-04-28",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 7.92,
+          "impressions": 2408,
+          "clicks": 45,
+          "leads": 12
+        },
+        {
+          "date": "2026-04-28",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 34.38,
+          "impressions": 11630,
+          "clicks": 165,
+          "leads": 24
+        },
+        {
+          "date": "2026-04-28",
+          "campaign_id": "120241793018460027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
+          "spend": 9.62,
+          "impressions": 3434,
+          "clicks": 30,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-28",
+          "campaign_id": "120242230358500027",
+          "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
+          "spend": 4.02,
+          "impressions": 1029,
+          "clicks": 10,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-29",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 24.62,
+          "impressions": 9655,
+          "clicks": 133,
+          "leads": 4
+        },
+        {
+          "date": "2026-04-29",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 4.93,
+          "impressions": 2376,
+          "clicks": 43,
+          "leads": 6
+        },
+        {
+          "date": "2026-04-29",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 5.17,
+          "impressions": 2237,
+          "clicks": 24,
+          "leads": 8
+        },
+        {
+          "date": "2026-04-29",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 23.32,
+          "impressions": 7733,
+          "clicks": 115,
+          "leads": 14
+        },
+        {
+          "date": "2026-04-29",
+          "campaign_id": "120241793018460027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
+          "spend": 9.87,
+          "impressions": 4062,
+          "clicks": 28,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-29",
+          "campaign_id": "120242230358500027",
+          "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
+          "spend": 11.37,
+          "impressions": 2655,
+          "clicks": 45,
+          "leads": 2
+        }
+      ]
+    }
+  ]
+}
