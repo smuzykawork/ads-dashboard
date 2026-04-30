@@ -1,0 +1,936 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meta Ads — Аналітика</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=JetBrains+Mono:wght@400;500;600&family=Inter+Tight:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+:root {
+  --bg: #0a0e1a; --bg-2: #0f1524; --surface: #131a2d;
+  --border: rgba(255,255,255,0.06); --border-strong: rgba(255,255,255,0.12);
+  --text: #e8ecf5; --text-dim: #8893b0; --text-muted: #5a6685;
+  --accent: #4f7fff; --success: #2dd4a7; --warning: #f5b94a;
+  --danger: #ff5c7c; --pink: #ff7ab8; --cyan: #4fd9ff; --purple: #7c5cff;
+  --leads: #2dd4a7;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body {
+  background: var(--bg); color: var(--text);
+  font-family: 'Inter Tight', sans-serif;
+  min-height: 100vh; overflow-x: hidden;
+}
+body::before {
+  content: ''; position: fixed; inset: 0;
+  background:
+    radial-gradient(ellipse 600px 400px at 15% 5%, rgba(79,127,255,0.15), transparent 60%),
+    radial-gradient(ellipse 500px 350px at 90% 10%, rgba(45,212,167,0.12), transparent 60%);
+  pointer-events: none; z-index: 0;
+}
+body::after {
+  content: ''; position: fixed; inset: 0;
+  background-image:
+    linear-gradient(rgba(255,255,255,0.015) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.015) 1px, transparent 1px);
+  background-size: 60px 60px; pointer-events: none; z-index: 0;
+}
+.app { position: relative; z-index: 1; max-width: 1480px; margin: 0 auto; padding: 32px 28px 80px; }
+
+.header { display: flex; align-items: flex-end; justify-content: space-between; gap: 24px; margin-bottom: 28px; flex-wrap: wrap; }
+.brand { display: flex; align-items: center; gap: 16px; }
+.logo { width: 52px; height: 52px; border-radius: 14px; background: linear-gradient(135deg, #2dd4a7, #4f7fff); display: grid; place-items: center; box-shadow: 0 12px 32px -8px rgba(45,212,167,0.5); }
+.logo svg { width: 26px; height: 26px; }
+.brand-text h1 { font-family: 'Fraunces', serif; font-weight: 600; font-size: 30px; letter-spacing: -0.02em; line-height: 1; margin-bottom: 6px; }
+.brand-text h1 em { font-style: italic; font-weight: 400; color: var(--text-dim); }
+.brand-text p { font-size: 13px; color: var(--text-muted); font-family: 'JetBrains Mono', monospace; }
+
+.live-badge { display: inline-flex; align-items: center; gap: 8px; padding: 8px 14px; background: rgba(45,212,167,0.1); border: 1px solid rgba(45,212,167,0.25); border-radius: 100px; font-size: 12px; font-family: 'JetBrains Mono', monospace; color: var(--success); text-transform: uppercase; letter-spacing: 0.08em; }
+.live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--success); animation: pulse 2s infinite; }
+@keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(45,212,167,0.7); } 70% { box-shadow: 0 0 0 8px rgba(45,212,167,0); } }
+
+.bar { background: linear-gradient(180deg, var(--surface), var(--bg-2)); border: 1px solid var(--border); border-radius: 18px; padding: 18px 22px; margin-bottom: 18px; display: flex; align-items: center; gap: 24px; flex-wrap: wrap; }
+.bar-label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.12em; color: var(--text-muted); font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 8px; }
+.bar-label svg { width: 14px; height: 14px; }
+
+.project-pills { display: flex; gap: 8px; flex-wrap: wrap; flex: 1; }
+.project-pill { display: inline-flex; align-items: center; gap: 10px; padding: 9px 16px; background: rgba(0,0,0,0.25); border: 1px solid var(--border); border-radius: 100px; font-size: 13px; font-weight: 500; color: var(--text-dim); cursor: pointer; transition: all 0.2s; }
+.project-pill:hover { color: var(--text); border-color: var(--border-strong); background: rgba(255,255,255,0.04); }
+.project-pill.active { background: linear-gradient(135deg, rgba(45,212,167,0.15), rgba(79,127,255,0.15)); border-color: var(--success); color: var(--text); box-shadow: 0 4px 18px -4px rgba(45,212,167,0.4); }
+.pill-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--p-color); }
+.pill-count { font-size: 11px; font-family: 'JetBrains Mono', monospace; color: var(--text-muted); padding: 2px 7px; background: rgba(0,0,0,0.3); border-radius: 100px; }
+
+.period-tabs { display: flex; gap: 4px; background: rgba(0,0,0,0.3); padding: 4px; border-radius: 10px; border: 1px solid var(--border); }
+.period-tab { padding: 8px 14px; background: transparent; border: none; color: var(--text-dim); font-family: 'Inter Tight', sans-serif; font-size: 13px; font-weight: 500; cursor: pointer; border-radius: 7px; transition: all 0.2s; }
+.period-tab:hover { color: var(--text); }
+.period-tab.active { background: linear-gradient(180deg, #4f7fff, #3d6def); color: #fff; box-shadow: 0 4px 12px -2px rgba(79,127,255,0.4); }
+.date-input { background: rgba(0,0,0,0.3); border: 1px solid var(--border); color: var(--text); padding: 8px 12px; border-radius: 8px; font-family: 'JetBrains Mono', monospace; font-size: 12px; cursor: pointer; color-scheme: dark; }
+
+.btn { margin-left: auto; padding: 9px 18px; background: linear-gradient(180deg, rgba(255,255,255,0.08), rgba(255,255,255,0.03)); border: 1px solid var(--border-strong); color: var(--text); border-radius: 9px; font-size: 13px; font-weight: 500; cursor: pointer; display: inline-flex; align-items: center; gap: 8px; transition: all 0.2s; }
+.btn:hover { background: rgba(255,255,255,0.08); transform: translateY(-1px); }
+
+.project-block { margin-bottom: 36px; animation: fadeIn 0.4s; }
+.project-header { display: flex; align-items: center; gap: 16px; margin-bottom: 20px; padding-bottom: 16px; border-bottom: 1px solid var(--border); }
+.project-marker { width: 4px; height: 36px; border-radius: 2px; }
+.project-title { font-family: 'Fraunces', serif; font-weight: 600; font-size: 26px; letter-spacing: -0.015em; flex: 1; }
+.project-title em { font-style: italic; font-weight: 400; color: var(--text-dim); }
+.project-meta { display: flex; gap: 16px; font-family: 'JetBrains Mono', monospace; font-size: 12px; color: var(--text-muted); }
+.project-meta span strong { color: var(--text); font-weight: 500; margin-left: 4px; }
+
+.kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; margin-bottom: 24px; }
+.kpi { background: linear-gradient(180deg, var(--surface), var(--bg-2)); border: 1px solid var(--border); border-radius: 16px; padding: 20px; position: relative; overflow: hidden; transition: transform 0.25s, border-color 0.25s; }
+.kpi:hover { transform: translateY(-2px); border-color: var(--border-strong); }
+.kpi.highlight { background: linear-gradient(180deg, rgba(45,212,167,0.08), rgba(45,212,167,0.02)); border-color: rgba(45,212,167,0.25); }
+.kpi::before { content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 2px; background: linear-gradient(90deg, transparent, var(--kpi-color, var(--accent)), transparent); opacity: 0.6; }
+.kpi-label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.12em; color: var(--text-muted); font-family: 'JetBrains Mono', monospace; margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
+.kpi-icon { width: 26px; height: 26px; border-radius: 7px; background: var(--kpi-bg); color: var(--kpi-color); display: grid; place-items: center; }
+.kpi-icon svg { width: 13px; height: 13px; }
+.kpi-value { font-family: 'Fraunces', serif; font-weight: 500; font-size: 32px; line-height: 1; letter-spacing: -0.02em; margin-bottom: 8px; }
+.kpi-delta { display: inline-flex; align-items: center; gap: 4px; font-size: 12px; font-family: 'JetBrains Mono', monospace; font-weight: 500; }
+.kpi-delta.up { color: var(--success); }
+.kpi-delta.down { color: var(--danger); }
+.kpi-delta-period { color: var(--text-muted); margin-left: 6px; }
+
+.chart-grid { display: grid; grid-template-columns: 2fr 1fr; gap: 14px; margin-bottom: 14px; }
+.chart-grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 24px; }
+.card { background: linear-gradient(180deg, var(--surface), var(--bg-2)); border: 1px solid var(--border); border-radius: 18px; padding: 22px; }
+.card-header { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 18px; gap: 16px; }
+.card-title { font-family: 'Fraunces', serif; font-weight: 500; font-size: 18px; letter-spacing: -0.01em; margin-bottom: 4px; }
+.card-subtitle { font-size: 12px; color: var(--text-muted); font-family: 'JetBrains Mono', monospace; }
+
+.chart-toggle { display: flex; gap: 2px; background: rgba(0,0,0,0.3); padding: 3px; border-radius: 8px; border: 1px solid var(--border); flex-wrap: wrap; }
+.chart-toggle button { padding: 5px 11px; background: transparent; border: none; color: var(--text-dim); font-family: 'JetBrains Mono', monospace; font-size: 11px; cursor: pointer; border-radius: 5px; text-transform: uppercase; letter-spacing: 0.05em; transition: all 0.15s; }
+.chart-toggle button.active { background: rgba(45,212,167,0.18); color: var(--text); }
+
+.chart-container { position: relative; height: 280px; }
+.chart-container.tall { height: 320px; }
+
+.section-title { display: flex; align-items: center; gap: 12px; margin-bottom: 18px; font-family: 'Fraunces', serif; font-weight: 500; font-size: 20px; letter-spacing: -0.01em; }
+.section-title::before { content: ''; width: 6px; height: 6px; background: var(--accent); border-radius: 50%; }
+.section-title-count { font-family: 'JetBrains Mono', monospace; font-size: 12px; color: var(--text-muted); font-weight: 400; margin-left: 8px; }
+
+.campaign-card { background: linear-gradient(180deg, var(--surface), var(--bg-2)); border: 1px solid var(--border); border-radius: 16px; margin-bottom: 14px; overflow: hidden; transition: border-color 0.2s; }
+.campaign-card:hover { border-color: var(--border-strong); }
+.campaign-header { padding: 18px 22px; display: flex; align-items: center; gap: 16px; cursor: pointer; user-select: none; transition: background 0.15s; }
+.campaign-header:hover { background: rgba(255,255,255,0.02); }
+.campaign-card.expanded .campaign-header { border-bottom: 1px solid var(--border); }
+.campaign-icon { width: 42px; height: 42px; border-radius: 11px; display: grid; place-items: center; flex-shrink: 0; background: var(--cmp-bg); color: var(--cmp-color); font-family: 'Fraunces', serif; font-weight: 600; font-size: 16px; text-transform: uppercase; }
+.campaign-info { flex: 1; min-width: 0; }
+.campaign-name { font-family: 'Fraunces', serif; font-weight: 500; font-size: 17px; letter-spacing: -0.01em; margin-bottom: 3px; word-break: break-word; }
+.campaign-objective { font-size: 12px; color: var(--text-muted); font-family: 'JetBrains Mono', monospace; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.status-pill { display: inline-flex; align-items: center; gap: 5px; padding: 3px 9px; border-radius: 100px; font-size: 10px; font-weight: 500; font-family: 'JetBrains Mono', monospace; text-transform: uppercase; letter-spacing: 0.05em; }
+.status-pill.ACTIVE { background: rgba(45,212,167,0.12); color: var(--success); }
+.status-pill.PAUSED { background: rgba(245,185,74,0.12); color: var(--warning); }
+.status-pill.ARCHIVED, .status-pill.DELETED { background: rgba(136,147,176,0.12); color: var(--text-muted); }
+.status-pill.IN_PROCESS, .status-pill.WITH_ISSUES { background: rgba(79,127,255,0.12); color: var(--accent); }
+.campaign-quick-stats { display: flex; gap: 28px; align-items: center; }
+.quick-stat { text-align: right; }
+.quick-stat-label { font-size: 10px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted); font-family: 'JetBrains Mono', monospace; margin-bottom: 3px; }
+.quick-stat-value { font-family: 'Fraunces', serif; font-weight: 500; font-size: 18px; letter-spacing: -0.01em; }
+.quick-stat-value.leads { color: var(--leads); }
+.expand-arrow { width: 28px; height: 28px; border-radius: 7px; background: rgba(255,255,255,0.04); display: grid; place-items: center; color: var(--text-dim); transition: transform 0.25s, background 0.15s; flex-shrink: 0; }
+.campaign-card.expanded .expand-arrow { transform: rotate(180deg); background: rgba(45,212,167,0.15); color: var(--success); }
+.campaign-body { display: none; padding: 22px; background: rgba(0,0,0,0.15); }
+.campaign-card.expanded .campaign-body { display: block; }
+.metrics-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin-bottom: 20px; }
+.metric-tile { background: rgba(255,255,255,0.025); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; }
+.metric-tile-label { font-size: 10px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted); font-family: 'JetBrains Mono', monospace; margin-bottom: 8px; }
+.metric-tile-value { font-family: 'Fraunces', serif; font-weight: 500; font-size: 22px; letter-spacing: -0.015em; margin-bottom: 4px; }
+.metric-tile-delta { font-size: 11px; font-family: 'JetBrains Mono', monospace; }
+.metric-tile-delta.up { color: var(--success); }
+.metric-tile-delta.down { color: var(--danger); }
+.campaign-chart-container { position: relative; height: 200px; margin-top: 14px; }
+
+.loading, .error-state { padding: 80px 20px; text-align: center; color: var(--text-muted); font-family: 'JetBrains Mono', monospace; font-size: 13px; }
+.error-state { color: var(--danger); }
+.spinner { width: 40px; height: 40px; border: 3px solid var(--border); border-top-color: var(--accent); border-radius: 50%; margin: 0 auto 16px; animation: spin 1s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+
+@media (max-width: 1024px) {
+  .chart-grid { grid-template-columns: 1fr; }
+  .chart-grid-2 { grid-template-columns: 1fr; }
+}
+@media (max-width: 720px) {
+  .app { padding: 20px 16px 60px; }
+  .header { flex-direction: column; align-items: flex-start; }
+  .bar { flex-direction: column; align-items: stretch; }
+  .btn { margin-left: 0; }
+  .campaign-quick-stats { display: none; }
+  .kpi-value { font-size: 26px; }
+}
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.08); border-radius: 10px; border: 2px solid var(--bg); }
+</style>
+</head>
+<body>
+
+<div class="app">
+  <header class="header">
+    <div class="brand">
+      <div class="logo">
+        <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M3 12h4l3-9 4 18 3-9h4"/>
+        </svg>
+      </div>
+      <div class="brand-text">
+        <h1>Meta Ads <em>Аналітика</em></h1>
+        <p id="generatedAt">// завантаження...</p>
+      </div>
+    </div>
+    <div class="live-badge">
+      <span class="live-dot"></span>
+      <span id="lastUpdate">Завантаження</span>
+    </div>
+  </header>
+
+  <section class="bar" id="projectBar" style="display:none;">
+    <div class="bar-label">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/>
+      </svg>
+      Проєкт
+    </div>
+    <div class="project-pills" id="projectPills"></div>
+  </section>
+
+  <section class="bar" id="filterBar" style="display:none;">
+    <div class="bar-label">Період</div>
+    <div class="period-tabs" id="periodTabs">
+      <button class="period-tab" data-period="7">7 днів</button>
+      <button class="period-tab active" data-period="30">30 днів</button>
+      <button class="period-tab" data-period="90">90 днів</button>
+      <button class="period-tab" data-period="custom">Власний</button>
+    </div>
+    <div class="bar-label" id="customDateGroup" style="display:none;">
+      <input type="date" class="date-input" id="dateFrom">
+      <span style="color: var(--text-muted);">→</span>
+      <input type="date" class="date-input" id="dateTo">
+    </div>
+    <button class="btn" onclick="exportCSV()">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+      Експорт CSV
+    </button>
+  </section>
+
+  <div id="content">
+    <div class="loading">
+      <div class="spinner"></div>
+      Завантаження даних з GitHub...
+    </div>
+  </div>
+</div>
+
+<script>
+// ============================================
+//  ЗАВАНТАЖЕННЯ ДАНИХ
+// ============================================
+let DATA = null;
+
+async function loadData() {
+  try {
+    // Завантажуємо JSON з кешбастером щоб уникнути кешу
+    const res = await fetch('data/ads.json?v=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    DATA = await res.json();
+
+    if (!DATA.projects || DATA.projects.length === 0) {
+      throw new Error('Немає даних по проєктах');
+    }
+
+    // Ініціалізуємо state
+    state.projectId = DATA.projects[0].account_id;
+
+    // Показуємо інтерфейс
+    document.getElementById('projectBar').style.display = 'flex';
+    document.getElementById('filterBar').style.display = 'flex';
+
+    // Оновлюємо timestamp
+    if (DATA.generated_at) {
+      const d = new Date(DATA.generated_at);
+      document.getElementById('generatedAt').textContent =
+        '// останнє оновлення: ' + d.toLocaleString('uk-UA');
+    }
+
+    renderProjectPills();
+    renderProject();
+  } catch (e) {
+    document.getElementById('content').innerHTML = `
+      <div class="error-state">
+        ❌ Не вдалося завантажити дані<br>
+        <small style="margin-top:10px; display:block; color:var(--text-muted);">
+          ${e.message}<br>
+          Перевірте що файл data/ads.json існує і доступний
+        </small>
+      </div>
+    `;
+  }
+}
+
+// ============================================
+//  СТАН
+// ============================================
+const state = {
+  projectId: null,
+  period: 30,
+  trendMetric: 'leads',
+  customFrom: null,
+  customTo: null,
+  expanded: new Set()
+};
+
+const PROJECT_COLORS = ['#2dd4a7', '#4f7fff', '#7c5cff', '#ff7ab8', '#f5b94a', '#4fd9ff', '#ff5c7c'];
+const CAMPAIGN_COLORS = ['#4f7fff', '#2dd4a7', '#7c5cff', '#ff7ab8', '#4fd9ff', '#f5b94a', '#ff5c7c'];
+
+function getProjectColor(idx) { return PROJECT_COLORS[idx % PROJECT_COLORS.length]; }
+function getCampaignColor(idx) { return CAMPAIGN_COLORS[idx % CAMPAIGN_COLORS.length]; }
+
+function getProject() { return DATA.projects.find(p => p.account_id === state.projectId); }
+
+function getCampaignShort(name) {
+  // Беремо перші 2 «значущих» символи (літери) з назви
+  const cleaned = name.replace(/[^\p{L}\p{N}\s]/gu, ' ').trim();
+  const words = cleaned.split(/\s+/).filter(w => w.length);
+  if (words.length === 0) return '?';
+  if (words.length === 1) return words[0].slice(0, 2).toUpperCase();
+  // якщо перше слово коротке (2-3 символи) — беремо його як абревіатуру
+  if (words[0].length <= 3) return words[0].toUpperCase().slice(0, 3);
+  return (words[0][0] + words[1][0]).toUpperCase();
+}
+
+// ============================================
+//  ВАЛЮТА / ФОРМАТИ
+// ============================================
+function getCurrencySymbol() {
+  const p = getProject();
+  if (!p) return '$';
+  const c = p.currency || 'USD';
+  if (c === 'UAH') return '₴';
+  if (c === 'USD') return '$';
+  if (c === 'EUR') return '€';
+  if (c === 'GBP') return '£';
+  if (c === 'PLN') return 'zł';
+  return c + ' ';
+}
+
+function fmtNum(n, decimals = 0) {
+  if (!isFinite(n)) return '0';
+  if (Math.abs(n) >= 1e6) return (n / 1e6).toFixed(2).replace('.00', '') + 'M';
+  if (Math.abs(n) >= 1e3) return (n / 1e3).toFixed(1).replace('.0', '') + 'K';
+  return n.toLocaleString('uk-UA', { minimumFractionDigits: decimals, maximumFractionDigits: decimals });
+}
+function fmtMoney(n) {
+  const s = getCurrencySymbol();
+  const num = fmtNum(n, n < 100 ? 2 : 0);
+  return (s === '$' || s === '€' || s === '£') ? s + num : num + ' ' + s;
+}
+function fmtPct(n) { return (isFinite(n) ? n.toFixed(2) : '0.00') + '%'; }
+function deltaPct(curr, prev) { if (!prev) return 0; return (curr - prev) / prev * 100; }
+
+// ============================================
+//  ФІЛЬТРАЦІЯ
+// ============================================
+function getDateRange() {
+  const today = new Date();
+  let from, to, days;
+  if (state.period === 'custom' && state.customFrom && state.customTo) {
+    from = new Date(state.customFrom);
+    to = new Date(state.customTo);
+    days = Math.round((to - from) / 86400000) + 1;
+  } else {
+    days = +state.period;
+    to = new Date(today);
+    from = new Date(today);
+    from.setDate(from.getDate() - days + 1);
+  }
+  return { from, to, days };
+}
+
+function getFilteredDaily(campaignId = null) {
+  const p = getProject();
+  if (!p) return [];
+  const { from, to } = getDateRange();
+  const fromStr = from.toISOString().slice(0, 10);
+  const toStr = to.toISOString().slice(0, 10);
+  return p.daily.filter(r => {
+    if (r.date < fromStr || r.date > toStr) return false;
+    if (campaignId !== null && r.campaign_id !== campaignId) return false;
+    return true;
+  });
+}
+
+function getPreviousDaily(campaignId = null) {
+  const p = getProject();
+  if (!p) return [];
+  const { days } = getDateRange();
+  const today = new Date();
+  const to = new Date(today);
+  to.setDate(to.getDate() - days);
+  const from = new Date(to);
+  from.setDate(from.getDate() - days + 1);
+  const fromStr = from.toISOString().slice(0, 10);
+  const toStr = to.toISOString().slice(0, 10);
+  return p.daily.filter(r => {
+    if (r.date < fromStr || r.date > toStr) return false;
+    if (campaignId !== null && r.campaign_id !== campaignId) return false;
+    return true;
+  });
+}
+
+function aggregate(records) {
+  const t = { spend: 0, impressions: 0, clicks: 0, leads: 0 };
+  records.forEach(r => {
+    t.spend += r.spend || 0;
+    t.impressions += r.impressions || 0;
+    t.clicks += r.clicks || 0;
+    t.leads += r.leads || 0;
+  });
+  t.ctr = t.impressions ? (t.clicks / t.impressions * 100) : 0;
+  t.cpc = t.clicks ? (t.spend / t.clicks) : 0;
+  t.cpl = t.leads ? (t.spend / t.leads) : 0;
+  t.cr  = t.clicks ? (t.leads / t.clicks * 100) : 0;
+  return t;
+}
+
+// ============================================
+//  PROJECT PILLS
+// ============================================
+function renderProjectPills() {
+  const html = DATA.projects.map((p, i) => {
+    const active = p.account_id === state.projectId ? 'active' : '';
+    const activeCount = p.campaigns.filter(c => c.status === 'ACTIVE').length;
+    return `
+      <button class="project-pill ${active}" data-id="${p.account_id}" style="--p-color:${getProjectColor(i)};">
+        <span class="pill-dot"></span>
+        ${p.name}
+        <span class="pill-count">${activeCount}/${p.campaigns.length}</span>
+      </button>
+    `;
+  }).join('');
+  document.getElementById('projectPills').innerHTML = html;
+
+  document.querySelectorAll('.project-pill').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const newId = btn.dataset.id;
+      if (newId === state.projectId) return;
+      state.projectId = newId;
+      state.expanded.clear();
+      Object.keys(campaignCharts).forEach(k => { campaignCharts[k].destroy(); delete campaignCharts[k]; });
+      renderProjectPills();
+      renderProject();
+    });
+  });
+}
+
+// ============================================
+//  ОСНОВНИЙ РЕНДЕР
+// ============================================
+function renderProject() {
+  const p = getProject();
+  if (!p) return;
+  const idx = DATA.projects.findIndex(x => x.account_id === p.account_id);
+
+  document.getElementById('content').innerHTML = `
+    <section class="project-block">
+      <div class="project-header">
+        <div class="project-marker" style="background: ${getProjectColor(idx)};"></div>
+        <div class="project-title">Проєкт <em>${p.name}</em></div>
+        <div class="project-meta">
+          <span>Кампаній:<strong>${p.campaigns.length}</strong></span>
+          <span>Активних:<strong>${p.campaigns.filter(c => c.status === 'ACTIVE').length}</strong></span>
+        </div>
+      </div>
+
+      <div class="kpi-grid" id="projectKPI"></div>
+
+      <div class="chart-grid">
+        <div class="card">
+          <div class="card-header">
+            <div>
+              <div class="card-title">Динаміка показників</div>
+              <div class="card-subtitle">// денний розріз по проєкту</div>
+            </div>
+            <div class="chart-toggle" id="trendToggle">
+              <button class="${state.trendMetric==='leads'?'active':''}" data-metric="leads">Ліди</button>
+              <button class="${state.trendMetric==='spend'?'active':''}" data-metric="spend">Витрати</button>
+              <button class="${state.trendMetric==='cpl'?'active':''}" data-metric="cpl">CPL</button>
+              <button class="${state.trendMetric==='impressions'?'active':''}" data-metric="impressions">Покази</button>
+              <button class="${state.trendMetric==='clicks'?'active':''}" data-metric="clicks">Кліки</button>
+            </div>
+          </div>
+          <div class="chart-container tall"><canvas id="trendChart"></canvas></div>
+        </div>
+
+        <div class="card">
+          <div class="card-header"><div><div class="card-title">Розподіл лідів</div><div class="card-subtitle">// по кампаніях</div></div></div>
+          <div class="chart-container tall"><canvas id="donutChart"></canvas></div>
+        </div>
+      </div>
+
+      <div class="chart-grid-2">
+        <div class="card">
+          <div class="card-header"><div><div class="card-title">CPL по кампаніях</div><div class="card-subtitle">// ціна за лід</div></div></div>
+          <div class="chart-container"><canvas id="cplChart"></canvas></div>
+        </div>
+        <div class="card">
+          <div class="card-header"><div><div class="card-title">Витрати vs Ліди</div><div class="card-subtitle">// порівняння кампаній</div></div></div>
+          <div class="chart-container"><canvas id="comboChart"></canvas></div>
+        </div>
+      </div>
+
+      <div class="section-title">
+        Рекламні кампанії
+        <span class="section-title-count">${p.campaigns.length} кампаній</span>
+      </div>
+
+      <div id="campaignsList"></div>
+    </section>
+  `;
+
+  attachToggleListeners();
+  renderKPIs();
+  renderTrendChart();
+  renderDonut();
+  renderCPL();
+  renderCombo();
+  renderCampaignList();
+  updateLastUpdate();
+}
+
+function attachToggleListeners() {
+  document.querySelectorAll('#trendToggle button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('#trendToggle button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      state.trendMetric = btn.dataset.metric;
+      renderTrendChart();
+    });
+  });
+}
+
+function renderKPIs() {
+  const curr = aggregate(getFilteredDaily());
+  const prev = aggregate(getPreviousDaily());
+  const periodTxt = state.period === 'custom' ? 'до попер.' : `vs попер. ${state.period}д`;
+
+  const kpis = [
+    { label: 'Ліди',       value: fmtNum(curr.leads),       delta: deltaPct(curr.leads, prev.leads),         color: '#2dd4a7', icon: 'M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2 M9 7a4 4 0 1 0 0 8 4 4 0 0 0 0-8z', highlight: true },
+    { label: 'CPL',        value: fmtMoney(curr.cpl),       delta: deltaPct(curr.cpl, prev.cpl),    inverse: true, color: '#f5b94a', icon: 'M12 1v22 M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6' },
+    { label: 'Витрачено',  value: fmtMoney(curr.spend),     delta: deltaPct(curr.spend, prev.spend),inverse: true, color: '#4f7fff', icon: 'M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4 M17 8l-5-5-5 5' },
+    { label: 'Покази',     value: fmtNum(curr.impressions), delta: deltaPct(curr.impressions, prev.impressions),           color: '#7c5cff', icon: 'M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z M12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6z' },
+    { label: 'Кліки',      value: fmtNum(curr.clicks),      delta: deltaPct(curr.clicks, prev.clicks),                     color: '#4fd9ff', icon: 'M9 11l3 3 8-8 M3 12a9 9 0 1 0 9-9' },
+    { label: 'CTR',        value: fmtPct(curr.ctr),         delta: deltaPct(curr.ctr, prev.ctr),                           color: '#ff7ab8', icon: 'M22 12h-4l-3 9L9 3l-3 9H2' },
+    { label: 'CPC',        value: fmtMoney(curr.cpc),       delta: deltaPct(curr.cpc, prev.cpc),     inverse: true,         color: '#ff5c7c', icon: 'M9 11l3 3 8-8' },
+    { label: 'CR (клік→лід)', value: fmtPct(curr.cr),       delta: deltaPct(curr.cr, prev.cr),                              color: '#2dd4a7', icon: 'M3 17l6-6 4 4 8-8 M14 7h7v7' }
+  ];
+
+  document.getElementById('projectKPI').innerHTML = kpis.map(k => {
+    const positive = k.inverse ? k.delta < 0 : k.delta > 0;
+    const arrow = k.delta >= 0 ? '↑' : '↓';
+    const cls = positive ? 'up' : 'down';
+    return `
+      <div class="kpi ${k.highlight ? 'highlight' : ''}" style="--kpi-color:${k.color}; --kpi-bg:${k.color}22;">
+        <div class="kpi-label">
+          <span class="kpi-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="${k.icon}"/></svg></span>
+          ${k.label}
+        </div>
+        <div class="kpi-value">${k.value}</div>
+        <div class="kpi-delta ${cls}">${arrow} ${Math.abs(k.delta).toFixed(1)}% <span class="kpi-delta-period">${periodTxt}</span></div>
+      </div>`;
+  }).join('');
+}
+
+// ============================================
+//  ГРАФІКИ
+// ============================================
+Chart.defaults.color = '#8893b0';
+Chart.defaults.font.family = "'Inter Tight', sans-serif";
+Chart.defaults.font.size = 11;
+Chart.defaults.borderColor = 'rgba(255,255,255,0.06)';
+
+const chartTooltip = {
+  backgroundColor: '#0a0e1a',
+  borderColor: 'rgba(255,255,255,0.12)',
+  borderWidth: 1,
+  titleFont: { family: "'JetBrains Mono', monospace", size: 11 },
+  titleColor: '#8893b0',
+  bodyFont: { family: "'Inter Tight', sans-serif", size: 13, weight: 500 },
+  bodyColor: '#e8ecf5',
+  padding: 12, cornerRadius: 8, displayColors: true, boxPadding: 4
+};
+
+let trendChart, donutChart, cplChart, comboChart;
+const campaignCharts = {};
+
+const METRIC_CFG = {
+  leads:       { color: '#2dd4a7', fmt: fmtNum,   axis: fmtNum },
+  spend:       { color: '#4f7fff', fmt: fmtMoney, axis: v => fmtNum(v) },
+  cpl:         { color: '#f5b94a', fmt: fmtMoney, axis: v => fmtNum(v) },
+  impressions: { color: '#7c5cff', fmt: fmtNum,   axis: fmtNum },
+  clicks:      { color: '#4fd9ff', fmt: fmtNum,   axis: fmtNum }
+};
+
+function buildDailySeries(records, metric) {
+  const byDate = {};
+  records.forEach(r => {
+    if (!byDate[r.date]) byDate[r.date] = { spend:0, impressions:0, clicks:0, leads:0 };
+    byDate[r.date].spend += r.spend || 0;
+    byDate[r.date].impressions += r.impressions || 0;
+    byDate[r.date].clicks += r.clicks || 0;
+    byDate[r.date].leads += r.leads || 0;
+  });
+  const dates = Object.keys(byDate).sort();
+  const labels = dates.map(d => new Date(d).toLocaleDateString('uk-UA', { day: '2-digit', month: 'short' }));
+  const values = dates.map(d => {
+    const x = byDate[d];
+    if (metric === 'cpl') return x.leads ? +(x.spend / x.leads).toFixed(2) : 0;
+    return x[metric];
+  });
+  return { labels, values };
+}
+
+function renderTrendChart() {
+  const cfg = METRIC_CFG[state.trendMetric];
+  const { labels, values } = buildDailySeries(getFilteredDaily(), state.trendMetric);
+  const ctx = document.getElementById('trendChart').getContext('2d');
+  const grad = ctx.createLinearGradient(0, 0, 0, 320);
+  grad.addColorStop(0, cfg.color + '55');
+  grad.addColorStop(1, cfg.color + '00');
+
+  if (trendChart) trendChart.destroy();
+  trendChart = new Chart(ctx, {
+    type: 'line',
+    data: { labels, datasets: [{
+      data: values, borderColor: cfg.color, backgroundColor: grad,
+      borderWidth: 2.5, pointRadius: 0, pointHoverRadius: 5,
+      pointHoverBackgroundColor: '#fff', pointHoverBorderColor: cfg.color, pointHoverBorderWidth: 2,
+      fill: true, tension: 0.35
+    }]},
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: { legend: { display: false }, tooltip: { ...chartTooltip, callbacks: { label: c => '  ' + cfg.fmt(c.raw) } } },
+      scales: {
+        x: { grid: { display: false }, ticks: { maxRotation: 0, autoSkip: true, maxTicksLimit: 12 } },
+        y: { grid: { color: 'rgba(255,255,255,0.04)' }, ticks: { callback: cfg.axis } }
+      }
+    }
+  });
+}
+
+function renderDonut() {
+  const p = getProject();
+  const records = getFilteredDaily();
+  const totals = {};
+  records.forEach(r => { totals[r.campaign_id] = (totals[r.campaign_id] || 0) + (r.leads || 0); });
+
+  const items = p.campaigns.map((c, i) => ({
+    name: c.name, short: getCampaignShort(c.name), color: getCampaignColor(i),
+    total: totals[c.id] || 0
+  })).filter(c => c.total > 0).sort((a, b) => b.total - a.total);
+
+  const total = items.reduce((s, c) => s + c.total, 0);
+  const ctx = document.getElementById('donutChart').getContext('2d');
+  if (donutChart) donutChart.destroy();
+
+  if (items.length === 0) {
+    ctx.fillStyle = '#5a6685';
+    ctx.font = "13px 'JetBrains Mono', monospace";
+    ctx.textAlign = 'center';
+    ctx.fillText('Немає лідів за період', ctx.canvas.width / 2, ctx.canvas.height / 2);
+    return;
+  }
+
+  donutChart = new Chart(ctx, {
+    type: 'doughnut',
+    data: { labels: items.map(c => c.short), datasets: [{
+      data: items.map(c => c.total),
+      backgroundColor: items.map(c => c.color),
+      borderColor: '#0f1524', borderWidth: 3, hoverOffset: 8
+    }]},
+    options: {
+      responsive: true, maintainAspectRatio: false, cutout: '68%',
+      plugins: {
+        legend: { position: 'bottom', labels: { padding: 10, boxWidth: 10, boxHeight: 10, usePointStyle: true, pointStyle: 'circle', font: { size: 11 } } },
+        tooltip: { ...chartTooltip, callbacks: {
+          title: c => items[c[0].dataIndex].name,
+          label: c => `  ${fmtNum(c.raw)} лідів (${(c.raw / total * 100).toFixed(1)}%)`
+        } }
+      }
+    },
+    plugins: [{
+      id: 'centerText',
+      beforeDraw(chart) {
+        const { ctx, chartArea } = chart;
+        if (!chartArea) return;
+        const cx = (chartArea.left + chartArea.right) / 2;
+        const cy = (chartArea.top + chartArea.bottom) / 2;
+        ctx.save(); ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+        ctx.fillStyle = '#8893b0';
+        ctx.font = "11px 'JetBrains Mono', monospace";
+        ctx.fillText('ВСЬОГО ЛІДІВ', cx, cy - 18);
+        ctx.fillStyle = '#2dd4a7';
+        ctx.font = "500 24px 'Fraunces', serif";
+        ctx.fillText(fmtNum(total), cx, cy + 6);
+        ctx.restore();
+      }
+    }]
+  });
+}
+
+function renderCPL() {
+  const p = getProject();
+  const data = p.campaigns.map((c, i) => {
+    const agg = aggregate(getFilteredDaily(c.id));
+    return { ...c, short: getCampaignShort(c.name), color: getCampaignColor(i), cpl: agg.cpl, leads: agg.leads };
+  }).filter(c => c.leads > 0).sort((a, b) => a.cpl - b.cpl);
+
+  const ctx = document.getElementById('cplChart').getContext('2d');
+  if (cplChart) cplChart.destroy();
+  cplChart = new Chart(ctx, {
+    type: 'bar',
+    data: { labels: data.map(c => c.short), datasets: [{
+      data: data.map(c => +c.cpl.toFixed(2)),
+      backgroundColor: data.map(c => c.color + 'cc'),
+      borderColor: data.map(c => c.color),
+      borderWidth: 1.5, borderRadius: 6, borderSkipped: false
+    }]},
+    options: {
+      responsive: true, maintainAspectRatio: false, indexAxis: 'y',
+      plugins: { legend: { display: false }, tooltip: { ...chartTooltip, callbacks: {
+        title: c => data[c[0].dataIndex].name,
+        label: c => `  ${fmtMoney(c.raw)} за лід`
+      } } },
+      scales: {
+        x: { grid: { color: 'rgba(255,255,255,0.04)' }, ticks: { callback: v => fmtNum(v) } },
+        y: { grid: { display: false } }
+      }
+    }
+  });
+}
+
+function renderCombo() {
+  const p = getProject();
+  const data = p.campaigns.map((c, i) => {
+    const agg = aggregate(getFilteredDaily(c.id));
+    return { ...c, short: getCampaignShort(c.name), color: getCampaignColor(i), spend: agg.spend, leads: agg.leads };
+  }).filter(c => c.leads > 0 || c.spend > 0).sort((a, b) => b.spend - a.spend);
+
+  const ctx = document.getElementById('comboChart').getContext('2d');
+  if (comboChart) comboChart.destroy();
+  comboChart = new Chart(ctx, {
+    data: { labels: data.map(c => c.short), datasets: [
+      { type: 'bar', label: `Витрати, ${getCurrencySymbol()}`, data: data.map(c => +c.spend.toFixed(0)), backgroundColor: 'rgba(79,127,255,0.65)', borderColor: '#4f7fff', borderWidth: 1.5, borderRadius: 6, borderSkipped: false, yAxisID: 'y' },
+      { type: 'line', label: 'Ліди', data: data.map(c => c.leads), borderColor: '#2dd4a7', backgroundColor: '#2dd4a7', borderWidth: 2.5, pointRadius: 5, pointHoverRadius: 7, pointBackgroundColor: '#2dd4a7', pointBorderColor: '#fff', pointBorderWidth: 2, tension: 0.35, yAxisID: 'y1' }
+    ]},
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: { legend: { position: 'bottom', labels: { padding: 10, boxWidth: 10, boxHeight: 10, usePointStyle: true, pointStyle: 'circle', font: { size: 11 } } },
+        tooltip: { ...chartTooltip, callbacks: {
+          title: c => data[c[0].dataIndex].name,
+          label: c => c.dataset.label === 'Ліди' ? `  ${c.raw} лідів` : `  ${fmtMoney(c.raw)}`
+        } } },
+      scales: {
+        x: { grid: { display: false } },
+        y: { position: 'left', grid: { color: 'rgba(255,255,255,0.04)' }, ticks: { callback: v => fmtNum(v) } },
+        y1: { position: 'right', grid: { display: false }, ticks: { callback: v => fmtNum(v) } }
+      }
+    }
+  });
+}
+
+// ============================================
+//  СПИСОК КАМПАНІЙ
+// ============================================
+const STATUS_LABELS = { ACTIVE: 'Активна', PAUSED: 'Пауза', ARCHIVED: 'Архів', DELETED: 'Видалена', IN_PROCESS: 'Опрацьовується', WITH_ISSUES: 'Перевірка' };
+
+function renderCampaignList() {
+  const p = getProject();
+  const list = document.getElementById('campaignsList');
+  const items = p.campaigns.map((c, i) => {
+    const curr = aggregate(getFilteredDaily(c.id));
+    const prev = aggregate(getPreviousDaily(c.id));
+    return { camp: c, color: getCampaignColor(i), short: getCampaignShort(c.name), curr, prev };
+  }).sort((a, b) => b.curr.leads - a.curr.leads);
+
+  list.innerHTML = items.map(({ camp, color, short, curr, prev }) => {
+    const isExpanded = state.expanded.has(camp.id);
+    const D = (k) => deltaPct(curr[k], prev[k]);
+    const arrow = v => v >= 0 ? '↑' : '↓';
+    const cls = (v, inv) => (inv ? v < 0 : v > 0) ? 'up' : 'down';
+    const statusLabel = STATUS_LABELS[camp.status] || camp.status;
+
+    return `
+      <div class="campaign-card ${isExpanded ? 'expanded' : ''}" data-id="${camp.id}">
+        <div class="campaign-header" onclick="toggleCampaign('${camp.id}')">
+          <div class="campaign-icon" style="--cmp-bg:${color}22; --cmp-color:${color};">${short}</div>
+          <div class="campaign-info">
+            <div class="campaign-name">${camp.name}</div>
+            <div class="campaign-objective">
+              <span class="status-pill ${camp.status}">${statusLabel}</span>
+              <span>${camp.objective || ''}</span>
+            </div>
+          </div>
+          <div class="campaign-quick-stats">
+            <div class="quick-stat"><div class="quick-stat-label">Ліди</div><div class="quick-stat-value leads">${fmtNum(curr.leads)}</div></div>
+            <div class="quick-stat"><div class="quick-stat-label">CPL</div><div class="quick-stat-value">${fmtMoney(curr.cpl)}</div></div>
+            <div class="quick-stat"><div class="quick-stat-label">Витрати</div><div class="quick-stat-value">${fmtMoney(curr.spend)}</div></div>
+          </div>
+          <div class="expand-arrow"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg></div>
+        </div>
+        <div class="campaign-body">
+          <div class="metrics-grid">
+            ${[
+              ['Ліди', fmtNum(curr.leads), D('leads'), false, '#2dd4a7'],
+              ['CPL', fmtMoney(curr.cpl), D('cpl'), true],
+              ['Витрачено', fmtMoney(curr.spend), D('spend'), true],
+              ['Покази', fmtNum(curr.impressions), D('impressions'), false],
+              ['Кліки', fmtNum(curr.clicks), D('clicks'), false],
+              ['CTR', fmtPct(curr.ctr), D('ctr'), false],
+              ['CPC', fmtMoney(curr.cpc), D('cpc'), true],
+              ['CR (клік→лід)', fmtPct(curr.cr), D('cr'), false]
+            ].map(([lbl, val, d, inv, col]) => `
+              <div class="metric-tile">
+                <div class="metric-tile-label">${lbl}</div>
+                <div class="metric-tile-value"${col?` style="color:${col};"`:''}>${val}</div>
+                <div class="metric-tile-delta ${cls(d, inv)}">${arrow(d)} ${Math.abs(d).toFixed(1)}%</div>
+              </div>
+            `).join('')}
+          </div>
+          <div class="campaign-chart-container"><canvas id="campChart-${camp.id}"></canvas></div>
+        </div>
+      </div>
+    `;
+  }).join('');
+
+  state.expanded.forEach(id => renderCampaignChart(id));
+}
+
+function renderCampaignChart(id) {
+  const records = getFilteredDaily(id);
+  const { labels, values: leads } = buildDailySeries(records, 'leads');
+  const { values: spend } = buildDailySeries(records, 'spend');
+  const canvas = document.getElementById(`campChart-${id}`);
+  if (!canvas) return;
+  const ctx = canvas.getContext('2d');
+  if (campaignCharts[id]) campaignCharts[id].destroy();
+
+  campaignCharts[id] = new Chart(ctx, {
+    data: { labels, datasets: [
+      { type: 'line', label: 'Ліди', data: leads, borderColor: '#2dd4a7', backgroundColor: 'rgba(45,212,167,0.12)', borderWidth: 2.5, pointRadius: 0, pointHoverRadius: 5, tension: 0.35, fill: true, yAxisID: 'y' },
+      { type: 'line', label: `Витрати, ${getCurrencySymbol()}`, data: spend, borderColor: '#4f7fff', backgroundColor: 'rgba(79,127,255,0.08)', borderWidth: 2, borderDash: [4, 3], pointRadius: 0, pointHoverRadius: 5, tension: 0.35, fill: false, yAxisID: 'y1' }
+    ]},
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: { legend: { position: 'top', align: 'end', labels: { padding: 10, boxWidth: 10, boxHeight: 10, usePointStyle: true, pointStyle: 'circle', font: { size: 11 } } },
+        tooltip: { ...chartTooltip, callbacks: {
+          label: c => c.dataset.label === 'Ліди' ? `  ${c.raw} лідів` : `  ${fmtMoney(c.raw)}`
+        } } },
+      scales: {
+        x: { grid: { display: false }, ticks: { maxRotation: 0, autoSkip: true, maxTicksLimit: 8 } },
+        y: { position: 'left', grid: { color: 'rgba(255,255,255,0.04)' }, ticks: { callback: v => fmtNum(v) } },
+        y1: { position: 'right', grid: { display: false }, ticks: { callback: v => fmtNum(v) } }
+      }
+    }
+  });
+}
+
+function toggleCampaign(id) {
+  if (state.expanded.has(id)) {
+    state.expanded.delete(id);
+    if (campaignCharts[id]) { campaignCharts[id].destroy(); delete campaignCharts[id]; }
+  } else {
+    state.expanded.add(id);
+  }
+  renderCampaignList();
+}
+
+// ============================================
+//  ОНОВЛЕННЯ ЧАСУ
+// ============================================
+function updateLastUpdate() {
+  if (!DATA || !DATA.generated_at) return;
+  const d = new Date(DATA.generated_at);
+  const diffMin = Math.floor((Date.now() - d.getTime()) / 60000);
+  let text;
+  if (diffMin < 1) text = 'Оновлено щойно';
+  else if (diffMin < 60) text = `Оновлено ${diffMin} хв тому`;
+  else if (diffMin < 1440) text = `Оновлено ${Math.floor(diffMin/60)} год тому`;
+  else text = `Оновлено ${Math.floor(diffMin/1440)} дн тому`;
+  document.getElementById('lastUpdate').textContent = text;
+}
+
+// ============================================
+//  ОБРОБНИКИ ФІЛЬТРІВ
+// ============================================
+document.querySelectorAll('.period-tab').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.period-tab').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    state.period = btn.dataset.period === 'custom' ? 'custom' : +btn.dataset.period;
+    document.getElementById('customDateGroup').style.display = btn.dataset.period === 'custom' ? 'flex' : 'none';
+
+    if (btn.dataset.period === 'custom') {
+      const today = new Date();
+      const monthAgo = new Date(today);
+      monthAgo.setDate(monthAgo.getDate() - 30);
+      document.getElementById('dateFrom').value = monthAgo.toISOString().slice(0, 10);
+      document.getElementById('dateTo').value = today.toISOString().slice(0, 10);
+      state.customFrom = document.getElementById('dateFrom').value;
+      state.customTo = document.getElementById('dateTo').value;
+    }
+    Object.keys(campaignCharts).forEach(k => { campaignCharts[k].destroy(); delete campaignCharts[k]; });
+    if (DATA) renderProject();
+  });
+});
+
+document.getElementById('dateFrom').addEventListener('change', e => {
+  state.customFrom = e.target.value;
+  if (state.customTo) {
+    Object.keys(campaignCharts).forEach(k => { campaignCharts[k].destroy(); delete campaignCharts[k]; });
+    renderProject();
+  }
+});
+document.getElementById('dateTo').addEventListener('change', e => {
+  state.customTo = e.target.value;
+  if (state.customFrom) {
+    Object.keys(campaignCharts).forEach(k => { campaignCharts[k].destroy(); delete campaignCharts[k]; });
+    renderProject();
+  }
+});
+
+function exportCSV() {
+  const p = getProject();
+  if (!p) return;
+  const headers = ['Проєкт','Кампанія','Статус','Ціль','Витрати','Покази','Кліки','CTR%','CPC','Ліди','CPL','CR%'];
+  const lines = [headers.join(';')];
+  p.campaigns.forEach(c => {
+    const a = aggregate(getFilteredDaily(c.id));
+    lines.push([
+      `"${p.name}"`, `"${c.name}"`,
+      STATUS_LABELS[c.status] || c.status, c.objective || '',
+      a.spend.toFixed(2), a.impressions, a.clicks,
+      a.ctr.toFixed(2), a.cpc.toFixed(2),
+      a.leads, a.cpl.toFixed(2), a.cr.toFixed(2)
+    ].join(';'));
+  });
+  const blob = new Blob(['\ufeff' + lines.join('\n')], { type: 'text/csv;charset=utf-8' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `${p.account_id}-report-${new Date().toISOString().slice(0,10)}.csv`;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+// СТАРТ
+loadData();
+setInterval(updateLastUpdate, 60000);
+</script>
+</body>
+</html>
