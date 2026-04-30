@@ -225,6 +225,27 @@ body::after {
 </div>
 
 <script>
+  // ============================================
+// КАСТОМНІ НАЗВИ ПРОЄКТІВ
+// Тут можна змінити, як проєкт відображається в дашборді
+// ============================================
+const PROJECT_NAMES = {
+  'act_1579613729153862': 'Академія Акліма Україна',
+  'act_697505648480997':  'Aclima UA',
+  'act_719155103629080':  'MyCond UA',
+  'act_1049637589865847': 'Climasoft',
+  'act_1038930234523229': 'Повітря — Вода',
+  'act_1199606638060347': 'Академія Акліма Польща'
+};
+
+const PROJECT_ORDER = [
+  'act_1579613729153862',
+  'act_697505648480997',
+  'act_719155103629080',
+  'act_1049637589865847',
+  'act_1038930234523229',
+  'act_1199606638060347'
+];
 // ============================================
 //  ЗАВАНТАЖЕННЯ ДАНИХ
 // ============================================
@@ -242,6 +263,20 @@ async function loadData() {
     }
 
     // Ініціалізуємо state
+    DATA.projects.forEach(p => {
+      if (PROJECT_NAMES[p.account_id]) {
+        p.name = PROJECT_NAMES[p.account_id];
+      }
+    });
+
+    DATA.projects.sort((a, b) => {
+      const ai = PROJECT_ORDER.indexOf(a.account_id);
+      const bi = PROJECT_ORDER.indexOf(b.account_id);
+      if (ai === -1 && bi === -1) return 0;
+      if (ai === -1) return 1;
+      if (bi === -1) return -1;
+      return ai - bi;
+    });
     state.projectId = DATA.projects[0].account_id;
 
     // Показуємо інтерфейс
