@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T20:11:25.532Z",
+  "generated_at": "2026-05-01T21:39:42.275Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -1208,33 +1208,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-01-31",
-          "campaign_id": "120234800968700027",
-          "campaign_name": "ОН Теплові насоси 12.11",
-          "spend": 11.03,
-          "impressions": 8244,
-          "clicks": 110,
-          "leads": 6
-        },
-        {
-          "date": "2026-01-31",
-          "campaign_id": "120237713435660027",
-          "campaign_name": "ОН Теплові насоси 12.11 – копія",
-          "spend": 19.84,
-          "impressions": 12363,
-          "clicks": 254,
-          "leads": 8
-        },
-        {
-          "date": "2026-01-31",
-          "campaign_id": "120237714507050027",
-          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
-          "spend": 14.7,
-          "impressions": 4336,
-          "clicks": 114,
-          "leads": 7
-        },
         {
           "date": "2026-02-01",
           "campaign_id": "120234800968700027",
@@ -5446,6 +5419,60 @@
           "impressions": 2627,
           "clicks": 25,
           "leads": 1
+        },
+        {
+          "date": "2026-05-01",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 25.38,
+          "impressions": 10294,
+          "clicks": 130,
+          "leads": 4
+        },
+        {
+          "date": "2026-05-01",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 5.53,
+          "impressions": 2225,
+          "clicks": 39,
+          "leads": 1
+        },
+        {
+          "date": "2026-05-01",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 5.46,
+          "impressions": 1977,
+          "clicks": 32,
+          "leads": 2
+        },
+        {
+          "date": "2026-05-01",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 22.35,
+          "impressions": 8255,
+          "clicks": 100,
+          "leads": 7
+        },
+        {
+          "date": "2026-05-01",
+          "campaign_id": "120241793018460027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
+          "spend": 10.49,
+          "impressions": 4914,
+          "clicks": 51,
+          "leads": 1
+        },
+        {
+          "date": "2026-05-01",
+          "campaign_id": "120242230358500027",
+          "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
+          "spend": 18.58,
+          "impressions": 4679,
+          "clicks": 51,
+          "leads": 2
         }
       ]
     },
@@ -6892,6 +6919,15 @@
           "impressions": 627,
           "clicks": 23,
           "leads": 4
+        },
+        {
+          "date": "2026-05-01",
+          "campaign_id": "120238933384400292",
+          "campaign_name": "Завантаження каталогу",
+          "spend": 0,
+          "impressions": 0,
+          "clicks": 0,
+          "leads": 0
         }
       ]
     },
@@ -7095,6 +7131,15 @@
           "spend": 2.09,
           "impressions": 285,
           "clicks": 5,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-01",
+          "campaign_id": "120243169362960749",
+          "campaign_name": "ТН ЛІДИ 10.03",
+          "spend": 2.16,
+          "impressions": 360,
+          "clicks": 7,
           "leads": 0
         }
       ]
@@ -7634,24 +7679,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-01-31",
-          "campaign_id": "120238762125980713",
-          "campaign_name": "СBO | CPL |  Січень / Три напрямки",
-          "spend": 8.69,
-          "impressions": 1275,
-          "clicks": 22,
-          "leads": 0
-        },
-        {
-          "date": "2026-01-31",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 8.77,
-          "impressions": 1389,
-          "clicks": 10,
-          "leads": 0
-        },
         {
           "date": "2026-02-01",
           "campaign_id": "120238762125980713",
@@ -8497,6 +8524,15 @@
           "impressions": 582,
           "clicks": 11,
           "leads": 5
+        },
+        {
+          "date": "2026-05-01",
+          "campaign_id": "120243628780830713",
+          "campaign_name": "Рілз на сайт квітень 2026",
+          "spend": 4.06,
+          "impressions": 844,
+          "clicks": 18,
+          "leads": 6
         }
       ]
     },
