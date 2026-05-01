@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T15:41:45.113Z",
+  "generated_at": "2026-05-01T18:11:05.534Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5398,7 +5398,7 @@
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
           "spend": 24.08,
-          "impressions": 10447,
+          "impressions": 10451,
           "clicks": 128,
           "leads": 1
         },
@@ -5406,8 +5406,8 @@
           "date": "2026-04-30",
           "campaign_id": "120240076115370027",
           "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
-          "spend": 4.42,
-          "impressions": 2175,
+          "spend": 4.43,
+          "impressions": 2176,
           "clicks": 23,
           "leads": 2
         },
@@ -5434,7 +5434,7 @@
           "campaign_id": "120241793018460027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
           "spend": 10.53,
-          "impressions": 4439,
+          "impressions": 4440,
           "clicks": 28,
           "leads": 1
         },
@@ -5443,7 +5443,7 @@
           "campaign_id": "120242230358500027",
           "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
           "spend": 12.04,
-          "impressions": 2625,
+          "impressions": 2626,
           "clicks": 25,
           "leads": 1
         }
@@ -8494,7 +8494,7 @@
           "campaign_id": "120243628780830713",
           "campaign_name": "Рілз на сайт квітень 2026",
           "spend": 2.87,
-          "impressions": 581,
+          "impressions": 582,
           "clicks": 11,
           "leads": 5
         }
