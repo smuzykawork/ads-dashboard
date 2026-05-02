@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T23:12:58.923Z",
+  "generated_at": "2026-05-02T00:08:15.353Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5425,7 +5425,7 @@
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
           "spend": 25.43,
-          "impressions": 10312,
+          "impressions": 10313,
           "clicks": 130,
           "leads": 4
         },
@@ -5461,7 +5461,7 @@
           "campaign_id": "120241793018460027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
           "spend": 10.49,
-          "impressions": 4917,
+          "impressions": 4918,
           "clicks": 51,
           "leads": 1
         },
@@ -5469,8 +5469,8 @@
           "date": "2026-05-01",
           "campaign_id": "120242230358500027",
           "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
-          "spend": 18.58,
-          "impressions": 4689,
+          "spend": 18.59,
+          "impressions": 4692,
           "clicks": 51,
           "leads": 2
         }
@@ -12011,8 +12011,8 @@
           "date": "2026-05-01",
           "campaign_id": "120241269377270392",
           "campaign_name": "Kurs 2 KLIMA",
-          "spend": 6.16,
-          "impressions": 302,
+          "spend": 6.19,
+          "impressions": 303,
           "clicks": 3,
           "leads": 0
         },
@@ -12020,8 +12020,8 @@
           "date": "2026-05-01",
           "campaign_id": "120245225691310392",
           "campaign_name": "FGAZy - WEB",
-          "spend": 13.99,
-          "impressions": 598,
+          "spend": 14.06,
+          "impressions": 602,
           "clicks": 12,
           "leads": 0
         }
