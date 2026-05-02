@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T10:32:35.848Z",
+  "generated_at": "2026-05-02T11:09:35.158Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5443,8 +5443,8 @@
           "campaign_id": "120240076633140027",
           "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
           "spend": 5.49,
-          "impressions": 1993,
-          "clicks": 32,
+          "impressions": 1994,
+          "clicks": 33,
           "leads": 2
         },
         {
@@ -5452,7 +5452,7 @@
           "campaign_id": "120240509574130027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
           "spend": 22.43,
-          "impressions": 8290,
+          "impressions": 8292,
           "clicks": 102,
           "leads": 7
         },
