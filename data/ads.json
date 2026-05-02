@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T22:25:20.796Z",
+  "generated_at": "2026-05-02T23:08:53.856Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5443,7 +5443,7 @@
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
           "spend": 24.58,
-          "impressions": 9371,
+          "impressions": 9373,
           "clicks": 97,
           "leads": 3
         },
@@ -5452,7 +5452,7 @@
           "campaign_id": "120240076115370027",
           "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
           "spend": 7.48,
-          "impressions": 3595,
+          "impressions": 3597,
           "clicks": 41,
           "leads": 3
         },
@@ -5461,7 +5461,7 @@
           "campaign_id": "120240076633140027",
           "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
           "spend": 6.31,
-          "impressions": 2355,
+          "impressions": 2356,
           "clicks": 21,
           "leads": 1
         },
@@ -5470,7 +5470,7 @@
           "campaign_id": "120240509574130027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
           "spend": 21.14,
-          "impressions": 7224,
+          "impressions": 7226,
           "clicks": 110,
           "leads": 12
         },
@@ -5488,7 +5488,7 @@
           "campaign_id": "120242230358500027",
           "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
           "spend": 22.24,
-          "impressions": 5135,
+          "impressions": 5137,
           "clicks": 64,
           "leads": 3
         }
@@ -8548,7 +8548,7 @@
           "campaign_id": "120243628780830713",
           "campaign_name": "Рілз на сайт квітень 2026",
           "spend": 7.71,
-          "impressions": 1526,
+          "impressions": 1527,
           "clicks": 32,
           "leads": 6
         }
@@ -12038,8 +12038,8 @@
           "date": "2026-05-02",
           "campaign_id": "120245225691310392",
           "campaign_name": "FGAZy - WEB",
-          "spend": 21.91,
-          "impressions": 1100,
+          "spend": 21.94,
+          "impressions": 1103,
           "clicks": 23,
           "leads": 0
         }
