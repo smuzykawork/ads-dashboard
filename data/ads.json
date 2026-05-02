@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T05:56:34.873Z",
+  "generated_at": "2026-05-02T06:28:29.828Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5425,7 +5425,7 @@
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
           "spend": 25.5,
-          "impressions": 10361,
+          "impressions": 10366,
           "clicks": 130,
           "leads": 4
         },
@@ -5452,7 +5452,7 @@
           "campaign_id": "120240509574130027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
           "spend": 22.4,
-          "impressions": 8277,
+          "impressions": 8280,
           "clicks": 102,
           "leads": 7
         },
@@ -5461,7 +5461,7 @@
           "campaign_id": "120241793018460027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
           "spend": 10.49,
-          "impressions": 4935,
+          "impressions": 4937,
           "clicks": 52,
           "leads": 1
         },
@@ -5470,7 +5470,7 @@
           "campaign_id": "120242230358500027",
           "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
           "spend": 18.68,
-          "impressions": 4730,
+          "impressions": 4733,
           "clicks": 51,
           "leads": 2
         }
