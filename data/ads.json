@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T22:08:52.408Z",
+  "generated_at": "2026-05-02T22:25:20.796Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5443,7 +5443,7 @@
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
           "spend": 24.58,
-          "impressions": 9369,
+          "impressions": 9371,
           "clicks": 97,
           "leads": 3
         },
@@ -5452,7 +5452,7 @@
           "campaign_id": "120240076115370027",
           "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
           "spend": 7.48,
-          "impressions": 3594,
+          "impressions": 3595,
           "clicks": 41,
           "leads": 3
         },
@@ -5470,7 +5470,7 @@
           "campaign_id": "120240509574130027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
           "spend": 21.14,
-          "impressions": 7223,
+          "impressions": 7224,
           "clicks": 110,
           "leads": 12
         },
@@ -5479,7 +5479,7 @@
           "campaign_id": "120241793018460027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
           "spend": 9.99,
-          "impressions": 3617,
+          "impressions": 3618,
           "clicks": 29,
           "leads": 1
         },
@@ -8548,7 +8548,7 @@
           "campaign_id": "120243628780830713",
           "campaign_name": "Рілз на сайт квітень 2026",
           "spend": 7.71,
-          "impressions": 1525,
+          "impressions": 1526,
           "clicks": 32,
           "leads": 6
         }
@@ -12038,8 +12038,8 @@
           "date": "2026-05-02",
           "campaign_id": "120245225691310392",
           "campaign_name": "FGAZy - WEB",
-          "spend": 21.9,
-          "impressions": 1099,
+          "spend": 21.91,
+          "impressions": 1100,
           "clicks": 23,
           "leads": 0
         }
