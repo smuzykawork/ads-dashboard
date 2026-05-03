@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T23:08:53.856Z",
+  "generated_at": "2026-05-03T07:23:41.845Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5389,7 +5389,7 @@
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
           "spend": 25.51,
-          "impressions": 10382,
+          "impressions": 10383,
           "clicks": 130,
           "leads": 4
         },
@@ -5433,8 +5433,8 @@
           "date": "2026-05-01",
           "campaign_id": "120242230358500027",
           "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
-          "spend": 18.68,
-          "impressions": 4745,
+          "spend": 18.69,
+          "impressions": 4746,
           "clicks": 51,
           "leads": 2
         },
@@ -5442,8 +5442,8 @@
           "date": "2026-05-02",
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
-          "spend": 24.58,
-          "impressions": 9373,
+          "spend": 24.59,
+          "impressions": 9403,
           "clicks": 97,
           "leads": 3
         },
@@ -5452,7 +5452,7 @@
           "campaign_id": "120240076115370027",
           "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
           "spend": 7.48,
-          "impressions": 3597,
+          "impressions": 3617,
           "clicks": 41,
           "leads": 3
         },
@@ -5460,8 +5460,8 @@
           "date": "2026-05-02",
           "campaign_id": "120240076633140027",
           "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
-          "spend": 6.31,
-          "impressions": 2356,
+          "spend": 6.33,
+          "impressions": 2366,
           "clicks": 21,
           "leads": 1
         },
@@ -5469,8 +5469,8 @@
           "date": "2026-05-02",
           "campaign_id": "120240509574130027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
-          "spend": 21.14,
-          "impressions": 7226,
+          "spend": 21.18,
+          "impressions": 7259,
           "clicks": 110,
           "leads": 12
         },
@@ -5479,7 +5479,7 @@
           "campaign_id": "120241793018460027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
           "spend": 9.99,
-          "impressions": 3618,
+          "impressions": 3621,
           "clicks": 29,
           "leads": 1
         },
@@ -5487,8 +5487,8 @@
           "date": "2026-05-02",
           "campaign_id": "120242230358500027",
           "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
-          "spend": 22.24,
-          "impressions": 5137,
+          "spend": 22.25,
+          "impressions": 5156,
           "clicks": 64,
           "leads": 3
         }
@@ -8547,8 +8547,8 @@
           "date": "2026-05-02",
           "campaign_id": "120243628780830713",
           "campaign_name": "Рілз на сайт квітень 2026",
-          "spend": 7.71,
-          "impressions": 1527,
+          "spend": 7.74,
+          "impressions": 1537,
           "clicks": 32,
           "leads": 6
         }
@@ -12038,8 +12038,8 @@
           "date": "2026-05-02",
           "campaign_id": "120245225691310392",
           "campaign_name": "FGAZy - WEB",
-          "spend": 21.94,
-          "impressions": 1103,
+          "spend": 21.96,
+          "impressions": 1107,
           "clicks": 23,
           "leads": 0
         }
