@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T18:06:55.162Z",
+  "generated_at": "2026-05-03T19:41:06.177Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5451,8 +5451,8 @@
           "date": "2026-05-02",
           "campaign_id": "120240076115370027",
           "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
-          "spend": 7.48,
-          "impressions": 3624,
+          "spend": 7.49,
+          "impressions": 3625,
           "clicks": 41,
           "leads": 3
         },
@@ -5470,7 +5470,7 @@
           "campaign_id": "120240509574130027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
           "spend": 21.22,
-          "impressions": 7275,
+          "impressions": 7276,
           "clicks": 110,
           "leads": 12
         },
@@ -12038,8 +12038,8 @@
           "date": "2026-05-02",
           "campaign_id": "120245225691310392",
           "campaign_name": "FGAZy - WEB",
-          "spend": 22,
-          "impressions": 1112,
+          "spend": 22.01,
+          "impressions": 1113,
           "clicks": 23,
           "leads": 0
         }
