@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T22:09:30.015Z",
+  "generated_at": "2026-05-03T23:10:18.780Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5461,7 +5461,7 @@
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
           "spend": 27.26,
-          "impressions": 9506,
+          "impressions": 9509,
           "clicks": 121,
           "leads": 2
         },
@@ -5469,8 +5469,8 @@
           "date": "2026-05-03",
           "campaign_id": "120240076115370027",
           "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
-          "spend": 5.56,
-          "impressions": 2520,
+          "spend": 5.57,
+          "impressions": 2522,
           "clicks": 38,
           "leads": 4
         },
@@ -5478,8 +5478,8 @@
           "date": "2026-05-03",
           "campaign_id": "120240076633140027",
           "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
-          "spend": 5.41,
-          "impressions": 1952,
+          "spend": 5.42,
+          "impressions": 1955,
           "clicks": 30,
           "leads": 4
         },
@@ -5488,7 +5488,7 @@
           "campaign_id": "120240509574130027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
           "spend": 23.54,
-          "impressions": 9739,
+          "impressions": 9742,
           "clicks": 121,
           "leads": 6
         },
@@ -5497,7 +5497,7 @@
           "campaign_id": "120241793018460027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
           "spend": 10.82,
-          "impressions": 4425,
+          "impressions": 4426,
           "clicks": 32,
           "leads": 1
         },
@@ -5505,8 +5505,8 @@
           "date": "2026-05-03",
           "campaign_id": "120242230358500027",
           "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
-          "spend": 20.52,
-          "impressions": 4639,
+          "spend": 20.53,
+          "impressions": 4647,
           "clicks": 59,
           "leads": 0
         }
@@ -8566,7 +8566,7 @@
           "campaign_id": "120243628780830713",
           "campaign_name": "Рілз на сайт квітень 2026",
           "spend": 4.12,
-          "impressions": 776,
+          "impressions": 777,
           "clicks": 8,
           "leads": 0
         }
@@ -12057,7 +12057,7 @@
           "campaign_id": "120245225691310392",
           "campaign_name": "FGAZy - WEB",
           "spend": 11.97,
-          "impressions": 701,
+          "impressions": 703,
           "clicks": 24,
           "leads": 0
         }
