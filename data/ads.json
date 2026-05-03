@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T17:33:22.786Z",
+  "generated_at": "2026-05-03T18:06:55.162Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5415,8 +5415,8 @@
           "date": "2026-05-01",
           "campaign_id": "120240509574130027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
-          "spend": 22.44,
-          "impressions": 8294,
+          "spend": 22.48,
+          "impressions": 8295,
           "clicks": 102,
           "leads": 7
         },
@@ -5443,7 +5443,7 @@
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
           "spend": 24.6,
-          "impressions": 9423,
+          "impressions": 9424,
           "clicks": 97,
           "leads": 3
         },
@@ -12038,8 +12038,8 @@
           "date": "2026-05-02",
           "campaign_id": "120245225691310392",
           "campaign_name": "FGAZy - WEB",
-          "spend": 21.98,
-          "impressions": 1111,
+          "spend": 22,
+          "impressions": 1112,
           "clicks": 23,
           "leads": 0
         }
