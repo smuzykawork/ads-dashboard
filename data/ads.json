@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T20:27:57.093Z",
+  "generated_at": "2026-05-03T22:09:30.015Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -1208,42 +1208,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-02-02",
-          "campaign_id": "120234800968700027",
-          "campaign_name": "ОН Теплові насоси 12.11",
-          "spend": 9.89,
-          "impressions": 5876,
-          "clicks": 95,
-          "leads": 5
-        },
-        {
-          "date": "2026-02-02",
-          "campaign_id": "120237713435660027",
-          "campaign_name": "ОН Теплові насоси 12.11 – копія",
-          "spend": 19.83,
-          "impressions": 14101,
-          "clicks": 295,
-          "leads": 5
-        },
-        {
-          "date": "2026-02-02",
-          "campaign_id": "120237714507050027",
-          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
-          "spend": 14.81,
-          "impressions": 6338,
-          "clicks": 140,
-          "leads": 5
-        },
-        {
-          "date": "2026-02-02",
-          "campaign_id": "120238303003340027",
-          "campaign_name": "Реклама Вадим Рубан (вакансія 1)",
-          "spend": 5.71,
-          "impressions": 841,
-          "clicks": 18,
-          "leads": 1
-        },
         {
           "date": "2026-02-03",
           "campaign_id": "120234800968700027",
@@ -5491,6 +5455,60 @@
           "impressions": 5160,
           "clicks": 64,
           "leads": 3
+        },
+        {
+          "date": "2026-05-03",
+          "campaign_id": "120239652104390027",
+          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
+          "spend": 27.26,
+          "impressions": 9506,
+          "clicks": 121,
+          "leads": 2
+        },
+        {
+          "date": "2026-05-03",
+          "campaign_id": "120240076115370027",
+          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
+          "spend": 5.56,
+          "impressions": 2520,
+          "clicks": 38,
+          "leads": 4
+        },
+        {
+          "date": "2026-05-03",
+          "campaign_id": "120240076633140027",
+          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
+          "spend": 5.41,
+          "impressions": 1952,
+          "clicks": 30,
+          "leads": 4
+        },
+        {
+          "date": "2026-05-03",
+          "campaign_id": "120240509574130027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
+          "spend": 23.54,
+          "impressions": 9739,
+          "clicks": 121,
+          "leads": 6
+        },
+        {
+          "date": "2026-05-03",
+          "campaign_id": "120241793018460027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
+          "spend": 10.82,
+          "impressions": 4425,
+          "clicks": 32,
+          "leads": 1
+        },
+        {
+          "date": "2026-05-03",
+          "campaign_id": "120242230358500027",
+          "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
+          "spend": 20.52,
+          "impressions": 4639,
+          "clicks": 59,
+          "leads": 0
         }
       ]
     },
@@ -7168,6 +7186,15 @@
           "impressions": 192,
           "clicks": 9,
           "leads": 1
+        },
+        {
+          "date": "2026-05-03",
+          "campaign_id": "120243169362960749",
+          "campaign_name": "ТН ЛІДИ 10.03",
+          "spend": 2.86,
+          "impressions": 339,
+          "clicks": 10,
+          "leads": 2
         }
       ]
     },
@@ -7706,24 +7733,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-02-02",
-          "campaign_id": "120238762125980713",
-          "campaign_name": "СBO | CPL |  Січень / Три напрямки",
-          "spend": 11.58,
-          "impressions": 1703,
-          "clicks": 22,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-02",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 10.51,
-          "impressions": 1510,
-          "clicks": 19,
-          "leads": 0
-        },
         {
           "date": "2026-02-03",
           "campaign_id": "120238762125980713",
@@ -8551,6 +8560,15 @@
           "impressions": 1545,
           "clicks": 32,
           "leads": 6
+        },
+        {
+          "date": "2026-05-03",
+          "campaign_id": "120243628780830713",
+          "campaign_name": "Рілз на сайт квітень 2026",
+          "spend": 4.12,
+          "impressions": 776,
+          "clicks": 8,
+          "leads": 0
         }
       ]
     },
@@ -10027,24 +10045,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-02-02",
-          "campaign_id": "120240638776090392",
-          "campaign_name": "KURS 1 to www",
-          "spend": 62.78,
-          "impressions": 5191,
-          "clicks": 227,
-          "leads": 5
-        },
-        {
-          "date": "2026-02-02",
-          "campaign_id": "120240642923020392",
-          "campaign_name": "Kurs 3 - www + forma",
-          "spend": 57.95,
-          "impressions": 3294,
-          "clicks": 190,
-          "leads": 0
-        },
         {
           "date": "2026-02-03",
           "campaign_id": "120240493169710392",
@@ -12041,6 +12041,24 @@
           "spend": 22.01,
           "impressions": 1113,
           "clicks": 23,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-03",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 4.29,
+          "impressions": 288,
+          "clicks": 9,
+          "leads": 1
+        },
+        {
+          "date": "2026-05-03",
+          "campaign_id": "120245225691310392",
+          "campaign_name": "FGAZy - WEB",
+          "spend": 11.97,
+          "impressions": 701,
+          "clicks": 24,
           "leads": 0
         }
       ]
