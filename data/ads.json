@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T07:30:50.064Z",
+  "generated_at": "2026-05-05T07:33:52.908Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5479,7 +5479,7 @@
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
           "spend": 24.65,
-          "impressions": 8165,
+          "impressions": 8166,
           "clicks": 103,
           "leads": 1
         },
@@ -5506,7 +5506,7 @@
           "campaign_id": "120240509574130027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
           "spend": 19.93,
-          "impressions": 7853,
+          "impressions": 7854,
           "clicks": 78,
           "leads": 5
         },
