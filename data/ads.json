@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T09:17:53.215Z",
+  "generated_at": "2026-05-05T11:50:46.219Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5478,8 +5478,8 @@
           "date": "2026-05-04",
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
-          "spend": 24.65,
-          "impressions": 8170,
+          "spend": 24.71,
+          "impressions": 8175,
           "clicks": 103,
           "leads": 1
         },
@@ -5506,7 +5506,7 @@
           "campaign_id": "120240509574130027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
           "spend": 19.93,
-          "impressions": 7857,
+          "impressions": 7858,
           "clicks": 78,
           "leads": 5
         },
@@ -5524,7 +5524,7 @@
           "campaign_id": "120242230358500027",
           "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
           "spend": 14.78,
-          "impressions": 2904,
+          "impressions": 2905,
           "clicks": 20,
           "leads": 0
         }
@@ -8862,6 +8862,12 @@
       "currency": "PLN",
       "campaigns": [
         {
+          "id": "120245836336330392",
+          "name": "Kurs 2 Klima new",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120245225691310392",
           "name": "FGAZy - WEB",
           "status": "PAUSED",
@@ -10052,12 +10058,6 @@
         {
           "id": "120211251696490392",
           "name": "Post: \"🔧 Montaż klimakonwektorów: zostań profesjonalistą! 🔧\"",
-          "status": "PAUSED",
-          "objective": "LINK_CLICKS"
-        },
-        {
-          "id": "120211251369230392",
-          "name": "видео джаз оранж",
           "status": "PAUSED",
           "objective": "LINK_CLICKS"
         }
