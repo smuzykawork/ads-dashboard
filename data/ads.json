@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T22:13:02.391Z",
+  "generated_at": "2026-05-05T23:36:45.320Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5496,8 +5496,8 @@
           "date": "2026-05-05",
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
-          "spend": 23.92,
-          "impressions": 7582,
+          "spend": 23.93,
+          "impressions": 7587,
           "clicks": 98,
           "leads": 2
         },
@@ -5506,7 +5506,7 @@
           "campaign_id": "120240076115370027",
           "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
           "spend": 4.84,
-          "impressions": 2831,
+          "impressions": 2834,
           "clicks": 29,
           "leads": 1
         },
@@ -5524,7 +5524,7 @@
           "campaign_id": "120240509574130027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
           "spend": 14.06,
-          "impressions": 4922,
+          "impressions": 4924,
           "clicks": 59,
           "leads": 5
         },
@@ -12065,8 +12065,8 @@
           "date": "2026-05-05",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 18.26,
-          "impressions": 1008,
+          "spend": 18.35,
+          "impressions": 1011,
           "clicks": 42,
           "leads": 2
         }
