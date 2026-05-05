@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T11:50:46.219Z",
+  "generated_at": "2026-05-05T12:11:33.682Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5479,7 +5479,7 @@
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
           "spend": 24.71,
-          "impressions": 8175,
+          "impressions": 8176,
           "clicks": 103,
           "leads": 1
         },
