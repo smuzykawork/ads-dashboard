@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T09:36:55.152Z",
+  "generated_at": "2026-05-06T16:16:04.190Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5488,7 +5488,7 @@
           "campaign_id": "120242230358500027",
           "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
           "spend": 14.78,
-          "impressions": 2911,
+          "impressions": 2912,
           "clicks": 20,
           "leads": 0
         },
@@ -5496,8 +5496,8 @@
           "date": "2026-05-05",
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
-          "spend": 24.09,
-          "impressions": 7650,
+          "spend": 24.11,
+          "impressions": 7664,
           "clicks": 101,
           "leads": 2
         },
@@ -5505,8 +5505,8 @@
           "date": "2026-05-05",
           "campaign_id": "120240076115370027",
           "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
-          "spend": 4.88,
-          "impressions": 2864,
+          "spend": 4.89,
+          "impressions": 2868,
           "clicks": 29,
           "leads": 1
         },
@@ -5515,7 +5515,7 @@
           "campaign_id": "120240076633140027",
           "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
           "spend": 4.77,
-          "impressions": 1789,
+          "impressions": 1790,
           "clicks": 26,
           "leads": 1
         },
@@ -5524,7 +5524,7 @@
           "campaign_id": "120240509574130027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
           "spend": 14.07,
-          "impressions": 4943,
+          "impressions": 4947,
           "clicks": 60,
           "leads": 5
         },
@@ -5532,8 +5532,8 @@
           "date": "2026-05-05",
           "campaign_id": "120242230358500027",
           "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
-          "spend": 14.92,
-          "impressions": 3127,
+          "spend": 14.93,
+          "impressions": 3130,
           "clicks": 31,
           "leads": 2
         }
@@ -8599,7 +8599,7 @@
           "campaign_id": "120243628780830713",
           "campaign_name": "Рілз на сайт квітень 2026",
           "spend": 4.05,
-          "impressions": 736,
+          "impressions": 738,
           "clicks": 18,
           "leads": 0
         }
@@ -12071,8 +12071,8 @@
           "date": "2026-05-05",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 18.86,
-          "impressions": 1031,
+          "spend": 18.87,
+          "impressions": 1034,
           "clicks": 42,
           "leads": 2
         }
