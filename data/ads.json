@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T08:05:49.992Z",
+  "generated_at": "2026-05-07T10:02:33.286Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5514,8 +5514,8 @@
           "date": "2026-05-06",
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
-          "spend": 25.58,
-          "impressions": 9646,
+          "spend": 25.61,
+          "impressions": 9657,
           "clicks": 114,
           "leads": 5
         },
@@ -5523,8 +5523,8 @@
           "date": "2026-05-06",
           "campaign_id": "120240076115370027",
           "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
-          "spend": 4.79,
-          "impressions": 2445,
+          "spend": 4.81,
+          "impressions": 2448,
           "clicks": 51,
           "leads": 3
         },
@@ -5533,7 +5533,7 @@
           "campaign_id": "120240076633140027",
           "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
           "spend": 5.21,
-          "impressions": 1694,
+          "impressions": 1695,
           "clicks": 28,
           "leads": 2
         },
@@ -5542,7 +5542,7 @@
           "campaign_id": "120240509574130027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
           "spend": 18.94,
-          "impressions": 6330,
+          "impressions": 6331,
           "clicks": 57,
           "leads": 4
         },
@@ -5550,8 +5550,8 @@
           "date": "2026-05-06",
           "campaign_id": "120242230358500027",
           "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
-          "spend": 12.93,
-          "impressions": 3868,
+          "spend": 12.94,
+          "impressions": 3871,
           "clicks": 31,
           "leads": 1
         }
@@ -8635,7 +8635,7 @@
           "campaign_id": "120244164745920713",
           "campaign_name": "СBO | CPL |  Травень / Кейси",
           "spend": 8.94,
-          "impressions": 1167,
+          "impressions": 1168,
           "clicks": 27,
           "leads": 2
         }
@@ -12098,8 +12098,8 @@
           "date": "2026-05-06",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 50.64,
-          "impressions": 2740,
+          "spend": 50.73,
+          "impressions": 2744,
           "clicks": 69,
           "leads": 2
         }
