@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-05-07T15:56:19.069Z",
+  "generated_at": "2026-05-07T16:19:33.025Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120242845823690027",
+          "name": "Курс ОН Монтажник кондиціонерів 07.05",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120242845808930027",
+          "name": "Курс ОН Монтажник кондиціонерів 07.05",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120242845747840027",
+          "name": "ОН Теплові насоси 07.05",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120242845623600027",
+          "name": "Вебінар - Помилки Теплові насоси 07.05",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120242820310940027",
           "name": "Вебінар Вальравен - кріплення врф",
@@ -15,7 +39,7 @@
         {
           "id": "120242230358500027",
           "name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -1179,30 +1203,6 @@
         {
           "id": "120207626768810027",
           "name": "Конверсія на сайті / Курси / 20.04",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120207260102400027",
-          "name": "Конверсія на сайті / Курси / 08.04",
-          "status": "PAUSED",
-          "objective": "OUTCOME_TRAFFIC"
-        },
-        {
-          "id": "120207259755820027",
-          "name": "Конверсія на сайті / Акція / 08.04",
-          "status": "PAUSED",
-          "objective": "OUTCOME_TRAFFIC"
-        },
-        {
-          "id": "120207259360880027",
-          "name": "Конверсія на сайті / Акція / 08.04",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120207131638840027",
-          "name": "Конверсія на сайті / Курси / 03.04",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -5524,7 +5524,7 @@
           "campaign_id": "120240076115370027",
           "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
           "spend": 4.82,
-          "impressions": 2450,
+          "impressions": 2451,
           "clicks": 51,
           "leads": 3
         },
