@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-05-07T10:02:33.286Z",
+  "generated_at": "2026-05-07T15:56:19.069Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120242820310940027",
+          "name": "Вебінар Вальравен - кріплення врф",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120242230358500027",
           "name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
@@ -39,7 +45,7 @@
         {
           "id": "120240509574130027",
           "name": "Вебінар - Помилки Теплові насоси 27.03",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -51,13 +57,13 @@
         {
           "id": "120240076633140027",
           "name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
           "id": "120240076115370027",
           "name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -93,7 +99,7 @@
         {
           "id": "120239652104390027",
           "name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -1197,12 +1203,6 @@
         {
           "id": "120207131638840027",
           "name": "Конверсія на сайті / Курси / 03.04",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120207066975670027",
-          "name": "Конверсія на сайті / Курси / 02.04",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -5514,8 +5514,8 @@
           "date": "2026-05-06",
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
-          "spend": 25.61,
-          "impressions": 9657,
+          "spend": 25.64,
+          "impressions": 9671,
           "clicks": 114,
           "leads": 5
         },
@@ -5523,8 +5523,8 @@
           "date": "2026-05-06",
           "campaign_id": "120240076115370027",
           "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
-          "spend": 4.81,
-          "impressions": 2448,
+          "spend": 4.82,
+          "impressions": 2450,
           "clicks": 51,
           "leads": 3
         },
@@ -5533,7 +5533,7 @@
           "campaign_id": "120240076633140027",
           "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
           "spend": 5.21,
-          "impressions": 1695,
+          "impressions": 1698,
           "clicks": 28,
           "leads": 2
         },
@@ -5542,7 +5542,7 @@
           "campaign_id": "120240509574130027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
           "spend": 18.94,
-          "impressions": 6331,
+          "impressions": 6334,
           "clicks": 57,
           "leads": 4
         },
@@ -5550,8 +5550,8 @@
           "date": "2026-05-06",
           "campaign_id": "120242230358500027",
           "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
-          "spend": 12.94,
-          "impressions": 3871,
+          "spend": 12.97,
+          "impressions": 3876,
           "clicks": 31,
           "leads": 1
         }
@@ -7263,8 +7263,8 @@
           "date": "2026-05-06",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 2.12,
-          "impressions": 403,
+          "spend": 2.13,
+          "impressions": 404,
           "clicks": 15,
           "leads": 1
         }
@@ -8634,8 +8634,8 @@
           "date": "2026-05-06",
           "campaign_id": "120244164745920713",
           "campaign_name": "СBO | CPL |  Травень / Кейси",
-          "spend": 8.94,
-          "impressions": 1168,
+          "spend": 8.95,
+          "impressions": 1169,
           "clicks": 27,
           "leads": 2
         }
@@ -12098,8 +12098,8 @@
           "date": "2026-05-06",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 50.73,
-          "impressions": 2744,
+          "spend": 50.74,
+          "impressions": 2745,
           "clicks": 69,
           "leads": 2
         }
