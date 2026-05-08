@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T11:57:52.267Z",
+  "generated_at": "2026-05-08T16:04:35.068Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5506,7 +5506,7 @@
           "campaign_id": "120242230358500027",
           "campaign_name": "Курс ОФ Монтажник кондиціонерів та вентиляції 04.07 – копія – копія",
           "spend": 12.97,
-          "impressions": 3877,
+          "impressions": 3878,
           "clicks": 31,
           "leads": 1
         },
@@ -5514,8 +5514,8 @@
           "date": "2026-05-07",
           "campaign_id": "120239652104390027",
           "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
-          "spend": 13.08,
-          "impressions": 3662,
+          "spend": 13.1,
+          "impressions": 3663,
           "clicks": 52,
           "leads": 1
         },
@@ -5569,7 +5569,7 @@
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
           "spend": 1.9,
-          "impressions": 894,
+          "impressions": 895,
           "clicks": 9,
           "leads": 0
         },
@@ -5578,7 +5578,7 @@
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
           "spend": 2.5,
-          "impressions": 757,
+          "impressions": 759,
           "clicks": 9,
           "leads": 0
         },
@@ -5587,7 +5587,7 @@
           "campaign_id": "120242845808930027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
           "spend": 8.68,
-          "impressions": 2968,
+          "impressions": 2971,
           "clicks": 47,
           "leads": 1
         },
@@ -5595,8 +5595,8 @@
           "date": "2026-05-07",
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 9.48,
-          "impressions": 3178,
+          "spend": 9.49,
+          "impressions": 3184,
           "clicks": 45,
           "leads": 0
         }
@@ -8973,6 +8973,12 @@
       "currency": "PLN",
       "campaigns": [
         {
+          "id": "120246162254390392",
+          "name": "Kompas inwestycjy",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120245836336330392",
           "name": "Kurs 2 Klima new",
           "status": "PAUSED",
@@ -10163,12 +10169,6 @@
         {
           "id": "120211258041040392",
           "name": "Фото черній фон аля Чичваркин - фотовольтаика",
-          "status": "PAUSED",
-          "objective": "LINK_CLICKS"
-        },
-        {
-          "id": "120211251696490392",
-          "name": "Post: \"🔧 Montaż klimakonwektorów: zostań profesjonalistą! 🔧\"",
           "status": "PAUSED",
           "objective": "LINK_CLICKS"
         }
