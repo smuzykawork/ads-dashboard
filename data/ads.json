@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-05-08T16:04:35.068Z",
+  "generated_at": "2026-05-08T16:51:18.966Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120242923511420027",
+          "name": "Курс ОН Монтажник кондиціонерів 08.05 ЄВРОПА",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120242845823690027",
           "name": "Курс ОН Монтажник кондиціонерів 07.05",
@@ -1196,12 +1202,6 @@
         },
         {
           "id": "120207626853950027",
-          "name": "Конверсія на сайті / Курси / 20.04",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120207626768810027",
           "name": "Конверсія на сайті / Курси / 20.04",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
