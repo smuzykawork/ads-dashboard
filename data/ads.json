@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T16:54:11.236Z",
+  "generated_at": "2026-05-08T20:16:24.209Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5587,7 +5587,7 @@
           "campaign_id": "120242845808930027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
           "spend": 8.68,
-          "impressions": 2971,
+          "impressions": 2972,
           "clicks": 47,
           "leads": 1
         },
@@ -5595,8 +5595,8 @@
           "date": "2026-05-07",
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 9.49,
-          "impressions": 3184,
+          "spend": 9.5,
+          "impressions": 3187,
           "clicks": 45,
           "leads": 0
         }
