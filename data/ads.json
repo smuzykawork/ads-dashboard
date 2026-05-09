@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T23:41:56.457Z",
+  "generated_at": "2026-05-09T00:14:33.284Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7066,7 +7066,7 @@
           "campaign_id": "120240693449630292",
           "campaign_name": "Диллери Трафік",
           "spend": 1.01,
-          "impressions": 1694,
+          "impressions": 1696,
           "clicks": 32,
           "leads": 0
         }
@@ -7342,7 +7342,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 1.89,
-          "impressions": 410,
+          "impressions": 411,
           "clicks": 6,
           "leads": 1
         }
@@ -12149,8 +12149,8 @@
           "date": "2026-05-08",
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
-          "spend": 16.85,
-          "impressions": 865,
+          "spend": 16.92,
+          "impressions": 868,
           "clicks": 18,
           "leads": 2
         }
