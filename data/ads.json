@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T11:14:49.401Z",
+  "generated_at": "2026-05-09T14:35:03.357Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5479,7 +5479,7 @@
           "campaign_id": "120240076115370027",
           "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
           "spend": 3.12,
-          "impressions": 1641,
+          "impressions": 1642,
           "clicks": 17,
           "leads": 2
         },
@@ -5551,7 +5551,7 @@
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
           "spend": 9.5,
-          "impressions": 3187,
+          "impressions": 3188,
           "clicks": 45,
           "leads": 0
         },
@@ -5560,7 +5560,7 @@
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
           "spend": 5.41,
-          "impressions": 2485,
+          "impressions": 2487,
           "clicks": 32,
           "leads": 3
         },
@@ -5577,8 +5577,8 @@
           "date": "2026-05-08",
           "campaign_id": "120242845808930027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 26.67,
-          "impressions": 9984,
+          "spend": 26.68,
+          "impressions": 9988,
           "clicks": 130,
           "leads": 4
         },
@@ -5586,8 +5586,8 @@
           "date": "2026-05-08",
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 28.77,
-          "impressions": 9993,
+          "spend": 28.78,
+          "impressions": 9996,
           "clicks": 190,
           "leads": 6
         },
@@ -5607,6 +5607,24 @@
       "name": "Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120240780023710292",
+          "name": "Впізнаність Акліма",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_AWARENESS"
+        },
+        {
+          "id": "120240779068320292",
+          "name": "Дилер через сайт та піксель",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120240769624600292",
+          "name": "Дилер Контакти - Форма",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120240693449630292",
           "name": "Диллери Трафік",
@@ -7066,7 +7084,7 @@
           "campaign_id": "120240693449630292",
           "campaign_name": "Диллери Трафік",
           "spend": 1.09,
-          "impressions": 1762,
+          "impressions": 1763,
           "clicks": 34,
           "leads": 0
         }
