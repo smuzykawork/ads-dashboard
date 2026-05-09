@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T15:31:49.437Z",
+  "generated_at": "2026-05-09T17:37:48.509Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5542,7 +5542,7 @@
           "campaign_id": "120242845808930027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
           "spend": 8.69,
-          "impressions": 2973,
+          "impressions": 2974,
           "clicks": 47,
           "leads": 1
         },
@@ -5578,7 +5578,7 @@
           "campaign_id": "120242845808930027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
           "spend": 26.68,
-          "impressions": 9989,
+          "impressions": 9991,
           "clicks": 130,
           "leads": 4
         },
@@ -5586,8 +5586,8 @@
           "date": "2026-05-08",
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 28.78,
-          "impressions": 9996,
+          "spend": 28.79,
+          "impressions": 9999,
           "clicks": 190,
           "leads": 6
         },
@@ -5610,7 +5610,7 @@
         {
           "id": "120240780023710292",
           "name": "Впізнаність Акліма",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_AWARENESS"
         },
         {
@@ -12167,8 +12167,8 @@
           "date": "2026-05-08",
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
-          "spend": 17.5,
-          "impressions": 900,
+          "spend": 17.52,
+          "impressions": 901,
           "clicks": 18,
           "leads": 2
         }
