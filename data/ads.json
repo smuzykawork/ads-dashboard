@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T20:07:08.981Z",
+  "generated_at": "2026-05-09T21:05:35.861Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -1208,51 +1208,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-02-08",
-          "campaign_id": "120234800968700027",
-          "campaign_name": "ОН Теплові насоси 12.11",
-          "spend": 10.91,
-          "impressions": 6623,
-          "clicks": 104,
-          "leads": 1
-        },
-        {
-          "date": "2026-02-08",
-          "campaign_id": "120237713435660027",
-          "campaign_name": "ОН Теплові насоси 12.11 – копія",
-          "spend": 21.3,
-          "impressions": 8739,
-          "clicks": 228,
-          "leads": 1
-        },
-        {
-          "date": "2026-02-08",
-          "campaign_id": "120237714507050027",
-          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
-          "spend": 15.8,
-          "impressions": 4422,
-          "clicks": 85,
-          "leads": 5
-        },
-        {
-          "date": "2026-02-08",
-          "campaign_id": "120238545324470027",
-          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
-          "spend": 3.02,
-          "impressions": 4798,
-          "clicks": 132,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-08",
-          "campaign_id": "120238545914700027",
-          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
-          "spend": 8.6,
-          "impressions": 4152,
-          "clicks": 43,
-          "leads": 2
-        },
         {
           "date": "2026-02-09",
           "campaign_id": "120234800968700027",
@@ -5577,8 +5532,8 @@
           "date": "2026-05-08",
           "campaign_id": "120242845808930027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 26.69,
-          "impressions": 9994,
+          "spend": 26.7,
+          "impressions": 9995,
           "clicks": 130,
           "leads": 4
         },
@@ -5599,6 +5554,51 @@
           "impressions": 180,
           "clicks": 4,
           "leads": 0
+        },
+        {
+          "date": "2026-05-09",
+          "campaign_id": "120242845623600027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
+          "spend": 10.03,
+          "impressions": 4529,
+          "clicks": 54,
+          "leads": 5
+        },
+        {
+          "date": "2026-05-09",
+          "campaign_id": "120242845747840027",
+          "campaign_name": "ОН Теплові насоси 07.05",
+          "spend": 6.2,
+          "impressions": 2451,
+          "clicks": 39,
+          "leads": 2
+        },
+        {
+          "date": "2026-05-09",
+          "campaign_id": "120242845808930027",
+          "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
+          "spend": 19.21,
+          "impressions": 7601,
+          "clicks": 89,
+          "leads": 2
+        },
+        {
+          "date": "2026-05-09",
+          "campaign_id": "120242845823690027",
+          "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
+          "spend": 17.07,
+          "impressions": 7141,
+          "clicks": 107,
+          "leads": 2
+        },
+        {
+          "date": "2026-05-09",
+          "campaign_id": "120242923511420027",
+          "campaign_name": "Курс ОН Монтажник кондиціонерів 08.05 ЄВРОПА",
+          "spend": 16.39,
+          "impressions": 2697,
+          "clicks": 123,
+          "leads": 5
         }
       ]
     },
@@ -7087,6 +7087,42 @@
           "impressions": 1764,
           "clicks": 34,
           "leads": 0
+        },
+        {
+          "date": "2026-05-09",
+          "campaign_id": "120240693449630292",
+          "campaign_name": "Диллери Трафік",
+          "spend": 0.9,
+          "impressions": 1385,
+          "clicks": 27,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-09",
+          "campaign_id": "120240769624600292",
+          "campaign_name": "Дилер Контакти - Форма",
+          "spend": 2.92,
+          "impressions": 1063,
+          "clicks": 7,
+          "leads": 1
+        },
+        {
+          "date": "2026-05-09",
+          "campaign_id": "120240779068320292",
+          "campaign_name": "Дилер через сайт та піксель",
+          "spend": 2.87,
+          "impressions": 1056,
+          "clicks": 14,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-09",
+          "campaign_id": "120240780023710292",
+          "campaign_name": "Впізнаність Акліма",
+          "spend": 0.98,
+          "impressions": 2440,
+          "clicks": 0,
+          "leads": 0
         }
       ]
     },
@@ -7363,6 +7399,15 @@
           "impressions": 412,
           "clicks": 6,
           "leads": 1
+        },
+        {
+          "date": "2026-05-09",
+          "campaign_id": "120243169362960749",
+          "campaign_name": "ТН ЛІДИ 10.03",
+          "spend": 1.32,
+          "impressions": 366,
+          "clicks": 14,
+          "leads": 2
         }
       ]
     },
@@ -7906,836 +7951,7 @@
           "objective": "OUTCOME_LEADS"
         }
       ],
-      "daily": [
-        {
-          "date": "2026-02-08",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 10.98,
-          "impressions": 1276,
-          "clicks": 15,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-09",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 9.24,
-          "impressions": 867,
-          "clicks": 4,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-10",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 11.75,
-          "impressions": 1660,
-          "clicks": 30,
-          "leads": 2
-        },
-        {
-          "date": "2026-02-11",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 9.95,
-          "impressions": 1281,
-          "clicks": 22,
-          "leads": 2
-        },
-        {
-          "date": "2026-02-12",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 10.26,
-          "impressions": 994,
-          "clicks": 15,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-13",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 8,
-          "impressions": 915,
-          "clicks": 8,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-14",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 3.93,
-          "impressions": 276,
-          "clicks": 6,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-14",
-          "campaign_id": "120240100810610713",
-          "campaign_name": "СBO | CPL |  Лютий / Кейси",
-          "spend": 4.97,
-          "impressions": 587,
-          "clicks": 8,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-15",
-          "campaign_id": "120240100810610713",
-          "campaign_name": "СBO | CPL |  Лютий / Кейси",
-          "spend": 11.67,
-          "impressions": 1142,
-          "clicks": 20,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-16",
-          "campaign_id": "120240100810610713",
-          "campaign_name": "СBO | CPL |  Лютий / Кейси",
-          "spend": 10.36,
-          "impressions": 1192,
-          "clicks": 10,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-17",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 15.88,
-          "impressions": 1896,
-          "clicks": 21,
-          "leads": 3
-        },
-        {
-          "date": "2026-02-17",
-          "campaign_id": "120240100810610713",
-          "campaign_name": "СBO | CPL |  Лютий / Кейси",
-          "spend": 1.45,
-          "impressions": 164,
-          "clicks": 3,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-18",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 16.06,
-          "impressions": 2057,
-          "clicks": 25,
-          "leads": 2
-        },
-        {
-          "date": "2026-02-19",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 14.57,
-          "impressions": 1675,
-          "clicks": 17,
-          "leads": 1
-        },
-        {
-          "date": "2026-02-20",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 12.53,
-          "impressions": 1406,
-          "clicks": 14,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-21",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 10.84,
-          "impressions": 1348,
-          "clicks": 16,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-22",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 11.67,
-          "impressions": 1344,
-          "clicks": 17,
-          "leads": 1
-        },
-        {
-          "date": "2026-02-23",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 12.42,
-          "impressions": 1445,
-          "clicks": 20,
-          "leads": 3
-        },
-        {
-          "date": "2026-02-24",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 8.83,
-          "impressions": 1196,
-          "clicks": 17,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-25",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 9.81,
-          "impressions": 1112,
-          "clicks": 20,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-26",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 1.96,
-          "impressions": 150,
-          "clicks": 0,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-26",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 7.31,
-          "impressions": 1477,
-          "clicks": 30,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-27",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 10,
-          "impressions": 1505,
-          "clicks": 39,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-28",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 10.17,
-          "impressions": 1638,
-          "clicks": 23,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-01",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 12.21,
-          "impressions": 1741,
-          "clicks": 31,
-          "leads": 3
-        },
-        {
-          "date": "2026-03-02",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 11.97,
-          "impressions": 2366,
-          "clicks": 35,
-          "leads": 1
-        },
-        {
-          "date": "2026-03-03",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 10.09,
-          "impressions": 1876,
-          "clicks": 27,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-04",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 10.83,
-          "impressions": 1492,
-          "clicks": 25,
-          "leads": 1
-        },
-        {
-          "date": "2026-03-05",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 10.73,
-          "impressions": 1239,
-          "clicks": 14,
-          "leads": 1
-        },
-        {
-          "date": "2026-03-06",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 12.08,
-          "impressions": 1310,
-          "clicks": 24,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-07",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 8.82,
-          "impressions": 872,
-          "clicks": 14,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-08",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 13.11,
-          "impressions": 1248,
-          "clicks": 15,
-          "leads": 1
-        },
-        {
-          "date": "2026-03-09",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 11.46,
-          "impressions": 1914,
-          "clicks": 18,
-          "leads": 1
-        },
-        {
-          "date": "2026-03-10",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 11.31,
-          "impressions": 1391,
-          "clicks": 23,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-11",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 11.57,
-          "impressions": 1471,
-          "clicks": 24,
-          "leads": 1
-        },
-        {
-          "date": "2026-03-12",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 9.89,
-          "impressions": 1096,
-          "clicks": 24,
-          "leads": 2
-        },
-        {
-          "date": "2026-03-13",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 10.88,
-          "impressions": 1418,
-          "clicks": 20,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-14",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 8.6,
-          "impressions": 1085,
-          "clicks": 18,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-15",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 13.42,
-          "impressions": 1207,
-          "clicks": 22,
-          "leads": 1
-        },
-        {
-          "date": "2026-03-16",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 12.1,
-          "impressions": 1236,
-          "clicks": 22,
-          "leads": 1
-        },
-        {
-          "date": "2026-03-17",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 11.34,
-          "impressions": 1087,
-          "clicks": 19,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-18",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 10.16,
-          "impressions": 1229,
-          "clicks": 28,
-          "leads": 1
-        },
-        {
-          "date": "2026-03-19",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 11.75,
-          "impressions": 1239,
-          "clicks": 29,
-          "leads": 3
-        },
-        {
-          "date": "2026-03-20",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 6.91,
-          "impressions": 1223,
-          "clicks": 20,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-21",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 11.04,
-          "impressions": 1110,
-          "clicks": 20,
-          "leads": 1
-        },
-        {
-          "date": "2026-03-22",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 13.61,
-          "impressions": 1267,
-          "clicks": 22,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-23",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 6.78,
-          "impressions": 789,
-          "clicks": 11,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-24",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 12.56,
-          "impressions": 1099,
-          "clicks": 10,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-25",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 7.87,
-          "impressions": 490,
-          "clicks": 6,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-25",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 6.86,
-          "impressions": 780,
-          "clicks": 11,
-          "leads": 1
-        },
-        {
-          "date": "2026-03-26",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 10.76,
-          "impressions": 1824,
-          "clicks": 26,
-          "leads": 1
-        },
-        {
-          "date": "2026-03-27",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 9.4,
-          "impressions": 1356,
-          "clicks": 28,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-28",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 9.9,
-          "impressions": 1224,
-          "clicks": 22,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-29",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 11.7,
-          "impressions": 1389,
-          "clicks": 17,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-30",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 9.83,
-          "impressions": 1266,
-          "clicks": 27,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-31",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 11.04,
-          "impressions": 1077,
-          "clicks": 19,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-01",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 14.79,
-          "impressions": 979,
-          "clicks": 24,
-          "leads": 2
-        },
-        {
-          "date": "2026-04-02",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 11.56,
-          "impressions": 712,
-          "clicks": 7,
-          "leads": 1
-        },
-        {
-          "date": "2026-04-03",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 8.42,
-          "impressions": 675,
-          "clicks": 8,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-04",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 9.53,
-          "impressions": 388,
-          "clicks": 7,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-05",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 13.88,
-          "impressions": 461,
-          "clicks": 16,
-          "leads": 1
-        },
-        {
-          "date": "2026-04-06",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 12.52,
-          "impressions": 707,
-          "clicks": 14,
-          "leads": 1
-        },
-        {
-          "date": "2026-04-07",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 12.12,
-          "impressions": 513,
-          "clicks": 19,
-          "leads": 2
-        },
-        {
-          "date": "2026-04-08",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 10.17,
-          "impressions": 718,
-          "clicks": 9,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-09",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 12.1,
-          "impressions": 418,
-          "clicks": 8,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-10",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 6.13,
-          "impressions": 365,
-          "clicks": 5,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-13",
-          "campaign_id": "120242784172760713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 8.12,
-          "impressions": 1079,
-          "clicks": 25,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-14",
-          "campaign_id": "120242784172760713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 10.59,
-          "impressions": 1519,
-          "clicks": 20,
-          "leads": 1
-        },
-        {
-          "date": "2026-04-15",
-          "campaign_id": "120242784172760713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 11.33,
-          "impressions": 1194,
-          "clicks": 15,
-          "leads": 1
-        },
-        {
-          "date": "2026-04-16",
-          "campaign_id": "120242784172760713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 11.1,
-          "impressions": 1038,
-          "clicks": 14,
-          "leads": 1
-        },
-        {
-          "date": "2026-04-17",
-          "campaign_id": "120242784172760713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 10.35,
-          "impressions": 731,
-          "clicks": 9,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-18",
-          "campaign_id": "120242784172760713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 9.85,
-          "impressions": 602,
-          "clicks": 8,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-19",
-          "campaign_id": "120242784172760713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 13.03,
-          "impressions": 834,
-          "clicks": 15,
-          "leads": 2
-        },
-        {
-          "date": "2026-04-20",
-          "campaign_id": "120242784172760713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 11.6,
-          "impressions": 1075,
-          "clicks": 19,
-          "leads": 1
-        },
-        {
-          "date": "2026-04-21",
-          "campaign_id": "120242784172760713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 12.32,
-          "impressions": 868,
-          "clicks": 18,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-22",
-          "campaign_id": "120242784172760713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 10.11,
-          "impressions": 685,
-          "clicks": 13,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-23",
-          "campaign_id": "120242784172760713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 2.66,
-          "impressions": 168,
-          "clicks": 6,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-24",
-          "campaign_id": "120243336144070713",
-          "campaign_name": "Рілз квітень 2026",
-          "spend": 3.47,
-          "impressions": 1158,
-          "clicks": 40,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-25",
-          "campaign_id": "120243336144070713",
-          "campaign_name": "Рілз квітень 2026",
-          "spend": 4.27,
-          "impressions": 1458,
-          "clicks": 37,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-26",
-          "campaign_id": "120243336144070713",
-          "campaign_name": "Рілз квітень 2026",
-          "spend": 5.39,
-          "impressions": 1777,
-          "clicks": 61,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-27",
-          "campaign_id": "120243336144070713",
-          "campaign_name": "Рілз квітень 2026",
-          "spend": 2.8,
-          "impressions": 1074,
-          "clicks": 45,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-29",
-          "campaign_id": "120243628780830713",
-          "campaign_name": "Рілз на сайт квітень 2026",
-          "spend": 0.74,
-          "impressions": 317,
-          "clicks": 14,
-          "leads": 8
-        },
-        {
-          "date": "2026-04-30",
-          "campaign_id": "120243628780830713",
-          "campaign_name": "Рілз на сайт квітень 2026",
-          "spend": 2.87,
-          "impressions": 582,
-          "clicks": 11,
-          "leads": 5
-        },
-        {
-          "date": "2026-05-01",
-          "campaign_id": "120243628780830713",
-          "campaign_name": "Рілз на сайт квітень 2026",
-          "spend": 4.07,
-          "impressions": 847,
-          "clicks": 18,
-          "leads": 6
-        },
-        {
-          "date": "2026-05-02",
-          "campaign_id": "120243628780830713",
-          "campaign_name": "Рілз на сайт квітень 2026",
-          "spend": 7.75,
-          "impressions": 1545,
-          "clicks": 32,
-          "leads": 6
-        },
-        {
-          "date": "2026-05-03",
-          "campaign_id": "120243628780830713",
-          "campaign_name": "Рілз на сайт квітень 2026",
-          "spend": 4.14,
-          "impressions": 779,
-          "clicks": 8,
-          "leads": 0
-        },
-        {
-          "date": "2026-05-04",
-          "campaign_id": "120243628780830713",
-          "campaign_name": "Рілз на сайт квітень 2026",
-          "spend": 4.12,
-          "impressions": 807,
-          "clicks": 17,
-          "leads": 0
-        },
-        {
-          "date": "2026-05-05",
-          "campaign_id": "120243628780830713",
-          "campaign_name": "Рілз на сайт квітень 2026",
-          "spend": 4.05,
-          "impressions": 738,
-          "clicks": 18,
-          "leads": 0
-        },
-        {
-          "date": "2026-05-06",
-          "campaign_id": "120243628780830713",
-          "campaign_name": "Рілз на сайт квітень 2026",
-          "spend": 1.62,
-          "impressions": 322,
-          "clicks": 2,
-          "leads": 0
-        },
-        {
-          "date": "2026-05-06",
-          "campaign_id": "120244164745920713",
-          "campaign_name": "СBO | CPL |  Травень / Кейси",
-          "spend": 8.95,
-          "impressions": 1170,
-          "clicks": 27,
-          "leads": 2
-        },
-        {
-          "date": "2026-05-07",
-          "campaign_id": "120244164745920713",
-          "campaign_name": "СBO | CPL |  Травень / Кейси",
-          "spend": 10.98,
-          "impressions": 1592,
-          "clicks": 23,
-          "leads": 1
-        },
-        {
-          "date": "2026-05-08",
-          "campaign_id": "120244164745920713",
-          "campaign_name": "СBO | CPL |  Травень / Кейси",
-          "spend": 8.59,
-          "impressions": 1079,
-          "clicks": 9,
-          "leads": 1
-        }
-      ]
+      "daily": []
     },
     {
       "account_id": "act_1038930234523229",
