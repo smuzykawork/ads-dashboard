@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T14:41:37.727Z",
+  "generated_at": "2026-05-10T15:34:22.354Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5569,7 +5569,7 @@
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
           "spend": 6.2,
-          "impressions": 2479,
+          "impressions": 2481,
           "clicks": 39,
           "leads": 2
         },
@@ -7120,7 +7120,7 @@
           "campaign_id": "120240780023710292",
           "campaign_name": "Впізнаність Акліма",
           "spend": 0.99,
-          "impressions": 2454,
+          "impressions": 2455,
           "clicks": 0,
           "leads": 0
         }
