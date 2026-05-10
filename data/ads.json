@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T11:37:09.773Z",
+  "generated_at": "2026-05-10T14:41:37.727Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5569,7 +5569,7 @@
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
           "spend": 6.2,
-          "impressions": 2476,
+          "impressions": 2479,
           "clicks": 39,
           "leads": 2
         },
@@ -5577,8 +5577,8 @@
           "date": "2026-05-09",
           "campaign_id": "120242845808930027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 19.29,
-          "impressions": 7663,
+          "spend": 19.3,
+          "impressions": 7667,
           "clicks": 90,
           "leads": 2
         },
@@ -5586,8 +5586,8 @@
           "date": "2026-05-09",
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 17.15,
-          "impressions": 7219,
+          "spend": 17.16,
+          "impressions": 7225,
           "clicks": 108,
           "leads": 2
         },
@@ -5616,7 +5616,7 @@
         {
           "id": "120240779068320292",
           "name": "Дилер через сайт та піксель",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -7120,7 +7120,7 @@
           "campaign_id": "120240780023710292",
           "campaign_name": "Впізнаність Акліма",
           "spend": 0.99,
-          "impressions": 2453,
+          "impressions": 2454,
           "clicks": 0,
           "leads": 0
         }
