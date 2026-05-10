@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T23:13:15.638Z",
+  "generated_at": "2026-05-10T23:36:12.808Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5577,8 +5577,8 @@
           "date": "2026-05-10",
           "campaign_id": "120242845808930027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 24.15,
-          "impressions": 9266,
+          "spend": 24.16,
+          "impressions": 9267,
           "clicks": 94,
           "leads": 4
         },
@@ -7129,7 +7129,7 @@
           "campaign_id": "120240769624600292",
           "campaign_name": "Дилер Контакти - Форма",
           "spend": 8.14,
-          "impressions": 2290,
+          "impressions": 2291,
           "clicks": 26,
           "leads": 1
         },
@@ -12230,8 +12230,8 @@
           "date": "2026-05-10",
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
-          "spend": 33.99,
-          "impressions": 1975,
+          "spend": 34,
+          "impressions": 1976,
           "clicks": 37,
           "leads": 5
         }
