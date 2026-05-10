@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T00:08:00.360Z",
+  "generated_at": "2026-05-10T07:37:04.180Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5542,7 +5542,7 @@
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
           "spend": 28.79,
-          "impressions": 10002,
+          "impressions": 10004,
           "clicks": 190,
           "leads": 6
         },
@@ -5560,7 +5560,7 @@
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
           "spend": 10.07,
-          "impressions": 4553,
+          "impressions": 4560,
           "clicks": 54,
           "leads": 5
         },
@@ -5569,7 +5569,7 @@
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
           "spend": 6.2,
-          "impressions": 2463,
+          "impressions": 2473,
           "clicks": 39,
           "leads": 2
         },
@@ -5577,17 +5577,17 @@
           "date": "2026-05-09",
           "campaign_id": "120242845808930027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 19.26,
-          "impressions": 7636,
-          "clicks": 89,
+          "spend": 19.28,
+          "impressions": 7660,
+          "clicks": 90,
           "leads": 2
         },
         {
           "date": "2026-05-09",
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 17.12,
-          "impressions": 7173,
+          "spend": 17.13,
+          "impressions": 7210,
           "clicks": 108,
           "leads": 2
         },
@@ -7093,7 +7093,7 @@
           "campaign_id": "120240693449630292",
           "campaign_name": "Диллери Трафік",
           "spend": 0.9,
-          "impressions": 1385,
+          "impressions": 1386,
           "clicks": 27,
           "leads": 0
         },
@@ -7102,7 +7102,7 @@
           "campaign_id": "120240769624600292",
           "campaign_name": "Дилер Контакти - Форма",
           "spend": 2.94,
-          "impressions": 1065,
+          "impressions": 1072,
           "clicks": 7,
           "leads": 1
         },
@@ -7110,8 +7110,8 @@
           "date": "2026-05-09",
           "campaign_id": "120240779068320292",
           "campaign_name": "Дилер через сайт та піксель",
-          "spend": 2.88,
-          "impressions": 1062,
+          "spend": 2.89,
+          "impressions": 1067,
           "clicks": 14,
           "leads": 0
         },
@@ -7119,8 +7119,8 @@
           "date": "2026-05-09",
           "campaign_id": "120240780023710292",
           "campaign_name": "Впізнаність Акліма",
-          "spend": 0.98,
-          "impressions": 2440,
+          "spend": 0.99,
+          "impressions": 2451,
           "clicks": 0,
           "leads": 0
         }
@@ -8776,7 +8776,7 @@
           "campaign_id": "120244164745920713",
           "campaign_name": "СBO | CPL |  Травень / Кейси",
           "spend": 7.39,
-          "impressions": 719,
+          "impressions": 720,
           "clicks": 8,
           "leads": 0
         }
