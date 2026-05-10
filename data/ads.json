@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T08:22:49.928Z",
+  "generated_at": "2026-05-10T11:28:38.170Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5542,7 +5542,7 @@
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
           "spend": 28.79,
-          "impressions": 10004,
+          "impressions": 10005,
           "clicks": 190,
           "leads": 6
         },
@@ -5560,7 +5560,7 @@
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
           "spend": 10.07,
-          "impressions": 4560,
+          "impressions": 4562,
           "clicks": 54,
           "leads": 5
         },
@@ -5569,7 +5569,7 @@
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
           "spend": 6.2,
-          "impressions": 2475,
+          "impressions": 2476,
           "clicks": 39,
           "leads": 2
         },
@@ -5577,8 +5577,8 @@
           "date": "2026-05-09",
           "campaign_id": "120242845808930027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 19.28,
-          "impressions": 7660,
+          "spend": 19.29,
+          "impressions": 7663,
           "clicks": 90,
           "leads": 2
         },
@@ -5586,8 +5586,8 @@
           "date": "2026-05-09",
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 17.13,
-          "impressions": 7211,
+          "spend": 17.15,
+          "impressions": 7219,
           "clicks": 108,
           "leads": 2
         },
@@ -5596,7 +5596,7 @@
           "campaign_id": "120242923511420027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 08.05 ЄВРОПА",
           "spend": 16.42,
-          "impressions": 2709,
+          "impressions": 2711,
           "clicks": 123,
           "leads": 5
         }
@@ -7102,7 +7102,7 @@
           "campaign_id": "120240769624600292",
           "campaign_name": "Дилер Контакти - Форма",
           "spend": 2.95,
-          "impressions": 1073,
+          "impressions": 1074,
           "clicks": 7,
           "leads": 1
         },
@@ -7120,7 +7120,7 @@
           "campaign_id": "120240780023710292",
           "campaign_name": "Впізнаність Акліма",
           "spend": 0.99,
-          "impressions": 2451,
+          "impressions": 2453,
           "clicks": 0,
           "leads": 0
         }
@@ -12204,8 +12204,8 @@
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
           "spend": 36.97,
-          "impressions": 1770,
-          "clicks": 45,
+          "impressions": 1771,
+          "clicks": 46,
           "leads": 8
         }
       ]
