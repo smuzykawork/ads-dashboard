@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T11:45:31.168Z",
+  "generated_at": "2026-05-11T18:05:29.475Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5514,8 +5514,8 @@
           "date": "2026-05-09",
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
-          "spend": 10.07,
-          "impressions": 4564,
+          "spend": 10.08,
+          "impressions": 4565,
           "clicks": 54,
           "leads": 5
         },
@@ -5559,8 +5559,8 @@
           "date": "2026-05-10",
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
-          "spend": 10.48,
-          "impressions": 4451,
+          "spend": 10.55,
+          "impressions": 4454,
           "clicks": 51,
           "leads": 1
         },
@@ -5569,7 +5569,7 @@
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
           "spend": 8.94,
-          "impressions": 4990,
+          "impressions": 4992,
           "clicks": 60,
           "leads": 2
         },
@@ -5577,8 +5577,8 @@
           "date": "2026-05-10",
           "campaign_id": "120242845808930027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 24.32,
-          "impressions": 9350,
+          "spend": 24.34,
+          "impressions": 9356,
           "clicks": 96,
           "leads": 4
         },
@@ -5587,7 +5587,7 @@
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
           "spend": 20.38,
-          "impressions": 7853,
+          "impressions": 7859,
           "clicks": 138,
           "leads": 5
         },
@@ -8793,9 +8793,9 @@
           "date": "2026-05-09",
           "campaign_id": "120244164745920713",
           "campaign_name": "СBO | CPL |  Травень / Кейси",
-          "spend": 7.39,
-          "impressions": 720,
-          "clicks": 8,
+          "spend": 7.4,
+          "impressions": 721,
+          "clicks": 9,
           "leads": 0
         },
         {
