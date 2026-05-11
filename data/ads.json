@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T21:55:47.531Z",
+  "generated_at": "2026-05-11T22:19:06.153Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5560,7 +5560,7 @@
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
           "spend": 11.54,
-          "impressions": 6912,
+          "impressions": 6915,
           "clicks": 83,
           "leads": 6
         },
@@ -5569,7 +5569,7 @@
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
           "spend": 5.96,
-          "impressions": 3195,
+          "impressions": 3197,
           "clicks": 45,
           "leads": 2
         },
@@ -5586,8 +5586,8 @@
           "date": "2026-05-11",
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 17.01,
-          "impressions": 6592,
+          "spend": 17.02,
+          "impressions": 6595,
           "clicks": 109,
           "leads": 1
         },
@@ -7450,7 +7450,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 2.43,
-          "impressions": 828,
+          "impressions": 830,
           "clicks": 28,
           "leads": 5
         }
@@ -8820,8 +8820,8 @@
           "date": "2026-05-11",
           "campaign_id": "120244164745920713",
           "campaign_name": "СBO | CPL |  Травень / Кейси",
-          "spend": 10.42,
-          "impressions": 1053,
+          "spend": 10.43,
+          "impressions": 1054,
           "clicks": 17,
           "leads": 2
         }
@@ -10300,15 +10300,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-02-10",
-          "campaign_id": "120240910712440392",
-          "campaign_name": "Kurs 4 www",
-          "spend": 0,
-          "impressions": 0,
-          "clicks": 0,
-          "leads": 0
-        },
         {
           "date": "2026-02-18",
           "campaign_id": "120241269377270392",
@@ -12252,6 +12243,15 @@
           "impressions": 1990,
           "clicks": 37,
           "leads": 5
+        },
+        {
+          "date": "2026-05-11",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 34.36,
+          "impressions": 2482,
+          "clicks": 46,
+          "leads": 2
         }
       ]
     }
