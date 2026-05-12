@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T21:54:53.214Z",
+  "generated_at": "2026-05-12T22:38:46.775Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5569,7 +5569,7 @@
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
           "spend": 8.06,
-          "impressions": 5801,
+          "impressions": 5803,
           "clicks": 65,
           "leads": 3
         },
@@ -5578,7 +5578,7 @@
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
           "spend": 8.04,
-          "impressions": 2700,
+          "impressions": 2701,
           "clicks": 36,
           "leads": 1
         },
@@ -5586,8 +5586,8 @@
           "date": "2026-05-12",
           "campaign_id": "120242923511420027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 08.05 ЄВРОПА",
-          "spend": 8.95,
-          "impressions": 1968,
+          "spend": 8.99,
+          "impressions": 1970,
           "clicks": 39,
           "leads": 0
         }
@@ -7153,7 +7153,7 @@
           "campaign_id": "120240769624600292",
           "campaign_name": "Дилер Контакти - Форма",
           "spend": 3.82,
-          "impressions": 1101,
+          "impressions": 1102,
           "clicks": 12,
           "leads": 1
         },
@@ -8845,7 +8845,7 @@
           "campaign_id": "120244164745920713",
           "campaign_name": "СBO | CPL |  Травень / Кейси",
           "spend": 10.3,
-          "impressions": 1084,
+          "impressions": 1085,
           "clicks": 14,
           "leads": 1
         }
@@ -12275,6 +12275,15 @@
           "spend": 34.66,
           "impressions": 2511,
           "clicks": 46,
+          "leads": 2
+        },
+        {
+          "date": "2026-05-12",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 22.87,
+          "impressions": 1515,
+          "clicks": 25,
           "leads": 2
         }
       ]
