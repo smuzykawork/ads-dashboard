@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T08:13:41.743Z",
+  "generated_at": "2026-05-12T16:37:26.968Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5524,7 +5524,7 @@
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
           "spend": 8.94,
-          "impressions": 4992,
+          "impressions": 4993,
           "clicks": 60,
           "leads": 2
         },
@@ -5532,8 +5532,8 @@
           "date": "2026-05-10",
           "campaign_id": "120242845808930027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 24.35,
-          "impressions": 9360,
+          "spend": 24.36,
+          "impressions": 9362,
           "clicks": 96,
           "leads": 4
         },
@@ -5551,7 +5551,7 @@
           "campaign_id": "120242923511420027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 08.05 ЄВРОПА",
           "spend": 17.3,
-          "impressions": 3520,
+          "impressions": 3521,
           "clicks": 127,
           "leads": 6
         },
@@ -5560,7 +5560,7 @@
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
           "spend": 11.59,
-          "impressions": 6996,
+          "impressions": 7004,
           "clicks": 84,
           "leads": 6
         },
@@ -5568,8 +5568,8 @@
           "date": "2026-05-11",
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
-          "spend": 6.01,
-          "impressions": 3218,
+          "spend": 6.02,
+          "impressions": 3223,
           "clicks": 46,
           "leads": 2
         },
@@ -5578,7 +5578,7 @@
           "campaign_id": "120242845808930027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
           "spend": 10.75,
-          "impressions": 3463,
+          "impressions": 3464,
           "clicks": 56,
           "leads": 1
         },
@@ -5586,17 +5586,17 @@
           "date": "2026-05-11",
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 17.08,
-          "impressions": 6642,
-          "clicks": 109,
+          "spend": 17.13,
+          "impressions": 6664,
+          "clicks": 111,
           "leads": 1
         },
         {
           "date": "2026-05-11",
           "campaign_id": "120242923511420027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 08.05 ЄВРОПА",
-          "spend": 13.11,
-          "impressions": 2791,
+          "spend": 13.13,
+          "impressions": 2795,
           "clicks": 111,
           "leads": 3
         }
@@ -5607,6 +5607,12 @@
       "name": "Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120240985553500292",
+          "name": "Дилер Контакти - Форма – копія хвац суто",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120240780023710292",
           "name": "Впізнаність Акліма",
@@ -7147,7 +7153,7 @@
           "campaign_id": "120240769624600292",
           "campaign_name": "Дилер Контакти - Форма",
           "spend": 5.94,
-          "impressions": 1336,
+          "impressions": 1338,
           "clicks": 23,
           "leads": 4
         }
@@ -8820,8 +8826,8 @@
           "date": "2026-05-11",
           "campaign_id": "120244164745920713",
           "campaign_name": "СBO | CPL |  Травень / Кейси",
-          "spend": 10.59,
-          "impressions": 1066,
+          "spend": 10.61,
+          "impressions": 1068,
           "clicks": 17,
           "leads": 2
         }
@@ -12248,8 +12254,8 @@
           "date": "2026-05-11",
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
-          "spend": 34.65,
-          "impressions": 2509,
+          "spend": 34.66,
+          "impressions": 2511,
           "clicks": 46,
           "leads": 2
         }
