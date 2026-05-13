@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T08:26:25.772Z",
+  "generated_at": "2026-05-13T09:32:32.742Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5569,7 +5569,7 @@
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
           "spend": 8.16,
-          "impressions": 5881,
+          "impressions": 5883,
           "clicks": 67,
           "leads": 3
         },
@@ -5578,7 +5578,7 @@
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
           "spend": 8.1,
-          "impressions": 2730,
+          "impressions": 2731,
           "clicks": 36,
           "leads": 1
         },
@@ -5587,7 +5587,7 @@
           "campaign_id": "120242923511420027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 08.05 ЄВРОПА",
           "spend": 9.03,
-          "impressions": 1988,
+          "impressions": 1990,
           "clicks": 39,
           "leads": 0
         }
