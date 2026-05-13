@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T22:38:46.775Z",
+  "generated_at": "2026-05-13T08:17:47.031Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5524,7 +5524,7 @@
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
           "spend": 6.02,
-          "impressions": 3224,
+          "impressions": 3225,
           "clicks": 46,
           "leads": 2
         },
@@ -5541,8 +5541,8 @@
           "date": "2026-05-11",
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 17.13,
-          "impressions": 6665,
+          "spend": 17.14,
+          "impressions": 6666,
           "clicks": 111,
           "leads": 1
         },
@@ -5559,26 +5559,26 @@
           "date": "2026-05-12",
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
-          "spend": 7.16,
-          "impressions": 3227,
-          "clicks": 41,
+          "spend": 7.17,
+          "impressions": 3240,
+          "clicks": 42,
           "leads": 1
         },
         {
           "date": "2026-05-12",
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
-          "spend": 8.06,
-          "impressions": 5803,
-          "clicks": 65,
+          "spend": 8.16,
+          "impressions": 5879,
+          "clicks": 67,
           "leads": 3
         },
         {
           "date": "2026-05-12",
           "campaign_id": "120242845823690027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05",
-          "spend": 8.04,
-          "impressions": 2701,
+          "spend": 8.1,
+          "impressions": 2730,
           "clicks": 36,
           "leads": 1
         },
@@ -5586,8 +5586,8 @@
           "date": "2026-05-12",
           "campaign_id": "120242923511420027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 08.05 ЄВРОПА",
-          "spend": 8.99,
-          "impressions": 1970,
+          "spend": 9.03,
+          "impressions": 1988,
           "clicks": 39,
           "leads": 0
         }
@@ -7152,8 +7152,8 @@
           "date": "2026-05-12",
           "campaign_id": "120240769624600292",
           "campaign_name": "Дилер Контакти - Форма",
-          "spend": 3.82,
-          "impressions": 1102,
+          "spend": 3.87,
+          "impressions": 1113,
           "clicks": 12,
           "leads": 1
         },
@@ -7161,9 +7161,9 @@
           "date": "2026-05-12",
           "campaign_id": "120240985553500292",
           "campaign_name": "Дилер Контакти - Форма – копія хвац суто",
-          "spend": 3.81,
-          "impressions": 1245,
-          "clicks": 11,
+          "spend": 3.85,
+          "impressions": 1253,
+          "clicks": 12,
           "leads": 0
         }
       ]
@@ -7474,7 +7474,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 2.34,
-          "impressions": 747,
+          "impressions": 750,
           "clicks": 10,
           "leads": 1
         }
@@ -8845,7 +8845,7 @@
           "campaign_id": "120244164745920713",
           "campaign_name": "СBO | CPL |  Травень / Кейси",
           "spend": 10.3,
-          "impressions": 1085,
+          "impressions": 1086,
           "clicks": 14,
           "leads": 1
         }
@@ -12281,8 +12281,8 @@
           "date": "2026-05-12",
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
-          "spend": 22.87,
-          "impressions": 1515,
+          "spend": 23.02,
+          "impressions": 1529,
           "clicks": 25,
           "leads": 2
         }
