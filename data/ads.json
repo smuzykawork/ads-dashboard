@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-05-15T09:36:16.228Z",
+  "generated_at": "2026-05-15T16:15:25.493Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120243438130760027",
+          "name": "ОН Теплові насоси 15.05",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120243437752190027",
+          "name": "ОН Теплові насоси 15.05",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120243437692670027",
+          "name": "Вебінар - Помилки Теплові насоси 15.05",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120243437659760027",
+          "name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120242923511420027",
           "name": "Курс ОН Монтажник кондиціонерів 08.05 ЄВРОПА",
@@ -27,7 +51,7 @@
         {
           "id": "120242845747840027",
           "name": "ОН Теплові насоси 07.05",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -1179,30 +1203,6 @@
         {
           "id": "120208270330860027",
           "name": "Конверсія на сайті / Курси / 09.05",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120207799336960027",
-          "name": "Конверсія на сайті / Курси / 25.04",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120207762973920027",
-          "name": "Конверсія на сайті / ПЕРЕДЗАМОВЛЕННЯ / 24.04",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120207694436130027",
-          "name": "Конверсія на сайті / Курси / 22.04",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120207626853950027",
-          "name": "Конверсія на сайті / Курси / 20.04",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -5506,7 +5506,7 @@
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
           "spend": 7.45,
-          "impressions": 3895,
+          "impressions": 3896,
           "clicks": 53,
           "leads": 1
         },
@@ -5514,8 +5514,8 @@
           "date": "2026-05-13",
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
-          "spend": 15.22,
-          "impressions": 9469,
+          "spend": 15.23,
+          "impressions": 9470,
           "clicks": 143,
           "leads": 2
         },
@@ -5541,8 +5541,8 @@
           "date": "2026-05-14",
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
-          "spend": 9.57,
-          "impressions": 4466,
+          "spend": 9.58,
+          "impressions": 4470,
           "clicks": 57,
           "leads": 4
         },
@@ -5550,8 +5550,8 @@
           "date": "2026-05-14",
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
-          "spend": 18.94,
-          "impressions": 11434,
+          "spend": 18.95,
+          "impressions": 11443,
           "clicks": 148,
           "leads": 2
         }
@@ -7159,7 +7159,7 @@
           "campaign_id": "120240769624600292",
           "campaign_name": "Дилер Контакти - Форма",
           "spend": 7.4,
-          "impressions": 2073,
+          "impressions": 2075,
           "clicks": 13,
           "leads": 1
         },
@@ -7177,7 +7177,7 @@
           "campaign_id": "120241115952450292",
           "campaign_name": "ТН КІНЦЕВІ",
           "spend": 7.42,
-          "impressions": 1042,
+          "impressions": 1043,
           "clicks": 22,
           "leads": 0
         }
@@ -7507,7 +7507,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 10.31,
-          "impressions": 3986,
+          "impressions": 3990,
           "clicks": 39,
           "leads": 3
         }
@@ -12332,8 +12332,8 @@
           "date": "2026-05-14",
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
-          "spend": 43.47,
-          "impressions": 3115,
+          "spend": 43.53,
+          "impressions": 3119,
           "clicks": 26,
           "leads": 1
         }
