@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T16:29:45.700Z",
+  "generated_at": "2026-05-15T20:41:16.689Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5542,7 +5542,7 @@
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
           "spend": 9.58,
-          "impressions": 4470,
+          "impressions": 4471,
           "clicks": 57,
           "leads": 4
         },
@@ -5551,7 +5551,7 @@
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
           "spend": 18.95,
-          "impressions": 11443,
+          "impressions": 11444,
           "clicks": 148,
           "leads": 2
         }
@@ -7507,7 +7507,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 10.31,
-          "impressions": 3991,
+          "impressions": 3992,
           "clicks": 39,
           "leads": 3
         }
@@ -12332,8 +12332,8 @@
           "date": "2026-05-14",
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
-          "spend": 43.53,
-          "impressions": 3119,
+          "spend": 43.54,
+          "impressions": 3120,
           "clicks": 26,
           "leads": 1
         }
