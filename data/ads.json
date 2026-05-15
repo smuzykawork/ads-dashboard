@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T20:43:58.806Z",
+  "generated_at": "2026-05-15T23:40:44.195Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -1208,51 +1208,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-02-14",
-          "campaign_id": "120234800968700027",
-          "campaign_name": "ОН Теплові насоси 12.11",
-          "spend": 9.91,
-          "impressions": 4771,
-          "clicks": 68,
-          "leads": 1
-        },
-        {
-          "date": "2026-02-14",
-          "campaign_id": "120237713435660027",
-          "campaign_name": "ОН Теплові насоси 12.11 – копія",
-          "spend": 20,
-          "impressions": 5878,
-          "clicks": 133,
-          "leads": 3
-        },
-        {
-          "date": "2026-02-14",
-          "campaign_id": "120237714507050027",
-          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
-          "spend": 15.12,
-          "impressions": 3754,
-          "clicks": 109,
-          "leads": 5
-        },
-        {
-          "date": "2026-02-14",
-          "campaign_id": "120238545324470027",
-          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
-          "spend": 3.17,
-          "impressions": 4989,
-          "clicks": 107,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-14",
-          "campaign_id": "120238545914700027",
-          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
-          "spend": 9.63,
-          "impressions": 13917,
-          "clicks": 98,
-          "leads": 0
-        },
         {
           "date": "2026-02-15",
           "campaign_id": "120234800968700027",
@@ -5554,6 +5509,51 @@
           "impressions": 11444,
           "clicks": 148,
           "leads": 2
+        },
+        {
+          "date": "2026-05-15",
+          "campaign_id": "120242845623600027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
+          "spend": 8.43,
+          "impressions": 3800,
+          "clicks": 41,
+          "leads": 1
+        },
+        {
+          "date": "2026-05-15",
+          "campaign_id": "120242845747840027",
+          "campaign_name": "ОН Теплові насоси 07.05",
+          "spend": 9.61,
+          "impressions": 5407,
+          "clicks": 67,
+          "leads": 2
+        },
+        {
+          "date": "2026-05-15",
+          "campaign_id": "120243437692670027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 15.05",
+          "spend": 5.34,
+          "impressions": 2180,
+          "clicks": 20,
+          "leads": 5
+        },
+        {
+          "date": "2026-05-15",
+          "campaign_id": "120243437752190027",
+          "campaign_name": "ОН Теплові насоси 15.05",
+          "spend": 9.02,
+          "impressions": 3563,
+          "clicks": 34,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-15",
+          "campaign_id": "120243438130760027",
+          "campaign_name": "ОН Теплові насоси 15.05",
+          "spend": 9.42,
+          "impressions": 3740,
+          "clicks": 45,
+          "leads": 2
         }
       ]
     },
@@ -7180,6 +7180,15 @@
           "impressions": 1043,
           "clicks": 22,
           "leads": 0
+        },
+        {
+          "date": "2026-05-15",
+          "campaign_id": "120240769624600292",
+          "campaign_name": "Дилер Контакти - Форма",
+          "spend": 4.85,
+          "impressions": 1419,
+          "clicks": 17,
+          "leads": 1
         }
       ]
     },
@@ -7510,6 +7519,15 @@
           "impressions": 3992,
           "clicks": 39,
           "leads": 3
+        },
+        {
+          "date": "2026-05-15",
+          "campaign_id": "120243169362960749",
+          "campaign_name": "ТН ЛІДИ 10.03",
+          "spend": 8.46,
+          "impressions": 3029,
+          "clicks": 52,
+          "leads": 5
         }
       ]
     },
@@ -8054,24 +8072,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-02-14",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 3.93,
-          "impressions": 276,
-          "clicks": 6,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-14",
-          "campaign_id": "120240100810610713",
-          "campaign_name": "СBO | CPL |  Лютий / Кейси",
-          "spend": 4.97,
-          "impressions": 587,
-          "clicks": 8,
-          "leads": 0
-        },
         {
           "date": "2026-02-15",
           "campaign_id": "120240100810610713",
@@ -8880,6 +8880,15 @@
           "spend": 7.84,
           "impressions": 1109,
           "clicks": 18,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-15",
+          "campaign_id": "120244164745920713",
+          "campaign_name": "СBO | CPL |  Травень / Кейси",
+          "spend": 10.12,
+          "impressions": 941,
+          "clicks": 10,
           "leads": 0
         }
       ]
@@ -12336,6 +12345,15 @@
           "impressions": 3120,
           "clicks": 26,
           "leads": 1
+        },
+        {
+          "date": "2026-05-15",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 41.86,
+          "impressions": 2360,
+          "clicks": 24,
+          "leads": 0
         }
       ]
     }
