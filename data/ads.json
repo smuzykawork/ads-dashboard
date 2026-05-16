@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T16:14:03.041Z",
+  "generated_at": "2026-05-16T18:42:16.547Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5506,7 +5506,7 @@
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
           "spend": 18.95,
-          "impressions": 11444,
+          "impressions": 11445,
           "clicks": 148,
           "leads": 2
         },
@@ -5542,7 +5542,7 @@
           "campaign_id": "120243437752190027",
           "campaign_name": "ОН Теплові насоси 15.05",
           "spend": 9.18,
-          "impressions": 3635,
+          "impressions": 3636,
           "clicks": 36,
           "leads": 0
         },
@@ -5551,7 +5551,7 @@
           "campaign_id": "120243438130760027",
           "campaign_name": "ОН Теплові насоси 15.05",
           "spend": 9.56,
-          "impressions": 3806,
+          "impressions": 3807,
           "clicks": 46,
           "leads": 2
         }
@@ -7186,7 +7186,7 @@
           "campaign_id": "120240769624600292",
           "campaign_name": "Дилер Контакти - Форма",
           "spend": 4.88,
-          "impressions": 1430,
+          "impressions": 1431,
           "clicks": 17,
           "leads": 1
         }
