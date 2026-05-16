@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T08:22:56.516Z",
+  "generated_at": "2026-05-16T11:32:02.343Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5514,8 +5514,8 @@
           "date": "2026-05-15",
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
-          "spend": 8.45,
-          "impressions": 3821,
+          "spend": 8.48,
+          "impressions": 3823,
           "clicks": 41,
           "leads": 1
         },
@@ -5523,8 +5523,8 @@
           "date": "2026-05-15",
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
-          "spend": 9.64,
-          "impressions": 5417,
+          "spend": 9.65,
+          "impressions": 5420,
           "clicks": 67,
           "leads": 2
         },
@@ -5532,8 +5532,8 @@
           "date": "2026-05-15",
           "campaign_id": "120243437692670027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 15.05",
-          "spend": 5.39,
-          "impressions": 2194,
+          "spend": 5.4,
+          "impressions": 2199,
           "clicks": 22,
           "leads": 5
         },
@@ -5541,17 +5541,17 @@
           "date": "2026-05-15",
           "campaign_id": "120243437752190027",
           "campaign_name": "ОН Теплові насоси 15.05",
-          "spend": 9.16,
-          "impressions": 3625,
-          "clicks": 35,
+          "spend": 9.18,
+          "impressions": 3631,
+          "clicks": 36,
           "leads": 0
         },
         {
           "date": "2026-05-15",
           "campaign_id": "120243438130760027",
           "campaign_name": "ОН Теплові насоси 15.05",
-          "spend": 9.5,
-          "impressions": 3798,
+          "spend": 9.54,
+          "impressions": 3801,
           "clicks": 45,
           "leads": 2
         }
@@ -7185,8 +7185,8 @@
           "date": "2026-05-15",
           "campaign_id": "120240769624600292",
           "campaign_name": "Дилер Контакти - Форма",
-          "spend": 4.87,
-          "impressions": 1428,
+          "spend": 4.88,
+          "impressions": 1430,
           "clicks": 17,
           "leads": 1
         }
@@ -7524,8 +7524,8 @@
           "date": "2026-05-15",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 8.56,
-          "impressions": 3057,
+          "spend": 8.6,
+          "impressions": 3058,
           "clicks": 55,
           "leads": 5
         }
@@ -12350,8 +12350,8 @@
           "date": "2026-05-15",
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
-          "spend": 42.14,
-          "impressions": 2380,
+          "spend": 42.25,
+          "impressions": 2385,
           "clicks": 24,
           "leads": 0
         }
