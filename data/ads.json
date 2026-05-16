@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T12:08:01.077Z",
+  "generated_at": "2026-05-16T15:36:46.626Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5524,7 +5524,7 @@
           "campaign_id": "120242845747840027",
           "campaign_name": "ОН Теплові насоси 07.05",
           "spend": 9.65,
-          "impressions": 5420,
+          "impressions": 5421,
           "clicks": 67,
           "leads": 2
         },
@@ -5542,7 +5542,7 @@
           "campaign_id": "120243437752190027",
           "campaign_name": "ОН Теплові насоси 15.05",
           "spend": 9.18,
-          "impressions": 3631,
+          "impressions": 3635,
           "clicks": 36,
           "leads": 0
         },
@@ -5550,8 +5550,8 @@
           "date": "2026-05-15",
           "campaign_id": "120243438130760027",
           "campaign_name": "ОН Теплові насоси 15.05",
-          "spend": 9.54,
-          "impressions": 3801,
+          "spend": 9.56,
+          "impressions": 3805,
           "clicks": 45,
           "leads": 2
         }
@@ -7525,7 +7525,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 8.6,
-          "impressions": 3059,
+          "impressions": 3064,
           "clicks": 55,
           "leads": 5
         }
@@ -8887,7 +8887,7 @@
           "campaign_id": "120244164745920713",
           "campaign_name": "СBO | CPL |  Травень / Кейси",
           "spend": 10.12,
-          "impressions": 942,
+          "impressions": 943,
           "clicks": 10,
           "leads": 0
         }
