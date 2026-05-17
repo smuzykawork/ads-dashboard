@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T12:06:24.401Z",
+  "generated_at": "2026-05-17T15:40:33.613Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5515,7 +5515,7 @@
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
           "spend": 11.27,
-          "impressions": 4826,
+          "impressions": 4831,
           "clicks": 44,
           "leads": 2
         },
@@ -5533,7 +5533,7 @@
           "campaign_id": "120243437752190027",
           "campaign_name": "ОН Теплові насоси 15.05",
           "spend": 15.69,
-          "impressions": 6161,
+          "impressions": 6163,
           "clicks": 77,
           "leads": 4
         },
@@ -5542,7 +5542,7 @@
           "campaign_id": "120243438130760027",
           "campaign_name": "ОН Теплові насоси 15.05",
           "spend": 15.11,
-          "impressions": 5348,
+          "impressions": 5349,
           "clicks": 63,
           "leads": 0
         }
@@ -7186,7 +7186,7 @@
           "campaign_id": "120240769624600292",
           "campaign_name": "Дилер Контакти - Форма",
           "spend": 4.27,
-          "impressions": 912,
+          "impressions": 913,
           "clicks": 8,
           "leads": 0
         }
@@ -7534,7 +7534,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 9.98,
-          "impressions": 3503,
+          "impressions": 3505,
           "clicks": 62,
           "leads": 5
         }
@@ -8896,7 +8896,7 @@
           "campaign_id": "120244164745920713",
           "campaign_name": "СBO | CPL |  Травень / Кейси",
           "spend": 8.87,
-          "impressions": 807,
+          "impressions": 808,
           "clicks": 7,
           "leads": 0
         }
@@ -12368,8 +12368,8 @@
           "date": "2026-05-16",
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
-          "spend": 61.48,
-          "impressions": 3854,
+          "spend": 61.49,
+          "impressions": 3858,
           "clicks": 54,
           "leads": 3
         }
