@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T23:12:50.778Z",
+  "generated_at": "2026-05-17T00:10:37.583Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5542,7 +5542,7 @@
           "campaign_id": "120243438130760027",
           "campaign_name": "ОН Теплові насоси 15.05",
           "spend": 15.1,
-          "impressions": 5328,
+          "impressions": 5329,
           "clicks": 63,
           "leads": 0
         }
@@ -12368,8 +12368,8 @@
           "date": "2026-05-16",
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
-          "spend": 61.4,
-          "impressions": 3834,
+          "spend": 61.41,
+          "impressions": 3836,
           "clicks": 54,
           "leads": 3
         }
