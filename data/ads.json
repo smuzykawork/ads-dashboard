@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T08:01:40.129Z",
+  "generated_at": "2026-05-17T08:55:56.756Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5515,8 +5515,8 @@
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
           "spend": 11.26,
-          "impressions": 4820,
-          "clicks": 41,
+          "impressions": 4821,
+          "clicks": 42,
           "leads": 2
         },
         {
@@ -5524,7 +5524,7 @@
           "campaign_id": "120243437692670027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 15.05",
           "spend": 8.46,
-          "impressions": 3768,
+          "impressions": 3770,
           "clicks": 42,
           "leads": 4
         },
@@ -5533,7 +5533,7 @@
           "campaign_id": "120243437752190027",
           "campaign_name": "ОН Теплові насоси 15.05",
           "spend": 15.68,
-          "impressions": 6156,
+          "impressions": 6158,
           "clicks": 77,
           "leads": 4
         },
@@ -5542,7 +5542,7 @@
           "campaign_id": "120243438130760027",
           "campaign_name": "ОН Теплові насоси 15.05",
           "spend": 15.11,
-          "impressions": 5346,
+          "impressions": 5347,
           "clicks": 63,
           "leads": 0
         }
@@ -12368,8 +12368,8 @@
           "date": "2026-05-16",
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
-          "spend": 61.46,
-          "impressions": 3850,
+          "spend": 61.48,
+          "impressions": 3851,
           "clicks": 54,
           "leads": 3
         }
