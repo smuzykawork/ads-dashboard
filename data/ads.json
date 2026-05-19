@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-05-19T11:45:03.338Z",
+  "generated_at": "2026-05-19T18:24:45.428Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120243706106870027",
+          "name": "Курс ОН сервісант систем конд і вент 19.05",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120243705562570027",
+          "name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120243438130760027",
           "name": "ОН Теплові насоси 15.05",
@@ -15,13 +27,13 @@
         {
           "id": "120243437752190027",
           "name": "ОН Теплові насоси 15.05",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
           "id": "120243437692670027",
           "name": "Вебінар - Помилки Теплові насоси 15.05",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -1191,18 +1203,6 @@
         {
           "id": "120208474287260027",
           "name": "Конверсія на сайті / Курси / 14.05",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120208270456390027",
-          "name": "Конверсія на сайті / Курси / 09.05",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120208270330860027",
-          "name": "Конверсія на сайті / Курси / 09.05",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -5479,7 +5479,7 @@
           "campaign_id": "120242845623600027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
           "spend": 10.84,
-          "impressions": 5217,
+          "impressions": 5218,
           "clicks": 50,
           "leads": 4
         },
@@ -5488,7 +5488,7 @@
           "campaign_id": "120243437692670027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 15.05",
           "spend": 8.99,
-          "impressions": 4168,
+          "impressions": 4172,
           "clicks": 41,
           "leads": 1
         },
@@ -5497,7 +5497,7 @@
           "campaign_id": "120243437752190027",
           "campaign_name": "ОН Теплові насоси 15.05",
           "spend": 10.4,
-          "impressions": 4547,
+          "impressions": 4550,
           "clicks": 50,
           "leads": 0
         },
@@ -5506,7 +5506,7 @@
           "campaign_id": "120243438130760027",
           "campaign_name": "ОН Теплові насоси 15.05",
           "spend": 7.08,
-          "impressions": 2436,
+          "impressions": 2438,
           "clicks": 20,
           "leads": 0
         }
@@ -7540,7 +7540,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 9.94,
-          "impressions": 3331,
+          "impressions": 3332,
           "clicks": 44,
           "leads": 3
         }
@@ -12389,8 +12389,8 @@
           "date": "2026-05-18",
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
-          "spend": 33.16,
-          "impressions": 2139,
+          "spend": 33.19,
+          "impressions": 2141,
           "clicks": 34,
           "leads": 0
         }
