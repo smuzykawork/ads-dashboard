@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T08:49:42.533Z",
+  "generated_at": "2026-05-21T12:29:39.249Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5442,8 +5442,8 @@
           "date": "2026-05-20",
           "campaign_id": "120243705562570027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
-          "spend": 12.1,
-          "impressions": 4479,
+          "spend": 12.23,
+          "impressions": 4482,
           "clicks": 90,
           "leads": 1
         },
@@ -5452,7 +5452,7 @@
           "campaign_id": "120243706106870027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
           "spend": 10.68,
-          "impressions": 4575,
+          "impressions": 4577,
           "clicks": 95,
           "leads": 1
         },
@@ -7155,8 +7155,8 @@
           "date": "2026-05-20",
           "campaign_id": "120240769624600292",
           "campaign_name": "Дилер Контакти - Форма",
-          "spend": 4.68,
-          "impressions": 1898,
+          "spend": 4.69,
+          "impressions": 1900,
           "clicks": 6,
           "leads": 0
         },
@@ -7549,7 +7549,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 9.88,
-          "impressions": 3550,
+          "impressions": 3553,
           "clicks": 55,
           "leads": 1
         }
