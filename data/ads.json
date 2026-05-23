@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T07:36:17.190Z",
+  "generated_at": "2026-05-23T07:44:54.920Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5371,7 +5371,7 @@
           "campaign_id": "120243705562570027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
           "spend": 7.71,
-          "impressions": 2218,
+          "impressions": 2219,
           "clicks": 37,
           "leads": 0
         },
@@ -5397,8 +5397,8 @@
           "date": "2026-05-22",
           "campaign_id": "120243924389220027",
           "campaign_name": "Форум Львів «Продажі»",
-          "spend": 6.06,
-          "impressions": 2525,
+          "spend": 6.07,
+          "impressions": 2527,
           "clicks": 82,
           "leads": 0
         }
