@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T12:52:42.568Z",
+  "generated_at": "2026-05-25T18:18:04.436Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5281,7 +5281,7 @@
           "campaign_id": "120243705562570027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
           "spend": 3.99,
-          "impressions": 1136,
+          "impressions": 1137,
           "clicks": 32,
           "leads": 1
         },
@@ -5316,8 +5316,8 @@
           "date": "2026-05-24",
           "campaign_id": "120243705562570027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
-          "spend": 5.48,
-          "impressions": 1887,
+          "spend": 5.5,
+          "impressions": 1890,
           "clicks": 33,
           "leads": 0
         },
@@ -5325,8 +5325,8 @@
           "date": "2026-05-24",
           "campaign_id": "120243706106870027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
-          "spend": 21.42,
-          "impressions": 8160,
+          "spend": 21.43,
+          "impressions": 8166,
           "clicks": 104,
           "leads": 1
         },
@@ -5335,7 +5335,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.96,
-          "impressions": 4961,
+          "impressions": 4962,
           "clicks": 62,
           "leads": 3
         },
@@ -5343,8 +5343,8 @@
           "date": "2026-05-24",
           "campaign_id": "120243924389220027",
           "campaign_name": "Форум Львів «Продажі»",
-          "spend": 21.93,
-          "impressions": 5019,
+          "spend": 21.94,
+          "impressions": 5021,
           "clicks": 109,
           "leads": 0
         }
@@ -7108,7 +7108,7 @@
           "campaign_id": "120241761354030292",
           "campaign_name": "Дилер Контакти - Форма – копія",
           "spend": 6.29,
-          "impressions": 1513,
+          "impressions": 1514,
           "clicks": 24,
           "leads": 2
         }
@@ -7527,8 +7527,8 @@
           "date": "2026-05-24",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 18.84,
-          "impressions": 6575,
+          "spend": 18.85,
+          "impressions": 6578,
           "clicks": 83,
           "leads": 9
         }
