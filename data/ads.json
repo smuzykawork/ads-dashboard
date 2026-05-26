@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T19:49:53.716Z",
+  "generated_at": "2026-05-26T23:45:26.764Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -1208,69 +1208,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-02-25",
-          "campaign_id": "120234800968700027",
-          "campaign_name": "ОН Теплові насоси 12.11",
-          "spend": 10.06,
-          "impressions": 5884,
-          "clicks": 94,
-          "leads": 2
-        },
-        {
-          "date": "2026-02-25",
-          "campaign_id": "120237713435660027",
-          "campaign_name": "ОН Теплові насоси 12.11 – копія",
-          "spend": 20.19,
-          "impressions": 6069,
-          "clicks": 129,
-          "leads": 4
-        },
-        {
-          "date": "2026-02-25",
-          "campaign_id": "120237714507050027",
-          "campaign_name": "Вебінар - Помилки Теплові насоси 03.09 – копія",
-          "spend": 7.34,
-          "impressions": 1881,
-          "clicks": 47,
-          "leads": 1
-        },
-        {
-          "date": "2026-02-25",
-          "campaign_id": "120238545324470027",
-          "campaign_name": "Вадим РУбан (вакансія 1) трафік",
-          "spend": 3.23,
-          "impressions": 9871,
-          "clicks": 119,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-25",
-          "campaign_id": "120238545914700027",
-          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
-          "spend": 9.07,
-          "impressions": 8271,
-          "clicks": 85,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-25",
-          "campaign_id": "120238917510040027",
-          "campaign_name": "КУРС F-GASY ЄВРОПА 16.02",
-          "spend": 12.34,
-          "impressions": 3558,
-          "clicks": 82,
-          "leads": 0
-        },
-        {
-          "date": "2026-02-25",
-          "campaign_id": "120238980136970027",
-          "campaign_name": "ОН Теплові насоси лендінг",
-          "spend": 17.19,
-          "impressions": 4141,
-          "clicks": 133,
-          "leads": 0
-        },
         {
           "date": "2026-02-26",
           "campaign_id": "120234800968700027",
@@ -5320,6 +5257,51 @@
           "impressions": 4343,
           "clicks": 101,
           "leads": 2
+        },
+        {
+          "date": "2026-05-26",
+          "campaign_id": "120243705562570027",
+          "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
+          "spend": 5.1,
+          "impressions": 2269,
+          "clicks": 28,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-26",
+          "campaign_id": "120243706106870027",
+          "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
+          "spend": 20.47,
+          "impressions": 8077,
+          "clicks": 136,
+          "leads": 2
+        },
+        {
+          "date": "2026-05-26",
+          "campaign_id": "120243710381520027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
+          "spend": 10.61,
+          "impressions": 5212,
+          "clicks": 73,
+          "leads": 7
+        },
+        {
+          "date": "2026-05-26",
+          "campaign_id": "120243924389220027",
+          "campaign_name": "Форум Львів «Продажі»",
+          "spend": 15.18,
+          "impressions": 3821,
+          "clicks": 111,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-26",
+          "campaign_id": "120244166709960027",
+          "campaign_name": "Форум Львів «Продажі» відео",
+          "spend": 11.12,
+          "impressions": 3495,
+          "clicks": 103,
+          "leads": 0
         }
       ]
     },
@@ -7093,6 +7075,15 @@
           "impressions": 1269,
           "clicks": 20,
           "leads": 1
+        },
+        {
+          "date": "2026-05-26",
+          "campaign_id": "120241761354030292",
+          "campaign_name": "Дилер Контакти - Форма – копія",
+          "spend": 5.02,
+          "impressions": 1261,
+          "clicks": 10,
+          "leads": 0
         }
       ]
     },
@@ -7522,6 +7513,15 @@
           "impressions": 4419,
           "clicks": 73,
           "leads": 5
+        },
+        {
+          "date": "2026-05-26",
+          "campaign_id": "120243169362960749",
+          "campaign_name": "ТН ЛІДИ 10.03",
+          "spend": 16.74,
+          "impressions": 2858,
+          "clicks": 44,
+          "leads": 4
         }
       ]
     },
@@ -8072,15 +8072,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-02-25",
-          "campaign_id": "120239483846610713",
-          "campaign_name": "СBO | CPL |  Січень - Лютий / Кейси",
-          "spend": 9.81,
-          "impressions": 1112,
-          "clicks": 20,
-          "leads": 0
-        },
         {
           "date": "2026-02-26",
           "campaign_id": "120239483846610713",
@@ -8890,6 +8881,15 @@
           "impressions": 1052,
           "clicks": 17,
           "leads": 0
+        },
+        {
+          "date": "2026-05-26",
+          "campaign_id": "120245061319490713",
+          "campaign_name": "СBO | CPL |  Травень / Кейси",
+          "spend": 12.3,
+          "impressions": 1304,
+          "clicks": 26,
+          "leads": 1
         }
       ]
     },
@@ -10366,24 +10366,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-02-25",
-          "campaign_id": "120241269377270392",
-          "campaign_name": "Kurs 2 KLIMA",
-          "spend": 19.56,
-          "impressions": 1298,
-          "clicks": 27,
-          "leads": 1
-        },
-        {
-          "date": "2026-02-25",
-          "campaign_id": "120241488559530392",
-          "campaign_name": "KURS4 Bitwa",
-          "spend": 19.38,
-          "impressions": 1775,
-          "clicks": 30,
-          "leads": 1
-        },
         {
           "date": "2026-02-26",
           "campaign_id": "120241269377270392",
