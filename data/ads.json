@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T12:55:28.021Z",
+  "generated_at": "2026-05-28T19:55:02.410Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5218,7 +5218,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.68,
-          "impressions": 5281,
+          "impressions": 5282,
           "clicks": 73,
           "leads": 7
         },
@@ -5245,7 +5245,7 @@
           "campaign_id": "120243705562570027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
           "spend": 5.25,
-          "impressions": 1664,
+          "impressions": 1666,
           "clicks": 32,
           "leads": 1
         },
@@ -5253,8 +5253,8 @@
           "date": "2026-05-27",
           "campaign_id": "120243706106870027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
-          "spend": 16.81,
-          "impressions": 5932,
+          "spend": 16.84,
+          "impressions": 5938,
           "clicks": 106,
           "leads": 1
         },
@@ -5263,7 +5263,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.15,
-          "impressions": 5470,
+          "impressions": 5471,
           "clicks": 74,
           "leads": 4
         },
@@ -5272,7 +5272,7 @@
           "campaign_id": "120243924389220027",
           "campaign_name": "Форум Львів «Продажі»",
           "spend": 9.78,
-          "impressions": 2710,
+          "impressions": 2713,
           "clicks": 72,
           "leads": 0
         },
@@ -7072,7 +7072,7 @@
           "campaign_id": "120241761354030292",
           "campaign_name": "Дилер Контакти - Форма – копія",
           "spend": 5.75,
-          "impressions": 1303,
+          "impressions": 1304,
           "clicks": 21,
           "leads": 1
         }
@@ -7519,7 +7519,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 18.43,
-          "impressions": 3644,
+          "impressions": 3646,
           "clicks": 53,
           "leads": 6
         }
