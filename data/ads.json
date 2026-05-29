@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T18:43:57.020Z",
+  "generated_at": "2026-05-29T19:59:29.254Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5289,8 +5289,8 @@
           "date": "2026-05-28",
           "campaign_id": "120244283688640027",
           "campaign_name": "Курс ОФ Теплові насоси 08.05",
-          "spend": 14.17,
-          "impressions": 5269,
+          "spend": 14.18,
+          "impressions": 5270,
           "clicks": 62,
           "leads": 3
         }
@@ -7546,7 +7546,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 17.51,
-          "impressions": 4115,
+          "impressions": 4116,
           "clicks": 47,
           "leads": 7
         }
