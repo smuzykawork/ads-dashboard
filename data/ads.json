@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T10:57:22.897Z",
+  "generated_at": "2026-05-29T12:34:00.623Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5263,8 +5263,8 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.3,
-          "impressions": 4732,
-          "clicks": 69,
+          "impressions": 4734,
+          "clicks": 71,
           "leads": 2
         },
         {
@@ -7560,7 +7560,7 @@
         {
           "id": "120245061319490713",
           "name": "СBO | CPL |  Травень / Кейси",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
