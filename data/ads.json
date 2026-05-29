@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T08:57:33.310Z",
+  "generated_at": "2026-05-29T10:57:22.897Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5245,7 +5245,7 @@
           "campaign_id": "120243705562570027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
           "spend": 4.83,
-          "impressions": 1276,
+          "impressions": 1278,
           "clicks": 19,
           "leads": 1
         },
@@ -5254,7 +5254,7 @@
           "campaign_id": "120243706106870027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
           "spend": 18.77,
-          "impressions": 5845,
+          "impressions": 5847,
           "clicks": 95,
           "leads": 1
         },
@@ -5281,7 +5281,7 @@
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 15.17,
-          "impressions": 7710,
+          "impressions": 7714,
           "clicks": 430,
           "leads": 0
         },
@@ -5290,7 +5290,7 @@
           "campaign_id": "120244283688640027",
           "campaign_name": "Курс ОФ Теплові насоси 08.05",
           "spend": 14.14,
-          "impressions": 5261,
+          "impressions": 5267,
           "clicks": 62,
           "leads": 3
         }
