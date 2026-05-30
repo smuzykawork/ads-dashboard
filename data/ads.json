@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T18:50:44.751Z",
+  "generated_at": "2026-05-30T19:38:54.673Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5299,7 +5299,7 @@
           "campaign_id": "120244283688640027",
           "campaign_name": "Курс ОФ Теплові насоси 08.05",
           "spend": 23.44,
-          "impressions": 7701,
+          "impressions": 7702,
           "clicks": 111,
           "leads": 6
         }
@@ -10544,15 +10544,6 @@
           "leads": 0
         },
         {
-          "date": "2026-03-05",
-          "campaign_id": "120242057880550392",
-          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
-          "spend": 0,
-          "impressions": 1,
-          "clicks": 0,
-          "leads": 0
-        },
-        {
           "date": "2026-03-06",
           "campaign_id": "120241269377270392",
           "campaign_name": "Kurs 2 KLIMA",
@@ -11890,15 +11881,6 @@
           "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
           "spend": 0.06,
           "impressions": 12,
-          "clicks": 0,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-08",
-          "campaign_id": "120242057880550392",
-          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
-          "spend": 0.04,
-          "impressions": 5,
           "clicks": 0,
           "leads": 0
         },
