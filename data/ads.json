@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T23:52:01.325Z",
+  "generated_at": "2026-05-30T07:31:46.654Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5209,7 +5209,7 @@
           "campaign_id": "120243706106870027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
           "spend": 18.8,
-          "impressions": 5850,
+          "impressions": 5851,
           "clicks": 95,
           "leads": 1
         },
@@ -5236,7 +5236,7 @@
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 15.18,
-          "impressions": 7719,
+          "impressions": 7720,
           "clicks": 430,
           "leads": 0
         },
@@ -5244,8 +5244,8 @@
           "date": "2026-05-28",
           "campaign_id": "120244283688640027",
           "campaign_name": "Курс ОФ Теплові насоси 08.05",
-          "spend": 14.18,
-          "impressions": 5270,
+          "spend": 14.2,
+          "impressions": 5271,
           "clicks": 62,
           "leads": 3
         },
@@ -5254,7 +5254,7 @@
           "campaign_id": "120243705562570027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
           "spend": 3.72,
-          "impressions": 1224,
+          "impressions": 1234,
           "clicks": 17,
           "leads": 0
         },
@@ -5262,44 +5262,44 @@
           "date": "2026-05-29",
           "campaign_id": "120243706106870027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
-          "spend": 19.84,
-          "impressions": 6507,
-          "clicks": 76,
+          "spend": 19.94,
+          "impressions": 6548,
+          "clicks": 77,
           "leads": 2
         },
         {
           "date": "2026-05-29",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 9.54,
-          "impressions": 4441,
-          "clicks": 63,
+          "spend": 9.61,
+          "impressions": 4465,
+          "clicks": 64,
           "leads": 6
         },
         {
           "date": "2026-05-29",
           "campaign_id": "120243924389220027",
           "campaign_name": "Форум Львів «Продажі»",
-          "spend": 6.28,
-          "impressions": 1613,
-          "clicks": 38,
+          "spend": 6.32,
+          "impressions": 1641,
+          "clicks": 39,
           "leads": 0
         },
         {
           "date": "2026-05-29",
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
-          "spend": 22.62,
-          "impressions": 18212,
-          "clicks": 1119,
+          "spend": 22.87,
+          "impressions": 18569,
+          "clicks": 1144,
           "leads": 0
         },
         {
           "date": "2026-05-29",
           "campaign_id": "120244283688640027",
           "campaign_name": "Курс ОФ Теплові насоси 08.05",
-          "spend": 23.26,
-          "impressions": 7636,
+          "spend": 23.42,
+          "impressions": 7685,
           "clicks": 111,
           "leads": 6
         }
@@ -7107,8 +7107,8 @@
           "date": "2026-05-29",
           "campaign_id": "120241761354030292",
           "campaign_name": "Дилер Контакти - Форма – копія",
-          "spend": 4.38,
-          "impressions": 990,
+          "spend": 4.39,
+          "impressions": 996,
           "clicks": 14,
           "leads": 2
         }
@@ -7563,17 +7563,17 @@
           "date": "2026-05-28",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 17.51,
-          "impressions": 4116,
-          "clicks": 47,
+          "spend": 17.56,
+          "impressions": 4117,
+          "clicks": 48,
           "leads": 7
         },
         {
           "date": "2026-05-29",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 15.59,
-          "impressions": 2422,
+          "spend": 15.61,
+          "impressions": 2430,
           "clicks": 29,
           "leads": 2
         }
@@ -8946,8 +8946,8 @@
           "date": "2026-05-29",
           "campaign_id": "120245864201140713",
           "campaign_name": "СBO | CPL |  Травень | Нові",
-          "spend": 5.28,
-          "impressions": 472,
+          "spend": 5.39,
+          "impressions": 474,
           "clicks": 5,
           "leads": 0
         }
