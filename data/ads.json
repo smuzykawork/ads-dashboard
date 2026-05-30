@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T09:05:52.829Z",
+  "generated_at": "2026-05-30T11:58:17.151Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5253,8 +5253,8 @@
           "date": "2026-05-29",
           "campaign_id": "120243705562570027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
-          "spend": 3.72,
-          "impressions": 1235,
+          "spend": 3.73,
+          "impressions": 1236,
           "clicks": 17,
           "leads": 0
         },
@@ -5262,8 +5262,8 @@
           "date": "2026-05-29",
           "campaign_id": "120243706106870027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
-          "spend": 19.94,
-          "impressions": 6552,
+          "spend": 19.96,
+          "impressions": 6561,
           "clicks": 77,
           "leads": 2
         },
@@ -5271,8 +5271,8 @@
           "date": "2026-05-29",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 9.61,
-          "impressions": 4469,
+          "spend": 9.62,
+          "impressions": 4474,
           "clicks": 64,
           "leads": 6
         },
@@ -5281,7 +5281,7 @@
           "campaign_id": "120243924389220027",
           "campaign_name": "Форум Львів «Продажі»",
           "spend": 6.33,
-          "impressions": 1643,
+          "impressions": 1645,
           "clicks": 39,
           "leads": 0
         },
@@ -5289,8 +5289,8 @@
           "date": "2026-05-29",
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
-          "spend": 22.89,
-          "impressions": 18599,
+          "spend": 22.92,
+          "impressions": 18626,
           "clicks": 1144,
           "leads": 0
         },
@@ -5299,7 +5299,7 @@
           "campaign_id": "120244283688640027",
           "campaign_name": "Курс ОФ Теплові насоси 08.05",
           "spend": 23.43,
-          "impressions": 7687,
+          "impressions": 7695,
           "clicks": 111,
           "leads": 6
         }
