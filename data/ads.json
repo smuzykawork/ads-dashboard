@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T16:17:45.230Z",
+  "generated_at": "2026-05-30T17:18:38.233Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5263,7 +5263,7 @@
           "campaign_id": "120243706106870027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
           "spend": 19.98,
-          "impressions": 6565,
+          "impressions": 6566,
           "clicks": 77,
           "leads": 2
         },
@@ -5272,7 +5272,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.62,
-          "impressions": 4476,
+          "impressions": 4477,
           "clicks": 64,
           "leads": 6
         },
@@ -5299,7 +5299,7 @@
           "campaign_id": "120244283688640027",
           "campaign_name": "Курс ОФ Теплові насоси 08.05",
           "spend": 23.44,
-          "impressions": 7698,
+          "impressions": 7700,
           "clicks": 111,
           "leads": 6
         }
