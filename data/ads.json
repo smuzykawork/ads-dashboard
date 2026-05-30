@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T23:11:03.360Z",
+  "generated_at": "2026-05-30T23:32:39.561Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5272,8 +5272,8 @@
           "campaign_id": "120243706106870027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
           "spend": 21.13,
-          "impressions": 5433,
-          "clicks": 122,
+          "impressions": 5434,
+          "clicks": 123,
           "leads": 2
         },
         {
@@ -5299,7 +5299,7 @@
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 26.64,
-          "impressions": 20332,
+          "impressions": 20334,
           "clicks": 1210,
           "leads": 0
         },
