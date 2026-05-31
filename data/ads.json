@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T13:01:46.808Z",
+  "generated_at": "2026-05-31T14:53:24.730Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5245,8 +5245,8 @@
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 22.96,
-          "impressions": 18649,
-          "clicks": 1144,
+          "impressions": 18650,
+          "clicks": 1145,
           "leads": 0
         },
         {
@@ -5272,7 +5272,7 @@
           "campaign_id": "120243706106870027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
           "spend": 21.16,
-          "impressions": 5444,
+          "impressions": 5445,
           "clicks": 123,
           "leads": 2
         },
@@ -5281,7 +5281,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.29,
-          "impressions": 4982,
+          "impressions": 4984,
           "clicks": 67,
           "leads": 4
         },
@@ -5289,8 +5289,8 @@
           "date": "2026-05-30",
           "campaign_id": "120243924389220027",
           "campaign_name": "Форум Львів «Продажі»",
-          "spend": 9.58,
-          "impressions": 3367,
+          "spend": 9.63,
+          "impressions": 3368,
           "clicks": 107,
           "leads": 0
         },
@@ -5299,7 +5299,7 @@
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 26.71,
-          "impressions": 20507,
+          "impressions": 20521,
           "clicks": 1225,
           "leads": 0
         },
@@ -5308,7 +5308,7 @@
           "campaign_id": "120244283688640027",
           "campaign_name": "Курс ОФ Теплові насоси 08.05",
           "spend": 24.05,
-          "impressions": 6356,
+          "impressions": 6359,
           "clicks": 97,
           "leads": 1
         }
@@ -7591,7 +7591,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 15.65,
-          "impressions": 2434,
+          "impressions": 2435,
           "clicks": 29,
           "leads": 2
         },
@@ -9260,7 +9260,7 @@
         {
           "id": "120245836336330392",
           "name": "Kurs 2 Klima new",
-          "status": "PAUSED",
+          "status": "ACTIVE",
           "objective": "OUTCOME_LEADS"
         },
         {
