@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T09:37:15.374Z",
+  "generated_at": "2026-05-31T10:31:21.561Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5263,7 +5263,7 @@
           "campaign_id": "120243705562570027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
           "spend": 4.81,
-          "impressions": 1264,
+          "impressions": 1265,
           "clicks": 21,
           "leads": 1
         },
@@ -5281,7 +5281,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.29,
-          "impressions": 4974,
+          "impressions": 4976,
           "clicks": 67,
           "leads": 4
         },
@@ -5290,7 +5290,7 @@
           "campaign_id": "120243924389220027",
           "campaign_name": "Форум Львів «Продажі»",
           "spend": 9.58,
-          "impressions": 3364,
+          "impressions": 3366,
           "clicks": 107,
           "leads": 0
         },
@@ -5299,8 +5299,8 @@
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 26.71,
-          "impressions": 20487,
-          "clicks": 1223,
+          "impressions": 20493,
+          "clicks": 1224,
           "leads": 0
         },
         {
@@ -5308,7 +5308,7 @@
           "campaign_id": "120244283688640027",
           "campaign_name": "Курс ОФ Теплові насоси 08.05",
           "spend": 24.04,
-          "impressions": 6349,
+          "impressions": 6350,
           "clicks": 97,
           "leads": 1
         }
