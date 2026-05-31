@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T18:42:39.285Z",
+  "generated_at": "2026-05-31T18:55:30.682Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5308,7 +5308,7 @@
           "campaign_id": "120244283688640027",
           "campaign_name": "Курс ОФ Теплові насоси 08.05",
           "spend": 24.05,
-          "impressions": 6361,
+          "impressions": 6362,
           "clicks": 97,
           "leads": 1
         }
