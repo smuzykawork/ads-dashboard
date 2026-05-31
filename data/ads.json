@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T18:55:30.682Z",
+  "generated_at": "2026-05-31T20:19:17.454Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -9252,6 +9252,12 @@
       "currency": "PLN",
       "campaigns": [
         {
+          "id": "120248315379390392",
+          "name": "Kurs N5 Serwis",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120246162254390392",
           "name": "Kompas inwestycjy",
           "status": "PAUSED",
@@ -10442,12 +10448,6 @@
         {
           "id": "120211286652100392",
           "name": "Post: \"🔧 Webinar online: Klimakonwektor i pompa ciepła -...\"",
-          "status": "PAUSED",
-          "objective": "LINK_CLICKS"
-        },
-        {
-          "id": "120211258041040392",
-          "name": "Фото черній фон аля Чичваркин - фотовольтаика",
           "status": "PAUSED",
           "objective": "LINK_CLICKS"
         }
