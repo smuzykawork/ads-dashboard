@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T14:32:02.050Z",
+  "generated_at": "2026-06-01T18:46:27.752Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5281,7 +5281,7 @@
           "campaign_id": "120243706106870027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
           "spend": 23.53,
-          "impressions": 7561,
+          "impressions": 7562,
           "clicks": 171,
           "leads": 0
         },
@@ -5289,8 +5289,8 @@
           "date": "2026-05-31",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 10.31,
-          "impressions": 6065,
+          "spend": 10.32,
+          "impressions": 6066,
           "clicks": 88,
           "leads": 4
         },
@@ -5299,7 +5299,7 @@
           "campaign_id": "120243924389220027",
           "campaign_name": "Форум Львів «Продажі»",
           "spend": 8.45,
-          "impressions": 4042,
+          "impressions": 4046,
           "clicks": 175,
           "leads": 0
         },
@@ -5307,17 +5307,17 @@
           "date": "2026-05-31",
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
-          "spend": 20.04,
-          "impressions": 17273,
-          "clicks": 984,
+          "spend": 20.06,
+          "impressions": 17287,
+          "clicks": 987,
           "leads": 0
         },
         {
           "date": "2026-05-31",
           "campaign_id": "120244283688640027",
           "campaign_name": "Курс ОФ Теплові насоси 08.05",
-          "spend": 25.97,
-          "impressions": 7315,
+          "spend": 25.98,
+          "impressions": 7318,
           "clicks": 138,
           "leads": 3
         }
@@ -5328,6 +5328,12 @@
       "name": "Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120242568737500292",
+          "name": "Мультизональні системи кондиціювання MRV",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120241761354030292",
           "name": "Дилер Контакти - Форма – копія",
@@ -7144,7 +7150,7 @@
           "campaign_id": "120241761354030292",
           "campaign_name": "Дилер Контакти - Форма – копія",
           "spend": 4.66,
-          "impressions": 1311,
+          "impressions": 1312,
           "clicks": 10,
           "leads": 0
         }
@@ -7627,7 +7633,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 20.3,
-          "impressions": 3617,
+          "impressions": 3619,
           "clicks": 55,
           "leads": 4
         }
@@ -12338,8 +12344,8 @@
           "date": "2026-05-31",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 15.49,
-          "impressions": 884,
+          "spend": 15.5,
+          "impressions": 886,
           "clicks": 40,
           "leads": 5
         }
