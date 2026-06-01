@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T23:46:00.259Z",
+  "generated_at": "2026-06-01T00:13:56.083Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5271,8 +5271,8 @@
           "date": "2026-05-31",
           "campaign_id": "120243705562570027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
-          "spend": 5.75,
-          "impressions": 1591,
+          "spend": 5.76,
+          "impressions": 1592,
           "clicks": 20,
           "leads": 0
         },
@@ -5281,7 +5281,7 @@
           "campaign_id": "120243706106870027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
           "spend": 23.32,
-          "impressions": 7430,
+          "impressions": 7431,
           "clicks": 167,
           "leads": 0
         },
@@ -5299,7 +5299,7 @@
           "campaign_id": "120243924389220027",
           "campaign_name": "Форум Львів «Продажі»",
           "spend": 8.33,
-          "impressions": 3911,
+          "impressions": 3913,
           "clicks": 170,
           "leads": 0
         },
@@ -5307,8 +5307,8 @@
           "date": "2026-05-31",
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
-          "spend": 19.73,
-          "impressions": 16933,
+          "spend": 19.74,
+          "impressions": 16940,
           "clicks": 976,
           "leads": 0
         },
@@ -12339,7 +12339,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 14.97,
-          "impressions": 841,
+          "impressions": 842,
           "clicks": 39,
           "leads": 5
         }
