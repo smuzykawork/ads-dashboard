@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T18:52:17.184Z",
+  "generated_at": "2026-06-02T20:24:09.090Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5245,7 +5245,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.32,
-          "impressions": 6067,
+          "impressions": 6068,
           "clicks": 88,
           "leads": 4
         },
@@ -5272,7 +5272,7 @@
           "campaign_id": "120244283688640027",
           "campaign_name": "Курс ОФ Теплові насоси 08.05",
           "spend": 26.02,
-          "impressions": 7324,
+          "impressions": 7325,
           "clicks": 138,
           "leads": 3
         },
@@ -5280,8 +5280,8 @@
           "date": "2026-06-01",
           "campaign_id": "120243705562570027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
-          "spend": 4.95,
-          "impressions": 1686,
+          "spend": 5.02,
+          "impressions": 1688,
           "clicks": 17,
           "leads": 2
         },
@@ -5299,7 +5299,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.22,
-          "impressions": 7283,
+          "impressions": 7284,
           "clicks": 94,
           "leads": 8
         },
@@ -5307,8 +5307,8 @@
           "date": "2026-06-01",
           "campaign_id": "120243924389220027",
           "campaign_name": "Форум Львів «Продажі»",
-          "spend": 6.61,
-          "impressions": 6664,
+          "spend": 6.62,
+          "impressions": 6665,
           "clicks": 273,
           "leads": 0
         },
