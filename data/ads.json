@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-02T15:04:08.526Z",
+  "generated_at": "2026-06-02T16:59:41.487Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120244668347310027",
+          "name": "ОН Теплові насоси 02.06",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120244283688640027",
           "name": "Курс ОФ Теплові насоси 08.05",
@@ -1196,12 +1202,6 @@
         },
         {
           "id": "120208779245990027",
-          "name": "Конверсія на сайті / Курси / 21.05",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120208779020240027",
           "name": "Конверсія на сайті / Курси / 21.05",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
@@ -5281,7 +5281,7 @@
           "campaign_id": "120243705562570027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
           "spend": 4.95,
-          "impressions": 1685,
+          "impressions": 1686,
           "clicks": 17,
           "leads": 2
         },
@@ -5299,7 +5299,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.22,
-          "impressions": 7281,
+          "impressions": 7283,
           "clicks": 94,
           "leads": 8
         },
@@ -5308,7 +5308,7 @@
           "campaign_id": "120243924389220027",
           "campaign_name": "Форум Львів «Продажі»",
           "spend": 6.61,
-          "impressions": 6662,
+          "impressions": 6663,
           "clicks": 273,
           "leads": 0
         },
@@ -5316,8 +5316,8 @@
           "date": "2026-06-01",
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
-          "spend": 18.13,
-          "impressions": 18062,
+          "spend": 18.16,
+          "impressions": 18068,
           "clicks": 769,
           "leads": 0
         },
@@ -5326,7 +5326,7 @@
           "campaign_id": "120244283688640027",
           "campaign_name": "Курс ОФ Теплові насоси 08.05",
           "spend": 22.94,
-          "impressions": 6851,
+          "impressions": 6852,
           "clicks": 102,
           "leads": 4
         }
@@ -7177,8 +7177,8 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 5.46,
-          "impressions": 2072,
-          "clicks": 40,
+          "impressions": 2073,
+          "clicks": 43,
           "leads": 4
         }
       ]
