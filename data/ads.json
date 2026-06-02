@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-02T16:59:41.487Z",
+  "generated_at": "2026-06-02T18:25:34.693Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120244672388590027",
+          "name": "Форум Львів «Продажі» охоплення",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_AWARENESS"
+        },
         {
           "id": "120244668347310027",
           "name": "ОН Теплові насоси 02.06",
@@ -1197,12 +1203,6 @@
         {
           "id": "120209015266800027",
           "name": "Конверсія на сайті / «Енергоаудитор систем опалення» / 29.05",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120208779245990027",
-          "name": "Конверсія на сайті / Курси / 21.05",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -5271,8 +5271,8 @@
           "date": "2026-05-31",
           "campaign_id": "120244283688640027",
           "campaign_name": "Курс ОФ Теплові насоси 08.05",
-          "spend": 25.98,
-          "impressions": 7323,
+          "spend": 26.02,
+          "impressions": 7324,
           "clicks": 138,
           "leads": 3
         },
@@ -5308,7 +5308,7 @@
           "campaign_id": "120243924389220027",
           "campaign_name": "Форум Львів «Продажі»",
           "spend": 6.61,
-          "impressions": 6663,
+          "impressions": 6664,
           "clicks": 273,
           "leads": 0
         },
@@ -5317,16 +5317,16 @@
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 18.16,
-          "impressions": 18068,
-          "clicks": 769,
+          "impressions": 18070,
+          "clicks": 771,
           "leads": 0
         },
         {
           "date": "2026-06-01",
           "campaign_id": "120244283688640027",
           "campaign_name": "Курс ОФ Теплові насоси 08.05",
-          "spend": 22.94,
-          "impressions": 6852,
+          "spend": 22.95,
+          "impressions": 6854,
           "clicks": 102,
           "leads": 4
         }
