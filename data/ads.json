@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T14:39:21.877Z",
+  "generated_at": "2026-06-02T15:04:08.526Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5290,7 +5290,7 @@
           "campaign_id": "120243706106870027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
           "spend": 17.76,
-          "impressions": 5253,
+          "impressions": 5254,
           "clicks": 95,
           "leads": 0
         },
@@ -9042,8 +9042,8 @@
           "date": "2026-06-01",
           "campaign_id": "120245864201140713",
           "campaign_name": "СBO | CPL |  Травень | Нові",
-          "spend": 11.81,
-          "impressions": 1315,
+          "spend": 11.82,
+          "impressions": 1316,
           "clicks": 20,
           "leads": 2
         }
