@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T11:21:24.183Z",
+  "generated_at": "2026-06-03T12:19:36.117Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5272,7 +5272,7 @@
           "campaign_id": "120243705562570027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
           "spend": 5.01,
-          "impressions": 1768,
+          "impressions": 1769,
           "clicks": 22,
           "leads": 0
         },
@@ -5290,7 +5290,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.68,
-          "impressions": 4972,
+          "impressions": 4973,
           "clicks": 64,
           "leads": 4
         },
@@ -5307,8 +5307,8 @@
           "date": "2026-06-02",
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
-          "spend": 21.11,
-          "impressions": 18845,
+          "spend": 21.13,
+          "impressions": 18850,
           "clicks": 844,
           "leads": 0
         },
@@ -5334,8 +5334,8 @@
           "date": "2026-06-02",
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
-          "spend": 1.9,
-          "impressions": 13237,
+          "spend": 1.92,
+          "impressions": 13240,
           "clicks": 14,
           "leads": 0
         }
@@ -7210,7 +7210,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 9.66,
-          "impressions": 3994,
+          "impressions": 3996,
           "clicks": 68,
           "leads": 12
         }
@@ -9084,8 +9084,8 @@
           "date": "2026-06-02",
           "campaign_id": "120245864201140713",
           "campaign_name": "СBO | CPL |  Травень | Нові",
-          "spend": 10.95,
-          "impressions": 1102,
+          "spend": 10.96,
+          "impressions": 1103,
           "clicks": 10,
           "leads": 0
         }
