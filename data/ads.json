@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T23:58:39.570Z",
+  "generated_at": "2026-06-03T02:07:19.933Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5272,7 +5272,7 @@
           "campaign_id": "120243705562570027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
           "spend": 4.99,
-          "impressions": 1749,
+          "impressions": 1750,
           "clicks": 21,
           "leads": 0
         },
@@ -5281,7 +5281,7 @@
           "campaign_id": "120243706106870027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
           "spend": 19.3,
-          "impressions": 4653,
+          "impressions": 4656,
           "clicks": 84,
           "leads": 3
         },
@@ -5290,7 +5290,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.61,
-          "impressions": 4939,
+          "impressions": 4940,
           "clicks": 64,
           "leads": 4
         },
@@ -5307,8 +5307,8 @@
           "date": "2026-06-02",
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
-          "spend": 20.93,
-          "impressions": 18638,
+          "spend": 20.94,
+          "impressions": 18653,
           "clicks": 832,
           "leads": 0
         },
@@ -5326,7 +5326,7 @@
           "campaign_id": "120244668347310027",
           "campaign_name": "ОН Теплові насоси 02.06",
           "spend": 9.42,
-          "impressions": 2443,
+          "impressions": 2444,
           "clicks": 15,
           "leads": 0
         },
@@ -5335,7 +5335,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 1.86,
-          "impressions": 13062,
+          "impressions": 13073,
           "clicks": 12,
           "leads": 0
         }
@@ -7195,7 +7195,7 @@
           "campaign_id": "120241761354030292",
           "campaign_name": "Дилер Контакти - Форма – копія",
           "spend": 5.05,
-          "impressions": 1483,
+          "impressions": 1484,
           "clicks": 17,
           "leads": 0
         },
@@ -7203,8 +7203,8 @@
           "date": "2026-06-02",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 9.52,
-          "impressions": 3954,
+          "spend": 9.55,
+          "impressions": 3958,
           "clicks": 68,
           "leads": 12
         }
@@ -7704,8 +7704,8 @@
           "date": "2026-06-02",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 18.71,
-          "impressions": 4349,
+          "spend": 18.72,
+          "impressions": 4357,
           "clicks": 74,
           "leads": 8
         }
@@ -10596,6 +10596,15 @@
         },
         {
           "date": "2026-03-05",
+          "campaign_id": "120242056773890392",
+          "campaign_name": "Webinar №4- 39283- OSUSZANIA POWIETRZA. Przykłady rzeczywistych obiektów.",
+          "spend": 0.01,
+          "impressions": 2,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-05",
           "campaign_id": "120242057880550392",
           "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
           "spend": 0,
@@ -10827,6 +10836,15 @@
           "impressions": 412,
           "clicks": 11,
           "leads": 3
+        },
+        {
+          "date": "2026-03-10",
+          "campaign_id": "120242056773890392",
+          "campaign_name": "Webinar №4- 39283- OSUSZANIA POWIETRZA. Przykłady rzeczywistych obiektów.",
+          "spend": 0.01,
+          "impressions": 1,
+          "clicks": 0,
+          "leads": 0
         },
         {
           "date": "2026-03-10",
@@ -12398,8 +12416,8 @@
           "date": "2026-06-02",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 48.78,
-          "impressions": 4158,
+          "spend": 48.81,
+          "impressions": 4161,
           "clicks": 69,
           "leads": 3
         }
