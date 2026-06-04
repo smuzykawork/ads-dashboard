@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T19:47:50.988Z",
+  "generated_at": "2026-06-04T20:31:10.369Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5326,7 +5326,7 @@
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 20.74,
-          "impressions": 20211,
+          "impressions": 20212,
           "clicks": 1046,
           "leads": 0
         },
@@ -5334,8 +5334,8 @@
           "date": "2026-06-03",
           "campaign_id": "120244668347310027",
           "campaign_name": "ОН Теплові насоси 02.06",
-          "spend": 32.51,
-          "impressions": 9472,
+          "spend": 32.53,
+          "impressions": 9475,
           "clicks": 121,
           "leads": 1
         },
