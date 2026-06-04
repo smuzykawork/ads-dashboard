@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T22:52:35.480Z",
+  "generated_at": "2026-06-04T23:20:05.277Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5289,8 +5289,8 @@
           "date": "2026-06-04",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 10.13,
-          "impressions": 4594,
+          "spend": 10.15,
+          "impressions": 4597,
           "clicks": 64,
           "leads": 6
         },
@@ -5299,7 +5299,7 @@
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 16.94,
-          "impressions": 13459,
+          "impressions": 13465,
           "clicks": 968,
           "leads": 0
         },
@@ -5325,8 +5325,8 @@
           "date": "2026-06-04",
           "campaign_id": "120244750775530027",
           "campaign_name": "Форум Львів «Продажі» відео 2",
-          "spend": 17.07,
-          "impressions": 17136,
+          "spend": 17.08,
+          "impressions": 17145,
           "clicks": 982,
           "leads": 0
         },
@@ -7245,8 +7245,8 @@
           "date": "2026-06-04",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 13.77,
-          "impressions": 4420,
+          "spend": 13.82,
+          "impressions": 4423,
           "clicks": 53,
           "leads": 6
         },
@@ -12413,8 +12413,8 @@
           "date": "2026-06-04",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 55.64,
-          "impressions": 5563,
+          "spend": 55.74,
+          "impressions": 5568,
           "clicks": 88,
           "leads": 5
         }
