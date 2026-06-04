@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T14:13:22.652Z",
+  "generated_at": "2026-06-04T14:17:52.420Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5326,7 +5326,7 @@
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 20.74,
-          "impressions": 20198,
+          "impressions": 20200,
           "clicks": 1043,
           "leads": 0
         },
@@ -5344,7 +5344,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.79,
-          "impressions": 61885,
+          "impressions": 61886,
           "clicks": 59,
           "leads": 0
         }
