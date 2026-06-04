@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T10:50:43.945Z",
+  "generated_at": "2026-06-04T12:12:42.419Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5281,7 +5281,7 @@
           "campaign_id": "120244668347310027",
           "campaign_name": "ОН Теплові насоси 02.06",
           "spend": 9.45,
-          "impressions": 2459,
+          "impressions": 2460,
           "clicks": 15,
           "leads": 0
         },
@@ -5307,8 +5307,8 @@
           "date": "2026-06-03",
           "campaign_id": "120243706106870027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05",
-          "spend": 19.12,
-          "impressions": 6211,
+          "spend": 19.13,
+          "impressions": 6214,
           "clicks": 67,
           "leads": 1
         },
@@ -5316,8 +5316,8 @@
           "date": "2026-06-03",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 9.16,
-          "impressions": 4666,
+          "spend": 9.17,
+          "impressions": 4667,
           "clicks": 55,
           "leads": 3
         },
@@ -5326,8 +5326,8 @@
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 20.73,
-          "impressions": 20163,
-          "clicks": 1040,
+          "impressions": 20178,
+          "clicks": 1042,
           "leads": 0
         },
         {
@@ -5344,7 +5344,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.79,
-          "impressions": 61867,
+          "impressions": 61875,
           "clicks": 59,
           "leads": 0
         }
@@ -7756,7 +7756,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 16.61,
-          "impressions": 4622,
+          "impressions": 4623,
           "clicks": 65,
           "leads": 5
         }
