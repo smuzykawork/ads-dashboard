@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T16:58:31.561Z",
+  "generated_at": "2026-06-05T17:31:44.186Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5299,7 +5299,7 @@
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 17.33,
-          "impressions": 13746,
+          "impressions": 13747,
           "clicks": 979,
           "leads": 0
         },
@@ -5317,7 +5317,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.33,
-          "impressions": 53386,
+          "impressions": 53387,
           "clicks": 42,
           "leads": 0
         },
@@ -5326,7 +5326,7 @@
           "campaign_id": "120244750775530027",
           "campaign_name": "Форум Львів «Продажі» відео 2",
           "spend": 17.48,
-          "impressions": 17458,
+          "impressions": 17459,
           "clicks": 994,
           "leads": 0
         },
@@ -12154,6 +12154,15 @@
           "campaign_name": "Kurs 2 KLIMA",
           "spend": 1.85,
           "impressions": 140,
+          "clicks": 2,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-04",
+          "campaign_id": "120245225691310392",
+          "campaign_name": "FGAZy - WEB",
+          "spend": 5.23,
+          "impressions": 264,
           "clicks": 2,
           "leads": 0
         },
