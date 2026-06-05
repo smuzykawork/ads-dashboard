@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-05T10:57:17.714Z",
+  "generated_at": "2026-06-05T12:18:17.615Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120244854130980027",
+          "name": "Форум Львів «Продажі» відео ліди",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120244783961380027",
           "name": "ОН ТН відео з інст -15%",
@@ -63,7 +69,7 @@
         {
           "id": "120243705562570027",
           "name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -1197,12 +1203,6 @@
         {
           "id": "120209015456720027",
           "name": "Конверсія на сайті /«Проєктування сучасних систем вентиляції» / 29.05",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120209015415080027",
-          "name": "Конверсія на сайті / «Монтажник систем кондиціювання» / 29.05",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -5290,7 +5290,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.21,
-          "impressions": 4644,
+          "impressions": 4646,
           "clicks": 64,
           "leads": 6
         },
@@ -5298,8 +5298,8 @@
           "date": "2026-06-04",
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
-          "spend": 17.28,
-          "impressions": 13713,
+          "spend": 17.31,
+          "impressions": 13726,
           "clicks": 976,
           "leads": 0
         },
@@ -5307,8 +5307,8 @@
           "date": "2026-06-04",
           "campaign_id": "120244668347310027",
           "campaign_name": "ОН Теплові насоси 02.06",
-          "spend": 5.99,
-          "impressions": 1208,
+          "spend": 6.04,
+          "impressions": 1209,
           "clicks": 17,
           "leads": 0
         },
@@ -5317,7 +5317,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.33,
-          "impressions": 53363,
+          "impressions": 53369,
           "clicks": 42,
           "leads": 0
         },
@@ -5326,7 +5326,7 @@
           "campaign_id": "120244750775530027",
           "campaign_name": "Форум Львів «Продажі» відео 2",
           "spend": 17.46,
-          "impressions": 17429,
+          "impressions": 17436,
           "clicks": 990,
           "leads": 0
         },
@@ -7228,7 +7228,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 8.05,
-          "impressions": 2905,
+          "impressions": 2906,
           "clicks": 47,
           "leads": 6
         },
@@ -7245,8 +7245,8 @@
           "date": "2026-06-04",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 14.04,
-          "impressions": 4510,
+          "spend": 14.05,
+          "impressions": 4511,
           "clicks": 54,
           "leads": 6
         },
@@ -7774,7 +7774,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 15.03,
-          "impressions": 2982,
+          "impressions": 2983,
           "clicks": 51,
           "leads": 5
         }
