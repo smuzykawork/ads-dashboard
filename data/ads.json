@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T08:50:56.947Z",
+  "generated_at": "2026-06-05T08:56:53.963Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5272,7 +5272,7 @@
           "campaign_id": "120243705562570027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 19.05 -20%",
           "spend": 5.6,
-          "impressions": 1442,
+          "impressions": 1443,
           "clicks": 30,
           "leads": 1
         },
@@ -5299,7 +5299,7 @@
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 17.26,
-          "impressions": 13697,
+          "impressions": 13698,
           "clicks": 976,
           "leads": 0
         },
@@ -5317,7 +5317,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.33,
-          "impressions": 53350,
+          "impressions": 53351,
           "clicks": 42,
           "leads": 0
         },
@@ -5326,7 +5326,7 @@
           "campaign_id": "120244750775530027",
           "campaign_name": "Форум Львів «Продажі» відео 2",
           "spend": 17.43,
-          "impressions": 17411,
+          "impressions": 17414,
           "clicks": 988,
           "leads": 0
         },
@@ -7245,8 +7245,8 @@
           "date": "2026-06-04",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 14.02,
-          "impressions": 4498,
+          "spend": 14.04,
+          "impressions": 4500,
           "clicks": 54,
           "leads": 6
         },
@@ -12414,7 +12414,7 @@
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
           "spend": 56.37,
-          "impressions": 5633,
+          "impressions": 5634,
           "clicks": 92,
           "leads": 5
         }
