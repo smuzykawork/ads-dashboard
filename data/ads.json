@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T14:56:50.092Z",
+  "generated_at": "2026-06-06T15:56:56.665Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5291,7 +5291,7 @@
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 10.78,
           "impressions": 9838,
-          "clicks": 704,
+          "clicks": 705,
           "leads": 0
         },
         {
@@ -5299,7 +5299,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.77,
-          "impressions": 53818,
+          "impressions": 53824,
           "clicks": 61,
           "leads": 0
         },
@@ -5309,7 +5309,7 @@
           "campaign_name": "Форум Львів «Продажі» відео 2",
           "spend": 14.19,
           "impressions": 11956,
-          "clicks": 887,
+          "clicks": 888,
           "leads": 0
         },
         {
@@ -5325,8 +5325,8 @@
           "date": "2026-06-05",
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
-          "spend": 7.58,
-          "impressions": 2007,
+          "spend": 7.59,
+          "impressions": 2008,
           "clicks": 154,
           "leads": 2
         }
@@ -7254,8 +7254,8 @@
           "date": "2026-06-05",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 17.64,
-          "impressions": 5714,
+          "spend": 17.65,
+          "impressions": 5715,
           "clicks": 85,
           "leads": 9
         },
@@ -9166,7 +9166,7 @@
           "campaign_id": "120245864201140713",
           "campaign_name": "СBO | CPL |  Травень | Нові",
           "spend": 7.99,
-          "impressions": 414,
+          "impressions": 415,
           "clicks": 4,
           "leads": 0
         }
