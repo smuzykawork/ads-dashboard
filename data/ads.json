@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T12:50:37.402Z",
+  "generated_at": "2026-06-06T14:20:19.234Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5299,7 +5299,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.77,
-          "impressions": 53811,
+          "impressions": 53816,
           "clicks": 61,
           "leads": 0
         },
@@ -5308,8 +5308,8 @@
           "campaign_id": "120244750775530027",
           "campaign_name": "Форум Львів «Продажі» відео 2",
           "spend": 14.19,
-          "impressions": 11951,
-          "clicks": 885,
+          "impressions": 11956,
+          "clicks": 887,
           "leads": 0
         },
         {
@@ -5317,7 +5317,7 @@
           "campaign_id": "120244783961380027",
           "campaign_name": "ОН ТН відео з інст -15%",
           "spend": 12.6,
-          "impressions": 4307,
+          "impressions": 4308,
           "clicks": 79,
           "leads": 2
         },
@@ -5326,7 +5326,7 @@
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
           "spend": 7.58,
-          "impressions": 2004,
+          "impressions": 2006,
           "clicks": 153,
           "leads": 2
         }
@@ -12395,8 +12395,8 @@
           "date": "2026-06-05",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 66.2,
-          "impressions": 7187,
+          "spend": 66.23,
+          "impressions": 7191,
           "clicks": 130,
           "leads": 4
         }
