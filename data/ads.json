@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T05:03:06.366Z",
+  "generated_at": "2026-06-06T05:40:43.042Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5253,8 +5253,8 @@
           "date": "2026-06-04",
           "campaign_id": "120244750775530027",
           "campaign_name": "Форум Львів «Продажі» відео 2",
-          "spend": 17.49,
-          "impressions": 17465,
+          "spend": 17.5,
+          "impressions": 17466,
           "clicks": 995,
           "leads": 0
         },
@@ -5280,8 +5280,8 @@
           "date": "2026-06-05",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 9.69,
-          "impressions": 3917,
+          "spend": 9.72,
+          "impressions": 3918,
           "clicks": 40,
           "leads": 5
         },
@@ -5290,7 +5290,7 @@
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 10.78,
-          "impressions": 9825,
+          "impressions": 9828,
           "clicks": 704,
           "leads": 0
         },
@@ -5299,7 +5299,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.77,
-          "impressions": 53717,
+          "impressions": 53725,
           "clicks": 61,
           "leads": 0
         },
@@ -5307,17 +5307,17 @@
           "date": "2026-06-05",
           "campaign_id": "120244750775530027",
           "campaign_name": "Форум Львів «Продажі» відео 2",
-          "spend": 14.18,
-          "impressions": 11929,
-          "clicks": 882,
+          "spend": 14.19,
+          "impressions": 11934,
+          "clicks": 883,
           "leads": 0
         },
         {
           "date": "2026-06-05",
           "campaign_id": "120244783961380027",
           "campaign_name": "ОН ТН відео з інст -15%",
-          "spend": 12.58,
-          "impressions": 4292,
+          "spend": 12.59,
+          "impressions": 4299,
           "clicks": 79,
           "leads": 2
         },
@@ -5325,8 +5325,8 @@
           "date": "2026-06-05",
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
-          "spend": 7.5,
-          "impressions": 1979,
+          "spend": 7.51,
+          "impressions": 1984,
           "clicks": 151,
           "leads": 2
         }
@@ -7255,7 +7255,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 17.62,
-          "impressions": 5692,
+          "impressions": 5696,
           "clicks": 85,
           "leads": 9
         },
@@ -12386,8 +12386,8 @@
           "date": "2026-06-05",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 32.41,
-          "impressions": 1567,
+          "spend": 32.54,
+          "impressions": 1570,
           "clicks": 25,
           "leads": 0
         },
@@ -12395,8 +12395,8 @@
           "date": "2026-06-05",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 65.38,
-          "impressions": 7140,
+          "spend": 65.41,
+          "impressions": 7143,
           "clicks": 130,
           "leads": 4
         }
