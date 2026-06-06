@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T12:01:05.100Z",
+  "generated_at": "2026-06-06T12:14:01.840Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5299,7 +5299,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.77,
-          "impressions": 53804,
+          "impressions": 53806,
           "clicks": 61,
           "leads": 0
         },
@@ -7255,7 +7255,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 17.63,
-          "impressions": 5712,
+          "impressions": 5713,
           "clicks": 85,
           "leads": 9
         },
@@ -12386,8 +12386,8 @@
           "date": "2026-06-05",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 32.6,
-          "impressions": 1574,
+          "spend": 32.61,
+          "impressions": 1575,
           "clicks": 25,
           "leads": 0
         },
@@ -12395,8 +12395,8 @@
           "date": "2026-06-05",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 65.88,
-          "impressions": 7184,
+          "spend": 66.19,
+          "impressions": 7186,
           "clicks": 130,
           "leads": 4
         }
