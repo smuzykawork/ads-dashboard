@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T05:40:43.042Z",
+  "generated_at": "2026-06-06T06:06:46.333Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5281,7 +5281,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.72,
-          "impressions": 3918,
+          "impressions": 3920,
           "clicks": 40,
           "leads": 5
         },
@@ -5290,7 +5290,7 @@
           "campaign_id": "120244166709960027",
           "campaign_name": "Форум Львів «Продажі» відео",
           "spend": 10.78,
-          "impressions": 9828,
+          "impressions": 9831,
           "clicks": 704,
           "leads": 0
         },
@@ -5299,7 +5299,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.77,
-          "impressions": 53725,
+          "impressions": 53734,
           "clicks": 61,
           "leads": 0
         },
@@ -5308,7 +5308,7 @@
           "campaign_id": "120244750775530027",
           "campaign_name": "Форум Львів «Продажі» відео 2",
           "spend": 14.19,
-          "impressions": 11934,
+          "impressions": 11938,
           "clicks": 883,
           "leads": 0
         },
@@ -5317,7 +5317,7 @@
           "campaign_id": "120244783961380027",
           "campaign_name": "ОН ТН відео з інст -15%",
           "spend": 12.59,
-          "impressions": 4299,
+          "impressions": 4301,
           "clicks": 79,
           "leads": 2
         },
@@ -5326,7 +5326,7 @@
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
           "spend": 7.51,
-          "impressions": 1984,
+          "impressions": 1986,
           "clicks": 151,
           "leads": 2
         }
@@ -7255,7 +7255,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 17.62,
-          "impressions": 5696,
+          "impressions": 5699,
           "clicks": 85,
           "leads": 9
         },
@@ -12395,8 +12395,8 @@
           "date": "2026-06-05",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 65.41,
-          "impressions": 7143,
+          "spend": 65.45,
+          "impressions": 7151,
           "clicks": 130,
           "leads": 4
         }
