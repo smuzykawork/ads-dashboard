@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T18:47:18.081Z",
+  "generated_at": "2026-06-06T19:59:07.831Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -21,7 +21,7 @@
         {
           "id": "120244750775530027",
           "name": "Форум Львів «Продажі» відео 2",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_SALES"
         },
         {
@@ -5299,7 +5299,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.77,
-          "impressions": 53842,
+          "impressions": 53847,
           "clicks": 61,
           "leads": 0
         },
@@ -5308,7 +5308,7 @@
           "campaign_id": "120244750775530027",
           "campaign_name": "Форум Львів «Продажі» відео 2",
           "spend": 14.2,
-          "impressions": 11959,
+          "impressions": 11960,
           "clicks": 888,
           "leads": 0
         },
@@ -5325,8 +5325,8 @@
           "date": "2026-06-05",
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
-          "spend": 7.59,
-          "impressions": 2008,
+          "spend": 7.6,
+          "impressions": 2009,
           "clicks": 154,
           "leads": 2
         }
