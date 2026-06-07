@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T00:15:01.942Z",
+  "generated_at": "2026-06-07T01:36:41.920Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5272,7 +5272,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.63,
-          "impressions": 3194,
+          "impressions": 3195,
           "clicks": 41,
           "leads": 4
         },
@@ -5281,7 +5281,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 10.49,
-          "impressions": 65513,
+          "impressions": 65516,
           "clicks": 63,
           "leads": 0
         },
@@ -5290,7 +5290,7 @@
           "campaign_id": "120244750775530027",
           "campaign_name": "Форум Львів «Продажі» відео 2",
           "spend": 9.04,
-          "impressions": 8442,
+          "impressions": 8445,
           "clicks": 653,
           "leads": 0
         },
@@ -5299,7 +5299,7 @@
           "campaign_id": "120244783961380027",
           "campaign_name": "ОН ТН відео з інст -15%",
           "spend": 19.49,
-          "impressions": 4051,
+          "impressions": 4052,
           "clicks": 79,
           "leads": 1
         },
@@ -7264,7 +7264,7 @@
           "campaign_id": "120242740773790292",
           "campaign_name": "Дилер Контакти 03.06",
           "spend": 3.93,
-          "impressions": 938,
+          "impressions": 939,
           "clicks": 13,
           "leads": 1
         }
@@ -7801,7 +7801,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 15.96,
-          "impressions": 5197,
+          "impressions": 5201,
           "clicks": 53,
           "leads": 3
         }
@@ -12377,8 +12377,8 @@
           "date": "2026-06-06",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 85.45,
-          "impressions": 9010,
+          "spend": 85.46,
+          "impressions": 9015,
           "clicks": 137,
           "leads": 2
         }
