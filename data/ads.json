@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T16:40:47.697Z",
+  "generated_at": "2026-06-07T16:50:28.724Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -12384,7 +12384,7 @@
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
           "spend": 85.55,
-          "impressions": 9101,
+          "impressions": 9102,
           "clicks": 137,
           "leads": 2
         }
