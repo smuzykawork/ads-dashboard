@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T23:45:25.727Z",
+  "generated_at": "2026-06-08T23:50:18.591Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5217,8 +5217,8 @@
           "date": "2026-06-08",
           "campaign_id": "120244783961380027",
           "campaign_name": "ОН ТН відео з інст -15%",
-          "spend": 19.16,
-          "impressions": 4498,
+          "spend": 19.2,
+          "impressions": 4499,
           "clicks": 67,
           "leads": 3
         },
