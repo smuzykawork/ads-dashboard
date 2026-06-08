@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T14:38:15.187Z",
+  "generated_at": "2026-06-08T16:14:15.231Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5245,7 +5245,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 11.47,
-          "impressions": 4666,
+          "impressions": 4667,
           "clicks": 81,
           "leads": 10
         },
@@ -5254,7 +5254,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 10.62,
-          "impressions": 69061,
+          "impressions": 69067,
           "clicks": 72,
           "leads": 0
         },
@@ -7237,7 +7237,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 25.06,
-          "impressions": 7405,
+          "impressions": 7406,
           "clicks": 71,
           "leads": 6
         },
@@ -9181,7 +9181,7 @@
           "campaign_id": "120246585951860713",
           "campaign_name": "СBO | CPL |  Червень | Нові",
           "spend": 9.32,
-          "impressions": 1597,
+          "impressions": 1599,
           "clicks": 33,
           "leads": 2
         }
