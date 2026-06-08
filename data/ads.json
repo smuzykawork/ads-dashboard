@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T12:13:58.468Z",
+  "generated_at": "2026-06-08T14:38:15.187Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5245,7 +5245,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 11.47,
-          "impressions": 4665,
+          "impressions": 4666,
           "clicks": 81,
           "leads": 10
         },
@@ -5254,7 +5254,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 10.62,
-          "impressions": 69044,
+          "impressions": 69061,
           "clicks": 72,
           "leads": 0
         },
@@ -5263,8 +5263,8 @@
           "campaign_id": "120244783961380027",
           "campaign_name": "ОН ТН відео з інст -15%",
           "spend": 21.15,
-          "impressions": 4848,
-          "clicks": 93,
+          "impressions": 4851,
+          "clicks": 94,
           "leads": 2
         },
         {
@@ -7236,8 +7236,8 @@
           "date": "2026-06-07",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 25.04,
-          "impressions": 7402,
+          "spend": 25.06,
+          "impressions": 7405,
           "clicks": 71,
           "leads": 6
         },
@@ -9181,7 +9181,7 @@
           "campaign_id": "120246585951860713",
           "campaign_name": "СBO | CPL |  Червень | Нові",
           "spend": 9.32,
-          "impressions": 1596,
+          "impressions": 1597,
           "clicks": 33,
           "leads": 2
         }
