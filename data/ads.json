@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T22:56:32.905Z",
+  "generated_at": "2026-06-09T23:37:16.253Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5164,7 +5164,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.92,
-          "impressions": 4318,
+          "impressions": 4319,
           "clicks": 60,
           "leads": 5
         },
@@ -5173,7 +5173,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.4,
-          "impressions": 51897,
+          "impressions": 51899,
           "clicks": 55,
           "leads": 0
         },
@@ -5191,7 +5191,7 @@
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
           "spend": 32.19,
-          "impressions": 5357,
+          "impressions": 5358,
           "clicks": 157,
           "leads": 11
         }
@@ -7198,7 +7198,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 13.44,
-          "impressions": 5037,
+          "impressions": 5038,
           "clicks": 45,
           "leads": 4
         },
@@ -12272,8 +12272,8 @@
           "date": "2026-06-09",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 23.21,
-          "impressions": 1148,
+          "spend": 23.35,
+          "impressions": 1150,
           "clicks": 10,
           "leads": 0
         },
@@ -12281,8 +12281,8 @@
           "date": "2026-06-09",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 57.62,
-          "impressions": 5278,
+          "spend": 57.68,
+          "impressions": 5281,
           "clicks": 76,
           "leads": 1
         },
