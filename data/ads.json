@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T15:45:17.352Z",
+  "generated_at": "2026-06-09T16:11:22.615Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5209,7 +5209,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.38,
-          "impressions": 57288,
+          "impressions": 57289,
           "clicks": 62,
           "leads": 0
         },
@@ -5218,7 +5218,7 @@
           "campaign_id": "120244783961380027",
           "campaign_name": "ОН ТН відео з інст -15%",
           "spend": 19.26,
-          "impressions": 4549,
+          "impressions": 4550,
           "clicks": 70,
           "leads": 3
         },
@@ -7216,7 +7216,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 18.6,
-          "impressions": 7984,
+          "impressions": 7985,
           "clicks": 56,
           "leads": 3
         },
@@ -7770,8 +7770,8 @@
           "date": "2026-06-08",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 14.89,
-          "impressions": 3643,
+          "spend": 14.9,
+          "impressions": 3644,
           "clicks": 48,
           "leads": 5
         }
