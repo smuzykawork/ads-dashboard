@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T18:29:17.742Z",
+  "generated_at": "2026-06-09T19:26:48.887Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5209,8 +5209,8 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.38,
-          "impressions": 57301,
-          "clicks": 62,
+          "impressions": 57302,
+          "clicks": 63,
           "leads": 0
         },
         {
@@ -7771,7 +7771,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 14.9,
-          "impressions": 3644,
+          "impressions": 3645,
           "clicks": 48,
           "leads": 5
         }
