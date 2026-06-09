@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T04:44:25.797Z",
+  "generated_at": "2026-06-09T04:52:15.862Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5200,7 +5200,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.14,
-          "impressions": 5254,
+          "impressions": 5257,
           "clicks": 68,
           "leads": 2
         },
@@ -5209,7 +5209,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.35,
-          "impressions": 57158,
+          "impressions": 57165,
           "clicks": 62,
           "leads": 0
         },
@@ -5218,7 +5218,7 @@
           "campaign_id": "120244783961380027",
           "campaign_name": "ОН ТН відео з інст -15%",
           "spend": 19.23,
-          "impressions": 4528,
+          "impressions": 4530,
           "clicks": 70,
           "leads": 3
         },
@@ -5226,8 +5226,8 @@
           "date": "2026-06-08",
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
-          "spend": 25.48,
-          "impressions": 4969,
+          "spend": 25.49,
+          "impressions": 4970,
           "clicks": 126,
           "leads": 2
         }
@@ -12293,8 +12293,8 @@
           "date": "2026-06-08",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 28.53,
-          "impressions": 1530,
+          "spend": 28.54,
+          "impressions": 1531,
           "clicks": 25,
           "leads": 1
         },
@@ -12302,8 +12302,8 @@
           "date": "2026-06-08",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 58.98,
-          "impressions": 5170,
+          "spend": 59.01,
+          "impressions": 5173,
           "clicks": 87,
           "leads": 4
         }
