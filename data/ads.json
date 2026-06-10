@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T11:08:29.016Z",
+  "generated_at": "2026-06-10T12:34:26.094Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5172,8 +5172,8 @@
           "date": "2026-06-09",
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
-          "spend": 9.44,
-          "impressions": 52049,
+          "spend": 9.45,
+          "impressions": 52062,
           "clicks": 55,
           "leads": 0
         },
@@ -5181,8 +5181,8 @@
           "date": "2026-06-09",
           "campaign_id": "120244783961380027",
           "campaign_name": "ОН ТН відео з інст -15%",
-          "spend": 20.05,
-          "impressions": 4787,
+          "spend": 20.06,
+          "impressions": 4788,
           "clicks": 47,
           "leads": 3
         },
@@ -7216,7 +7216,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 6.7,
-          "impressions": 2337,
+          "impressions": 2338,
           "clicks": 33,
           "leads": 3
         }
@@ -7761,8 +7761,8 @@
           "date": "2026-06-09",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 16.42,
-          "impressions": 3797,
+          "spend": 16.43,
+          "impressions": 3798,
           "clicks": 50,
           "leads": 5
         }
@@ -9157,7 +9157,7 @@
           "campaign_id": "120246585951860713",
           "campaign_name": "СBO | CPL |  Червень | Нові",
           "spend": 10.18,
-          "impressions": 2731,
+          "impressions": 2733,
           "clicks": 38,
           "leads": 1
         }
@@ -12287,8 +12287,8 @@
           "date": "2026-06-09",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 58.37,
-          "impressions": 5340,
+          "spend": 58.38,
+          "impressions": 5341,
           "clicks": 77,
           "leads": 1
         },
