@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T16:26:52.517Z",
+  "generated_at": "2026-06-10T16:42:52.372Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5182,7 +5182,7 @@
           "campaign_id": "120244783961380027",
           "campaign_name": "ОН ТН відео з інст -15%",
           "spend": 20.06,
-          "impressions": 4790,
+          "impressions": 4791,
           "clicks": 48,
           "leads": 3
         },
@@ -5191,7 +5191,7 @@
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
           "spend": 32.3,
-          "impressions": 5382,
+          "impressions": 5383,
           "clicks": 157,
           "leads": 11
         }
@@ -9157,7 +9157,7 @@
           "campaign_id": "120246585951860713",
           "campaign_name": "СBO | CPL |  Червень | Нові",
           "spend": 10.18,
-          "impressions": 2733,
+          "impressions": 2734,
           "clicks": 38,
           "leads": 1
         }
