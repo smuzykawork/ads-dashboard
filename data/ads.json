@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T12:46:01.637Z",
+  "generated_at": "2026-06-10T14:35:22.522Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5164,7 +5164,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.95,
-          "impressions": 4345,
+          "impressions": 4346,
           "clicks": 60,
           "leads": 5
         },
@@ -5173,7 +5173,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.45,
-          "impressions": 52062,
+          "impressions": 52071,
           "clicks": 55,
           "leads": 0
         },
@@ -5182,7 +5182,7 @@
           "campaign_id": "120244783961380027",
           "campaign_name": "ОН ТН відео з інст -15%",
           "spend": 20.06,
-          "impressions": 4788,
+          "impressions": 4789,
           "clicks": 47,
           "leads": 3
         },
@@ -5190,8 +5190,8 @@
           "date": "2026-06-09",
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
-          "spend": 32.26,
-          "impressions": 5381,
+          "spend": 32.3,
+          "impressions": 5382,
           "clicks": 157,
           "leads": 11
         }
@@ -7197,8 +7197,8 @@
           "date": "2026-06-09",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 13.68,
-          "impressions": 5141,
+          "spend": 13.7,
+          "impressions": 5143,
           "clicks": 45,
           "leads": 4
         },
@@ -12287,8 +12287,8 @@
           "date": "2026-06-09",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 58.38,
-          "impressions": 5341,
+          "spend": 58.4,
+          "impressions": 5343,
           "clicks": 77,
           "leads": 1
         },
