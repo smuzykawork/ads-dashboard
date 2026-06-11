@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T01:34:37.970Z",
+  "generated_at": "2026-06-11T01:59:06.790Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5137,7 +5137,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.57,
-          "impressions": 50211,
+          "impressions": 50213,
           "clicks": 46,
           "leads": 0
         },
@@ -5164,7 +5164,7 @@
           "campaign_id": "120245235958880027",
           "campaign_name": "Форум Львів ліди Ігнатюк",
           "spend": 3.88,
-          "impressions": 774,
+          "impressions": 775,
           "clicks": 27,
           "leads": 0
         },
@@ -7207,7 +7207,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 20.72,
-          "impressions": 8118,
+          "impressions": 8119,
           "clicks": 81,
           "leads": 5
         },
@@ -7216,7 +7216,7 @@
           "campaign_id": "120242740773790292",
           "campaign_name": "Дилер Контакти 03.06",
           "spend": 6.78,
-          "impressions": 1301,
+          "impressions": 1302,
           "clicks": 8,
           "leads": 1
         },
@@ -7225,8 +7225,8 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 8.34,
-          "impressions": 2478,
-          "clicks": 36,
+          "impressions": 2479,
+          "clicks": 37,
           "leads": 6
         }
       ]
@@ -9175,7 +9175,7 @@
           "campaign_id": "120246754576870713",
           "campaign_name": "На підрядників / Червень 2026",
           "spend": 5.26,
-          "impressions": 1902,
+          "impressions": 1903,
           "clicks": 35,
           "leads": 2
         }
