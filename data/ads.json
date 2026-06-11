@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T16:34:00.850Z",
+  "generated_at": "2026-06-11T16:41:12.235Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5155,7 +5155,7 @@
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
           "spend": 29.87,
-          "impressions": 5023,
+          "impressions": 5024,
           "clicks": 132,
           "leads": 8
         },
@@ -11911,15 +11911,6 @@
           "campaign_name": "Kurs 2 KLIMA",
           "spend": 1.85,
           "impressions": 140,
-          "clicks": 2,
-          "leads": 0
-        },
-        {
-          "date": "2026-05-04",
-          "campaign_id": "120245225691310392",
-          "campaign_name": "FGAZy - WEB",
-          "spend": 5.23,
-          "impressions": 264,
           "clicks": 2,
           "leads": 0
         },
