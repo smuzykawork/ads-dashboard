@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T16:41:12.235Z",
+  "generated_at": "2026-06-11T19:24:58.882Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -51,7 +51,7 @@
         {
           "id": "120244672388590027",
           "name": "Форум Львів «Продажі» охоплення",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_AWARENESS"
         },
         {
@@ -5118,8 +5118,8 @@
           "date": "2026-06-09",
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
-          "spend": 32.32,
-          "impressions": 5385,
+          "spend": 32.34,
+          "impressions": 5386,
           "clicks": 157,
           "leads": 11
         },
@@ -5136,8 +5136,8 @@
           "date": "2026-06-10",
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
-          "spend": 9.58,
-          "impressions": 50384,
+          "spend": 9.59,
+          "impressions": 50391,
           "clicks": 46,
           "leads": 0
         },
@@ -5146,7 +5146,7 @@
           "campaign_id": "120244783961380027",
           "campaign_name": "ОН ТН відео з інст -15%",
           "spend": 19.96,
-          "impressions": 5552,
+          "impressions": 5554,
           "clicks": 63,
           "leads": 2
         },
@@ -7207,7 +7207,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 21.05,
-          "impressions": 8309,
+          "impressions": 8310,
           "clicks": 83,
           "leads": 5
         },
@@ -11911,6 +11911,15 @@
           "campaign_name": "Kurs 2 KLIMA",
           "spend": 1.85,
           "impressions": 140,
+          "clicks": 2,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-04",
+          "campaign_id": "120245225691310392",
+          "campaign_name": "FGAZy - WEB",
+          "spend": 5.23,
+          "impressions": 264,
           "clicks": 2,
           "leads": 0
         },
