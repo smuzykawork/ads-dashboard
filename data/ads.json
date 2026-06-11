@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T11:44:47.010Z",
+  "generated_at": "2026-06-11T11:54:00.490Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5137,7 +5137,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.58,
-          "impressions": 50358,
+          "impressions": 50362,
           "clicks": 46,
           "leads": 0
         },
@@ -7206,8 +7206,8 @@
           "date": "2026-06-10",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 21.04,
-          "impressions": 8300,
+          "spend": 21.05,
+          "impressions": 8302,
           "clicks": 83,
           "leads": 5
         },
