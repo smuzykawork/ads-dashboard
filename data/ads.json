@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T19:41:56.702Z",
+  "generated_at": "2026-06-11T19:57:18.571Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5137,7 +5137,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 9.59,
-          "impressions": 50392,
+          "impressions": 50393,
           "clicks": 46,
           "leads": 0
         },
@@ -7207,7 +7207,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 21.05,
-          "impressions": 8310,
+          "impressions": 8311,
           "clicks": 83,
           "leads": 5
         },
@@ -11911,6 +11911,15 @@
           "campaign_name": "Kurs 2 KLIMA",
           "spend": 1.85,
           "impressions": 140,
+          "clicks": 2,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-04",
+          "campaign_id": "120245225691310392",
+          "campaign_name": "FGAZy - WEB",
+          "spend": 5.23,
+          "impressions": 264,
           "clicks": 2,
           "leads": 0
         },
