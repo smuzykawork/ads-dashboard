@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T09:47:12.550Z",
+  "generated_at": "2026-06-12T10:38:25.471Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5119,7 +5119,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 8.43,
-          "impressions": 43869,
+          "impressions": 43876,
           "clicks": 33,
           "leads": 0
         },
@@ -5128,7 +5128,7 @@
           "campaign_id": "120244783961380027",
           "campaign_name": "ОН ТН відео з інст -15%",
           "spend": 10,
-          "impressions": 1909,
+          "impressions": 1910,
           "clicks": 27,
           "leads": 0
         },
@@ -5137,7 +5137,7 @@
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
           "spend": 31.01,
-          "impressions": 5681,
+          "impressions": 5682,
           "clicks": 88,
           "leads": 2
         },
@@ -7233,8 +7233,8 @@
           "date": "2026-06-11",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 20.7,
-          "impressions": 6909,
+          "spend": 20.71,
+          "impressions": 6910,
           "clicks": 62,
           "leads": 2
         },
@@ -12287,8 +12287,8 @@
           "date": "2026-06-11",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 54.04,
-          "impressions": 5018,
+          "spend": 54.05,
+          "impressions": 5019,
           "clicks": 100,
           "leads": 2
         },
@@ -12296,8 +12296,8 @@
           "date": "2026-06-11",
           "campaign_id": "120249049288770392",
           "campaign_name": "Spawanie",
-          "spend": 18.15,
-          "impressions": 909,
+          "spend": 18.16,
+          "impressions": 910,
           "clicks": 26,
           "leads": 3
         }
