@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T09:41:30.660Z",
+  "generated_at": "2026-06-12T09:47:12.550Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5109,8 +5109,8 @@
           "date": "2026-06-11",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 9.73,
-          "impressions": 5575,
+          "spend": 9.74,
+          "impressions": 5577,
           "clicks": 57,
           "leads": 3
         },
@@ -5119,7 +5119,7 @@
           "campaign_id": "120244672388590027",
           "campaign_name": "Форум Львів «Продажі» охоплення",
           "spend": 8.43,
-          "impressions": 43868,
+          "impressions": 43869,
           "clicks": 33,
           "leads": 0
         },
