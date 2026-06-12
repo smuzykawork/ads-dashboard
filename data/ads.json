@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T19:28:27.622Z",
+  "generated_at": "2026-06-12T20:22:27.496Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -12296,8 +12296,8 @@
           "date": "2026-06-11",
           "campaign_id": "120249049288770392",
           "campaign_name": "Spawanie",
-          "spend": 18.26,
-          "impressions": 914,
+          "spend": 18.27,
+          "impressions": 915,
           "clicks": 26,
           "leads": 3
         }
