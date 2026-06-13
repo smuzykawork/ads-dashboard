@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T14:37:09.901Z",
+  "generated_at": "2026-06-13T15:21:30.488Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5110,7 +5110,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.49,
-          "impressions": 4380,
+          "impressions": 4381,
           "clicks": 53,
           "leads": 3
         },
@@ -5127,8 +5127,8 @@
           "date": "2026-06-12",
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
-          "spend": 25.35,
-          "impressions": 3991,
+          "spend": 25.36,
+          "impressions": 3992,
           "clicks": 67,
           "leads": 2
         },
@@ -5155,7 +5155,7 @@
           "campaign_id": "120245309069350027",
           "campaign_name": "ОН Теплові насоси 07.05 – копія",
           "spend": 5.09,
-          "impressions": 1599,
+          "impressions": 1601,
           "clicks": 17,
           "leads": 0
         }
@@ -9507,6 +9507,12 @@
       "currency": "PLN",
       "campaigns": [
         {
+          "id": "120249472664530392",
+          "name": "FGAZY UKR Europe",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120249049288770392",
           "name": "Spawanie",
           "status": "ACTIVE",
@@ -10697,12 +10703,6 @@
         {
           "id": "120211291281570392",
           "name": "Post: \"🔧 Bezpłatny webinar online: Montaż klimakonwektorów 🔧\"",
-          "status": "PAUSED",
-          "objective": "LINK_CLICKS"
-        },
-        {
-          "id": "120211291205270392",
-          "name": "Post: \"🔧 Montaż klimakonwektorów: zostań profesjonalistą! 🔧\"",
           "status": "PAUSED",
           "objective": "LINK_CLICKS"
         }
@@ -12278,8 +12278,8 @@
           "date": "2026-06-12",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 58.96,
-          "impressions": 5276,
+          "spend": 58.97,
+          "impressions": 5277,
           "clicks": 99,
           "leads": 1
         },
