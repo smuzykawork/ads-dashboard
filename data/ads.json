@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T22:35:43.370Z",
+  "generated_at": "2026-06-13T22:46:31.969Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5101,7 +5101,7 @@
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
           "spend": 32.51,
-          "impressions": 5084,
+          "impressions": 5085,
           "clicks": 75,
           "leads": 5
         },
@@ -5137,7 +5137,7 @@
           "campaign_id": "120245448774790027",
           "campaign_name": "Форум Львів «Продажі» статика ліди",
           "spend": 13.91,
-          "impressions": 2447,
+          "impressions": 2449,
           "clicks": 76,
           "leads": 3
         }
@@ -9247,7 +9247,7 @@
           "campaign_id": "120246754576870713",
           "campaign_name": "На підрядників / Червень 2026",
           "spend": 2.58,
-          "impressions": 793,
+          "impressions": 794,
           "clicks": 6,
           "leads": 0
         }
@@ -12251,8 +12251,8 @@
           "date": "2026-06-13",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 21.86,
-          "impressions": 1089,
+          "spend": 21.87,
+          "impressions": 1090,
           "clicks": 17,
           "leads": 0
         },
@@ -12269,8 +12269,8 @@
           "date": "2026-06-13",
           "campaign_id": "120249049288770392",
           "campaign_name": "Spawanie",
-          "spend": 26.81,
-          "impressions": 1240,
+          "spend": 26.85,
+          "impressions": 1242,
           "clicks": 20,
           "leads": 2
         },
