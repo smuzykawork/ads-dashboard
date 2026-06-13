@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T22:15:57.910Z",
+  "generated_at": "2026-06-13T22:35:43.370Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5101,7 +5101,7 @@
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
           "spend": 32.51,
-          "impressions": 5082,
+          "impressions": 5084,
           "clicks": 75,
           "leads": 5
         },
@@ -5119,7 +5119,7 @@
           "campaign_id": "120245309069350027",
           "campaign_name": "ОН Теплові насоси 07.05 – копія",
           "spend": 9.01,
-          "impressions": 2289,
+          "impressions": 2291,
           "clicks": 34,
           "leads": 1
         },
@@ -5128,7 +5128,7 @@
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
           "spend": 10.4,
-          "impressions": 8984,
+          "impressions": 8985,
           "clicks": 426,
           "leads": 0
         },
@@ -5137,7 +5137,7 @@
           "campaign_id": "120245448774790027",
           "campaign_name": "Форум Львів «Продажі» статика ліди",
           "spend": 13.91,
-          "impressions": 2446,
+          "impressions": 2447,
           "clicks": 76,
           "leads": 3
         }
@@ -7252,7 +7252,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 12.88,
-          "impressions": 2202,
+          "impressions": 2203,
           "clicks": 26,
           "leads": 4
         },
@@ -12251,8 +12251,8 @@
           "date": "2026-06-13",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 21.81,
-          "impressions": 1088,
+          "spend": 21.86,
+          "impressions": 1089,
           "clicks": 17,
           "leads": 0
         },
@@ -12278,8 +12278,8 @@
           "date": "2026-06-13",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 25.21,
-          "impressions": 870,
+          "spend": 25.33,
+          "impressions": 872,
           "clicks": 12,
           "leads": 2
         }
