@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T10:06:22.734Z",
+  "generated_at": "2026-06-13T11:27:19.529Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5145,8 +5145,8 @@
           "date": "2026-06-12",
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
-          "spend": 5.94,
-          "impressions": 2453,
+          "spend": 5.95,
+          "impressions": 2455,
           "clicks": 58,
           "leads": 3
         },
@@ -7243,7 +7243,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 17.98,
-          "impressions": 4391,
+          "impressions": 4394,
           "clicks": 45,
           "leads": 2
         },
@@ -9229,7 +9229,7 @@
           "campaign_id": "120246754576870713",
           "campaign_name": "На підрядників / Червень 2026",
           "spend": 3.8,
-          "impressions": 1522,
+          "impressions": 1523,
           "clicks": 32,
           "leads": 3
         }
@@ -12279,7 +12279,7 @@
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
           "spend": 58.96,
-          "impressions": 5274,
+          "impressions": 5275,
           "clicks": 99,
           "leads": 1
         },
