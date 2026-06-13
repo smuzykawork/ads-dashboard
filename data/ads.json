@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T15:21:30.488Z",
+  "generated_at": "2026-06-13T16:41:12.474Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7243,7 +7243,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 17.98,
-          "impressions": 4394,
+          "impressions": 4396,
           "clicks": 45,
           "leads": 2
         },
@@ -7252,7 +7252,7 @@
           "campaign_id": "120242740773790292",
           "campaign_name": "Дилер Контакти 03.06",
           "spend": 8.66,
-          "impressions": 1369,
+          "impressions": 1371,
           "clicks": 16,
           "leads": 0
         },
@@ -7806,8 +7806,8 @@
           "date": "2026-06-12",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 17.06,
-          "impressions": 3050,
+          "spend": 17.07,
+          "impressions": 3051,
           "clicks": 64,
           "leads": 4
         }
@@ -9220,7 +9220,7 @@
           "campaign_id": "120246585951860713",
           "campaign_name": "СBO | CPL |  Червень | Нові",
           "spend": 6.75,
-          "impressions": 991,
+          "impressions": 992,
           "clicks": 16,
           "leads": 0
         },
