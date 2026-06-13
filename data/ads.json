@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T13:12:31.661Z",
+  "generated_at": "2026-06-13T14:21:05.528Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7261,7 +7261,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 4.06,
-          "impressions": 1115,
+          "impressions": 1116,
           "clicks": 5,
           "leads": 0
         }
@@ -7807,7 +7807,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 17.06,
-          "impressions": 3049,
+          "impressions": 3050,
           "clicks": 64,
           "leads": 4
         }
@@ -9515,7 +9515,7 @@
         {
           "id": "120248315379390392",
           "name": "Kurs N5 Serwis",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -9527,7 +9527,7 @@
         {
           "id": "120245836336330392",
           "name": "Kurs 2 Klima new",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -12269,8 +12269,8 @@
           "date": "2026-06-12",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 33.31,
-          "impressions": 1775,
+          "spend": 33.34,
+          "impressions": 1778,
           "clicks": 42,
           "leads": 4
         },
@@ -12279,7 +12279,7 @@
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
           "spend": 58.96,
-          "impressions": 5275,
+          "impressions": 5276,
           "clicks": 99,
           "leads": 1
         },
