@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-06-13T12:02:14.131Z",
+  "generated_at": "2026-06-13T13:12:31.661Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120245448774790027",
+          "name": "Форум Львів «Продажі» статика ліди",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120245448194970027",
+          "name": "Форум Львів «Продажі» відео нові",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_SALES"
+        },
         {
           "id": "120245309069350027",
           "name": "ОН Теплові насоси 07.05 – копія",
@@ -1191,18 +1203,6 @@
         {
           "id": "120209510663280027",
           "name": "Конверсія на сайті /«Монтажник систем кондиціювання» / 24.06",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120209510599080027",
-          "name": "Конверсія на сайті /«Енергоаудитор систем опалення» / 24.06",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120209510537590027",
-          "name": "Конверсія на сайті /«Енергоаудитор систем опалення»/ 24.06",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -5110,7 +5110,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.49,
-          "impressions": 4377,
+          "impressions": 4380,
           "clicks": 53,
           "leads": 3
         },
@@ -7261,7 +7261,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 4.06,
-          "impressions": 1114,
+          "impressions": 1115,
           "clicks": 5,
           "leads": 0
         }
@@ -12269,8 +12269,8 @@
           "date": "2026-06-12",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 33.27,
-          "impressions": 1774,
+          "spend": 33.31,
+          "impressions": 1775,
           "clicks": 42,
           "leads": 4
         },
