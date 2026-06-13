@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T08:35:31.579Z",
+  "generated_at": "2026-06-13T09:46:14.008Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5146,7 +5146,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 5.94,
-          "impressions": 2452,
+          "impressions": 2453,
           "clicks": 58,
           "leads": 3
         },
@@ -5154,8 +5154,8 @@
           "date": "2026-06-12",
           "campaign_id": "120245309069350027",
           "campaign_name": "ОН Теплові насоси 07.05 – копія",
-          "spend": 5.08,
-          "impressions": 1598,
+          "spend": 5.09,
+          "impressions": 1599,
           "clicks": 17,
           "leads": 0
         }
@@ -7243,7 +7243,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 17.98,
-          "impressions": 4390,
+          "impressions": 4391,
           "clicks": 45,
           "leads": 2
         },
@@ -12269,8 +12269,8 @@
           "date": "2026-06-12",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 33.25,
-          "impressions": 1773,
+          "spend": 33.27,
+          "impressions": 1774,
           "clicks": 42,
           "leads": 4
         },
@@ -12279,7 +12279,7 @@
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
           "spend": 58.96,
-          "impressions": 5273,
+          "impressions": 5274,
           "clicks": 99,
           "leads": 1
         },
