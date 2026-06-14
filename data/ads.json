@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T00:18:09.875Z",
+  "generated_at": "2026-06-14T01:42:04.737Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5110,7 +5110,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 3.36,
-          "impressions": 1249,
+          "impressions": 1250,
           "clicks": 19,
           "leads": 0
         },
@@ -5128,7 +5128,7 @@
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
           "spend": 10.4,
-          "impressions": 8988,
+          "impressions": 8993,
           "clicks": 426,
           "leads": 0
         },
@@ -7816,7 +7816,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 16.49,
-          "impressions": 3238,
+          "impressions": 3240,
           "clicks": 55,
           "leads": 5
         }
@@ -9247,7 +9247,7 @@
           "campaign_id": "120246754576870713",
           "campaign_name": "На підрядників / Червень 2026",
           "spend": 2.58,
-          "impressions": 794,
+          "impressions": 795,
           "clicks": 6,
           "leads": 0
         }
