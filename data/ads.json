@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T17:40:34.199Z",
+  "generated_at": "2026-06-14T18:50:29.439Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5128,7 +5128,7 @@
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
           "spend": 10.48,
-          "impressions": 9112,
+          "impressions": 9113,
           "clicks": 432,
           "leads": 0
         },
@@ -7251,8 +7251,8 @@
           "date": "2026-06-13",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 12.88,
-          "impressions": 2207,
+          "spend": 12.89,
+          "impressions": 2208,
           "clicks": 26,
           "leads": 4
         },
@@ -7261,7 +7261,7 @@
           "campaign_id": "120242740773790292",
           "campaign_name": "Дилер Контакти 03.06",
           "spend": 10.29,
-          "impressions": 1422,
+          "impressions": 1423,
           "clicks": 19,
           "leads": 1
         },
@@ -7270,7 +7270,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 6.33,
-          "impressions": 1678,
+          "impressions": 1679,
           "clicks": 17,
           "leads": 0
         }
@@ -12252,7 +12252,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 21.89,
-          "impressions": 1092,
+          "impressions": 1093,
           "clicks": 17,
           "leads": 0
         },
