@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T12:09:49.388Z",
+  "generated_at": "2026-06-14T13:12:29.914Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5092,7 +5092,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.25,
-          "impressions": 4951,
+          "impressions": 4953,
           "clicks": 83,
           "leads": 7
         },
@@ -5101,7 +5101,7 @@
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
           "spend": 32.52,
-          "impressions": 5096,
+          "impressions": 5097,
           "clicks": 76,
           "leads": 5
         },
@@ -5128,7 +5128,7 @@
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
           "spend": 10.46,
-          "impressions": 9087,
+          "impressions": 9091,
           "clicks": 429,
           "leads": 0
         },
@@ -5137,7 +5137,7 @@
           "campaign_id": "120245448774790027",
           "campaign_name": "Форум Львів «Продажі» статика ліди",
           "spend": 13.92,
-          "impressions": 2455,
+          "impressions": 2456,
           "clicks": 76,
           "leads": 3
         }
@@ -7270,7 +7270,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 6.33,
-          "impressions": 1676,
+          "impressions": 1677,
           "clicks": 17,
           "leads": 0
         }
