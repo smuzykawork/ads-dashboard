@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T22:39:00.698Z",
+  "generated_at": "2026-06-14T22:50:37.955Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5083,7 +5083,7 @@
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
           "spend": 32.8,
-          "impressions": 5746,
+          "impressions": 5747,
           "clicks": 83,
           "leads": 7
         },
@@ -5110,7 +5110,7 @@
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
           "spend": 29.82,
-          "impressions": 20263,
+          "impressions": 20265,
           "clicks": 857,
           "leads": 0
         },
@@ -7278,8 +7278,8 @@
           "date": "2026-06-14",
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
-          "spend": 8.34,
-          "impressions": 1962,
+          "spend": 8.35,
+          "impressions": 1963,
           "clicks": 10,
           "leads": 2
         }
@@ -9265,7 +9265,7 @@
           "campaign_id": "120246754576870713",
           "campaign_name": "На підрядників / Червень 2026",
           "spend": 5.09,
-          "impressions": 2102,
+          "impressions": 2103,
           "clicks": 50,
           "leads": 4
         }
