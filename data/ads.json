@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T11:46:32.529Z",
+  "generated_at": "2026-06-14T12:09:49.388Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5128,7 +5128,7 @@
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
           "spend": 10.46,
-          "impressions": 9085,
+          "impressions": 9087,
           "clicks": 429,
           "leads": 0
         },
@@ -7816,7 +7816,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 16.49,
-          "impressions": 3250,
+          "impressions": 3251,
           "clicks": 55,
           "leads": 5
         }
@@ -9247,7 +9247,7 @@
           "campaign_id": "120246754576870713",
           "campaign_name": "На підрядників / Червень 2026",
           "spend": 2.58,
-          "impressions": 801,
+          "impressions": 802,
           "clicks": 6,
           "leads": 0
         }
