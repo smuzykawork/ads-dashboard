@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T22:50:37.955Z",
+  "generated_at": "2026-06-14T23:23:02.746Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5073,8 +5073,8 @@
           "date": "2026-06-14",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 10.11,
-          "impressions": 5597,
+          "spend": 10.12,
+          "impressions": 5599,
           "clicks": 56,
           "leads": 1
         },
@@ -5082,8 +5082,8 @@
           "date": "2026-06-14",
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
-          "spend": 32.8,
-          "impressions": 5747,
+          "spend": 32.81,
+          "impressions": 5749,
           "clicks": 83,
           "leads": 7
         },
@@ -5092,7 +5092,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 12.12,
-          "impressions": 4567,
+          "impressions": 4569,
           "clicks": 87,
           "leads": 5
         },
@@ -5109,17 +5109,17 @@
           "date": "2026-06-14",
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
-          "spend": 29.82,
-          "impressions": 20265,
-          "clicks": 857,
+          "spend": 29.84,
+          "impressions": 20280,
+          "clicks": 859,
           "leads": 0
         },
         {
           "date": "2026-06-14",
           "campaign_id": "120245448774790027",
           "campaign_name": "Форум Львів «Продажі» статика ліди",
-          "spend": 40.81,
-          "impressions": 8429,
+          "spend": 40.82,
+          "impressions": 8430,
           "clicks": 133,
           "leads": 6
         }
@@ -7260,8 +7260,8 @@
           "date": "2026-06-14",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 5.71,
-          "impressions": 1384,
+          "spend": 5.72,
+          "impressions": 1385,
           "clicks": 16,
           "leads": 0
         },
@@ -7279,7 +7279,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 8.35,
-          "impressions": 1963,
+          "impressions": 1964,
           "clicks": 10,
           "leads": 2
         }
@@ -7824,8 +7824,8 @@
           "date": "2026-06-14",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 20.45,
-          "impressions": 5203,
+          "spend": 20.48,
+          "impressions": 5209,
           "clicks": 74,
           "leads": 6
         }
@@ -9264,8 +9264,8 @@
           "date": "2026-06-14",
           "campaign_id": "120246754576870713",
           "campaign_name": "На підрядників / Червень 2026",
-          "spend": 5.09,
-          "impressions": 2103,
+          "spend": 5.1,
+          "impressions": 2107,
           "clicks": 50,
           "leads": 4
         }
@@ -12269,8 +12269,8 @@
           "date": "2026-06-14",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 120.34,
-          "impressions": 4376,
+          "spend": 120.37,
+          "impressions": 4378,
           "clicks": 92,
           "leads": 11
         }
