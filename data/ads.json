@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T14:47:41.593Z",
+  "generated_at": "2026-06-15T18:00:17.847Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -9,13 +9,13 @@
         {
           "id": "120245448774790027",
           "name": "Форум Львів «Продажі» статика ліди",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
           "id": "120245448194970027",
           "name": "Форум Львів «Продажі» відео нові",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_SALES"
         },
         {
@@ -5056,7 +5056,7 @@
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
           "spend": 10.48,
-          "impressions": 9121,
+          "impressions": 9122,
           "clicks": 432,
           "leads": 0
         },
@@ -5110,7 +5110,7 @@
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
           "spend": 30.31,
-          "impressions": 20541,
+          "impressions": 20549,
           "clicks": 868,
           "leads": 0
         },
@@ -5139,7 +5139,7 @@
         {
           "id": "120242740773790292",
           "name": "Дилер Контакти 03.06",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -7261,7 +7261,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 5.83,
-          "impressions": 1421,
+          "impressions": 1423,
           "clicks": 17,
           "leads": 0
         },
@@ -12269,8 +12269,8 @@
           "date": "2026-06-14",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 120.38,
-          "impressions": 4379,
+          "spend": 120.45,
+          "impressions": 4381,
           "clicks": 92,
           "leads": 11
         }
