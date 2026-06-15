@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T05:22:56.294Z",
+  "generated_at": "2026-06-15T07:44:01.531Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5056,7 +5056,7 @@
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
           "spend": 10.48,
-          "impressions": 9118,
+          "impressions": 9120,
           "clicks": 432,
           "leads": 0
         },
@@ -5073,17 +5073,17 @@
           "date": "2026-06-14",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 10.13,
-          "impressions": 5620,
-          "clicks": 56,
+          "spend": 10.17,
+          "impressions": 5628,
+          "clicks": 57,
           "leads": 1
         },
         {
           "date": "2026-06-14",
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
-          "spend": 32.85,
-          "impressions": 5757,
+          "spend": 32.87,
+          "impressions": 5763,
           "clicks": 83,
           "leads": 7
         },
@@ -5092,7 +5092,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 12.15,
-          "impressions": 4586,
+          "impressions": 4595,
           "clicks": 88,
           "leads": 5
         },
@@ -5109,8 +5109,8 @@
           "date": "2026-06-14",
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
-          "spend": 30.15,
-          "impressions": 20438,
+          "spend": 30.19,
+          "impressions": 20476,
           "clicks": 867,
           "leads": 0
         },
@@ -5118,8 +5118,8 @@
           "date": "2026-06-14",
           "campaign_id": "120245448774790027",
           "campaign_name": "Форум Львів «Продажі» статика ліди",
-          "spend": 40.86,
-          "impressions": 8442,
+          "spend": 40.9,
+          "impressions": 8445,
           "clicks": 133,
           "leads": 6
         }
@@ -7260,8 +7260,8 @@
           "date": "2026-06-14",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 5.78,
-          "impressions": 1405,
+          "spend": 5.83,
+          "impressions": 1417,
           "clicks": 17,
           "leads": 0
         },
@@ -7269,8 +7269,8 @@
           "date": "2026-06-14",
           "campaign_id": "120242740773790292",
           "campaign_name": "Дилер Контакти 03.06",
-          "spend": 11.27,
-          "impressions": 1271,
+          "spend": 11.28,
+          "impressions": 1272,
           "clicks": 22,
           "leads": 2
         },
@@ -7278,8 +7278,8 @@
           "date": "2026-06-14",
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
-          "spend": 8.37,
-          "impressions": 1971,
+          "spend": 8.38,
+          "impressions": 1973,
           "clicks": 10,
           "leads": 2
         }
@@ -7824,8 +7824,8 @@
           "date": "2026-06-14",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 20.61,
-          "impressions": 5256,
+          "spend": 20.67,
+          "impressions": 5267,
           "clicks": 75,
           "leads": 6
         }
@@ -9256,7 +9256,7 @@
           "campaign_id": "120246585951860713",
           "campaign_name": "СBO | CPL |  Червень | Нові",
           "spend": 11.65,
-          "impressions": 1167,
+          "impressions": 1168,
           "clicks": 27,
           "leads": 1
         },
@@ -9264,8 +9264,8 @@
           "date": "2026-06-14",
           "campaign_id": "120246754576870713",
           "campaign_name": "На підрядників / Червень 2026",
-          "spend": 5.14,
-          "impressions": 2130,
+          "spend": 5.16,
+          "impressions": 2145,
           "clicks": 50,
           "leads": 4
         }
@@ -12243,7 +12243,7 @@
           "campaign_id": "120249049288770392",
           "campaign_name": "Spawanie",
           "spend": 26.86,
-          "impressions": 1248,
+          "impressions": 1249,
           "clicks": 21,
           "leads": 2
         },
