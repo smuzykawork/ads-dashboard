@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T18:00:17.847Z",
+  "generated_at": "2026-06-15T19:11:12.217Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5074,7 +5074,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.24,
-          "impressions": 5636,
+          "impressions": 5637,
           "clicks": 57,
           "leads": 1
         },
@@ -5082,8 +5082,8 @@
           "date": "2026-06-14",
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
-          "spend": 32.9,
-          "impressions": 5767,
+          "spend": 32.91,
+          "impressions": 5768,
           "clicks": 83,
           "leads": 7
         },
@@ -5110,7 +5110,7 @@
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
           "spend": 30.31,
-          "impressions": 20549,
+          "impressions": 20554,
           "clicks": 868,
           "leads": 0
         },
@@ -5119,7 +5119,7 @@
           "campaign_id": "120245448774790027",
           "campaign_name": "Форум Львів «Продажі» статика ліди",
           "spend": 40.9,
-          "impressions": 8445,
+          "impressions": 8446,
           "clicks": 133,
           "leads": 6
         }
@@ -9255,8 +9255,8 @@
           "date": "2026-06-14",
           "campaign_id": "120246585951860713",
           "campaign_name": "СBO | CPL |  Червень | Нові",
-          "spend": 11.65,
-          "impressions": 1169,
+          "spend": 11.66,
+          "impressions": 1170,
           "clicks": 27,
           "leads": 1
         },
@@ -9265,7 +9265,7 @@
           "campaign_id": "120246754576870713",
           "campaign_name": "На підрядників / Червень 2026",
           "spend": 5.18,
-          "impressions": 2159,
+          "impressions": 2160,
           "clicks": 50,
           "leads": 4
         }
@@ -12269,8 +12269,8 @@
           "date": "2026-06-14",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 120.45,
-          "impressions": 4381,
+          "spend": 120.47,
+          "impressions": 4382,
           "clicks": 92,
           "leads": 11
         }
