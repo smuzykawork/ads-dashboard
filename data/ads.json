@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T21:16:29.375Z",
+  "generated_at": "2026-06-15T21:59:51.574Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5019,17 +5019,17 @@
           "date": "2026-06-15",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 9.46,
-          "impressions": 4870,
-          "clicks": 63,
+          "spend": 9.47,
+          "impressions": 4879,
+          "clicks": 64,
           "leads": 4
         },
         {
           "date": "2026-06-15",
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
-          "spend": 33.27,
-          "impressions": 6521,
+          "spend": 33.31,
+          "impressions": 6527,
           "clicks": 106,
           "leads": 5
         },
@@ -5037,8 +5037,8 @@
           "date": "2026-06-15",
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
-          "spend": 9.44,
-          "impressions": 3425,
+          "spend": 9.47,
+          "impressions": 3431,
           "clicks": 55,
           "leads": 0
         },
@@ -5056,7 +5056,7 @@
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
           "spend": 19.24,
-          "impressions": 13106,
+          "impressions": 13111,
           "clicks": 607,
           "leads": 0
         },
@@ -7233,8 +7233,8 @@
           "date": "2026-06-15",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 6.46,
-          "impressions": 1592,
+          "spend": 6.48,
+          "impressions": 1598,
           "clicks": 18,
           "leads": 0
         },
@@ -7243,7 +7243,7 @@
           "campaign_id": "120242740773790292",
           "campaign_name": "Дилер Контакти 03.06",
           "spend": 6.48,
-          "impressions": 721,
+          "impressions": 722,
           "clicks": 8,
           "leads": 0
         },
@@ -7251,8 +7251,8 @@
           "date": "2026-06-15",
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
-          "spend": 7.13,
-          "impressions": 1630,
+          "spend": 7.2,
+          "impressions": 1638,
           "clicks": 16,
           "leads": 2
         }
@@ -7797,8 +7797,8 @@
           "date": "2026-06-15",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 14.89,
-          "impressions": 4168,
+          "spend": 14.92,
+          "impressions": 4176,
           "clicks": 63,
           "leads": 1
         }
@@ -9237,8 +9237,8 @@
           "date": "2026-06-15",
           "campaign_id": "120246585951860713",
           "campaign_name": "СBO | CPL |  Червень | Нові",
-          "spend": 11.03,
-          "impressions": 1561,
+          "spend": 11.04,
+          "impressions": 1563,
           "clicks": 26,
           "leads": 0
         },
@@ -9246,8 +9246,8 @@
           "date": "2026-06-15",
           "campaign_id": "120246754576870713",
           "campaign_name": "На підрядників / Червень 2026",
-          "spend": 5.74,
-          "impressions": 3127,
+          "spend": 5.75,
+          "impressions": 3132,
           "clicks": 65,
           "leads": 4
         }
@@ -10726,51 +10726,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-03-17",
-          "campaign_id": "120241269377270392",
-          "campaign_name": "Kurs 2 KLIMA",
-          "spend": 20.42,
-          "impressions": 1283,
-          "clicks": 37,
-          "leads": 3
-        },
-        {
-          "date": "2026-03-17",
-          "campaign_id": "120242047172240392",
-          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
-          "spend": 10.66,
-          "impressions": 817,
-          "clicks": 32,
-          "leads": 3
-        },
-        {
-          "date": "2026-03-17",
-          "campaign_id": "120242057880550392",
-          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
-          "spend": 12.15,
-          "impressions": 840,
-          "clicks": 23,
-          "leads": 4
-        },
-        {
-          "date": "2026-03-17",
-          "campaign_id": "120242453552730392",
-          "campaign_name": "Webinar №21 - Systemy VRF w obiektach komercyjnych",
-          "spend": 41.7,
-          "impressions": 4277,
-          "clicks": 73,
-          "leads": 6
-        },
-        {
-          "date": "2026-03-17",
-          "campaign_id": "120242529829540392",
-          "campaign_name": "KURS №5. Serwis KLIMA",
-          "spend": 36.08,
-          "impressions": 1635,
-          "clicks": 26,
-          "leads": 2
-        },
         {
           "date": "2026-03-18",
           "campaign_id": "120241269377270392",
@@ -12255,6 +12210,15 @@
           "impressions": 4383,
           "clicks": 92,
           "leads": 11
+        },
+        {
+          "date": "2026-06-15",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 101.65,
+          "impressions": 4759,
+          "clicks": 60,
+          "leads": 7
         }
       ]
     }
