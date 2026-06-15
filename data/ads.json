@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T12:39:06.206Z",
+  "generated_at": "2026-06-15T14:47:41.593Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5091,8 +5091,8 @@
           "date": "2026-06-14",
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
-          "spend": 12.17,
-          "impressions": 4599,
+          "spend": 12.2,
+          "impressions": 4602,
           "clicks": 89,
           "leads": 5
         },
@@ -5109,8 +5109,8 @@
           "date": "2026-06-14",
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
-          "spend": 30.3,
-          "impressions": 20532,
+          "spend": 30.31,
+          "impressions": 20541,
           "clicks": 868,
           "leads": 0
         },
@@ -7261,7 +7261,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 5.83,
-          "impressions": 1420,
+          "impressions": 1421,
           "clicks": 17,
           "leads": 0
         },
@@ -7279,7 +7279,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 8.4,
-          "impressions": 1974,
+          "impressions": 1975,
           "clicks": 10,
           "leads": 2
         }
@@ -9256,7 +9256,7 @@
           "campaign_id": "120246585951860713",
           "campaign_name": "СBO | CPL |  Червень | Нові",
           "spend": 11.65,
-          "impressions": 1168,
+          "impressions": 1169,
           "clicks": 27,
           "leads": 1
         },
@@ -9264,8 +9264,8 @@
           "date": "2026-06-14",
           "campaign_id": "120246754576870713",
           "campaign_name": "На підрядників / Червень 2026",
-          "spend": 5.17,
-          "impressions": 2155,
+          "spend": 5.18,
+          "impressions": 2159,
           "clicks": 50,
           "leads": 4
         }
