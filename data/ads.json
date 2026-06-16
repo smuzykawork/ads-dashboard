@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T05:26:32.292Z",
+  "generated_at": "2026-06-16T06:04:49.478Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5002,7 +5002,7 @@
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
           "spend": 30.31,
-          "impressions": 20556,
+          "impressions": 20558,
           "clicks": 868,
           "leads": 0
         },
@@ -5020,7 +5020,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.52,
-          "impressions": 4911,
+          "impressions": 4917,
           "clicks": 64,
           "leads": 4
         },
@@ -5028,8 +5028,8 @@
           "date": "2026-06-15",
           "campaign_id": "120244854130980027",
           "campaign_name": "Форум Львів «Продажі» відео ліди",
-          "spend": 33.39,
-          "impressions": 6549,
+          "spend": 33.41,
+          "impressions": 6555,
           "clicks": 108,
           "leads": 5
         },
@@ -5047,7 +5047,7 @@
           "campaign_id": "120245309069350027",
           "campaign_name": "ОН Теплові насоси 07.05 – копія",
           "spend": 2.26,
-          "impressions": 475,
+          "impressions": 476,
           "clicks": 7,
           "leads": 0
         },
@@ -5056,7 +5056,7 @@
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
           "spend": 19.27,
-          "impressions": 13136,
+          "impressions": 13139,
           "clicks": 612,
           "leads": 0
         },
@@ -7233,8 +7233,8 @@
           "date": "2026-06-15",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 6.51,
-          "impressions": 1620,
+          "spend": 6.52,
+          "impressions": 1624,
           "clicks": 18,
           "leads": 0
         },
@@ -7251,8 +7251,8 @@
           "date": "2026-06-15",
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
-          "spend": 7.27,
-          "impressions": 1656,
+          "spend": 7.28,
+          "impressions": 1662,
           "clicks": 16,
           "leads": 2
         }
@@ -7797,8 +7797,8 @@
           "date": "2026-06-15",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 14.98,
-          "impressions": 4222,
+          "spend": 15,
+          "impressions": 4227,
           "clicks": 65,
           "leads": 1
         }
@@ -9237,8 +9237,8 @@
           "date": "2026-06-15",
           "campaign_id": "120246585951860713",
           "campaign_name": "СBO | CPL |  Червень | Нові",
-          "spend": 11.1,
-          "impressions": 1569,
+          "spend": 11.11,
+          "impressions": 1571,
           "clicks": 26,
           "leads": 0
         },
