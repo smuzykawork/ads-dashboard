@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T23:04:54.464Z",
+  "generated_at": "2026-06-16T23:10:11.248Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -9238,7 +9238,7 @@
           "campaign_id": "120246754576870713",
           "campaign_name": "На підрядників / Червень 2026",
           "spend": 5.27,
-          "impressions": 2670,
+          "impressions": 2671,
           "clicks": 45,
           "leads": 2
         }
