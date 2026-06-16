@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T17:49:30.725Z",
+  "generated_at": "2026-06-16T21:16:01.196Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -1208,78 +1208,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-03-18",
-          "campaign_id": "120234800968700027",
-          "campaign_name": "ОН Теплові насоси 12.11",
-          "spend": 2.25,
-          "impressions": 814,
-          "clicks": 7,
-          "leads": 1
-        },
-        {
-          "date": "2026-03-18",
-          "campaign_id": "120238545914700027",
-          "campaign_name": "Вадим Рубан (вакансія 1) ліди",
-          "spend": 6.39,
-          "impressions": 3963,
-          "clicks": 35,
-          "leads": 2
-        },
-        {
-          "date": "2026-03-18",
-          "campaign_id": "120239652104390027",
-          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
-          "spend": 4.88,
-          "impressions": 1503,
-          "clicks": 30,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-18",
-          "campaign_id": "120239719714360027",
-          "campaign_name": "FGAZ UKR Polish",
-          "spend": 4.98,
-          "impressions": 848,
-          "clicks": 7,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-18",
-          "campaign_id": "120240075192190027",
-          "campaign_name": "Вебінар - Помилки VRF 17.03",
-          "spend": 10.06,
-          "impressions": 4483,
-          "clicks": 43,
-          "leads": 6
-        },
-        {
-          "date": "2026-03-18",
-          "campaign_id": "120240075900160027",
-          "campaign_name": "Вебінар - Помилки Теплові насоси 17.03",
-          "spend": 9.33,
-          "impressions": 3995,
-          "clicks": 65,
-          "leads": 3
-        },
-        {
-          "date": "2026-03-18",
-          "campaign_id": "120240076115370027",
-          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
-          "spend": 11.66,
-          "impressions": 4778,
-          "clicks": 101,
-          "leads": 6
-        },
-        {
-          "date": "2026-03-18",
-          "campaign_id": "120240076633140027",
-          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
-          "spend": 9.91,
-          "impressions": 4310,
-          "clicks": 73,
-          "leads": 6
-        },
         {
           "date": "2026-03-19",
           "campaign_id": "120232606613690027",
@@ -5019,8 +4947,8 @@
           "date": "2026-06-15",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 9.55,
-          "impressions": 4936,
+          "spend": 9.56,
+          "impressions": 4937,
           "clicks": 66,
           "leads": 4
         },
@@ -5055,8 +4983,8 @@
           "date": "2026-06-15",
           "campaign_id": "120245448194970027",
           "campaign_name": "Форум Львів «Продажі» відео нові",
-          "spend": 19.28,
-          "impressions": 13155,
+          "spend": 19.29,
+          "impressions": 13159,
           "clicks": 613,
           "leads": 0
         },
@@ -5068,6 +4996,42 @@
           "impressions": 1937,
           "clicks": 29,
           "leads": 0
+        },
+        {
+          "date": "2026-06-16",
+          "campaign_id": "120243710381520027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
+          "spend": 10.5,
+          "impressions": 5443,
+          "clicks": 59,
+          "leads": 6
+        },
+        {
+          "date": "2026-06-16",
+          "campaign_id": "120244854130980027",
+          "campaign_name": "Форум Львів «Продажі» відео ліди",
+          "spend": 15.12,
+          "impressions": 2049,
+          "clicks": 38,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-16",
+          "campaign_id": "120245308588170027",
+          "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
+          "spend": 8.38,
+          "impressions": 2672,
+          "clicks": 38,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-16",
+          "campaign_id": "120245309069350027",
+          "campaign_name": "ОН Теплові насоси 07.05 – копія",
+          "spend": 0,
+          "impressions": 0,
+          "clicks": 0,
+          "leads": 1
         }
       ]
     },
@@ -7234,7 +7198,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 6.52,
-          "impressions": 1627,
+          "impressions": 1629,
           "clicks": 18,
           "leads": 0
         },
@@ -7255,6 +7219,24 @@
           "impressions": 1675,
           "clicks": 16,
           "leads": 2
+        },
+        {
+          "date": "2026-06-16",
+          "campaign_id": "120242568737500292",
+          "campaign_name": "Мультизональні системи кондиціювання MRV",
+          "spend": 14.85,
+          "impressions": 3960,
+          "clicks": 33,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-16",
+          "campaign_id": "120243193615220292",
+          "campaign_name": "Дилери вебінар",
+          "spend": 5.91,
+          "impressions": 1342,
+          "clicks": 14,
+          "leads": 1
         }
       ]
     },
@@ -7289,15 +7271,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-03-18",
-          "campaign_id": "120243169362960749",
-          "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 9.23,
-          "impressions": 2560,
-          "clicks": 44,
-          "leads": 3
-        },
         {
           "date": "2026-03-19",
           "campaign_id": "120243169362960749",
@@ -7797,10 +7770,19 @@
           "date": "2026-06-15",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 15.01,
-          "impressions": 4239,
+          "spend": 15.04,
+          "impressions": 4240,
           "clicks": 65,
           "leads": 1
+        },
+        {
+          "date": "2026-06-16",
+          "campaign_id": "120243169362960749",
+          "campaign_name": "ТН ЛІДИ 10.03",
+          "spend": 17.49,
+          "impressions": 4493,
+          "clicks": 65,
+          "leads": 4
         }
       ]
     },
@@ -8369,15 +8351,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-03-18",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 10.16,
-          "impressions": 1229,
-          "clicks": 28,
-          "leads": 1
-        },
         {
           "date": "2026-03-19",
           "campaign_id": "120240591444860713",
@@ -9250,6 +9223,24 @@
           "impressions": 3158,
           "clicks": 65,
           "leads": 4
+        },
+        {
+          "date": "2026-06-16",
+          "campaign_id": "120246585951860713",
+          "campaign_name": "СBO | CPL |  Червень | Нові",
+          "spend": 10.02,
+          "impressions": 1434,
+          "clicks": 15,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-16",
+          "campaign_id": "120246754576870713",
+          "campaign_name": "На підрядників / Червень 2026",
+          "spend": 5.26,
+          "impressions": 2665,
+          "clicks": 45,
+          "leads": 2
         }
       ]
     },
@@ -12215,8 +12206,8 @@
           "date": "2026-06-15",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 102.21,
-          "impressions": 4782,
+          "spend": 102.25,
+          "impressions": 4784,
           "clicks": 60,
           "leads": 7
         }
