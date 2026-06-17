@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T12:40:35.035Z",
+  "generated_at": "2026-06-17T13:54:42.013Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7225,7 +7225,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 14.98,
-          "impressions": 3993,
+          "impressions": 3994,
           "clicks": 34,
           "leads": 1
         },
@@ -12176,8 +12176,8 @@
           "date": "2026-06-16",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 82.73,
-          "impressions": 3689,
+          "spend": 82.75,
+          "impressions": 3690,
           "clicks": 43,
           "leads": 3
         }
