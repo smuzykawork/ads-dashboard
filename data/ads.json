@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T16:28:17.811Z",
+  "generated_at": "2026-06-17T16:45:06.510Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7791,6 +7791,18 @@
       "name": "Climasoft",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120247556045200713",
+          "name": "На підрядників / Червень 2026 сайт",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120247555894400713",
+          "name": "На підрядників / Червень 2026 сайт",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120247553901650713",
           "name": "На підрядників / Червень 2026 сайт",
