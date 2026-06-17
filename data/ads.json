@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T13:54:42.013Z",
+  "generated_at": "2026-06-17T16:28:17.811Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5002,7 +5002,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.6,
-          "impressions": 5542,
+          "impressions": 5545,
           "clicks": 61,
           "leads": 6
         },
@@ -7779,8 +7779,8 @@
           "date": "2026-06-16",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 17.7,
-          "impressions": 4558,
+          "spend": 17.71,
+          "impressions": 4561,
           "clicks": 65,
           "leads": 4
         }
@@ -7792,6 +7792,12 @@
       "currency": "USD",
       "campaigns": [
         {
+          "id": "120247553901650713",
+          "name": "На підрядників / Червень 2026 сайт",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120247521461960713",
           "name": "СBO | CPL |  Червень | Нові перезапуск",
           "status": "ACTIVE",
@@ -7800,7 +7806,7 @@
         {
           "id": "120246754576870713",
           "name": "На підрядників / Червень 2026",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -12176,8 +12182,8 @@
           "date": "2026-06-16",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 82.75,
-          "impressions": 3690,
+          "spend": 82.77,
+          "impressions": 3691,
           "clicks": 43,
           "leads": 3
         }
