@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T05:07:12.885Z",
+  "generated_at": "2026-06-17T07:31:35.598Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5001,8 +5001,8 @@
           "date": "2026-06-16",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 10.56,
-          "impressions": 5499,
+          "spend": 10.58,
+          "impressions": 5523,
           "clicks": 60,
           "leads": 6
         },
@@ -5020,7 +5020,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 8.44,
-          "impressions": 2693,
+          "impressions": 2703,
           "clicks": 38,
           "leads": 0
         },
@@ -7224,8 +7224,8 @@
           "date": "2026-06-16",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 14.93,
-          "impressions": 3978,
+          "spend": 14.97,
+          "impressions": 3984,
           "clicks": 34,
           "leads": 1
         },
@@ -7233,8 +7233,8 @@
           "date": "2026-06-16",
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
-          "spend": 5.93,
-          "impressions": 1351,
+          "spend": 6.02,
+          "impressions": 1358,
           "clicks": 14,
           "leads": 1
         }
@@ -7770,8 +7770,8 @@
           "date": "2026-06-15",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 15.04,
-          "impressions": 4240,
+          "spend": 15.09,
+          "impressions": 4241,
           "clicks": 65,
           "leads": 1
         },
@@ -7779,8 +7779,8 @@
           "date": "2026-06-16",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 17.62,
-          "impressions": 4538,
+          "spend": 17.65,
+          "impressions": 4552,
           "clicks": 65,
           "leads": 4
         }
@@ -7792,6 +7792,12 @@
       "currency": "USD",
       "campaigns": [
         {
+          "id": "120247521461960713",
+          "name": "СBO | CPL |  Червень | Нові перезапуск",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120246754576870713",
           "name": "На підрядників / Червень 2026",
           "status": "ACTIVE",
@@ -7800,7 +7806,7 @@
         {
           "id": "120246585951860713",
           "name": "СBO | CPL |  Червень | Нові",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -9210,8 +9216,8 @@
           "date": "2026-06-15",
           "campaign_id": "120246585951860713",
           "campaign_name": "СBO | CPL |  Червень | Нові",
-          "spend": 11.11,
-          "impressions": 1573,
+          "spend": 11.12,
+          "impressions": 1574,
           "clicks": 26,
           "leads": 0
         },
@@ -9229,7 +9235,7 @@
           "campaign_id": "120246585951860713",
           "campaign_name": "СBO | CPL |  Червень | Нові",
           "spend": 10.02,
-          "impressions": 1439,
+          "impressions": 1440,
           "clicks": 15,
           "leads": 0
         },
@@ -9238,7 +9244,7 @@
           "campaign_id": "120246754576870713",
           "campaign_name": "На підрядників / Червень 2026",
           "spend": 5.31,
-          "impressions": 2690,
+          "impressions": 2694,
           "clicks": 45,
           "leads": 2
         }
@@ -12161,8 +12167,8 @@
           "date": "2026-06-15",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 102.25,
-          "impressions": 4784,
+          "spend": 102.31,
+          "impressions": 4786,
           "clicks": 60,
           "leads": 7
         },
@@ -12170,8 +12176,8 @@
           "date": "2026-06-16",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 82.59,
-          "impressions": 3684,
+          "spend": 82.6,
+          "impressions": 3685,
           "clicks": 43,
           "leads": 3
         }
