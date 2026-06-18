@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T18:32:51.609Z",
+  "generated_at": "2026-06-18T20:43:07.676Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -9549,6 +9549,12 @@
       "currency": "PLN",
       "campaigns": [
         {
+          "id": "120249868127860392",
+          "name": "Project",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120249472664530392",
           "name": "FGAZY UKR Europe",
           "status": "ACTIVE",
@@ -10739,12 +10745,6 @@
         {
           "id": "120211291362890392",
           "name": "Post: \"🔧 Webinar online: Montaż klimakonwektorów 🔧\"",
-          "status": "PAUSED",
-          "objective": "LINK_CLICKS"
-        },
-        {
-          "id": "120211291281570392",
-          "name": "Post: \"🔧 Bezpłatny webinar online: Montaż klimakonwektorów 🔧\"",
           "status": "PAUSED",
           "objective": "LINK_CLICKS"
         }
