@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T14:34:19.511Z",
+  "generated_at": "2026-06-18T15:49:07.247Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4975,7 +4975,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.35,
-          "impressions": 4422,
+          "impressions": 4424,
           "clicks": 47,
           "leads": 1
         },
@@ -9261,8 +9261,8 @@
           "date": "2026-06-17",
           "campaign_id": "120247521461960713",
           "campaign_name": "СBO | CPL |  Червень | Нові перезапуск",
-          "spend": 7.7,
-          "impressions": 1303,
+          "spend": 7.71,
+          "impressions": 1304,
           "clicks": 21,
           "leads": 1
         },
@@ -9271,7 +9271,7 @@
           "campaign_id": "120247556045200713",
           "campaign_name": "На підрядників / Червень 2026 сайт",
           "spend": 1.61,
-          "impressions": 1758,
+          "impressions": 1759,
           "clicks": 15,
           "leads": 0
         }
