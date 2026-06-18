@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T09:52:11.995Z",
+  "generated_at": "2026-06-18T11:14:56.152Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4975,7 +4975,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.35,
-          "impressions": 4418,
+          "impressions": 4421,
           "clicks": 47,
           "leads": 1
         },
@@ -4984,7 +4984,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 9.63,
-          "impressions": 3185,
+          "impressions": 3189,
           "clicks": 51,
           "leads": 2
         },
@@ -7207,7 +7207,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 14.75,
-          "impressions": 3540,
+          "impressions": 3541,
           "clicks": 29,
           "leads": 3
         },
@@ -9270,8 +9270,8 @@
           "date": "2026-06-17",
           "campaign_id": "120247556045200713",
           "campaign_name": "На підрядників / Червень 2026 сайт",
-          "spend": 1.59,
-          "impressions": 1753,
+          "spend": 1.61,
+          "impressions": 1757,
           "clicks": 15,
           "leads": 0
         }
