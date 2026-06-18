@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T07:02:39.683Z",
+  "generated_at": "2026-06-18T07:19:36.010Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7207,7 +7207,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 14.72,
-          "impressions": 3529,
+          "impressions": 3530,
           "clicks": 29,
           "leads": 3
         },
@@ -9270,8 +9270,8 @@
           "date": "2026-06-17",
           "campaign_id": "120247556045200713",
           "campaign_name": "На підрядників / Червень 2026 сайт",
-          "spend": 1.58,
-          "impressions": 1743,
+          "spend": 1.59,
+          "impressions": 1744,
           "clicks": 15,
           "leads": 0
         }
