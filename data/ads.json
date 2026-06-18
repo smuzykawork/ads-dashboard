@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T13:46:01.792Z",
+  "generated_at": "2026-06-18T14:34:19.511Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4975,7 +4975,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.35,
-          "impressions": 4421,
+          "impressions": 4422,
           "clicks": 47,
           "leads": 1
         },
@@ -4983,8 +4983,8 @@
           "date": "2026-06-17",
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
-          "spend": 9.63,
-          "impressions": 3189,
+          "spend": 9.64,
+          "impressions": 3190,
           "clicks": 51,
           "leads": 2
         },
@@ -7761,8 +7761,8 @@
           "date": "2026-06-17",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 16.2,
-          "impressions": 3681,
+          "spend": 16.21,
+          "impressions": 3682,
           "clicks": 46,
           "leads": 1
         }
@@ -9271,7 +9271,7 @@
           "campaign_id": "120247556045200713",
           "campaign_name": "На підрядників / Червень 2026 сайт",
           "spend": 1.61,
-          "impressions": 1757,
+          "impressions": 1758,
           "clicks": 15,
           "leads": 0
         }
@@ -12176,8 +12176,8 @@
           "date": "2026-06-17",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 68.61,
-          "impressions": 2471,
+          "spend": 68.65,
+          "impressions": 2472,
           "clicks": 43,
           "leads": 5
         }
