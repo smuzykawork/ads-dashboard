@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T22:40:25.326Z",
+  "generated_at": "2026-06-20T22:49:16.958Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7171,7 +7171,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 10.64,
-          "impressions": 2333,
+          "impressions": 2335,
           "clicks": 15,
           "leads": 2
         },
@@ -7752,8 +7752,8 @@
           "date": "2026-06-20",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 16.41,
-          "impressions": 3548,
+          "spend": 16.42,
+          "impressions": 3549,
           "clicks": 60,
           "leads": 6
         }
