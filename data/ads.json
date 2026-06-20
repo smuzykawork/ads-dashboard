@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T11:03:04.801Z",
+  "generated_at": "2026-06-20T11:24:33.720Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4912,7 +4912,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.91,
-          "impressions": 5888,
+          "impressions": 5889,
           "clicks": 69,
           "leads": 5
         },
@@ -12131,8 +12131,8 @@
           "date": "2026-06-19",
           "campaign_id": "120249868127860392",
           "campaign_name": "Project",
-          "spend": 53.01,
-          "impressions": 1843,
+          "spend": 53.02,
+          "impressions": 1844,
           "clicks": 26,
           "leads": 0
         }
