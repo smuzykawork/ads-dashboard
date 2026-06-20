@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T17:08:04.336Z",
+  "generated_at": "2026-06-20T18:23:28.535Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4912,7 +4912,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.92,
-          "impressions": 5902,
+          "impressions": 5903,
           "clicks": 69,
           "leads": 5
         },
@@ -12122,8 +12122,8 @@
           "date": "2026-06-19",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 50.5,
-          "impressions": 1985,
+          "spend": 50.51,
+          "impressions": 1986,
           "clicks": 28,
           "leads": 6
         },
@@ -12131,8 +12131,8 @@
           "date": "2026-06-19",
           "campaign_id": "120249868127860392",
           "campaign_name": "Project",
-          "spend": 53.02,
-          "impressions": 1844,
+          "spend": 53.03,
+          "impressions": 1845,
           "clicks": 26,
           "leads": 0
         }
