@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T17:49:26.233Z",
+  "generated_at": "2026-06-21T18:59:04.326Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4894,7 +4894,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.59,
-          "impressions": 4272,
+          "impressions": 4273,
           "clicks": 52,
           "leads": 2
         },
@@ -7180,7 +7180,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 6.31,
-          "impressions": 1318,
+          "impressions": 1319,
           "clicks": 11,
           "leads": 1
         }
@@ -7753,7 +7753,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 16.43,
-          "impressions": 3574,
+          "impressions": 3575,
           "clicks": 60,
           "leads": 6
         }
@@ -9531,14 +9531,14 @@
       "currency": "PLN",
       "campaigns": [
         {
-          "id": "120250048170390392",
-          "name": "Projekt klik 2 Kampania",
+          "id": "120250050295230392",
+          "name": "Project acive",
           "status": "ACTIVE",
-          "objective": "OUTCOME_TRAFFIC"
+          "objective": "OUTCOME_ENGAGEMENT"
         },
         {
-          "id": "120250046004740392",
-          "name": "Projekt KLIK Kampania",
+          "id": "120250048170390392",
+          "name": "Projekt klik 2 Kampania",
           "status": "ACTIVE",
           "objective": "OUTCOME_TRAFFIC"
         },
