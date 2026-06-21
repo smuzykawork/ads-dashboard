@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T22:42:16.125Z",
+  "generated_at": "2026-06-21T22:49:20.669Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4867,7 +4867,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.02,
-          "impressions": 4269,
+          "impressions": 4270,
           "clicks": 48,
           "leads": 3
         },
@@ -4875,8 +4875,8 @@
           "date": "2026-06-21",
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
-          "spend": 10.34,
-          "impressions": 2666,
+          "spend": 10.35,
+          "impressions": 2669,
           "clicks": 40,
           "leads": 2
         }
@@ -7753,7 +7753,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 20.76,
-          "impressions": 4963,
+          "impressions": 4965,
           "clicks": 80,
           "leads": 3
         }
@@ -12077,8 +12077,8 @@
           "date": "2026-06-21",
           "campaign_id": "120249868127860392",
           "campaign_name": "Project",
-          "spend": 52.07,
-          "impressions": 1605,
+          "spend": 52.12,
+          "impressions": 1607,
           "clicks": 25,
           "leads": 0
         },
