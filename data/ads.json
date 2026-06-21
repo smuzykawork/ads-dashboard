@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T13:26:00.159Z",
+  "generated_at": "2026-06-21T15:24:12.004Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4894,7 +4894,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.59,
-          "impressions": 4269,
+          "impressions": 4271,
           "clicks": 52,
           "leads": 2
         },
@@ -4905,7 +4905,7 @@
           "spend": 10.54,
           "impressions": 2194,
           "clicks": 17,
-          "leads": 1
+          "leads": 2
         }
       ]
     },
@@ -7171,7 +7171,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 10.66,
-          "impressions": 2350,
+          "impressions": 2351,
           "clicks": 15,
           "leads": 2
         },
