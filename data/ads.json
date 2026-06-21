@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T16:05:17.689Z",
+  "generated_at": "2026-06-21T17:05:28.016Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4867,7 +4867,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.92,
-          "impressions": 5908,
+          "impressions": 5910,
           "clicks": 69,
           "leads": 5
         },
@@ -4894,7 +4894,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 9.59,
-          "impressions": 4271,
+          "impressions": 4272,
           "clicks": 52,
           "leads": 2
         },
@@ -9531,6 +9531,18 @@
       "currency": "PLN",
       "campaigns": [
         {
+          "id": "120250048170390392",
+          "name": "Projekt klik 2 Kampania",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_TRAFFIC"
+        },
+        {
+          "id": "120250046004740392",
+          "name": "Projekt KLIK Kampania",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_TRAFFIC"
+        },
+        {
           "id": "120249868127860392",
           "name": "Project",
           "status": "ACTIVE",
@@ -10717,18 +10729,6 @@
           "name": "Новая цель &quot;Лиды&quot; &quot;Кампания&quot; с рекомендуемыми настройками",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120211291836770392",
-          "name": "Post: \"🔧 Webinar online: Klimakonwektor i pompa ciepła -...\"",
-          "status": "PAUSED",
-          "objective": "LINK_CLICKS"
-        },
-        {
-          "id": "120211291362890392",
-          "name": "Post: \"🔧 Webinar online: Montaż klimakonwektorów 🔧\"",
-          "status": "PAUSED",
-          "objective": "LINK_CLICKS"
         }
       ],
       "daily": [
