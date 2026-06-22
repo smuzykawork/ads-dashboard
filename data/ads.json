@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T23:05:40.128Z",
+  "generated_at": "2026-06-22T23:40:42.243Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4840,7 +4840,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.27,
-          "impressions": 5242,
+          "impressions": 5244,
           "clicks": 62,
           "leads": 9
         },
@@ -4849,7 +4849,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 9.89,
-          "impressions": 2764,
+          "impressions": 2766,
           "clicks": 43,
           "leads": 0
         }
@@ -7153,7 +7153,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 17.18,
-          "impressions": 3775,
+          "impressions": 3777,
           "clicks": 39,
           "leads": 1
         },
@@ -7753,7 +7753,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 17.05,
-          "impressions": 4504,
+          "impressions": 4505,
           "clicks": 60,
           "leads": 2
         }
@@ -12086,8 +12086,8 @@
           "date": "2026-06-22",
           "campaign_id": "120250050295230392",
           "campaign_name": "Project acive",
-          "spend": 13.21,
-          "impressions": 974,
+          "spend": 13.24,
+          "impressions": 975,
           "clicks": 44,
           "leads": 0
         }
