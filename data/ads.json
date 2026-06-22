@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T18:55:25.372Z",
+  "generated_at": "2026-06-22T21:11:27.223Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -1208,51 +1208,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-03-24",
-          "campaign_id": "120239652104390027",
-          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
-          "spend": 4.92,
-          "impressions": 2634,
-          "clicks": 29,
-          "leads": 2
-        },
-        {
-          "date": "2026-03-24",
-          "campaign_id": "120240075192190027",
-          "campaign_name": "Вебінар - Помилки VRF 17.03",
-          "spend": 9.23,
-          "impressions": 3889,
-          "clicks": 51,
-          "leads": 2
-        },
-        {
-          "date": "2026-03-24",
-          "campaign_id": "120240075900160027",
-          "campaign_name": "Вебінар - Помилки Теплові насоси 17.03",
-          "spend": 9.74,
-          "impressions": 2607,
-          "clicks": 49,
-          "leads": 2
-        },
-        {
-          "date": "2026-03-24",
-          "campaign_id": "120240076115370027",
-          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
-          "spend": 13.8,
-          "impressions": 5717,
-          "clicks": 84,
-          "leads": 5
-        },
-        {
-          "date": "2026-03-24",
-          "campaign_id": "120240076633140027",
-          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
-          "spend": 9.36,
-          "impressions": 3721,
-          "clicks": 41,
-          "leads": 6
-        },
         {
           "date": "2026-03-25",
           "campaign_id": "120239652104390027",
@@ -4879,6 +4834,24 @@
           "impressions": 2690,
           "clicks": 40,
           "leads": 2
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120243710381520027",
+          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
+          "spend": 10.27,
+          "impressions": 5229,
+          "clicks": 62,
+          "leads": 9
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120245308588170027",
+          "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
+          "spend": 9.85,
+          "impressions": 2758,
+          "clicks": 43,
+          "leads": 0
         }
       ]
     },
@@ -7174,6 +7147,24 @@
           "impressions": 1941,
           "clicks": 11,
           "leads": 1
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120242568737500292",
+          "campaign_name": "Мультизональні системи кондиціювання MRV",
+          "spend": 17.14,
+          "impressions": 3762,
+          "clicks": 39,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120243193615220292",
+          "campaign_name": "Дилери вебінар",
+          "spend": 8.72,
+          "impressions": 2147,
+          "clicks": 15,
+          "leads": 1
         }
       ]
     },
@@ -7753,9 +7744,18 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 20.85,
-          "impressions": 5010,
+          "impressions": 5011,
           "clicks": 83,
           "leads": 3
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120243169362960749",
+          "campaign_name": "ТН ЛІДИ 10.03",
+          "spend": 16.99,
+          "impressions": 4488,
+          "clicks": 59,
+          "leads": 2
         }
       ]
     },
@@ -8348,15 +8348,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-03-24",
-          "campaign_id": "120240591444860713",
-          "campaign_name": "СBO | CPL |  Лютий-Березень / Повноцінний відділ",
-          "spend": 12.56,
-          "impressions": 1099,
-          "clicks": 10,
-          "leads": 0
-        },
         {
           "date": "2026-03-25",
           "campaign_id": "120240591444860713",
@@ -12087,7 +12078,7 @@
           "campaign_id": "120250048170390392",
           "campaign_name": "Projekt klik 2 Kampania",
           "spend": 9.44,
-          "impressions": 2447,
+          "impressions": 2448,
           "clicks": 35,
           "leads": 0
         },
