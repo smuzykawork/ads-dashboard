@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T14:17:21.942Z",
+  "generated_at": "2026-06-22T15:03:35.691Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -12077,8 +12077,8 @@
           "date": "2026-06-21",
           "campaign_id": "120249868127860392",
           "campaign_name": "Project",
-          "spend": 52.14,
-          "impressions": 1611,
+          "spend": 52.16,
+          "impressions": 1612,
           "clicks": 25,
           "leads": 0
         },
