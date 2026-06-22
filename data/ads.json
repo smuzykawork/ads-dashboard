@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T12:23:21.000Z",
+  "generated_at": "2026-06-22T14:17:21.942Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4848,8 +4848,8 @@
           "date": "2026-06-20",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 9.59,
-          "impressions": 4274,
+          "spend": 9.6,
+          "impressions": 4275,
           "clicks": 52,
           "leads": 2
         },
@@ -4867,7 +4867,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.08,
-          "impressions": 4306,
+          "impressions": 4307,
           "clicks": 48,
           "leads": 3
         },
@@ -4876,7 +4876,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 10.39,
-          "impressions": 2689,
+          "impressions": 2690,
           "clicks": 40,
           "leads": 2
         }
@@ -7161,8 +7161,8 @@
           "date": "2026-06-21",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 15.96,
-          "impressions": 4383,
+          "spend": 15.98,
+          "impressions": 4386,
           "clicks": 33,
           "leads": 1
         },
@@ -7171,8 +7171,8 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 8.19,
-          "impressions": 1940,
-          "clicks": 10,
+          "impressions": 1941,
+          "clicks": 11,
           "leads": 1
         }
       ]
@@ -7753,7 +7753,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 20.85,
-          "impressions": 5009,
+          "impressions": 5010,
           "clicks": 83,
           "leads": 3
         }
@@ -12087,7 +12087,7 @@
           "campaign_id": "120250048170390392",
           "campaign_name": "Projekt klik 2 Kampania",
           "spend": 9.44,
-          "impressions": 2445,
+          "impressions": 2446,
           "clicks": 35,
           "leads": 0
         },
