@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T21:37:33.540Z",
+  "generated_at": "2026-06-22T23:05:40.128Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4840,7 +4840,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.27,
-          "impressions": 5234,
+          "impressions": 5242,
           "clicks": 62,
           "leads": 9
         },
@@ -4848,8 +4848,8 @@
           "date": "2026-06-22",
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
-          "spend": 9.88,
-          "impressions": 2762,
+          "spend": 9.89,
+          "impressions": 2764,
           "clicks": 43,
           "leads": 0
         }
@@ -7152,8 +7152,8 @@
           "date": "2026-06-22",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 17.16,
-          "impressions": 3766,
+          "spend": 17.18,
+          "impressions": 3775,
           "clicks": 39,
           "leads": 1
         },
@@ -7162,7 +7162,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 8.72,
-          "impressions": 2152,
+          "impressions": 2156,
           "clicks": 15,
           "leads": 1
         }
@@ -7752,8 +7752,8 @@
           "date": "2026-06-22",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 17,
-          "impressions": 4493,
+          "spend": 17.05,
+          "impressions": 4504,
           "clicks": 60,
           "leads": 2
         }
@@ -10715,42 +10715,6 @@
       ],
       "daily": [
         {
-          "date": "2026-03-24",
-          "campaign_id": "120241269377270392",
-          "campaign_name": "Kurs 2 KLIMA",
-          "spend": 11.56,
-          "impressions": 1112,
-          "clicks": 26,
-          "leads": 2
-        },
-        {
-          "date": "2026-03-24",
-          "campaign_id": "120242047172240392",
-          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
-          "spend": 10.09,
-          "impressions": 1065,
-          "clicks": 24,
-          "leads": 0
-        },
-        {
-          "date": "2026-03-24",
-          "campaign_id": "120242057880550392",
-          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
-          "spend": 10.74,
-          "impressions": 980,
-          "clicks": 17,
-          "leads": 1
-        },
-        {
-          "date": "2026-03-24",
-          "campaign_id": "120242529829540392",
-          "campaign_name": "KURS №5. Serwis KLIMA",
-          "spend": 21.31,
-          "impressions": 764,
-          "clicks": 15,
-          "leads": 0
-        },
-        {
           "date": "2026-03-25",
           "campaign_id": "120241269377270392",
           "campaign_name": "Kurs 2 KLIMA",
@@ -12089,6 +12053,42 @@
           "spend": 4.4,
           "impressions": 371,
           "clicks": 11,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 75.17,
+          "impressions": 3492,
+          "clicks": 39,
+          "leads": 5
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120249868127860392",
+          "campaign_name": "Project",
+          "spend": 30.96,
+          "impressions": 765,
+          "clicks": 18,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120250048170390392",
+          "campaign_name": "Projekt klik 2 Kampania",
+          "spend": 23.15,
+          "impressions": 3745,
+          "clicks": 97,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120250050295230392",
+          "campaign_name": "Project acive",
+          "spend": 13.21,
+          "impressions": 974,
+          "clicks": 44,
           "leads": 0
         }
       ]
