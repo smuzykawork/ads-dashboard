@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T18:35:04.043Z",
+  "generated_at": "2026-06-22T18:55:25.372Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -12087,7 +12087,7 @@
           "campaign_id": "120250048170390392",
           "campaign_name": "Projekt klik 2 Kampania",
           "spend": 9.44,
-          "impressions": 2446,
+          "impressions": 2447,
           "clicks": 35,
           "leads": 0
         },
