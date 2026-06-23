@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T16:14:53.521Z",
+  "generated_at": "2026-06-23T18:09:45.792Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4840,7 +4840,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.35,
-          "impressions": 5304,
+          "impressions": 5305,
           "clicks": 62,
           "leads": 9
         },
@@ -9521,13 +9521,13 @@
         {
           "id": "120250048170390392",
           "name": "Projekt klik 2 Kampania",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_TRAFFIC"
         },
         {
           "id": "120249868127860392",
           "name": "Project",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
