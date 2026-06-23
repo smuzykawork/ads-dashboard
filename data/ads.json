@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T22:45:09.693Z",
+  "generated_at": "2026-06-23T22:52:15.674Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -10695,7 +10695,1385 @@
           "objective": "OUTCOME_LEADS"
         }
       ],
-      "daily": []
+      "daily": [
+        {
+          "date": "2026-03-26",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 17.64,
+          "impressions": 1538,
+          "clicks": 30,
+          "leads": 1
+        },
+        {
+          "date": "2026-03-26",
+          "campaign_id": "120242047172240392",
+          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
+          "spend": 10.2,
+          "impressions": 822,
+          "clicks": 24,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-26",
+          "campaign_id": "120242057880550392",
+          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
+          "spend": 10.09,
+          "impressions": 947,
+          "clicks": 28,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-26",
+          "campaign_id": "120242529829540392",
+          "campaign_name": "KURS №5. Serwis KLIMA",
+          "spend": 19.24,
+          "impressions": 677,
+          "clicks": 8,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-27",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 20.77,
+          "impressions": 1852,
+          "clicks": 46,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-27",
+          "campaign_id": "120242047172240392",
+          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
+          "spend": 9.01,
+          "impressions": 756,
+          "clicks": 17,
+          "leads": 1
+        },
+        {
+          "date": "2026-03-27",
+          "campaign_id": "120242057880550392",
+          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
+          "spend": 9.3,
+          "impressions": 964,
+          "clicks": 23,
+          "leads": 5
+        },
+        {
+          "date": "2026-03-27",
+          "campaign_id": "120242529829540392",
+          "campaign_name": "KURS №5. Serwis KLIMA",
+          "spend": 19.75,
+          "impressions": 961,
+          "clicks": 22,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-28",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 27.85,
+          "impressions": 1851,
+          "clicks": 39,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-28",
+          "campaign_id": "120242047172240392",
+          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
+          "spend": 9.6,
+          "impressions": 786,
+          "clicks": 23,
+          "leads": 1
+        },
+        {
+          "date": "2026-03-28",
+          "campaign_id": "120242057880550392",
+          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
+          "spend": 8.39,
+          "impressions": 706,
+          "clicks": 12,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-28",
+          "campaign_id": "120242529829540392",
+          "campaign_name": "KURS №5. Serwis KLIMA",
+          "spend": 17.59,
+          "impressions": 718,
+          "clicks": 12,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-29",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 30.37,
+          "impressions": 2140,
+          "clicks": 57,
+          "leads": 6
+        },
+        {
+          "date": "2026-03-29",
+          "campaign_id": "120242047172240392",
+          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
+          "spend": 9.91,
+          "impressions": 809,
+          "clicks": 19,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-29",
+          "campaign_id": "120242057880550392",
+          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
+          "spend": 9.52,
+          "impressions": 769,
+          "clicks": 20,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-29",
+          "campaign_id": "120242529829540392",
+          "campaign_name": "KURS №5. Serwis KLIMA",
+          "spend": 21.91,
+          "impressions": 727,
+          "clicks": 8,
+          "leads": 1
+        },
+        {
+          "date": "2026-03-30",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 62.31,
+          "impressions": 4262,
+          "clicks": 70,
+          "leads": 5
+        },
+        {
+          "date": "2026-03-30",
+          "campaign_id": "120242047172240392",
+          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
+          "spend": 8.45,
+          "impressions": 793,
+          "clicks": 20,
+          "leads": 0
+        },
+        {
+          "date": "2026-03-30",
+          "campaign_id": "120242057880550392",
+          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
+          "spend": 10.24,
+          "impressions": 738,
+          "clicks": 28,
+          "leads": 4
+        },
+        {
+          "date": "2026-03-30",
+          "campaign_id": "120242529829540392",
+          "campaign_name": "KURS №5. Serwis KLIMA",
+          "spend": 20.57,
+          "impressions": 783,
+          "clicks": 24,
+          "leads": 1
+        },
+        {
+          "date": "2026-03-31",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 56.59,
+          "impressions": 3536,
+          "clicks": 76,
+          "leads": 3
+        },
+        {
+          "date": "2026-03-31",
+          "campaign_id": "120242047172240392",
+          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
+          "spend": 9.44,
+          "impressions": 899,
+          "clicks": 22,
+          "leads": 2
+        },
+        {
+          "date": "2026-03-31",
+          "campaign_id": "120242057880550392",
+          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
+          "spend": 11.31,
+          "impressions": 977,
+          "clicks": 16,
+          "leads": 3
+        },
+        {
+          "date": "2026-03-31",
+          "campaign_id": "120242529829540392",
+          "campaign_name": "KURS №5. Serwis KLIMA",
+          "spend": 22.26,
+          "impressions": 801,
+          "clicks": 19,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-01",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 54.39,
+          "impressions": 3571,
+          "clicks": 72,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-01",
+          "campaign_id": "120242047172240392",
+          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
+          "spend": 10.68,
+          "impressions": 1126,
+          "clicks": 18,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-01",
+          "campaign_id": "120242057880550392",
+          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
+          "spend": 10.45,
+          "impressions": 1109,
+          "clicks": 20,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-01",
+          "campaign_id": "120242529829540392",
+          "campaign_name": "KURS №5. Serwis KLIMA",
+          "spend": 20.85,
+          "impressions": 987,
+          "clicks": 13,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-02",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 44.68,
+          "impressions": 2894,
+          "clicks": 56,
+          "leads": 2
+        },
+        {
+          "date": "2026-04-02",
+          "campaign_id": "120242047172240392",
+          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
+          "spend": 10.45,
+          "impressions": 934,
+          "clicks": 26,
+          "leads": 5
+        },
+        {
+          "date": "2026-04-02",
+          "campaign_id": "120242057880550392",
+          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
+          "spend": 9.81,
+          "impressions": 746,
+          "clicks": 11,
+          "leads": 2
+        },
+        {
+          "date": "2026-04-02",
+          "campaign_id": "120242529829540392",
+          "campaign_name": "KURS №5. Serwis KLIMA",
+          "spend": 8.18,
+          "impressions": 360,
+          "clicks": 7,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-03",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 26.78,
+          "impressions": 1829,
+          "clicks": 25,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-03",
+          "campaign_id": "120242047172240392",
+          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
+          "spend": 10.91,
+          "impressions": 930,
+          "clicks": 22,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-03",
+          "campaign_id": "120242057880550392",
+          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
+          "spend": 9.5,
+          "impressions": 710,
+          "clicks": 14,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-04",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 35.44,
+          "impressions": 2199,
+          "clicks": 41,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-04",
+          "campaign_id": "120242047172240392",
+          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
+          "spend": 9.99,
+          "impressions": 648,
+          "clicks": 18,
+          "leads": 2
+        },
+        {
+          "date": "2026-04-04",
+          "campaign_id": "120242057880550392",
+          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
+          "spend": 9.11,
+          "impressions": 700,
+          "clicks": 15,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-05",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 34.34,
+          "impressions": 2270,
+          "clicks": 35,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-05",
+          "campaign_id": "120242047172240392",
+          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
+          "spend": 10.91,
+          "impressions": 1117,
+          "clicks": 28,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-05",
+          "campaign_id": "120242057880550392",
+          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
+          "spend": 11.37,
+          "impressions": 896,
+          "clicks": 13,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-06",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 35.59,
+          "impressions": 3299,
+          "clicks": 40,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-06",
+          "campaign_id": "120242047172240392",
+          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
+          "spend": 10.93,
+          "impressions": 1377,
+          "clicks": 34,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-06",
+          "campaign_id": "120242057880550392",
+          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
+          "spend": 10.34,
+          "impressions": 1142,
+          "clicks": 10,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-07",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 32.24,
+          "impressions": 3364,
+          "clicks": 53,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-07",
+          "campaign_id": "120242047172240392",
+          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
+          "spend": 10.15,
+          "impressions": 1477,
+          "clicks": 38,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-07",
+          "campaign_id": "120242057880550392",
+          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
+          "spend": 9.17,
+          "impressions": 1023,
+          "clicks": 14,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-07",
+          "campaign_id": "120242529829540392",
+          "campaign_name": "KURS №5. Serwis KLIMA",
+          "spend": 0,
+          "impressions": 0,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-08",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 0.3,
+          "impressions": 29,
+          "clicks": 0,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-08",
+          "campaign_id": "120242047172240392",
+          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
+          "spend": 0.06,
+          "impressions": 12,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-08",
+          "campaign_id": "120242057880550392",
+          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
+          "spend": 0.04,
+          "impressions": 5,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-08",
+          "campaign_id": "120243804278080392",
+          "campaign_name": "KURS  -Wentylacja mechaniczna.",
+          "spend": 49.06,
+          "impressions": 2868,
+          "clicks": 69,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-09",
+          "campaign_id": "120243804278080392",
+          "campaign_name": "KURS  -Wentylacja mechaniczna.",
+          "spend": 47.87,
+          "impressions": 3522,
+          "clicks": 47,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-10",
+          "campaign_id": "120243923939600392",
+          "campaign_name": "KURS  -Wentylacja mechaniczna 250",
+          "spend": 49.76,
+          "impressions": 3153,
+          "clicks": 78,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-11",
+          "campaign_id": "120243923939600392",
+          "campaign_name": "KURS  -Wentylacja mechaniczna 250",
+          "spend": 25.53,
+          "impressions": 1426,
+          "clicks": 32,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-20",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 33.32,
+          "impressions": 1708,
+          "clicks": 47,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-21",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 11.37,
+          "impressions": 799,
+          "clicks": 23,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-22",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 6.39,
+          "impressions": 435,
+          "clicks": 12,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-23",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 5.25,
+          "impressions": 338,
+          "clicks": 10,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-24",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 5.07,
+          "impressions": 421,
+          "clicks": 10,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-25",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 2.37,
+          "impressions": 172,
+          "clicks": 3,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-26",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 7.55,
+          "impressions": 490,
+          "clicks": 17,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-27",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 6.67,
+          "impressions": 587,
+          "clicks": 10,
+          "leads": 1
+        },
+        {
+          "date": "2026-04-27",
+          "campaign_id": "120245225691310392",
+          "campaign_name": "FGAZy - WEB",
+          "spend": 14.56,
+          "impressions": 760,
+          "clicks": 12,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-28",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 6.59,
+          "impressions": 497,
+          "clicks": 6,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-28",
+          "campaign_id": "120245225691310392",
+          "campaign_name": "FGAZy - WEB",
+          "spend": 17.58,
+          "impressions": 748,
+          "clicks": 56,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-29",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 5.55,
+          "impressions": 327,
+          "clicks": 8,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-29",
+          "campaign_id": "120245225691310392",
+          "campaign_name": "FGAZy - WEB",
+          "spend": 13.18,
+          "impressions": 474,
+          "clicks": 17,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-30",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 5.77,
+          "impressions": 302,
+          "clicks": 13,
+          "leads": 0
+        },
+        {
+          "date": "2026-04-30",
+          "campaign_id": "120245225691310392",
+          "campaign_name": "FGAZy - WEB",
+          "spend": 9,
+          "impressions": 369,
+          "clicks": 18,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-01",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 6.23,
+          "impressions": 306,
+          "clicks": 3,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-01",
+          "campaign_id": "120245225691310392",
+          "campaign_name": "FGAZy - WEB",
+          "spend": 14.11,
+          "impressions": 604,
+          "clicks": 12,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-02",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 4.31,
+          "impressions": 214,
+          "clicks": 9,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-02",
+          "campaign_id": "120245225691310392",
+          "campaign_name": "FGAZy - WEB",
+          "spend": 22.01,
+          "impressions": 1113,
+          "clicks": 23,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-03",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 4.34,
+          "impressions": 294,
+          "clicks": 9,
+          "leads": 1
+        },
+        {
+          "date": "2026-05-03",
+          "campaign_id": "120245225691310392",
+          "campaign_name": "FGAZy - WEB",
+          "spend": 12.01,
+          "impressions": 707,
+          "clicks": 24,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-04",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 1.85,
+          "impressions": 140,
+          "clicks": 2,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-04",
+          "campaign_id": "120245225691310392",
+          "campaign_name": "FGAZy - WEB",
+          "spend": 5.23,
+          "impressions": 264,
+          "clicks": 2,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-05",
+          "campaign_id": "120241269377270392",
+          "campaign_name": "Kurs 2 KLIMA",
+          "spend": 0,
+          "impressions": 0,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-05",
+          "campaign_id": "120245225691310392",
+          "campaign_name": "FGAZy - WEB",
+          "spend": 0,
+          "impressions": 0,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-05",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 18.87,
+          "impressions": 1034,
+          "clicks": 42,
+          "leads": 2
+        },
+        {
+          "date": "2026-05-06",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 50.74,
+          "impressions": 2745,
+          "clicks": 69,
+          "leads": 2
+        },
+        {
+          "date": "2026-05-07",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 49.82,
+          "impressions": 2629,
+          "clicks": 54,
+          "leads": 1
+        },
+        {
+          "date": "2026-05-08",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 18.21,
+          "impressions": 863,
+          "clicks": 12,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-08",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 17.52,
+          "impressions": 901,
+          "clicks": 18,
+          "leads": 2
+        },
+        {
+          "date": "2026-05-09",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 36.97,
+          "impressions": 1771,
+          "clicks": 46,
+          "leads": 8
+        },
+        {
+          "date": "2026-05-10",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 34.3,
+          "impressions": 1990,
+          "clicks": 37,
+          "leads": 5
+        },
+        {
+          "date": "2026-05-11",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 34.66,
+          "impressions": 2511,
+          "clicks": 46,
+          "leads": 2
+        },
+        {
+          "date": "2026-05-12",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 23.02,
+          "impressions": 1529,
+          "clicks": 25,
+          "leads": 2
+        },
+        {
+          "date": "2026-05-13",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 40.4,
+          "impressions": 2551,
+          "clicks": 43,
+          "leads": 3
+        },
+        {
+          "date": "2026-05-14",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 43.54,
+          "impressions": 3120,
+          "clicks": 26,
+          "leads": 1
+        },
+        {
+          "date": "2026-05-15",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 42.25,
+          "impressions": 2385,
+          "clicks": 24,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-16",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 61.49,
+          "impressions": 3861,
+          "clicks": 54,
+          "leads": 3
+        },
+        {
+          "date": "2026-05-17",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 36.91,
+          "impressions": 2453,
+          "clicks": 31,
+          "leads": 1
+        },
+        {
+          "date": "2026-05-18",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 33.19,
+          "impressions": 2141,
+          "clicks": 34,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-19",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 25.76,
+          "impressions": 1607,
+          "clicks": 18,
+          "leads": 1
+        },
+        {
+          "date": "2026-05-20",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 10.95,
+          "impressions": 428,
+          "clicks": 4,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-31",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 15.5,
+          "impressions": 886,
+          "clicks": 40,
+          "leads": 5
+        },
+        {
+          "date": "2026-06-01",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 28.36,
+          "impressions": 1752,
+          "clicks": 49,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-01",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 55.99,
+          "impressions": 3779,
+          "clicks": 95,
+          "leads": 5
+        },
+        {
+          "date": "2026-06-02",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 28.34,
+          "impressions": 1435,
+          "clicks": 34,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-02",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 49.42,
+          "impressions": 4211,
+          "clicks": 70,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-03",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 32.47,
+          "impressions": 1670,
+          "clicks": 35,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-03",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 49.72,
+          "impressions": 4491,
+          "clicks": 90,
+          "leads": 4
+        },
+        {
+          "date": "2026-06-04",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 30.7,
+          "impressions": 1528,
+          "clicks": 44,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-04",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 56.43,
+          "impressions": 5644,
+          "clicks": 92,
+          "leads": 5
+        },
+        {
+          "date": "2026-06-05",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 32.61,
+          "impressions": 1575,
+          "clicks": 25,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-05",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 66.24,
+          "impressions": 7193,
+          "clicks": 130,
+          "leads": 4
+        },
+        {
+          "date": "2026-06-06",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 41.81,
+          "impressions": 2796,
+          "clicks": 36,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-06",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 85.55,
+          "impressions": 9105,
+          "clicks": 137,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-07",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 32.98,
+          "impressions": 1715,
+          "clicks": 32,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-07",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 56.83,
+          "impressions": 5723,
+          "clicks": 86,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-08",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 28.78,
+          "impressions": 1547,
+          "clicks": 25,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-08",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 59.5,
+          "impressions": 5213,
+          "clicks": 87,
+          "leads": 4
+        },
+        {
+          "date": "2026-06-09",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 23.53,
+          "impressions": 1162,
+          "clicks": 11,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-09",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 58.42,
+          "impressions": 5345,
+          "clicks": 77,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-09",
+          "campaign_id": "120249049288770392",
+          "campaign_name": "Spawanie",
+          "spend": 27.34,
+          "impressions": 1422,
+          "clicks": 37,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-10",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 26.78,
+          "impressions": 1069,
+          "clicks": 20,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-10",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 60.1,
+          "impressions": 5119,
+          "clicks": 98,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-10",
+          "campaign_id": "120249049288770392",
+          "campaign_name": "Spawanie",
+          "spend": 20.76,
+          "impressions": 906,
+          "clicks": 17,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-11",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 30.72,
+          "impressions": 1525,
+          "clicks": 33,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-11",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 54.32,
+          "impressions": 5025,
+          "clicks": 100,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-11",
+          "campaign_id": "120249049288770392",
+          "campaign_name": "Spawanie",
+          "spend": 18.27,
+          "impressions": 915,
+          "clicks": 26,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-12",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 33.34,
+          "impressions": 1778,
+          "clicks": 42,
+          "leads": 4
+        },
+        {
+          "date": "2026-06-12",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 58.97,
+          "impressions": 5278,
+          "clicks": 99,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-12",
+          "campaign_id": "120249049288770392",
+          "campaign_name": "Spawanie",
+          "spend": 26.47,
+          "impressions": 1590,
+          "clicks": 22,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-13",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 21.89,
+          "impressions": 1093,
+          "clicks": 17,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-13",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 38.24,
+          "impressions": 2401,
+          "clicks": 36,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-13",
+          "campaign_id": "120249049288770392",
+          "campaign_name": "Spawanie",
+          "spend": 26.86,
+          "impressions": 1249,
+          "clicks": 21,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-13",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 25.45,
+          "impressions": 875,
+          "clicks": 12,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-14",
+          "campaign_id": "120249049288770392",
+          "campaign_name": "Spawanie",
+          "spend": 0.98,
+          "impressions": 43,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-14",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 120.59,
+          "impressions": 4383,
+          "clicks": 92,
+          "leads": 11
+        },
+        {
+          "date": "2026-06-15",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 102.31,
+          "impressions": 4786,
+          "clicks": 60,
+          "leads": 7
+        },
+        {
+          "date": "2026-06-16",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 82.79,
+          "impressions": 3692,
+          "clicks": 43,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-17",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 68.66,
+          "impressions": 2473,
+          "clicks": 43,
+          "leads": 5
+        },
+        {
+          "date": "2026-06-18",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 49.77,
+          "impressions": 2145,
+          "clicks": 43,
+          "leads": 8
+        },
+        {
+          "date": "2026-06-18",
+          "campaign_id": "120249868127860392",
+          "campaign_name": "Project",
+          "spend": 0.18,
+          "impressions": 15,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-19",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 50.51,
+          "impressions": 1986,
+          "clicks": 28,
+          "leads": 6
+        },
+        {
+          "date": "2026-06-19",
+          "campaign_id": "120249868127860392",
+          "campaign_name": "Project",
+          "spend": 53.06,
+          "impressions": 1848,
+          "clicks": 26,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-20",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 35.86,
+          "impressions": 1475,
+          "clicks": 32,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-20",
+          "campaign_id": "120249868127860392",
+          "campaign_name": "Project",
+          "spend": 59.48,
+          "impressions": 1856,
+          "clicks": 22,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-21",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 49.08,
+          "impressions": 1865,
+          "clicks": 27,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-21",
+          "campaign_id": "120249868127860392",
+          "campaign_name": "Project",
+          "spend": 52.16,
+          "impressions": 1612,
+          "clicks": 25,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-21",
+          "campaign_id": "120250048170390392",
+          "campaign_name": "Projekt klik 2 Kampania",
+          "spend": 9.44,
+          "impressions": 2448,
+          "clicks": 35,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-21",
+          "campaign_id": "120250050295230392",
+          "campaign_name": "Project acive",
+          "spend": 4.4,
+          "impressions": 371,
+          "clicks": 11,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 75.45,
+          "impressions": 3499,
+          "clicks": 39,
+          "leads": 5
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120249868127860392",
+          "campaign_name": "Project",
+          "spend": 31.01,
+          "impressions": 767,
+          "clicks": 18,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120250048170390392",
+          "campaign_name": "Projekt klik 2 Kampania",
+          "spend": 23.16,
+          "impressions": 3748,
+          "clicks": 97,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120250050295230392",
+          "campaign_name": "Project acive",
+          "spend": 13.37,
+          "impressions": 985,
+          "clicks": 44,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-23",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 67.64,
+          "impressions": 2848,
+          "clicks": 19,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-23",
+          "campaign_id": "120249868127860392",
+          "campaign_name": "Project",
+          "spend": 25.51,
+          "impressions": 705,
+          "clicks": 17,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-23",
+          "campaign_id": "120250048170390392",
+          "campaign_name": "Projekt klik 2 Kampania",
+          "spend": 13.36,
+          "impressions": 3734,
+          "clicks": 58,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-23",
+          "campaign_id": "120250050295230392",
+          "campaign_name": "Project acive",
+          "spend": 12.55,
+          "impressions": 634,
+          "clicks": 22,
+          "leads": 0
+        }
+      ]
     }
   ]
 }
