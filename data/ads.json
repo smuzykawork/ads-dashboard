@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T04:39:22.776Z",
+  "generated_at": "2026-06-23T05:51:43.820Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4839,8 +4839,8 @@
           "date": "2026-06-22",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 10.3,
-          "impressions": 5269,
+          "spend": 10.31,
+          "impressions": 5285,
           "clicks": 62,
           "leads": 9
         },
@@ -4848,8 +4848,8 @@
           "date": "2026-06-22",
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
-          "spend": 9.9,
-          "impressions": 2773,
+          "spend": 9.96,
+          "impressions": 2779,
           "clicks": 43,
           "leads": 0
         }
@@ -7152,8 +7152,8 @@
           "date": "2026-06-22",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 17.25,
-          "impressions": 3804,
+          "spend": 17.27,
+          "impressions": 3818,
           "clicks": 40,
           "leads": 1
         },
@@ -7162,7 +7162,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 8.73,
-          "impressions": 2164,
+          "impressions": 2170,
           "clicks": 15,
           "leads": 1
         }
@@ -7752,8 +7752,8 @@
           "date": "2026-06-22",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 17.08,
-          "impressions": 4526,
+          "spend": 17.13,
+          "impressions": 4543,
           "clicks": 61,
           "leads": 2
         }
@@ -12059,8 +12059,8 @@
           "date": "2026-06-22",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 75.24,
-          "impressions": 3495,
+          "spend": 75.41,
+          "impressions": 3496,
           "clicks": 39,
           "leads": 5
         },
@@ -12086,8 +12086,8 @@
           "date": "2026-06-22",
           "campaign_id": "120250050295230392",
           "campaign_name": "Project acive",
-          "spend": 13.28,
-          "impressions": 978,
+          "spend": 13.29,
+          "impressions": 980,
           "clicks": 44,
           "leads": 0
         }
