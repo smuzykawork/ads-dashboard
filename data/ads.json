@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T13:30:42.392Z",
+  "generated_at": "2026-06-23T15:30:31.045Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4839,8 +4839,8 @@
           "date": "2026-06-22",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 10.34,
-          "impressions": 5303,
+          "spend": 10.35,
+          "impressions": 5304,
           "clicks": 62,
           "leads": 9
         },
@@ -7161,8 +7161,8 @@
           "date": "2026-06-22",
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
-          "spend": 8.76,
-          "impressions": 2177,
+          "spend": 8.77,
+          "impressions": 2178,
           "clicks": 15,
           "leads": 1
         }
@@ -12068,8 +12068,8 @@
           "date": "2026-06-22",
           "campaign_id": "120249868127860392",
           "campaign_name": "Project",
-          "spend": 30.97,
-          "impressions": 766,
+          "spend": 31.01,
+          "impressions": 767,
           "clicks": 18,
           "leads": 0
         },
