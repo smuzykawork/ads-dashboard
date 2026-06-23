@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T20:30:55.706Z",
+  "generated_at": "2026-06-23T20:55:53.732Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -9515,7 +9515,7 @@
         {
           "id": "120250050295230392",
           "name": "Project acive",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_ENGAGEMENT"
         },
         {
