@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T01:34:26.622Z",
+  "generated_at": "2026-06-23T04:16:57.985Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4839,8 +4839,8 @@
           "date": "2026-06-22",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 10.27,
-          "impressions": 5247,
+          "spend": 10.3,
+          "impressions": 5263,
           "clicks": 62,
           "leads": 9
         },
@@ -4848,8 +4848,8 @@
           "date": "2026-06-22",
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
-          "spend": 9.89,
-          "impressions": 2767,
+          "spend": 9.9,
+          "impressions": 2772,
           "clicks": 43,
           "leads": 0
         }
@@ -7152,17 +7152,17 @@
           "date": "2026-06-22",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 17.18,
-          "impressions": 3779,
-          "clicks": 39,
+          "spend": 17.23,
+          "impressions": 3798,
+          "clicks": 40,
           "leads": 1
         },
         {
           "date": "2026-06-22",
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
-          "spend": 8.72,
-          "impressions": 2157,
+          "spend": 8.73,
+          "impressions": 2163,
           "clicks": 15,
           "leads": 1
         }
@@ -7752,8 +7752,8 @@
           "date": "2026-06-22",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 17.05,
-          "impressions": 4510,
+          "spend": 17.07,
+          "impressions": 4522,
           "clicks": 61,
           "leads": 2
         }
@@ -12059,8 +12059,8 @@
           "date": "2026-06-22",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 75.17,
-          "impressions": 3492,
+          "spend": 75.19,
+          "impressions": 3493,
           "clicks": 39,
           "leads": 5
         },
