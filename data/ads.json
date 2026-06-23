@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T08:41:34.503Z",
+  "generated_at": "2026-06-23T10:23:03.530Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4849,7 +4849,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 9.97,
-          "impressions": 2783,
+          "impressions": 2784,
           "clicks": 43,
           "leads": 0
         }
@@ -7153,7 +7153,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 17.3,
-          "impressions": 3831,
+          "impressions": 3834,
           "clicks": 40,
           "leads": 1
         },
@@ -7161,8 +7161,8 @@
           "date": "2026-06-22",
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
-          "spend": 8.75,
-          "impressions": 2176,
+          "spend": 8.76,
+          "impressions": 2177,
           "clicks": 15,
           "leads": 1
         }
@@ -7753,7 +7753,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 17.14,
-          "impressions": 4553,
+          "impressions": 4555,
           "clicks": 61,
           "leads": 2
         }
