@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T10:23:03.530Z",
+  "generated_at": "2026-06-23T12:13:32.455Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4839,8 +4839,8 @@
           "date": "2026-06-22",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 10.33,
-          "impressions": 5297,
+          "spend": 10.34,
+          "impressions": 5302,
           "clicks": 62,
           "leads": 9
         },
@@ -7153,7 +7153,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 17.3,
-          "impressions": 3834,
+          "impressions": 3836,
           "clicks": 40,
           "leads": 1
         },
@@ -7753,7 +7753,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 17.14,
-          "impressions": 4555,
+          "impressions": 4557,
           "clicks": 61,
           "leads": 2
         }
@@ -12086,8 +12086,8 @@
           "date": "2026-06-22",
           "campaign_id": "120250050295230392",
           "campaign_name": "Project acive",
-          "spend": 13.29,
-          "impressions": 981,
+          "spend": 13.33,
+          "impressions": 982,
           "clicks": 44,
           "leads": 0
         }
