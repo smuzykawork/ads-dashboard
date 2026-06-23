@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T05:51:43.820Z",
+  "generated_at": "2026-06-23T08:36:00.508Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4839,8 +4839,8 @@
           "date": "2026-06-22",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 10.31,
-          "impressions": 5285,
+          "spend": 10.33,
+          "impressions": 5297,
           "clicks": 62,
           "leads": 9
         },
@@ -4848,8 +4848,8 @@
           "date": "2026-06-22",
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
-          "spend": 9.96,
-          "impressions": 2779,
+          "spend": 9.97,
+          "impressions": 2783,
           "clicks": 43,
           "leads": 0
         }
@@ -7135,7 +7135,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 15.98,
-          "impressions": 4386,
+          "impressions": 4387,
           "clicks": 33,
           "leads": 1
         },
@@ -7152,8 +7152,8 @@
           "date": "2026-06-22",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 17.27,
-          "impressions": 3818,
+          "spend": 17.3,
+          "impressions": 3831,
           "clicks": 40,
           "leads": 1
         },
@@ -7161,8 +7161,8 @@
           "date": "2026-06-22",
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
-          "spend": 8.73,
-          "impressions": 2170,
+          "spend": 8.75,
+          "impressions": 2176,
           "clicks": 15,
           "leads": 1
         }
@@ -7752,8 +7752,8 @@
           "date": "2026-06-22",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 17.13,
-          "impressions": 4543,
+          "spend": 17.14,
+          "impressions": 4553,
           "clicks": 61,
           "leads": 2
         }
@@ -12059,8 +12059,8 @@
           "date": "2026-06-22",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 75.41,
-          "impressions": 3496,
+          "spend": 75.45,
+          "impressions": 3499,
           "clicks": 39,
           "leads": 5
         },
@@ -12078,7 +12078,7 @@
           "campaign_id": "120250048170390392",
           "campaign_name": "Projekt klik 2 Kampania",
           "spend": 23.16,
-          "impressions": 3746,
+          "impressions": 3748,
           "clicks": 97,
           "leads": 0
         },
@@ -12087,7 +12087,7 @@
           "campaign_id": "120250050295230392",
           "campaign_name": "Project acive",
           "spend": 13.29,
-          "impressions": 980,
+          "impressions": 981,
           "clicks": 44,
           "leads": 0
         }
