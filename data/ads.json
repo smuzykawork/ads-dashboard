@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-06-24T11:52:04.816Z",
+  "generated_at": "2026-06-24T12:32:49.906Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120246156331470027",
+          "name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120246156248600027",
+          "name": "ОН ТН відео з інст -15% статика",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120245448774790027",
           "name": "Форум Львів «Продажі» статика ліди",
@@ -1191,18 +1203,6 @@
         {
           "id": "120209835298400027",
           "name": "Конверсія на сайті /«Курс Монтажник систем кондиціювання та вентиляції» / 11.07",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120209648090160027",
-          "name": "Конверсія на сайті /«Курс Спеціаліст із теплових насосів» / 02.07",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120209510663280027",
-          "name": "Конверсія на сайті /«Монтажник систем кондиціювання» / 24.06",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -4813,7 +4813,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.23,
-          "impressions": 5051,
+          "impressions": 5052,
           "clicks": 60,
           "leads": 4
         },
@@ -7153,7 +7153,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 7.37,
-          "impressions": 1604,
+          "impressions": 1605,
           "clicks": 14,
           "leads": 2
         }
