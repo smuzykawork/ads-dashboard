@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-06-24T13:06:22.372Z",
+  "generated_at": "2026-06-24T14:50:19.797Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120246162788470027",
+          "name": "ОН ТН відео з інст -15% статика – копія",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120246156331470027",
           "name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
@@ -1197,12 +1203,6 @@
         {
           "id": "120209835900550027",
           "name": "Конверсія на сайті /Вебінар «Вплив температурно-вологісних параметрів / 11.07",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120209835298400027",
-          "name": "Конверсія на сайті /«Курс Монтажник систем кондиціювання та вентиляції» / 11.07",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -4813,7 +4813,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 10.23,
-          "impressions": 5052,
+          "impressions": 5053,
           "clicks": 60,
           "leads": 4
         },
@@ -9495,8 +9495,8 @@
       "currency": "PLN",
       "campaigns": [
         {
-          "id": "120250213536520392",
-          "name": "LEADS_RU_Europe_HVAC_Design_2026",
+          "id": "120250280208960392",
+          "name": "LEADS_RU_Europe_HVAC_Design_AkademiaAklimaPL",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
