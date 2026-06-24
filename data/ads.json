@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T05:49:59.816Z",
+  "generated_at": "2026-06-24T08:30:55.494Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4812,8 +4812,8 @@
           "date": "2026-06-23",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 10.22,
-          "impressions": 5043,
+          "spend": 10.23,
+          "impressions": 5048,
           "clicks": 60,
           "leads": 4
         },
@@ -4821,8 +4821,8 @@
           "date": "2026-06-23",
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
-          "spend": 9.55,
-          "impressions": 2597,
+          "spend": 9.56,
+          "impressions": 2600,
           "clicks": 35,
           "leads": 2
         }
@@ -7143,8 +7143,8 @@
           "date": "2026-06-23",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 14.6,
-          "impressions": 3470,
+          "spend": 14.62,
+          "impressions": 3474,
           "clicks": 39,
           "leads": 1
         },
@@ -7153,7 +7153,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 7.37,
-          "impressions": 1601,
+          "impressions": 1604,
           "clicks": 14,
           "leads": 2
         }
@@ -7752,8 +7752,8 @@
           "date": "2026-06-23",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 16.15,
-          "impressions": 3822,
+          "spend": 16.16,
+          "impressions": 3827,
           "clicks": 52,
           "leads": 3
         }
@@ -12068,8 +12068,8 @@
           "date": "2026-06-23",
           "campaign_id": "120250050295230392",
           "campaign_name": "Project acive",
-          "spend": 12.64,
-          "impressions": 637,
+          "spend": 12.65,
+          "impressions": 638,
           "clicks": 22,
           "leads": 0
         }
