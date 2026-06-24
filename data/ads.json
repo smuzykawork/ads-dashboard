@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T22:00:53.149Z",
+  "generated_at": "2026-06-24T23:18:00.570Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4785,8 +4785,8 @@
           "date": "2026-06-24",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 11.71,
-          "impressions": 6115,
+          "spend": 11.72,
+          "impressions": 6123,
           "clicks": 72,
           "leads": 3
         },
@@ -4795,7 +4795,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 11.03,
-          "impressions": 2916,
+          "impressions": 2917,
           "clicks": 41,
           "leads": 6
         },
@@ -4813,7 +4813,7 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 4.78,
-          "impressions": 2025,
+          "impressions": 2027,
           "clicks": 26,
           "leads": 1
         },
@@ -4822,7 +4822,7 @@
           "campaign_id": "120246162788470027",
           "campaign_name": "ОН ТН відео з інст -15% статика – копія",
           "spend": 3.6,
-          "impressions": 1085,
+          "impressions": 1087,
           "clicks": 9,
           "leads": 1
         }
@@ -7153,7 +7153,7 @@
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
           "spend": 14.9,
-          "impressions": 4424,
+          "impressions": 4428,
           "clicks": 25,
           "leads": 1
         },
@@ -7162,7 +7162,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 6.66,
-          "impressions": 1932,
+          "impressions": 1933,
           "clicks": 16,
           "leads": 3
         }
@@ -7771,8 +7771,8 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 16.91,
-          "impressions": 3885,
-          "clicks": 68,
+          "impressions": 3886,
+          "clicks": 69,
           "leads": 5
         }
       ]
@@ -12050,8 +12050,8 @@
           "date": "2026-06-24",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 63.06,
-          "impressions": 2919,
+          "spend": 63.81,
+          "impressions": 2942,
           "clicks": 30,
           "leads": 2
         }
