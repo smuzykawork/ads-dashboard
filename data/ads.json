@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T05:38:30.908Z",
+  "generated_at": "2026-06-24T05:49:59.816Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7143,8 +7143,8 @@
           "date": "2026-06-23",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 14.59,
-          "impressions": 3467,
+          "spend": 14.6,
+          "impressions": 3470,
           "clicks": 39,
           "leads": 1
         },
