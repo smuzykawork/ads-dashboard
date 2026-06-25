@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T17:29:06.442Z",
+  "generated_at": "2026-06-25T19:29:43.622Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4786,7 +4786,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 11.8,
-          "impressions": 6195,
+          "impressions": 6196,
           "clicks": 72,
           "leads": 3
         },
@@ -4795,7 +4795,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 11.08,
-          "impressions": 2933,
+          "impressions": 2934,
           "clicks": 42,
           "leads": 6
         },
@@ -4813,7 +4813,7 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 4.85,
-          "impressions": 2066,
+          "impressions": 2067,
           "clicks": 26,
           "leads": 1
         },
@@ -4821,8 +4821,8 @@
           "date": "2026-06-24",
           "campaign_id": "120246162788470027",
           "campaign_name": "ОН ТН відео з інст -15% статика – копія",
-          "spend": 3.62,
-          "impressions": 1097,
+          "spend": 3.63,
+          "impressions": 1098,
           "clicks": 9,
           "leads": 1
         }
@@ -7152,8 +7152,8 @@
           "date": "2026-06-24",
           "campaign_id": "120242568737500292",
           "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 14.91,
-          "impressions": 4464,
+          "spend": 14.93,
+          "impressions": 4467,
           "clicks": 25,
           "leads": 1
         },
@@ -7162,7 +7162,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 6.7,
-          "impressions": 1948,
+          "impressions": 1949,
           "clicks": 16,
           "leads": 3
         }
