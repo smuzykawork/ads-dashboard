@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T10:35:10.719Z",
+  "generated_at": "2026-06-26T12:23:22.029Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4768,7 +4768,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 13.31,
-          "impressions": 6294,
+          "impressions": 6298,
           "clicks": 61,
           "leads": 3
         },
@@ -4776,8 +4776,8 @@
           "date": "2026-06-25",
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
-          "spend": 10.09,
-          "impressions": 2379,
+          "spend": 10.1,
+          "impressions": 2381,
           "clicks": 36,
           "leads": 1
         },
@@ -4830,7 +4830,7 @@
         {
           "id": "120242568737500292",
           "name": "Мультизональні системи кондиціювання MRV",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -7771,7 +7771,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 16.12,
-          "impressions": 3852,
+          "impressions": 3855,
           "clicks": 81,
           "leads": 5
         }
@@ -12014,8 +12014,8 @@
           "date": "2026-06-25",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 75.82,
-          "impressions": 3370,
+          "spend": 75.85,
+          "impressions": 3373,
           "clicks": 28,
           "leads": 1
         }
