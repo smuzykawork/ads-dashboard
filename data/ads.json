@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T10:01:24.224Z",
+  "generated_at": "2026-06-26T10:35:10.719Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7153,7 +7153,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 7.09,
-          "impressions": 1559,
+          "impressions": 1560,
           "clicks": 15,
           "leads": 0
         }
@@ -7771,7 +7771,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 16.12,
-          "impressions": 3851,
+          "impressions": 3852,
           "clicks": 81,
           "leads": 5
         }
@@ -12014,8 +12014,8 @@
           "date": "2026-06-25",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 75.76,
-          "impressions": 3368,
+          "spend": 75.82,
+          "impressions": 3370,
           "clicks": 28,
           "leads": 1
         }
