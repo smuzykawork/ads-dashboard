@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T08:02:56.707Z",
+  "generated_at": "2026-06-27T08:17:35.095Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4758,8 +4758,8 @@
           "date": "2026-06-25",
           "campaign_id": "120246162788470027",
           "campaign_name": "ОН ТН відео з інст -15% статика – копія",
-          "spend": 9.54,
-          "impressions": 2478,
+          "spend": 9.55,
+          "impressions": 2479,
           "clicks": 35,
           "leads": 1
         },
@@ -4803,8 +4803,8 @@
           "date": "2026-06-26",
           "campaign_id": "120246162788470027",
           "campaign_name": "ОН ТН відео з інст -15% статика – копія",
-          "spend": 8.23,
-          "impressions": 2140,
+          "spend": 8.24,
+          "impressions": 2141,
           "clicks": 20,
           "leads": 0
         }
@@ -7789,7 +7789,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 15.38,
-          "impressions": 3993,
+          "impressions": 3994,
           "clicks": 58,
           "leads": 2
         }
