@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T12:02:22.992Z",
+  "generated_at": "2026-06-27T12:15:11.164Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7789,7 +7789,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 15.39,
-          "impressions": 3996,
+          "impressions": 3997,
           "clicks": 58,
           "leads": 2
         }
@@ -11996,8 +11996,8 @@
           "date": "2026-06-26",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 72.06,
-          "impressions": 3135,
+          "spend": 72.14,
+          "impressions": 3136,
           "clicks": 28,
           "leads": 2
         }
