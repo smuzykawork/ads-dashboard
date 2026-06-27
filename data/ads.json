@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T21:44:39.777Z",
+  "generated_at": "2026-06-27T22:13:04.732Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4768,7 +4768,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 15.95,
-          "impressions": 7317,
+          "impressions": 7318,
           "clicks": 110,
           "leads": 7
         },
@@ -7798,7 +7798,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 15.61,
-          "impressions": 3439,
+          "impressions": 3440,
           "clicks": 70,
           "leads": 5
         }
@@ -10706,42 +10706,6 @@
       ],
       "daily": [
         {
-          "date": "2026-03-29",
-          "campaign_id": "120241269377270392",
-          "campaign_name": "Kurs 2 KLIMA",
-          "spend": 30.37,
-          "impressions": 2140,
-          "clicks": 57,
-          "leads": 6
-        },
-        {
-          "date": "2026-03-29",
-          "campaign_id": "120242047172240392",
-          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
-          "spend": 9.91,
-          "impressions": 809,
-          "clicks": 19,
-          "leads": 2
-        },
-        {
-          "date": "2026-03-29",
-          "campaign_id": "120242057880550392",
-          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
-          "spend": 9.52,
-          "impressions": 769,
-          "clicks": 20,
-          "leads": 2
-        },
-        {
-          "date": "2026-03-29",
-          "campaign_id": "120242529829540392",
-          "campaign_name": "KURS №5. Serwis KLIMA",
-          "spend": 21.91,
-          "impressions": 727,
-          "clicks": 8,
-          "leads": 1
-        },
-        {
           "date": "2026-03-30",
           "campaign_id": "120241269377270392",
           "campaign_name": "Kurs 2 KLIMA",
@@ -12000,6 +11964,15 @@
           "impressions": 3136,
           "clicks": 28,
           "leads": 2
+        },
+        {
+          "date": "2026-06-27",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 88.1,
+          "impressions": 3706,
+          "clicks": 38,
+          "leads": 1
         }
       ]
     }
