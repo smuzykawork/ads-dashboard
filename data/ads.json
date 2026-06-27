@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T22:44:39.458Z",
+  "generated_at": "2026-06-27T23:43:47.646Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4767,8 +4767,8 @@
           "date": "2026-06-27",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 15.95,
-          "impressions": 7321,
+          "spend": 15.98,
+          "impressions": 7328,
           "clicks": 110,
           "leads": 7
         },
@@ -4786,7 +4786,7 @@
           "campaign_id": "120246156248600027",
           "campaign_name": "ОН ТН відео з інст -15% статика",
           "spend": 10.91,
-          "impressions": 1681,
+          "impressions": 1682,
           "clicks": 25,
           "leads": 2
         },
@@ -7162,7 +7162,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 5.03,
-          "impressions": 1075,
+          "impressions": 1076,
           "clicks": 19,
           "leads": 4
         }
@@ -7797,8 +7797,8 @@
           "date": "2026-06-27",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 15.61,
-          "impressions": 3441,
+          "spend": 15.62,
+          "impressions": 3443,
           "clicks": 70,
           "leads": 5
         }
@@ -11969,8 +11969,8 @@
           "date": "2026-06-27",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 88.1,
-          "impressions": 3707,
+          "spend": 88.11,
+          "impressions": 3710,
           "clicks": 38,
           "leads": 1
         }
