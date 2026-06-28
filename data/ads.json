@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T18:14:51.529Z",
+  "generated_at": "2026-06-28T19:52:54.890Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4768,7 +4768,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 15.98,
-          "impressions": 7380,
+          "impressions": 7381,
           "clicks": 111,
           "leads": 7
         },
@@ -4795,7 +4795,7 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 10.91,
-          "impressions": 2828,
+          "impressions": 2829,
           "clicks": 37,
           "leads": 4
         },
@@ -4804,7 +4804,7 @@
           "campaign_id": "120246162788470027",
           "campaign_name": "ОН ТН відео з інст -15% статика – копія",
           "spend": 11.49,
-          "impressions": 1947,
+          "impressions": 1948,
           "clicks": 27,
           "leads": 0
         }
@@ -9504,12 +9504,6 @@
       "currency": "PLN",
       "campaigns": [
         {
-          "id": "120250280208960392",
-          "name": "LEADS_RU_Europe_HVAC_Design_AkademiaAklimaPL",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
           "id": "120250050295230392",
           "name": "Project acive",
           "status": "PAUSED",
@@ -10702,6 +10696,12 @@
           "name": "Новая кампания с целью \"Вовлеченность\"",
           "status": "PAUSED",
           "objective": "OUTCOME_ENGAGEMENT"
+        },
+        {
+          "id": "120211295966540392",
+          "name": "Новая цель &quot;Лиды&quot; &quot;Кампания&quot; с рекомендуемыми настройками",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
         }
       ],
       "daily": [
@@ -11969,8 +11969,8 @@
           "date": "2026-06-27",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 88.13,
-          "impressions": 3715,
+          "spend": 88.14,
+          "impressions": 3716,
           "clicks": 38,
           "leads": 1
         }
