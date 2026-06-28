@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T01:33:03.631Z",
+  "generated_at": "2026-06-28T01:53:52.719Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7162,7 +7162,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 5.03,
-          "impressions": 1076,
+          "impressions": 1077,
           "clicks": 19,
           "leads": 4
         }
