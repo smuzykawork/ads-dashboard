@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T10:10:54.799Z",
+  "generated_at": "2026-06-28T11:56:15.966Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4732,7 +4732,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 8.98,
-          "impressions": 2361,
+          "impressions": 2362,
           "clicks": 25,
           "leads": 0
         },
@@ -4768,7 +4768,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 15.98,
-          "impressions": 7367,
+          "impressions": 7374,
           "clicks": 111,
           "leads": 7
         },
@@ -4777,7 +4777,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 9.87,
-          "impressions": 1881,
+          "impressions": 1882,
           "clicks": 26,
           "leads": 1
         },
@@ -4795,7 +4795,7 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 10.91,
-          "impressions": 2826,
+          "impressions": 2827,
           "clicks": 37,
           "leads": 4
         },
@@ -11970,7 +11970,7 @@
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
           "spend": 88.13,
-          "impressions": 3714,
+          "impressions": 3715,
           "clicks": 38,
           "leads": 1
         }
