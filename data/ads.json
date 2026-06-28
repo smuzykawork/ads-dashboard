@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T22:11:36.891Z",
+  "generated_at": "2026-06-28T22:45:37.993Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4749,8 +4749,8 @@
           "date": "2026-06-28",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 15.79,
-          "impressions": 8249,
+          "spend": 15.81,
+          "impressions": 8253,
           "clicks": 105,
           "leads": 5
         },
@@ -4776,8 +4776,8 @@
           "date": "2026-06-28",
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
-          "spend": 11.49,
-          "impressions": 4574,
+          "spend": 11.5,
+          "impressions": 4576,
           "clicks": 46,
           "leads": 1
         },
@@ -7789,7 +7789,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 19.45,
-          "impressions": 4941,
+          "impressions": 4943,
           "clicks": 82,
           "leads": 3
         }
@@ -11924,8 +11924,8 @@
           "date": "2026-06-28",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 15.07,
-          "impressions": 410,
+          "spend": 15.33,
+          "impressions": 413,
           "clicks": 11,
           "leads": 0
         },
@@ -11933,8 +11933,8 @@
           "date": "2026-06-28",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 83.92,
-          "impressions": 3960,
+          "spend": 84.01,
+          "impressions": 3966,
           "clicks": 46,
           "leads": 5
         }
