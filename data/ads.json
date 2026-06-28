@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T14:26:42.256Z",
+  "generated_at": "2026-06-28T15:47:14.037Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4777,7 +4777,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 9.88,
-          "impressions": 1885,
+          "impressions": 1886,
           "clicks": 26,
           "leads": 1
         },
@@ -9554,7 +9554,7 @@
         {
           "id": "120245836336330392",
           "name": "Kurs 2 Klima new",
-          "status": "PAUSED",
+          "status": "ACTIVE",
           "objective": "OUTCOME_LEADS"
         },
         {
