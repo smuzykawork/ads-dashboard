@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T06:46:21.234Z",
+  "generated_at": "2026-06-28T09:27:57.180Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4768,8 +4768,8 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 15.98,
-          "impressions": 7355,
-          "clicks": 110,
+          "impressions": 7364,
+          "clicks": 111,
           "leads": 7
         },
         {
@@ -4777,7 +4777,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 9.87,
-          "impressions": 1880,
+          "impressions": 1881,
           "clicks": 26,
           "leads": 1
         },
@@ -4795,7 +4795,7 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 10.91,
-          "impressions": 2824,
+          "impressions": 2825,
           "clicks": 37,
           "leads": 4
         },
@@ -4804,7 +4804,7 @@
           "campaign_id": "120246162788470027",
           "campaign_name": "ОН ТН відео з інст -15% статика – копія",
           "spend": 11.48,
-          "impressions": 1944,
+          "impressions": 1945,
           "clicks": 27,
           "leads": 0
         }
@@ -7162,7 +7162,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 5.03,
-          "impressions": 1078,
+          "impressions": 1082,
           "clicks": 19,
           "leads": 4
         }
@@ -7798,7 +7798,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 15.62,
-          "impressions": 3457,
+          "impressions": 3460,
           "clicks": 70,
           "leads": 5
         }
@@ -11969,8 +11969,8 @@
           "date": "2026-06-27",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 88.11,
-          "impressions": 3713,
+          "spend": 88.13,
+          "impressions": 3714,
           "clicks": 38,
           "leads": 1
         }
