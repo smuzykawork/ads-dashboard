@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T05:42:14.064Z",
+  "generated_at": "2026-06-28T06:42:25.670Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4768,7 +4768,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 15.98,
-          "impressions": 7351,
+          "impressions": 7354,
           "clicks": 110,
           "leads": 7
         },
@@ -4786,7 +4786,7 @@
           "campaign_id": "120246156248600027",
           "campaign_name": "ОН ТН відео з інст -15% статика",
           "spend": 10.91,
-          "impressions": 1684,
+          "impressions": 1685,
           "clicks": 25,
           "leads": 2
         },
@@ -4795,8 +4795,8 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 10.91,
-          "impressions": 2822,
-          "clicks": 36,
+          "impressions": 2824,
+          "clicks": 37,
           "leads": 4
         },
         {
@@ -4804,7 +4804,7 @@
           "campaign_id": "120246162788470027",
           "campaign_name": "ОН ТН відео з інст -15% статика – копія",
           "spend": 11.48,
-          "impressions": 1943,
+          "impressions": 1944,
           "clicks": 27,
           "leads": 0
         }
@@ -7798,7 +7798,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 15.62,
-          "impressions": 3456,
+          "impressions": 3457,
           "clicks": 70,
           "leads": 5
         }
