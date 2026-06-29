@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T21:51:10.573Z",
+  "generated_at": "2026-06-29T22:17:01.034Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4758,8 +4758,8 @@
           "date": "2026-06-29",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 14.86,
-          "impressions": 7280,
+          "spend": 14.87,
+          "impressions": 7285,
           "clicks": 82,
           "leads": 2
         },
@@ -4785,8 +4785,8 @@
           "date": "2026-06-29",
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
-          "spend": 9.53,
-          "impressions": 3996,
+          "spend": 9.54,
+          "impressions": 3997,
           "clicks": 43,
           "leads": 0
         },
@@ -7152,8 +7152,8 @@
           "date": "2026-06-29",
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
-          "spend": 7.76,
-          "impressions": 2329,
+          "spend": 7.77,
+          "impressions": 2330,
           "clicks": 11,
           "leads": 1
         }
@@ -7807,7 +7807,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 17.38,
-          "impressions": 4998,
+          "impressions": 5000,
           "clicks": 79,
           "leads": 4
         }
@@ -10697,42 +10697,6 @@
       ],
       "daily": [
         {
-          "date": "2026-03-31",
-          "campaign_id": "120241269377270392",
-          "campaign_name": "Kurs 2 KLIMA",
-          "spend": 56.59,
-          "impressions": 3536,
-          "clicks": 76,
-          "leads": 3
-        },
-        {
-          "date": "2026-03-31",
-          "campaign_id": "120242047172240392",
-          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
-          "spend": 9.44,
-          "impressions": 899,
-          "clicks": 22,
-          "leads": 2
-        },
-        {
-          "date": "2026-03-31",
-          "campaign_id": "120242057880550392",
-          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
-          "spend": 11.31,
-          "impressions": 977,
-          "clicks": 16,
-          "leads": 3
-        },
-        {
-          "date": "2026-03-31",
-          "campaign_id": "120242529829540392",
-          "campaign_name": "KURS №5. Serwis KLIMA",
-          "spend": 22.26,
-          "impressions": 801,
-          "clicks": 19,
-          "leads": 0
-        },
-        {
           "date": "2026-04-01",
           "campaign_id": "120241269377270392",
           "campaign_name": "Kurs 2 KLIMA",
@@ -11946,6 +11910,24 @@
           "impressions": 3980,
           "clicks": 46,
           "leads": 5
+        },
+        {
+          "date": "2026-06-29",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 52.26,
+          "impressions": 3297,
+          "clicks": 135,
+          "leads": 10
+        },
+        {
+          "date": "2026-06-29",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 90.21,
+          "impressions": 4482,
+          "clicks": 29,
+          "leads": 3
         }
       ]
     }
