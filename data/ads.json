@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T22:17:01.034Z",
+  "generated_at": "2026-06-29T22:40:42.807Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4759,7 +4759,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 14.87,
-          "impressions": 7285,
+          "impressions": 7287,
           "clicks": 82,
           "leads": 2
         },
@@ -4785,8 +4785,8 @@
           "date": "2026-06-29",
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
-          "spend": 9.54,
-          "impressions": 3997,
+          "spend": 9.55,
+          "impressions": 4001,
           "clicks": 43,
           "leads": 0
         },
@@ -7152,8 +7152,8 @@
           "date": "2026-06-29",
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
-          "spend": 7.77,
-          "impressions": 2330,
+          "spend": 7.78,
+          "impressions": 2333,
           "clicks": 11,
           "leads": 1
         }
@@ -7807,7 +7807,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 17.38,
-          "impressions": 5000,
+          "impressions": 5002,
           "clicks": 79,
           "leads": 4
         }
@@ -11915,8 +11915,8 @@
           "date": "2026-06-29",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 52.26,
-          "impressions": 3297,
+          "spend": 52.27,
+          "impressions": 3299,
           "clicks": 135,
           "leads": 10
         },
@@ -11924,8 +11924,8 @@
           "date": "2026-06-29",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 90.21,
-          "impressions": 4482,
+          "spend": 90.69,
+          "impressions": 4487,
           "clicks": 29,
           "leads": 3
         }
