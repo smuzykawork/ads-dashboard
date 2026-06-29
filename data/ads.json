@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T10:12:39.952Z",
+  "generated_at": "2026-06-29T11:21:13.324Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -9,7 +9,7 @@
         {
           "id": "120246162788470027",
           "name": "ОН ТН відео з інст -15% статика – копія",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -4750,7 +4750,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 15.82,
-          "impressions": 8321,
+          "impressions": 8324,
           "clicks": 109,
           "leads": 5
         },
@@ -4759,7 +4759,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 12.28,
-          "impressions": 2661,
+          "impressions": 2662,
           "clicks": 33,
           "leads": 2
         },
