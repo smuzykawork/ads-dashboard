@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T22:22:59.810Z",
+  "generated_at": "2026-06-30T22:48:57.735Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4767,8 +4767,8 @@
           "date": "2026-06-30",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 15.11,
-          "impressions": 7138,
+          "spend": 15.12,
+          "impressions": 7142,
           "clicks": 86,
           "leads": 5
         },
@@ -7144,7 +7144,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 7.24,
-          "impressions": 2374,
+          "impressions": 2375,
           "clicks": 22,
           "leads": 2
         }
@@ -7807,7 +7807,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 15.97,
-          "impressions": 4334,
+          "impressions": 4336,
           "clicks": 70,
           "leads": 4
         }
@@ -11888,8 +11888,8 @@
           "date": "2026-06-30",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 43.46,
-          "impressions": 3781,
+          "spend": 43.47,
+          "impressions": 3784,
           "clicks": 115,
           "leads": 7
         },
