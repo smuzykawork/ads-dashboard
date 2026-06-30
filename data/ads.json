@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T10:21:35.093Z",
+  "generated_at": "2026-06-30T11:57:28.929Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4786,7 +4786,7 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 9.58,
-          "impressions": 4029,
+          "impressions": 4030,
           "clicks": 43,
           "leads": 0
         },
@@ -7798,7 +7798,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 19.56,
-          "impressions": 5000,
+          "impressions": 5001,
           "clicks": 84,
           "leads": 3
         },
@@ -7807,7 +7807,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 17.49,
-          "impressions": 5046,
+          "impressions": 5047,
           "clicks": 79,
           "leads": 4
         }
@@ -11906,8 +11906,8 @@
           "date": "2026-06-28",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 84.17,
-          "impressions": 3980,
+          "spend": 84.19,
+          "impressions": 3981,
           "clicks": 46,
           "leads": 5
         },
@@ -11924,8 +11924,8 @@
           "date": "2026-06-29",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 90.79,
-          "impressions": 4495,
+          "spend": 90.83,
+          "impressions": 4496,
           "clicks": 29,
           "leads": 3
         }
