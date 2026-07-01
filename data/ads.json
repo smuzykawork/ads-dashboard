@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T10:57:13.242Z",
+  "generated_at": "2026-07-01T13:39:14.991Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4767,8 +4767,8 @@
           "date": "2026-06-30",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 15.25,
-          "impressions": 7224,
+          "spend": 15.26,
+          "impressions": 7225,
           "clicks": 90,
           "leads": 5
         },
@@ -7144,7 +7144,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 7.31,
-          "impressions": 2412,
+          "impressions": 2413,
           "clicks": 23,
           "leads": 2
         }
@@ -7156,9 +7156,15 @@
       "currency": "USD",
       "campaigns": [
         {
+          "id": "120249512841890749",
+          "name": "ТН ЛІДИ 10.03 – копія",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120243169362960749",
           "name": "ТН ЛІДИ 10.03",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -7807,7 +7813,7 @@
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
           "spend": 16.11,
-          "impressions": 4392,
+          "impressions": 4395,
           "clicks": 71,
           "leads": 4
         }
@@ -11888,8 +11894,8 @@
           "date": "2026-06-30",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 43.65,
-          "impressions": 3819,
+          "spend": 43.66,
+          "impressions": 3820,
           "clicks": 117,
           "leads": 7
         },
@@ -11897,8 +11903,8 @@
           "date": "2026-06-30",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 89.53,
-          "impressions": 3908,
+          "spend": 89.57,
+          "impressions": 3912,
           "clicks": 39,
           "leads": 3
         }
