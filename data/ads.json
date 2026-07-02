@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T09:47:46.997Z",
+  "generated_at": "2026-07-02T12:18:53.654Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -21,7 +21,7 @@
         {
           "id": "120246156248600027",
           "name": "ОН ТН відео з інст -15% статика",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -117,7 +117,7 @@
         {
           "id": "120243710381520027",
           "name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -4768,7 +4768,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 15.54,
-          "impressions": 9987,
+          "impressions": 10003,
           "clicks": 143,
           "leads": 5
         },
@@ -4777,7 +4777,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 10.24,
-          "impressions": 2924,
+          "impressions": 2927,
           "clicks": 33,
           "leads": 1
         },
@@ -4794,8 +4794,8 @@
           "date": "2026-07-01",
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
-          "spend": 10.75,
-          "impressions": 4667,
+          "spend": 10.76,
+          "impressions": 4673,
           "clicks": 51,
           "leads": 3
         }
@@ -7144,7 +7144,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 7.13,
-          "impressions": 2485,
+          "impressions": 2487,
           "clicks": 20,
           "leads": 0
         }
@@ -7831,8 +7831,8 @@
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
           "spend": 5.57,
-          "impressions": 1844,
-          "clicks": 28,
+          "impressions": 1846,
+          "clicks": 29,
           "leads": 3
         }
       ]
@@ -9521,7 +9521,7 @@
         {
           "id": "120249472664530392",
           "name": "FGAZY UKR Europe",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -11885,8 +11885,8 @@
           "date": "2026-07-01",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 23.55,
-          "impressions": 2269,
+          "spend": 23.56,
+          "impressions": 2270,
           "clicks": 87,
           "leads": 2
         },
