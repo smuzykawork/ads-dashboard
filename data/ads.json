@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T21:51:42.927Z",
+  "generated_at": "2026-07-02T22:35:48.074Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4768,7 +4768,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 7.7,
-          "impressions": 5292,
+          "impressions": 5295,
           "clicks": 60,
           "leads": 4
         },
@@ -4795,7 +4795,7 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 12.08,
-          "impressions": 6191,
+          "impressions": 6194,
           "clicks": 64,
           "leads": 2
         }
@@ -7135,7 +7135,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 6.18,
-          "impressions": 2039,
+          "impressions": 2040,
           "clicks": 18,
           "leads": 1
         }
@@ -7831,7 +7831,7 @@
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
           "spend": 9.31,
-          "impressions": 2799,
+          "impressions": 2800,
           "clicks": 45,
           "leads": 5
         }
@@ -10694,33 +10694,6 @@
       ],
       "daily": [
         {
-          "date": "2026-04-03",
-          "campaign_id": "120241269377270392",
-          "campaign_name": "Kurs 2 KLIMA",
-          "spend": 26.78,
-          "impressions": 1829,
-          "clicks": 25,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-03",
-          "campaign_id": "120242047172240392",
-          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
-          "spend": 10.91,
-          "impressions": 930,
-          "clicks": 22,
-          "leads": 1
-        },
-        {
-          "date": "2026-04-03",
-          "campaign_id": "120242057880550392",
-          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
-          "spend": 9.5,
-          "impressions": 710,
-          "clicks": 14,
-          "leads": 0
-        },
-        {
           "date": "2026-04-04",
           "campaign_id": "120241269377270392",
           "campaign_name": "Kurs 2 KLIMA",
@@ -11889,6 +11862,24 @@
           "impressions": 4353,
           "clicks": 52,
           "leads": 3
+        },
+        {
+          "date": "2026-07-02",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 39.67,
+          "impressions": 3799,
+          "clicks": 75,
+          "leads": 0
+        },
+        {
+          "date": "2026-07-02",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 41.39,
+          "impressions": 1695,
+          "clicks": 7,
+          "leads": 0
         }
       ]
     }
