@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T17:59:50.051Z",
+  "generated_at": "2026-07-02T18:55:50.836Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -9545,7 +9545,7 @@
         {
           "id": "120245836336330392",
           "name": "Kurs 2 Klima new",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
