@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T19:02:03.231Z",
+  "generated_at": "2026-07-02T19:45:28.980Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -11876,8 +11876,8 @@
           "date": "2026-06-30",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 89.67,
-          "impressions": 3917,
+          "spend": 90.73,
+          "impressions": 3918,
           "clicks": 39,
           "leads": 3
         },
