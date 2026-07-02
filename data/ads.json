@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T01:49:43.593Z",
+  "generated_at": "2026-07-02T05:07:20.847Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4767,17 +4767,17 @@
           "date": "2026-07-01",
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 15.44,
-          "impressions": 9764,
-          "clicks": 140,
+          "spend": 15.5,
+          "impressions": 9890,
+          "clicks": 142,
           "leads": 5
         },
         {
           "date": "2026-07-01",
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
-          "spend": 10.22,
-          "impressions": 2904,
+          "spend": 10.24,
+          "impressions": 2915,
           "clicks": 33,
           "leads": 1
         },
@@ -4785,8 +4785,8 @@
           "date": "2026-07-01",
           "campaign_id": "120246156248600027",
           "campaign_name": "ОН ТН відео з інст -15% статика",
-          "spend": 11.12,
-          "impressions": 2204,
+          "spend": 11.14,
+          "impressions": 2206,
           "clicks": 26,
           "leads": 1
         },
@@ -4794,8 +4794,8 @@
           "date": "2026-07-01",
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
-          "spend": 10.7,
-          "impressions": 4636,
+          "spend": 10.72,
+          "impressions": 4652,
           "clicks": 51,
           "leads": 3
         }
@@ -7143,8 +7143,8 @@
           "date": "2026-07-01",
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
-          "spend": 7.08,
-          "impressions": 2438,
+          "spend": 7.1,
+          "impressions": 2463,
           "clicks": 20,
           "leads": 0
         }
@@ -7821,8 +7821,8 @@
           "date": "2026-07-01",
           "campaign_id": "120243169362960749",
           "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 9.15,
-          "impressions": 2377,
+          "spend": 9.19,
+          "impressions": 2387,
           "clicks": 34,
           "leads": 3
         },
@@ -7830,8 +7830,8 @@
           "date": "2026-07-01",
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
-          "spend": 5.45,
-          "impressions": 1807,
+          "spend": 5.54,
+          "impressions": 1830,
           "clicks": 28,
           "leads": 3
         }
@@ -11885,8 +11885,8 @@
           "date": "2026-07-01",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 23.51,
-          "impressions": 2261,
+          "spend": 23.55,
+          "impressions": 2268,
           "clicks": 87,
           "leads": 2
         },
@@ -11894,8 +11894,8 @@
           "date": "2026-07-01",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 97.17,
-          "impressions": 4343,
+          "spend": 97.19,
+          "impressions": 4345,
           "clicks": 51,
           "leads": 3
         }
