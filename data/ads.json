@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T22:35:48.074Z",
+  "generated_at": "2026-07-02T23:19:13.692Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4777,7 +4777,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 12.34,
-          "impressions": 3537,
+          "impressions": 3540,
           "clicks": 55,
           "leads": 1
         },
@@ -4795,7 +4795,7 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 12.08,
-          "impressions": 6194,
+          "impressions": 6195,
           "clicks": 64,
           "leads": 2
         }
@@ -7135,7 +7135,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 6.18,
-          "impressions": 2040,
+          "impressions": 2043,
           "clicks": 18,
           "leads": 1
         }
@@ -11867,8 +11867,8 @@
           "date": "2026-07-02",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 39.67,
-          "impressions": 3799,
+          "spend": 39.68,
+          "impressions": 3800,
           "clicks": 75,
           "leads": 0
         },
