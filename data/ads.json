@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T23:45:03.517Z",
+  "generated_at": "2026-07-03T01:08:27.964Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4768,7 +4768,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 7.72,
-          "impressions": 5297,
+          "impressions": 5299,
           "clicks": 60,
           "leads": 4
         },
@@ -4777,7 +4777,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 12.34,
-          "impressions": 3541,
+          "impressions": 3542,
           "clicks": 55,
           "leads": 1
         },
@@ -4794,8 +4794,8 @@
           "date": "2026-07-02",
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
-          "spend": 12.08,
-          "impressions": 6195,
+          "spend": 12.09,
+          "impressions": 6199,
           "clicks": 64,
           "leads": 2
         }
@@ -7830,8 +7830,8 @@
           "date": "2026-07-02",
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
-          "spend": 9.31,
-          "impressions": 2800,
+          "spend": 9.32,
+          "impressions": 2802,
           "clicks": 45,
           "leads": 5
         }
@@ -11867,8 +11867,8 @@
           "date": "2026-07-02",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 39.69,
-          "impressions": 3801,
+          "spend": 39.7,
+          "impressions": 3802,
           "clicks": 75,
           "leads": 0
         },
@@ -11876,8 +11876,8 @@
           "date": "2026-07-02",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 41.39,
-          "impressions": 1695,
+          "spend": 41.4,
+          "impressions": 1696,
           "clicks": 7,
           "leads": 0
         }
