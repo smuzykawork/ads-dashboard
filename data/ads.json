@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T17:04:45.788Z",
+  "generated_at": "2026-07-03T17:42:23.011Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4777,7 +4777,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 12.51,
-          "impressions": 3563,
+          "impressions": 3564,
           "clicks": 55,
           "leads": 1
         },
@@ -4806,6 +4806,12 @@
       "name": "Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120244999594470292",
+          "name": "хаер тн",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120243193615220292",
           "name": "Дилери вебінар",
@@ -11876,8 +11882,8 @@
           "date": "2026-07-02",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
-          "spend": 41.43,
-          "impressions": 1697,
+          "spend": 41.45,
+          "impressions": 1698,
           "clicks": 7,
           "leads": 0
         }
