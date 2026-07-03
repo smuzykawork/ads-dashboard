@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T08:39:35.705Z",
+  "generated_at": "2026-07-03T10:47:04.200Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4741,7 +4741,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 10.26,
-          "impressions": 2930,
+          "impressions": 2931,
           "clicks": 33,
           "leads": 1
         },
@@ -4777,7 +4777,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 12.51,
-          "impressions": 3559,
+          "impressions": 3563,
           "clicks": 55,
           "leads": 1
         },
@@ -4795,8 +4795,8 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 12.15,
-          "impressions": 6243,
-          "clicks": 64,
+          "impressions": 6247,
+          "clicks": 65,
           "leads": 2
         }
       ]
@@ -7831,7 +7831,7 @@
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
           "spend": 9.32,
-          "impressions": 2814,
+          "impressions": 2815,
           "clicks": 45,
           "leads": 5
         }
@@ -11867,8 +11867,8 @@
           "date": "2026-07-02",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 39.73,
-          "impressions": 3806,
+          "spend": 39.74,
+          "impressions": 3807,
           "clicks": 75,
           "leads": 0
         },
