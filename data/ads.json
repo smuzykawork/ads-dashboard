@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T01:08:27.964Z",
+  "generated_at": "2026-07-03T01:19:12.359Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4768,7 +4768,7 @@
           "campaign_id": "120243710381520027",
           "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
           "spend": 7.72,
-          "impressions": 5299,
+          "impressions": 5300,
           "clicks": 60,
           "leads": 4
         },
@@ -4795,7 +4795,7 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 12.09,
-          "impressions": 6199,
+          "impressions": 6200,
           "clicks": 64,
           "leads": 2
         }
