@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T05:28:39.509Z",
+  "generated_at": "2026-07-04T07:11:25.711Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4741,7 +4741,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 12.51,
-          "impressions": 3570,
+          "impressions": 3571,
           "clicks": 55,
           "leads": 1
         },
@@ -4767,8 +4767,8 @@
           "date": "2026-07-03",
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
-          "spend": 14.94,
-          "impressions": 4171,
+          "spend": 14.95,
+          "impressions": 4173,
           "clicks": 57,
           "leads": 2
         },
@@ -4776,8 +4776,8 @@
           "date": "2026-07-03",
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
-          "spend": 14.5,
-          "impressions": 7152,
+          "spend": 14.52,
+          "impressions": 7167,
           "clicks": 62,
           "leads": 2
         }
@@ -7114,7 +7114,7 @@
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
           "spend": 6.03,
-          "impressions": 1978,
+          "impressions": 1980,
           "clicks": 20,
           "leads": 2
         },
@@ -7122,8 +7122,8 @@
           "date": "2026-07-03",
           "campaign_id": "120244999594470292",
           "campaign_name": "хаер тн",
-          "spend": 2.25,
-          "impressions": 359,
+          "spend": 2.27,
+          "impressions": 360,
           "clicks": 3,
           "leads": 0
         }
@@ -7828,7 +7828,7 @@
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
           "spend": 6.59,
-          "impressions": 2223,
+          "impressions": 2227,
           "clicks": 27,
           "leads": 1
         }
