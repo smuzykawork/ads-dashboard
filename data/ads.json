@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T21:40:50.342Z",
+  "generated_at": "2026-07-04T22:07:29.433Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4750,7 +4750,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 12.93,
-          "impressions": 3075,
+          "impressions": 3076,
           "clicks": 37,
           "leads": 3
         },
@@ -7105,7 +7105,7 @@
           "campaign_id": "120244999594470292",
           "campaign_name": "хаер тн",
           "spend": 9.22,
-          "impressions": 2872,
+          "impressions": 2874,
           "clicks": 60,
           "leads": 2
         }
@@ -10664,33 +10664,6 @@
       ],
       "daily": [
         {
-          "date": "2026-04-05",
-          "campaign_id": "120241269377270392",
-          "campaign_name": "Kurs 2 KLIMA",
-          "spend": 34.34,
-          "impressions": 2270,
-          "clicks": 35,
-          "leads": 1
-        },
-        {
-          "date": "2026-04-05",
-          "campaign_id": "120242047172240392",
-          "campaign_name": "Webinar №1 - Wentylacja mechaniczna. Przepisy, normy",
-          "spend": 10.91,
-          "impressions": 1117,
-          "clicks": 28,
-          "leads": 1
-        },
-        {
-          "date": "2026-04-05",
-          "campaign_id": "120242057880550392",
-          "campaign_name": "Webinar №5 - 36766- Dobór i montaż klimakonwektorów we współpracy z pompą ciepła",
-          "spend": 11.37,
-          "impressions": 896,
-          "clicks": 13,
-          "leads": 0
-        },
-        {
           "date": "2026-04-06",
           "campaign_id": "120241269377270392",
           "campaign_name": "Kurs 2 KLIMA",
@@ -11823,6 +11796,15 @@
           "impressions": 1698,
           "clicks": 7,
           "leads": 0
+        },
+        {
+          "date": "2026-07-04",
+          "campaign_id": "120250891766850392",
+          "campaign_name": "Fgazy - 07",
+          "spend": 14.6,
+          "impressions": 513,
+          "clicks": 20,
+          "leads": 2
         }
       ]
     }
