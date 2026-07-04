@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T14:48:33.446Z",
+  "generated_at": "2026-07-04T15:46:09.118Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -9480,6 +9480,12 @@
       "currency": "PLN",
       "campaigns": [
         {
+          "id": "120250891766850392",
+          "name": "Fgazy - 07",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120250050295230392",
           "name": "Project acive",
           "status": "PAUSED",
@@ -10672,12 +10678,6 @@
           "name": "Новая кампания с целью \"Вовлеченность\"",
           "status": "PAUSED",
           "objective": "OUTCOME_ENGAGEMENT"
-        },
-        {
-          "id": "120211295966540392",
-          "name": "Новая цель &quot;Лиды&quot; &quot;Кампания&quot; с рекомендуемыми настройками",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
         }
       ],
       "daily": [
