@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T16:43:48.732Z",
+  "generated_at": "2026-07-04T17:46:22.732Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4797,7 +4797,7 @@
         {
           "id": "120243193615220292",
           "name": "Дилери вебінар",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
