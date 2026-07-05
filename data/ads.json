@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T08:24:15.199Z",
+  "generated_at": "2026-07-05T09:31:28.327Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4742,7 +4742,7 @@
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 14.53,
           "impressions": 7185,
-          "clicks": 62,
+          "clicks": 63,
           "leads": 2
         },
         {
@@ -4750,7 +4750,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 12.93,
-          "impressions": 3079,
+          "impressions": 3080,
           "clicks": 37,
           "leads": 3
         },
@@ -4759,8 +4759,8 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 14.19,
-          "impressions": 4870,
-          "clicks": 61,
+          "impressions": 4874,
+          "clicks": 62,
           "leads": 3
         }
       ]
@@ -7095,8 +7095,8 @@
           "date": "2026-07-04",
           "campaign_id": "120243193615220292",
           "campaign_name": "Дилери вебінар",
-          "spend": 4.38,
-          "impressions": 1070,
+          "spend": 4.39,
+          "impressions": 1071,
           "clicks": 15,
           "leads": 3
         },
