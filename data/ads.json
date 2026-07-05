@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T20:40:12.348Z",
+  "generated_at": "2026-07-05T21:15:07.508Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -1208,33 +1208,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-04-06",
-          "campaign_id": "120239652104390027",
-          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
-          "spend": 15.07,
-          "impressions": 8162,
-          "clicks": 105,
-          "leads": 5
-        },
-        {
-          "date": "2026-04-06",
-          "campaign_id": "120240509574130027",
-          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
-          "spend": 14.1,
-          "impressions": 5609,
-          "clicks": 75,
-          "leads": 2
-        },
-        {
-          "date": "2026-04-06",
-          "campaign_id": "120240705494560027",
-          "campaign_name": "ОН Проєктування сучасних систем вентиляції 30.03",
-          "spend": 26.51,
-          "impressions": 12282,
-          "clicks": 130,
-          "leads": 0
-        },
         {
           "date": "2026-04-07",
           "campaign_id": "120239652104390027",
@@ -4759,9 +4732,27 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 14.19,
-          "impressions": 4883,
+          "impressions": 4884,
           "clicks": 62,
           "leads": 3
+        },
+        {
+          "date": "2026-07-05",
+          "campaign_id": "120245308588170027",
+          "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
+          "spend": 16.2,
+          "impressions": 4102,
+          "clicks": 37,
+          "leads": 1
+        },
+        {
+          "date": "2026-07-05",
+          "campaign_id": "120246156331470027",
+          "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
+          "spend": 16.95,
+          "impressions": 7252,
+          "clicks": 78,
+          "leads": 0
         }
       ]
     },
@@ -5390,24 +5381,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-04-06",
-          "campaign_id": "120238806837380292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 01.04",
-          "spend": 7.38,
-          "impressions": 1471,
-          "clicks": 40,
-          "leads": 1
-        },
-        {
-          "date": "2026-04-06",
-          "campaign_id": "120238933384400292",
-          "campaign_name": "Завантаження каталогу",
-          "spend": 6.28,
-          "impressions": 3532,
-          "clicks": 197,
-          "leads": 0
-        },
         {
           "date": "2026-04-07",
           "campaign_id": "120238806837380292",
@@ -7104,10 +7077,19 @@
           "date": "2026-07-04",
           "campaign_id": "120244999594470292",
           "campaign_name": "хаер тн",
-          "spend": 9.22,
-          "impressions": 2886,
+          "spend": 9.23,
+          "impressions": 2887,
           "clicks": 60,
           "leads": 2
+        },
+        {
+          "date": "2026-07-05",
+          "campaign_id": "120244999594470292",
+          "campaign_name": "хаер тн",
+          "spend": 13.53,
+          "impressions": 4447,
+          "clicks": 102,
+          "leads": 4
         }
       ]
     },
@@ -7819,9 +7801,18 @@
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
           "spend": 7.61,
-          "impressions": 2365,
+          "impressions": 2366,
           "clicks": 49,
           "leads": 6
+        },
+        {
+          "date": "2026-07-05",
+          "campaign_id": "120249512841890749",
+          "campaign_name": "ТН ЛІДИ 10.03 – копія",
+          "spend": 23,
+          "impressions": 7305,
+          "clicks": 108,
+          "leads": 12
         }
       ]
     },
@@ -8414,15 +8405,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-04-06",
-          "campaign_id": "120241827162920713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 12.52,
-          "impressions": 707,
-          "clicks": 14,
-          "leads": 1
-        },
         {
           "date": "2026-04-07",
           "campaign_id": "120241827162920713",
