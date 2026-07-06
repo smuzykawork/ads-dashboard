@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-07-06T11:16:24.602Z",
+  "generated_at": "2026-07-06T13:58:51.408Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120246862400780027",
+          "name": "Курс ОН Монтажник кондиціонерів 06.07",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120246162788470027",
           "name": "ОН ТН відео з інст -15% статика – копія",
@@ -1197,12 +1203,6 @@
         {
           "id": "120209897548830027",
           "name": "Конверсія на сайті /Онлайн-курс «Сервісний інженер систем мікроклімату»/ 15.07",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120209835900550027",
-          "name": "Конверсія на сайті /Вебінар «Вплив температурно-вологісних параметрів / 11.07",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -4749,8 +4749,8 @@
           "date": "2026-07-05",
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
-          "spend": 17.01,
-          "impressions": 7323,
+          "spend": 17.03,
+          "impressions": 7328,
           "clicks": 79,
           "leads": 0
         }
@@ -7087,7 +7087,7 @@
           "campaign_id": "120244999594470292",
           "campaign_name": "хаер тн",
           "spend": 13.62,
-          "impressions": 4478,
+          "impressions": 4479,
           "clicks": 102,
           "leads": 4
         }
@@ -11765,8 +11765,8 @@
           "date": "2026-07-05",
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
-          "spend": 145.94,
-          "impressions": 6266,
+          "spend": 145.96,
+          "impressions": 6268,
           "clicks": 287,
           "leads": 29
         },
@@ -11774,8 +11774,8 @@
           "date": "2026-07-05",
           "campaign_id": "120250897328920392",
           "campaign_name": "Projekt 2 - rus",
-          "spend": 106.61,
-          "impressions": 2511,
+          "spend": 106.67,
+          "impressions": 2513,
           "clicks": 50,
           "leads": 0
         }
