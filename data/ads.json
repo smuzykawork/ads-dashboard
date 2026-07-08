@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T01:11:52.043Z",
+  "generated_at": "2026-07-08T03:53:03.521Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4732,7 +4732,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 14.52,
-          "impressions": 3984,
+          "impressions": 3988,
           "clicks": 46,
           "leads": 1
         },
@@ -4741,7 +4741,7 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 14,
-          "impressions": 5994,
+          "impressions": 6005,
           "clicks": 69,
           "leads": 1
         },
@@ -4750,7 +4750,7 @@
           "campaign_id": "120246862400780027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 06.07",
           "spend": 12.54,
-          "impressions": 4194,
+          "impressions": 4195,
           "clicks": 57,
           "leads": 0
         }
@@ -7069,7 +7069,7 @@
           "campaign_id": "120244999594470292",
           "campaign_name": "хаер тн",
           "spend": 10.4,
-          "impressions": 4213,
+          "impressions": 4220,
           "clicks": 70,
           "leads": 7
         }
@@ -7809,8 +7809,8 @@
           "date": "2026-07-07",
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
-          "spend": 23.5,
-          "impressions": 6981,
+          "spend": 23.59,
+          "impressions": 7005,
           "clicks": 105,
           "leads": 9
         }
@@ -11711,8 +11711,8 @@
           "date": "2026-07-07",
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
-          "spend": 62.66,
-          "impressions": 4078,
+          "spend": 62.68,
+          "impressions": 4080,
           "clicks": 145,
           "leads": 11
         },
@@ -11720,8 +11720,8 @@
           "date": "2026-07-07",
           "campaign_id": "120250897328920392",
           "campaign_name": "Projekt 2 - rus",
-          "spend": 101.69,
-          "impressions": 2841,
+          "spend": 101.84,
+          "impressions": 2849,
           "clicks": 45,
           "leads": 3
         }
