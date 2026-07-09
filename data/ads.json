@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T13:36:56.721Z",
+  "generated_at": "2026-07-09T16:07:50.740Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4723,7 +4723,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 15.06,
-          "impressions": 4150,
+          "impressions": 4151,
           "clicks": 53,
           "leads": 2
         },
@@ -4732,16 +4732,16 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 14.33,
-          "impressions": 6641,
-          "clicks": 62,
+          "impressions": 6644,
+          "clicks": 63,
           "leads": 1
         },
         {
           "date": "2026-07-08",
           "campaign_id": "120246862400780027",
           "campaign_name": "Курс ОН Сервісант 06.07",
-          "spend": 12.96,
-          "impressions": 3529,
+          "spend": 12.97,
+          "impressions": 3530,
           "clicks": 59,
           "leads": 1
         }
@@ -7791,8 +7791,8 @@
           "date": "2026-07-08",
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
-          "spend": 24.34,
-          "impressions": 6090,
+          "spend": 24.4,
+          "impressions": 6091,
           "clicks": 96,
           "leads": 10
         }
@@ -11693,8 +11693,8 @@
           "date": "2026-07-08",
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
-          "spend": 98.7,
-          "impressions": 5930,
+          "spend": 98.72,
+          "impressions": 5932,
           "clicks": 179,
           "leads": 11
         },
@@ -11702,8 +11702,8 @@
           "date": "2026-07-08",
           "campaign_id": "120250897328920392",
           "campaign_name": "Projekt 2 - rus",
-          "spend": 152.87,
-          "impressions": 3652,
+          "spend": 152.91,
+          "impressions": 3653,
           "clicks": 74,
           "leads": 3
         }
