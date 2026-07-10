@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T23:50:09.760Z",
+  "generated_at": "2026-07-10T00:14:59.046Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -11675,8 +11675,8 @@
           "date": "2026-07-09",
           "campaign_id": "120250897328920392",
           "campaign_name": "Projekt 2 - rus",
-          "spend": 141.49,
-          "impressions": 3294,
+          "spend": 141.51,
+          "impressions": 3295,
           "clicks": 52,
           "leads": 1
         }
