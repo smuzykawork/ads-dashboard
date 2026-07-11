@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T22:31:33.020Z",
+  "generated_at": "2026-07-11T23:03:58.480Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7711,7 +7711,7 @@
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
           "spend": 26.56,
-          "impressions": 5805,
+          "impressions": 5806,
           "clicks": 97,
           "leads": 5
         }
@@ -11639,8 +11639,8 @@
           "date": "2026-07-11",
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
-          "spend": 168.69,
-          "impressions": 9938,
+          "spend": 168.71,
+          "impressions": 9942,
           "clicks": 221,
           "leads": 18
         },
@@ -11648,8 +11648,8 @@
           "date": "2026-07-11",
           "campaign_id": "120250897328920392",
           "campaign_name": "Projekt 2 - rus",
-          "spend": 301.11,
-          "impressions": 4951,
+          "spend": 301.2,
+          "impressions": 4955,
           "clicks": 59,
           "leads": 1
         }
