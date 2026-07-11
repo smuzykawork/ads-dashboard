@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T22:12:55.633Z",
+  "generated_at": "2026-07-11T22:31:33.020Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -6934,7 +6934,7 @@
           "campaign_id": "120244999594470292",
           "campaign_name": "хаер тн",
           "spend": 7.95,
-          "impressions": 2150,
+          "impressions": 2151,
           "clicks": 28,
           "leads": 3
         }
@@ -11639,8 +11639,8 @@
           "date": "2026-07-11",
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
-          "spend": 168.61,
-          "impressions": 9928,
+          "spend": 168.69,
+          "impressions": 9938,
           "clicks": 221,
           "leads": 18
         },
@@ -11648,8 +11648,8 @@
           "date": "2026-07-11",
           "campaign_id": "120250897328920392",
           "campaign_name": "Projekt 2 - rus",
-          "spend": 300.84,
-          "impressions": 4949,
+          "spend": 301.11,
+          "impressions": 4951,
           "clicks": 59,
           "leads": 1
         }
