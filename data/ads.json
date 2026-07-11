@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T17:40:38.259Z",
+  "generated_at": "2026-07-11T18:35:57.681Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4714,7 +4714,7 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 14.31,
-          "impressions": 6046,
+          "impressions": 6048,
           "clicks": 52,
           "leads": 3
         }
@@ -11657,8 +11657,8 @@
           "date": "2026-07-10",
           "campaign_id": "120250897328920392",
           "campaign_name": "Projekt 2 - rus",
-          "spend": 139.85,
-          "impressions": 2781,
+          "spend": 139.86,
+          "impressions": 2782,
           "clicks": 30,
           "leads": 0
         }
