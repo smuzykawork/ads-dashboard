@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T22:14:23.893Z",
+  "generated_at": "2026-07-12T22:31:45.537Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4651,7 +4651,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 14.82,
-          "impressions": 3477,
+          "impressions": 3478,
           "clicks": 54,
           "leads": 2
         },
@@ -4677,8 +4677,8 @@
           "date": "2026-07-12",
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
-          "spend": 16.36,
-          "impressions": 7469,
+          "spend": 16.38,
+          "impressions": 7470,
           "clicks": 70,
           "leads": 2
         }
@@ -6898,7 +6898,7 @@
           "campaign_id": "120244999594470292",
           "campaign_name": "хаер тн",
           "spend": 11.88,
-          "impressions": 4317,
+          "impressions": 4319,
           "clicks": 67,
           "leads": 6
         }
@@ -7683,8 +7683,8 @@
           "date": "2026-07-12",
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
-          "spend": 28.5,
-          "impressions": 5881,
+          "spend": 28.51,
+          "impressions": 5886,
           "clicks": 99,
           "leads": 6
         }
@@ -11621,17 +11621,17 @@
           "date": "2026-07-12",
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
-          "spend": 76.7,
-          "impressions": 5636,
-          "clicks": 96,
+          "spend": 76.71,
+          "impressions": 5637,
+          "clicks": 97,
           "leads": 9
         },
         {
           "date": "2026-07-12",
           "campaign_id": "120250897328920392",
           "campaign_name": "Projekt 2 - rus",
-          "spend": 124.22,
-          "impressions": 2075,
+          "spend": 124.29,
+          "impressions": 2077,
           "clicks": 36,
           "leads": 0
         }
