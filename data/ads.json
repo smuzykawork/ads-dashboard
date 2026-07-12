@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T11:43:58.777Z",
+  "generated_at": "2026-07-12T12:39:33.248Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4687,7 +4687,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 14.82,
-          "impressions": 3472,
+          "impressions": 3473,
           "clicks": 54,
           "leads": 2
         },
@@ -11639,8 +11639,8 @@
           "date": "2026-07-11",
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
-          "spend": 168.97,
-          "impressions": 9997,
+          "spend": 168.99,
+          "impressions": 10002,
           "clicks": 221,
           "leads": 18
         },
@@ -11648,8 +11648,8 @@
           "date": "2026-07-11",
           "campaign_id": "120250897328920392",
           "campaign_name": "Projekt 2 - rus",
-          "spend": 302.06,
-          "impressions": 4991,
+          "spend": 302.07,
+          "impressions": 4994,
           "clicks": 60,
           "leads": 1
         }
