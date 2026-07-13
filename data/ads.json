@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-07-13T12:19:13.003Z",
+  "generated_at": "2026-07-13T13:50:06.872Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120247100579790027",
+          "name": "Курс ОН сервісант систем конд і вент13.07",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120246862400780027",
           "name": "Курс ОН Сервісант 06.07",
@@ -1197,12 +1203,6 @@
         {
           "id": "120209897598460027",
           "name": "Конверсія на сайті /Вебінар «Вплив температурно-вологісних параметрів / 15.07",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120209897548830027",
-          "name": "Конверсія на сайті /Онлайн-курс «Сервісний інженер систем мікроклімату»/ 15.07",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -4669,7 +4669,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 16.15,
-          "impressions": 3782,
+          "impressions": 3783,
           "clicks": 56,
           "leads": 0
         },
@@ -4677,8 +4677,8 @@
           "date": "2026-07-12",
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
-          "spend": 16.64,
-          "impressions": 7561,
+          "spend": 16.65,
+          "impressions": 7564,
           "clicks": 70,
           "leads": 2
         }
@@ -6898,7 +6898,7 @@
           "campaign_id": "120244999594470292",
           "campaign_name": "хаер тн",
           "spend": 11.91,
-          "impressions": 4337,
+          "impressions": 4338,
           "clicks": 67,
           "leads": 6
         }
