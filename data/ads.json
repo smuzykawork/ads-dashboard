@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T08:35:47.000Z",
+  "generated_at": "2026-07-13T11:25:45.910Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4660,7 +4660,7 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 14.84,
-          "impressions": 5655,
+          "impressions": 5656,
           "clicks": 49,
           "leads": 2
         },
@@ -4669,7 +4669,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 16.13,
-          "impressions": 3778,
+          "impressions": 3781,
           "clicks": 56,
           "leads": 0
         },
@@ -4678,7 +4678,7 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 16.64,
-          "impressions": 7553,
+          "impressions": 7560,
           "clicks": 70,
           "leads": 2
         }
@@ -7675,7 +7675,7 @@
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
           "spend": 26.56,
-          "impressions": 5834,
+          "impressions": 5835,
           "clicks": 97,
           "leads": 5
         },
@@ -7683,9 +7683,9 @@
           "date": "2026-07-12",
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
-          "spend": 28.65,
-          "impressions": 5923,
-          "clicks": 100,
+          "spend": 28.66,
+          "impressions": 5927,
+          "clicks": 101,
           "leads": 6
         }
       ]
@@ -11604,7 +11604,7 @@
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
           "spend": 169.05,
-          "impressions": 10014,
+          "impressions": 10015,
           "clicks": 221,
           "leads": 18
         },
@@ -11621,8 +11621,8 @@
           "date": "2026-07-12",
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
-          "spend": 77.04,
-          "impressions": 5685,
+          "spend": 77.07,
+          "impressions": 5689,
           "clicks": 97,
           "leads": 9
         },
