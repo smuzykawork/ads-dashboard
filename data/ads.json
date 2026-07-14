@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T22:28:42.317Z",
+  "generated_at": "2026-07-14T22:39:48.180Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4660,7 +4660,7 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 13.8,
-          "impressions": 5259,
+          "impressions": 5260,
           "clicks": 49,
           "leads": 0
         },
@@ -4669,7 +4669,7 @@
           "campaign_id": "120247100579790027",
           "campaign_name": "Курс ОН сервісант систем конд і вент13.07",
           "spend": 9.83,
-          "impressions": 2380,
+          "impressions": 2381,
           "clicks": 33,
           "leads": 0
         },
@@ -4687,7 +4687,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 4.76,
-          "impressions": 2708,
+          "impressions": 2710,
           "clicks": 48,
           "leads": 3
         }
@@ -7666,7 +7666,7 @@
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
           "spend": 25.95,
-          "impressions": 5506,
+          "impressions": 5507,
           "clicks": 97,
           "leads": 13
         }
@@ -11613,7 +11613,7 @@
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
           "spend": 41.73,
-          "impressions": 3341,
+          "impressions": 3342,
           "clicks": 54,
           "leads": 2
         }
