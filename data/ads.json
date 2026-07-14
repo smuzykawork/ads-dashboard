@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T18:47:19.533Z",
+  "generated_at": "2026-07-14T20:19:52.199Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4669,8 +4669,8 @@
           "campaign_id": "120247100579790027",
           "campaign_name": "Курс ОН сервісант систем конд і вент13.07",
           "spend": 13.45,
-          "impressions": 2585,
-          "clicks": 51,
+          "impressions": 2586,
+          "clicks": 52,
           "leads": 0
         }
       ]
@@ -11612,8 +11612,8 @@
           "date": "2026-07-13",
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
-          "spend": 91.71,
-          "impressions": 7221,
+          "spend": 91.72,
+          "impressions": 7222,
           "clicks": 131,
           "leads": 7
         }
