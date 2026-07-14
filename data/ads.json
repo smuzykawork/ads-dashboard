@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T06:35:22.929Z",
+  "generated_at": "2026-07-14T06:57:17.024Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4651,7 +4651,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 15.36,
-          "impressions": 3871,
+          "impressions": 3872,
           "clicks": 42,
           "leads": 1
         },
@@ -4669,7 +4669,7 @@
           "campaign_id": "120247100579790027",
           "campaign_name": "Курс ОН сервісант систем конд і вент13.07",
           "spend": 13.45,
-          "impressions": 2576,
+          "impressions": 2578,
           "clicks": 50,
           "leads": 0
         }
@@ -6871,7 +6871,7 @@
           "campaign_id": "120244999594470292",
           "campaign_name": "хаер тн",
           "spend": 10.28,
-          "impressions": 2924,
+          "impressions": 2925,
           "clicks": 55,
           "leads": 9
         }
