@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T11:06:51.986Z",
+  "generated_at": "2026-07-14T11:11:44.798Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -11612,8 +11612,8 @@
           "date": "2026-07-13",
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
-          "spend": 91.68,
-          "impressions": 7215,
+          "spend": 91.69,
+          "impressions": 7216,
           "clicks": 131,
           "leads": 7
         }
