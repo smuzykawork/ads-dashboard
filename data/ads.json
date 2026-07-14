@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-07-14T14:07:41.315Z",
+  "generated_at": "2026-07-14T15:07:10.728Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120247139188530027",
+          "name": "Курс ОН Монт.Конд",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120247100579790027",
           "name": "Курс ОН сервісант систем конд і вент13.07",
@@ -1197,12 +1203,6 @@
         {
           "id": "120209897651350027",
           "name": "Конверсія на сайті /Онлайн-курс «Енергоаудитор систем опалення» / 15.07",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120209897598460027",
-          "name": "Конверсія на сайті /Вебінар «Вплив температурно-вологісних параметрів / 15.07",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -4651,7 +4651,7 @@
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
           "spend": 15.36,
-          "impressions": 3875,
+          "impressions": 3876,
           "clicks": 42,
           "leads": 1
         },
@@ -4660,7 +4660,7 @@
           "campaign_id": "120246156331470027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 24.06 статика",
           "spend": 14.44,
-          "impressions": 6993,
+          "impressions": 6994,
           "clicks": 57,
           "leads": 2
         },
@@ -11613,7 +11613,7 @@
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
           "spend": 91.71,
-          "impressions": 7219,
+          "impressions": 7221,
           "clicks": 131,
           "leads": 7
         }
