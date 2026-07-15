@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T14:03:52.158Z",
+  "generated_at": "2026-07-15T14:18:24.858Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4687,7 +4687,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 4.88,
-          "impressions": 2792,
+          "impressions": 2793,
           "clicks": 48,
           "leads": 3
         }
@@ -11612,8 +11612,8 @@
           "date": "2026-07-14",
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
-          "spend": 41.76,
-          "impressions": 3350,
+          "spend": 41.77,
+          "impressions": 3351,
           "clicks": 55,
           "leads": 2
         }
