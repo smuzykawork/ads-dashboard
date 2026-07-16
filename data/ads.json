@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T07:10:02.463Z",
+  "generated_at": "2026-07-16T07:35:26.067Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4687,7 +4687,7 @@
           "campaign_id": "120247137863810027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04 – копія",
           "spend": 16.72,
-          "impressions": 4893,
+          "impressions": 4895,
           "clicks": 97,
           "leads": 1
         },
@@ -4696,7 +4696,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 12.42,
-          "impressions": 7402,
+          "impressions": 7403,
           "clicks": 114,
           "leads": 1
         }
