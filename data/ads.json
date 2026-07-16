@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T03:30:40.742Z",
+  "generated_at": "2026-07-16T04:36:16.028Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4668,8 +4668,8 @@
           "date": "2026-07-15",
           "campaign_id": "120245308588170027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
-          "spend": 12.62,
-          "impressions": 2675,
+          "spend": 12.63,
+          "impressions": 2680,
           "clicks": 44,
           "leads": 2
         },
@@ -4686,8 +4686,8 @@
           "date": "2026-07-15",
           "campaign_id": "120247137863810027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04 – копія",
-          "spend": 16.68,
-          "impressions": 4883,
+          "spend": 16.7,
+          "impressions": 4886,
           "clicks": 97,
           "leads": 1
         },
@@ -4695,8 +4695,8 @@
           "date": "2026-07-15",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 12.34,
-          "impressions": 7333,
+          "spend": 12.35,
+          "impressions": 7358,
           "clicks": 113,
           "leads": 1
         }
@@ -6844,7 +6844,7 @@
           "campaign_id": "120244999594470292",
           "campaign_name": "хаер тн",
           "spend": 8.87,
-          "impressions": 2878,
+          "impressions": 2882,
           "clicks": 48,
           "leads": 4
         }
@@ -7656,8 +7656,8 @@
           "date": "2026-07-15",
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
-          "spend": 24.74,
-          "impressions": 4735,
+          "spend": 24.78,
+          "impressions": 4748,
           "clicks": 74,
           "leads": 8
         }
