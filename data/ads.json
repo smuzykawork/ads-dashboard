@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T21:34:54.694Z",
+  "generated_at": "2026-07-19T22:04:29.689Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4678,7 +4678,7 @@
           "campaign_id": "120247137863810027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04 – копія",
           "spend": 4.25,
-          "impressions": 1301,
+          "impressions": 1302,
           "clicks": 27,
           "leads": 1
         },
@@ -4686,8 +4686,8 @@
           "date": "2026-07-19",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 20.63,
-          "impressions": 13307,
+          "spend": 20.64,
+          "impressions": 13321,
           "clicks": 166,
           "leads": 4
         },
@@ -4696,7 +4696,7 @@
           "campaign_id": "120247224937180027",
           "campaign_name": "ОН ТН відео з інст 17.07",
           "spend": 11.76,
-          "impressions": 1563,
+          "impressions": 1564,
           "clicks": 14,
           "leads": 0
         }
@@ -6750,8 +6750,8 @@
           "date": "2026-07-19",
           "campaign_id": "120245383162920292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 17.07",
-          "spend": 9.03,
-          "impressions": 2196,
+          "spend": 9.04,
+          "impressions": 2197,
           "clicks": 42,
           "leads": 0
         }
@@ -7599,8 +7599,8 @@
           "date": "2026-07-19",
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
-          "spend": 6.74,
-          "impressions": 1697,
+          "spend": 6.75,
+          "impressions": 1700,
           "clicks": 32,
           "leads": 0
         }
@@ -10327,15 +10327,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-04-20",
-          "campaign_id": "120241269377270392",
-          "campaign_name": "Kurs 2 KLIMA",
-          "spend": 33.32,
-          "impressions": 1708,
-          "clicks": 47,
-          "leads": 1
-        },
         {
           "date": "2026-04-21",
           "campaign_id": "120241269377270392",
