@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T23:06:54.243Z",
+  "generated_at": "2026-07-19T23:30:04.307Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4686,8 +4686,8 @@
           "date": "2026-07-19",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 20.66,
-          "impressions": 13342,
+          "spend": 20.67,
+          "impressions": 13345,
           "clicks": 168,
           "leads": 4
         },
