@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T23:39:44.166Z",
+  "generated_at": "2026-07-20T00:09:29.083Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4687,7 +4687,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 20.67,
-          "impressions": 13347,
+          "impressions": 13349,
           "clicks": 168,
           "leads": 4
         },
@@ -6751,7 +6751,7 @@
           "campaign_id": "120245383162920292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 17.07",
           "spend": 9.05,
-          "impressions": 2201,
+          "impressions": 2203,
           "clicks": 42,
           "leads": 0
         }
@@ -7600,7 +7600,7 @@
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
           "spend": 6.77,
-          "impressions": 1702,
+          "impressions": 1703,
           "clicks": 33,
           "leads": 0
         }
