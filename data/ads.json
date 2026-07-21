@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T01:09:28.612Z",
+  "generated_at": "2026-07-21T03:40:27.981Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4686,8 +4686,8 @@
           "date": "2026-07-19",
           "campaign_id": "120247224937180027",
           "campaign_name": "ОН ТН відео з інст 17.07",
-          "spend": 11.84,
-          "impressions": 1575,
+          "spend": 11.85,
+          "impressions": 1576,
           "clicks": 14,
           "leads": 0
         },
@@ -4704,8 +4704,8 @@
           "date": "2026-07-20",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 19.65,
-          "impressions": 10025,
+          "spend": 19.68,
+          "impressions": 10042,
           "clicks": 90,
           "leads": 1
         },
@@ -6733,7 +6733,7 @@
           "campaign_id": "120245383162920292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 17.07",
           "spend": 9.1,
-          "impressions": 2229,
+          "impressions": 2230,
           "clicks": 43,
           "leads": 0
         },
@@ -6742,7 +6742,7 @@
           "campaign_id": "120245383162920292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 17.07",
           "spend": 9.97,
-          "impressions": 2715,
+          "impressions": 2718,
           "clicks": 37,
           "leads": 0
         }
@@ -7599,8 +7599,8 @@
           "date": "2026-07-20",
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
-          "spend": 7.69,
-          "impressions": 1791,
+          "spend": 7.7,
+          "impressions": 1795,
           "clicks": 17,
           "leads": 1
         }
