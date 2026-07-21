@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T23:30:41.921Z",
+  "generated_at": "2026-07-21T23:41:52.489Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4714,7 +4714,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 22.63,
-          "impressions": 13288,
+          "impressions": 13289,
           "clicks": 156,
           "leads": 10
         }
@@ -6715,7 +6715,7 @@
           "campaign_id": "120245383162920292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 17.07",
           "spend": 12.27,
-          "impressions": 2790,
+          "impressions": 2791,
           "clicks": 67,
           "leads": 0
         }
@@ -6729,7 +6729,7 @@
         {
           "id": "120249512841890749",
           "name": "ТН ЛІДИ 10.03 – копія",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -9137,7 +9137,7 @@
         {
           "id": "120245836336330392",
           "name": "Kurs 2 Klima new",
-          "status": "PAUSED",
+          "status": "ACTIVE",
           "objective": "OUTCOME_LEADS"
         },
         {
