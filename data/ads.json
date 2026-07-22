@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-07-22T12:10:52.053Z",
+  "generated_at": "2026-07-22T13:10:07.794Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120247324682980027",
+          "name": "Курс ОН сервісант систем конд і вент 22.07",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120247224937180027",
           "name": "ОН ТН відео з інст 17.07",
@@ -1199,12 +1205,6 @@
           "name": "Конверсія на сайті /Атмосфера/ 23.07",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120210005568360027",
-          "name": "TELEGRAM-КАНАЛ",
-          "status": "PAUSED",
-          "objective": "OUTCOME_TRAFFIC"
         }
       ],
       "daily": [
@@ -4713,8 +4713,8 @@
           "date": "2026-07-21",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 22.74,
-          "impressions": 13474,
+          "spend": 22.75,
+          "impressions": 13477,
           "clicks": 156,
           "leads": 10
         }
@@ -7573,7 +7573,7 @@
           "campaign_id": "120249512841890749",
           "campaign_name": "ТН ЛІДИ 10.03 – копія",
           "spend": 9.15,
-          "impressions": 1711,
+          "impressions": 1712,
           "clicks": 33,
           "leads": 3
         }
