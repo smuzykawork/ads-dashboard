@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T20:45:56.462Z",
+  "generated_at": "2026-07-22T21:53:07.547Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -1208,24 +1208,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-04-23",
-          "campaign_id": "120239652104390027",
-          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
-          "spend": 24.53,
-          "impressions": 9849,
-          "clicks": 143,
-          "leads": 3
-        },
-        {
-          "date": "2026-04-23",
-          "campaign_id": "120241793018460027",
-          "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
-          "spend": 10.13,
-          "impressions": 3608,
-          "clicks": 31,
-          "leads": 0
-        },
         {
           "date": "2026-04-24",
           "campaign_id": "120239652104390027",
@@ -4717,6 +4699,33 @@
           "impressions": 13487,
           "clicks": 156,
           "leads": 10
+        },
+        {
+          "date": "2026-07-22",
+          "campaign_id": "120247137863810027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04 – копія",
+          "spend": 4.33,
+          "impressions": 1628,
+          "clicks": 25,
+          "leads": 0
+        },
+        {
+          "date": "2026-07-22",
+          "campaign_id": "120247139188530027",
+          "campaign_name": "Курс ОН Монт.Конд",
+          "spend": 21.16,
+          "impressions": 10626,
+          "clicks": 112,
+          "leads": 4
+        },
+        {
+          "date": "2026-07-22",
+          "campaign_id": "120247324682980027",
+          "campaign_name": "Курс ОН сервісант систем конд і вент 22.07",
+          "spend": 9.48,
+          "impressions": 3446,
+          "clicks": 51,
+          "leads": 1
         }
       ]
     },
@@ -5351,42 +5360,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-04-23",
-          "campaign_id": "120238806837380292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 01.04",
-          "spend": 10.32,
-          "impressions": 1800,
-          "clicks": 36,
-          "leads": 1
-        },
-        {
-          "date": "2026-04-23",
-          "campaign_id": "120238933384400292",
-          "campaign_name": "Завантаження каталогу",
-          "spend": 5.84,
-          "impressions": 2877,
-          "clicks": 167,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-23",
-          "campaign_id": "120239204652440292",
-          "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 3.72,
-          "impressions": 3191,
-          "clicks": 87,
-          "leads": 4
-        },
-        {
-          "date": "2026-04-23",
-          "campaign_id": "120239240019780292",
-          "campaign_name": "Менеджер з продажу",
-          "spend": 10.45,
-          "impressions": 1565,
-          "clicks": 36,
-          "leads": 4
-        },
         {
           "date": "2026-04-24",
           "campaign_id": "120238806837380292",
@@ -6718,6 +6691,15 @@
           "impressions": 2814,
           "clicks": 67,
           "leads": 0
+        },
+        {
+          "date": "2026-07-22",
+          "campaign_id": "120245383162920292",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 17.07",
+          "spend": 11.35,
+          "impressions": 2313,
+          "clicks": 77,
+          "leads": 0
         }
       ]
     },
@@ -6758,15 +6740,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-04-23",
-          "campaign_id": "120243169362960749",
-          "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 2.47,
-          "impressions": 403,
-          "clicks": 16,
-          "leads": 3
-        },
         {
           "date": "2026-04-24",
           "campaign_id": "120243169362960749",
@@ -7576,6 +7549,15 @@
           "impressions": 1712,
           "clicks": 33,
           "leads": 3
+        },
+        {
+          "date": "2026-07-22",
+          "campaign_id": "120249512841890749",
+          "campaign_name": "ТН ЛІДИ 10.03 – копія",
+          "spend": 0.78,
+          "impressions": 64,
+          "clicks": 2,
+          "leads": 0
         }
       ]
     },
@@ -8168,15 +8150,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-04-23",
-          "campaign_id": "120242784172760713",
-          "campaign_name": "СBO | CPL | Березень / Повноцінний відділ за виключенням",
-          "spend": 2.66,
-          "impressions": 168,
-          "clicks": 6,
-          "leads": 0
-        },
         {
           "date": "2026-04-24",
           "campaign_id": "120243336144070713",
