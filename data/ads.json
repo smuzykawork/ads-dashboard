@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T21:43:51.644Z",
+  "generated_at": "2026-07-23T22:38:57.181Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4713,8 +4713,8 @@
           "date": "2026-07-23",
           "campaign_id": "120247137863810027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04 – копія",
-          "spend": 5.92,
-          "impressions": 2310,
+          "spend": 5.93,
+          "impressions": 2313,
           "clicks": 37,
           "leads": 2
         },
@@ -4722,8 +4722,8 @@
           "date": "2026-07-23",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 17.37,
-          "impressions": 9131,
+          "spend": 17.4,
+          "impressions": 9138,
           "clicks": 88,
           "leads": 2
         },
@@ -4731,8 +4731,8 @@
           "date": "2026-07-23",
           "campaign_id": "120247324682980027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 22.07",
-          "spend": 20.11,
-          "impressions": 6959,
+          "spend": 20.13,
+          "impressions": 6963,
           "clicks": 116,
           "leads": 2
         }
@@ -10220,15 +10220,6 @@
       ],
       "daily": [
         {
-          "date": "2026-04-24",
-          "campaign_id": "120241269377270392",
-          "campaign_name": "Kurs 2 KLIMA",
-          "spend": 5.07,
-          "impressions": 421,
-          "clicks": 10,
-          "leads": 0
-        },
-        {
           "date": "2026-04-25",
           "campaign_id": "120241269377270392",
           "campaign_name": "Kurs 2 KLIMA",
@@ -11370,6 +11361,15 @@
           "impressions": 2055,
           "clicks": 105,
           "leads": 5
+        },
+        {
+          "date": "2026-07-23",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 50.99,
+          "impressions": 2896,
+          "clicks": 87,
+          "leads": 4
         }
       ]
     }
