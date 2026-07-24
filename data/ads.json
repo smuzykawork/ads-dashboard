@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T13:05:54.044Z",
+  "generated_at": "2026-07-24T14:05:42.859Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4723,7 +4723,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 17.55,
-          "impressions": 9234,
+          "impressions": 9235,
           "clicks": 89,
           "leads": 2
         },
@@ -4743,6 +4743,12 @@
       "name": "Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120245543377600292",
+          "name": "Дилер Контакти 03.06 – копія",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120245542298330292",
           "name": "хаер тн ж",
@@ -4836,7 +4842,7 @@
         {
           "id": "120239240019780292",
           "name": "Менеджер з продажу",
-          "status": "PAUSED",
+          "status": "ACTIVE",
           "objective": "OUTCOME_LEADS"
         },
         {
