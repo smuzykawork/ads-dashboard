@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:51:59.348Z",
+  "generated_at": "2026-07-24T12:55:11.398Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4723,7 +4723,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 17.55,
-          "impressions": 9230,
+          "impressions": 9233,
           "clicks": 89,
           "leads": 2
         },
@@ -4732,7 +4732,7 @@
           "campaign_id": "120247324682980027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 22.07",
           "spend": 20.2,
-          "impressions": 6996,
+          "impressions": 6997,
           "clicks": 118,
           "leads": 2
         }
@@ -4743,6 +4743,12 @@
       "name": "Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120245542298330292",
+          "name": "хаер тн ж",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120245536564470292",
           "name": "Вакансія СЕРВІСАНТ КИЇВ 26.03 – копія",
@@ -6696,6 +6702,12 @@
       "name": "MyCond UA",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120250097366020749",
+          "name": "ТН ЛІДИ 24.07",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120249512841890749",
           "name": "ТН ЛІДИ 10.03 – копія",
