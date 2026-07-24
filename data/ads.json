@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T07:57:42.895Z",
+  "generated_at": "2026-07-24T09:28:02.353Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4695,8 +4695,8 @@
           "date": "2026-07-22",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 21.27,
-          "impressions": 10744,
+          "spend": 21.28,
+          "impressions": 10745,
           "clicks": 114,
           "leads": 4
         },
@@ -4722,8 +4722,8 @@
           "date": "2026-07-23",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 17.53,
-          "impressions": 9225,
+          "spend": 17.54,
+          "impressions": 9228,
           "clicks": 89,
           "leads": 2
         },
@@ -4732,7 +4732,7 @@
           "campaign_id": "120247324682980027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 22.07",
           "spend": 20.19,
-          "impressions": 6992,
+          "impressions": 6995,
           "clicks": 118,
           "leads": 2
         }
@@ -4743,6 +4743,12 @@
       "name": "Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120245536564470292",
+          "name": "Вакансія СЕРВІСАНТ КИЇВ 26.03 – копія",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120245383162920292",
           "name": "Вакансія СЕРВІСАНТ КИЇВ 17.07",
@@ -11366,8 +11372,8 @@
           "date": "2026-07-23",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 51.66,
-          "impressions": 2921,
+          "spend": 51.67,
+          "impressions": 2922,
           "clicks": 87,
           "leads": 4
         }
