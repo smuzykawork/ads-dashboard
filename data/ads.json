@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T01:12:02.883Z",
+  "generated_at": "2026-07-25T03:32:30.820Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4722,17 +4722,17 @@
           "date": "2026-07-24",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 18.19,
-          "impressions": 10110,
-          "clicks": 103,
+          "spend": 18.21,
+          "impressions": 10131,
+          "clicks": 104,
           "leads": 2
         },
         {
           "date": "2026-07-24",
           "campaign_id": "120247324682980027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 22.07",
-          "spend": 18.94,
-          "impressions": 6146,
+          "spend": 18.96,
+          "impressions": 6157,
           "clicks": 77,
           "leads": 1
         }
@@ -6688,7 +6688,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 3.25,
-          "impressions": 761,
+          "impressions": 763,
           "clicks": 5,
           "leads": 0
         },
@@ -6697,7 +6697,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 5.25,
-          "impressions": 1356,
+          "impressions": 1359,
           "clicks": 17,
           "leads": 1
         }
@@ -7551,8 +7551,8 @@
           "date": "2026-07-24",
           "campaign_id": "120250097366020749",
           "campaign_name": "ТН ЛІДИ 24.07",
-          "spend": 3.7,
-          "impressions": 1207,
+          "spend": 3.71,
+          "impressions": 1208,
           "clicks": 20,
           "leads": 0
         }
@@ -11381,8 +11381,8 @@
           "date": "2026-07-24",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 55.39,
-          "impressions": 3457,
+          "spend": 55.42,
+          "impressions": 3461,
           "clicks": 90,
           "leads": 2
         }
