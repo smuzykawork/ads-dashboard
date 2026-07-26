@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T07:56:47.711Z",
+  "generated_at": "2026-07-26T09:21:06.840Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4732,7 +4732,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 19.21,
-          "impressions": 9393,
+          "impressions": 9398,
           "clicks": 112,
           "leads": 2
         },
@@ -6706,7 +6706,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 11.51,
-          "impressions": 3368,
+          "impressions": 3369,
           "clicks": 41,
           "leads": 5
         }
@@ -11381,8 +11381,8 @@
           "date": "2026-07-25",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 59.73,
-          "impressions": 3011,
+          "spend": 59.74,
+          "impressions": 3014,
           "clicks": 77,
           "leads": 2
         }
