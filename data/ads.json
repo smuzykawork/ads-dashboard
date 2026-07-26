@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T23:43:34.734Z",
+  "generated_at": "2026-07-26T01:15:53.756Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4732,7 +4732,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 19.21,
-          "impressions": 9356,
+          "impressions": 9359,
           "clicks": 112,
           "leads": 2
         },
@@ -4740,8 +4740,8 @@
           "date": "2026-07-25",
           "campaign_id": "120247324682980027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 22.07",
-          "spend": 17.81,
-          "impressions": 4504,
+          "spend": 17.82,
+          "impressions": 4505,
           "clicks": 67,
           "leads": 0
         }
@@ -6706,7 +6706,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 11.51,
-          "impressions": 3355,
+          "impressions": 3356,
           "clicks": 41,
           "leads": 5
         }
@@ -7561,7 +7561,7 @@
           "campaign_id": "120250097366020749",
           "campaign_name": "ТН ЛІДИ 24.07",
           "spend": 6.98,
-          "impressions": 1942,
+          "impressions": 1943,
           "clicks": 32,
           "leads": 3
         }
