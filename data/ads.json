@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:55:32.952Z",
+  "generated_at": "2026-07-26T21:08:17.015Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -1208,51 +1208,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-04-27",
-          "campaign_id": "120239652104390027",
-          "campaign_name": "Онлайн Курс «Сервісний інженер систем мікроклімату» 06.03",
-          "spend": 23.97,
-          "impressions": 9538,
-          "clicks": 114,
-          "leads": 4
-        },
-        {
-          "date": "2026-04-27",
-          "campaign_id": "120240076115370027",
-          "campaign_name": "Вебінар - «Діагностика і сервіс спліт-систем: проблеми і їх рішення» 17.03",
-          "spend": 5,
-          "impressions": 2172,
-          "clicks": 51,
-          "leads": 5
-        },
-        {
-          "date": "2026-04-27",
-          "campaign_id": "120240076633140027",
-          "campaign_name": "Вебінар -Вебінар «Помилки і тонкощі монтажу спліт-систем» 17.03",
-          "spend": 5.3,
-          "impressions": 1710,
-          "clicks": 34,
-          "leads": 3
-        },
-        {
-          "date": "2026-04-27",
-          "campaign_id": "120240509574130027",
-          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03",
-          "spend": 20.52,
-          "impressions": 7331,
-          "clicks": 110,
-          "leads": 7
-        },
-        {
-          "date": "2026-04-27",
-          "campaign_id": "120241793018460027",
-          "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04",
-          "spend": 8.92,
-          "impressions": 3545,
-          "clicks": 20,
-          "leads": 2
-        },
         {
           "date": "2026-04-28",
           "campaign_id": "120239652104390027",
@@ -4744,6 +4699,33 @@
           "impressions": 4516,
           "clicks": 67,
           "leads": 0
+        },
+        {
+          "date": "2026-07-26",
+          "campaign_id": "120247137863810027",
+          "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04 – копія",
+          "spend": 5.78,
+          "impressions": 2142,
+          "clicks": 45,
+          "leads": 1
+        },
+        {
+          "date": "2026-07-26",
+          "campaign_id": "120247139188530027",
+          "campaign_name": "Курс ОН Монт.Конд",
+          "spend": 20.85,
+          "impressions": 11105,
+          "clicks": 131,
+          "leads": 2
+        },
+        {
+          "date": "2026-07-26",
+          "campaign_id": "120247324682980027",
+          "campaign_name": "Курс ОН сервісант систем конд і вент 22.07",
+          "spend": 21.56,
+          "impressions": 5303,
+          "clicks": 80,
+          "leads": 2
         }
       ]
     },
@@ -5396,42 +5378,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-04-27",
-          "campaign_id": "120238806837380292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 01.04",
-          "spend": 4.03,
-          "impressions": 587,
-          "clicks": 13,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-27",
-          "campaign_id": "120238933384400292",
-          "campaign_name": "Завантаження каталогу",
-          "spend": 6.38,
-          "impressions": 2337,
-          "clicks": 207,
-          "leads": 0
-        },
-        {
-          "date": "2026-04-27",
-          "campaign_id": "120239204652440292",
-          "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 3.68,
-          "impressions": 3231,
-          "clicks": 72,
-          "leads": 4
-        },
-        {
-          "date": "2026-04-27",
-          "campaign_id": "120239240019780292",
-          "campaign_name": "Менеджер з продажу",
-          "spend": 8.61,
-          "impressions": 1404,
-          "clicks": 41,
-          "leads": 5
-        },
         {
           "date": "2026-04-28",
           "campaign_id": "120238933384400292",
@@ -6709,6 +6655,42 @@
           "impressions": 3374,
           "clicks": 41,
           "leads": 5
+        },
+        {
+          "date": "2026-07-26",
+          "campaign_id": "120239240019780292",
+          "campaign_name": "Менеджер з продажу",
+          "spend": 3.64,
+          "impressions": 332,
+          "clicks": 21,
+          "leads": 2
+        },
+        {
+          "date": "2026-07-26",
+          "campaign_id": "120245536564470292",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 26.03 – копія",
+          "spend": 8.74,
+          "impressions": 1194,
+          "clicks": 25,
+          "leads": 2
+        },
+        {
+          "date": "2026-07-26",
+          "campaign_id": "120245542298330292",
+          "campaign_name": "хаер тн ж",
+          "spend": 8.86,
+          "impressions": 2320,
+          "clicks": 37,
+          "leads": 4
+        },
+        {
+          "date": "2026-07-26",
+          "campaign_id": "120245543377600292",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "spend": 12.26,
+          "impressions": 3647,
+          "clicks": 43,
+          "leads": 2
         }
       ]
     },
@@ -6755,15 +6737,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-04-27",
-          "campaign_id": "120243169362960749",
-          "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 2.35,
-          "impressions": 366,
-          "clicks": 5,
-          "leads": 0
-        },
         {
           "date": "2026-04-28",
           "campaign_id": "120243169362960749",
@@ -7564,6 +7537,15 @@
           "impressions": 1953,
           "clicks": 32,
           "leads": 3
+        },
+        {
+          "date": "2026-07-26",
+          "campaign_id": "120250097366020749",
+          "campaign_name": "ТН ЛІДИ 24.07",
+          "spend": 9.25,
+          "impressions": 2330,
+          "clicks": 48,
+          "leads": 6
         }
       ]
     },
@@ -8156,15 +8138,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-04-27",
-          "campaign_id": "120243336144070713",
-          "campaign_name": "Рілз квітень 2026",
-          "spend": 2.8,
-          "impressions": 1074,
-          "clicks": 45,
-          "leads": 0
-        },
         {
           "date": "2026-04-29",
           "campaign_id": "120243628780830713",
