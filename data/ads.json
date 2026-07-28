@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T03:28:49.556Z",
+  "generated_at": "2026-07-28T03:44:53.709Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4659,8 +4659,8 @@
           "date": "2026-07-26",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 21.09,
-          "impressions": 11288,
+          "spend": 21.11,
+          "impressions": 11289,
           "clicks": 133,
           "leads": 2
         },
@@ -4687,7 +4687,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 21.03,
-          "impressions": 12002,
+          "impressions": 12007,
           "clicks": 111,
           "leads": 1
         },
@@ -4696,7 +4696,7 @@
           "campaign_id": "120247324682980027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 22.07",
           "spend": 20.43,
-          "impressions": 5812,
+          "impressions": 5813,
           "clicks": 93,
           "leads": 1
         }
@@ -6660,8 +6660,8 @@
           "date": "2026-07-27",
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
-          "spend": 7.93,
-          "impressions": 2783,
+          "spend": 7.94,
+          "impressions": 2784,
           "clicks": 42,
           "leads": 2
         },
@@ -6669,8 +6669,8 @@
           "date": "2026-07-27",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 11.45,
-          "impressions": 3529,
+          "spend": 11.47,
+          "impressions": 3532,
           "clicks": 37,
           "leads": 1
         }
@@ -7524,8 +7524,8 @@
           "date": "2026-07-27",
           "campaign_id": "120250097366020749",
           "campaign_name": "ТН ЛІДИ 24.07",
-          "spend": 18.3,
-          "impressions": 5823,
+          "spend": 18.31,
+          "impressions": 5825,
           "clicks": 82,
           "leads": 3
         }
