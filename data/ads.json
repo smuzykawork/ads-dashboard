@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T12:25:28.240Z",
+  "generated_at": "2026-07-28T14:33:27.493Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4686,17 +4686,17 @@
           "date": "2026-07-27",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 21.1,
-          "impressions": 12119,
-          "clicks": 113,
+          "spend": 21.11,
+          "impressions": 12122,
+          "clicks": 114,
           "leads": 1
         },
         {
           "date": "2026-07-27",
           "campaign_id": "120247324682980027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 22.07",
-          "spend": 20.49,
-          "impressions": 5845,
+          "spend": 20.5,
+          "impressions": 5848,
           "clicks": 94,
           "leads": 1
         }
@@ -6648,8 +6648,8 @@
           "date": "2026-07-27",
           "campaign_id": "120239240019780292",
           "campaign_name": "Менеджер з продажу",
-          "spend": 3.66,
-          "impressions": 376,
+          "spend": 3.75,
+          "impressions": 377,
           "clicks": 11,
           "leads": 2
         },
@@ -6676,7 +6676,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 11.48,
-          "impressions": 3559,
+          "impressions": 3560,
           "clicks": 37,
           "leads": 1
         }
@@ -6690,7 +6690,7 @@
         {
           "id": "120250097366020749",
           "name": "ТН ЛІДИ 24.07",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -11324,8 +11324,8 @@
           "date": "2026-07-27",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 55.35,
-          "impressions": 3774,
+          "spend": 55.37,
+          "impressions": 3775,
           "clicks": 97,
           "leads": 3
         }
