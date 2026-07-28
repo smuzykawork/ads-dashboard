@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T15:05:18.324Z",
+  "generated_at": "2026-07-28T16:47:32.192Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7,9 +7,15 @@
       "currency": "USD",
       "campaigns": [
         {
+          "id": "120247457012740027",
+          "name": "Курс ОН Монт.Конд",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120247324682980027",
           "name": "Курс ОН сервісант систем конд і вент 22.07",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -1197,12 +1203,6 @@
         {
           "id": "120210146636670027",
           "name": "Конверсія на сайті /Онлайн-курс «Проєктування сучасних систем вентиляції»/ 27.07",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120210073290120027",
-          "name": "Конверсія на сайті /Атмосфера/ 23.07",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -4687,7 +4687,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 21.11,
-          "impressions": 12122,
+          "impressions": 12123,
           "clicks": 114,
           "leads": 1
         },
@@ -6688,6 +6688,12 @@
       "currency": "USD",
       "campaigns": [
         {
+          "id": "120250168625590749",
+          "name": "ТН ЛІДИ 24.07 – копія",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120250097366020749",
           "name": "ТН ЛІДИ 24.07",
           "status": "PAUSED",
@@ -7531,7 +7537,7 @@
           "campaign_id": "120250097366020749",
           "campaign_name": "ТН ЛІДИ 24.07",
           "spend": 18.4,
-          "impressions": 5848,
+          "impressions": 5849,
           "clicks": 83,
           "leads": 3
         }
