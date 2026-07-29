@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T08:10:07.018Z",
+  "generated_at": "2026-07-29T09:45:33.799Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4641,8 +4641,8 @@
           "date": "2026-07-27",
           "campaign_id": "120247324682980027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 22.07",
-          "spend": 20.51,
-          "impressions": 5849,
+          "spend": 20.52,
+          "impressions": 5850,
           "clicks": 94,
           "leads": 1
         },
@@ -4660,7 +4660,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 15.72,
-          "impressions": 8374,
+          "impressions": 8375,
           "clicks": 94,
           "leads": 4
         },
@@ -4669,7 +4669,7 @@
           "campaign_id": "120247324682980027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 22.07",
           "spend": 15.04,
-          "impressions": 4152,
+          "impressions": 4155,
           "clicks": 78,
           "leads": 2
         },
@@ -6684,8 +6684,8 @@
           "date": "2026-07-28",
           "campaign_id": "120245627155800292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 28.07",
-          "spend": 5.88,
-          "impressions": 1188,
+          "spend": 5.93,
+          "impressions": 1189,
           "clicks": 15,
           "leads": 0
         }
@@ -7545,8 +7545,8 @@
           "date": "2026-07-28",
           "campaign_id": "120250097366020749",
           "campaign_name": "ТН ЛІДИ 24.07",
-          "spend": 10.71,
-          "impressions": 2799,
+          "spend": 10.72,
+          "impressions": 2802,
           "clicks": 30,
           "leads": 2
         },
@@ -11330,8 +11330,8 @@
           "date": "2026-07-28",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 63.5,
-          "impressions": 4553,
+          "spend": 63.54,
+          "impressions": 4558,
           "clicks": 112,
           "leads": 4
         }
