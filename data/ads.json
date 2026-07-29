@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T21:25:08.031Z",
+  "generated_at": "2026-07-29T21:37:52.033Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4633,7 +4633,7 @@
           "campaign_id": "120247137863810027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04 – копія",
           "spend": 5.31,
-          "impressions": 2740,
+          "impressions": 2742,
           "clicks": 65,
           "leads": 3
         },
@@ -6658,7 +6658,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 7.29,
-          "impressions": 1729,
+          "impressions": 1730,
           "clicks": 36,
           "leads": 4
         },
@@ -6666,8 +6666,8 @@
           "date": "2026-07-29",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 8.19,
-          "impressions": 2693,
+          "spend": 8.2,
+          "impressions": 2695,
           "clicks": 30,
           "leads": 3
         },
@@ -6676,7 +6676,7 @@
           "campaign_id": "120245627155800292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 28.07",
           "spend": 9.1,
-          "impressions": 1541,
+          "impressions": 1542,
           "clicks": 35,
           "leads": 2
         }
@@ -7545,8 +7545,8 @@
           "date": "2026-07-29",
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
-          "spend": 19.6,
-          "impressions": 5195,
+          "spend": 19.61,
+          "impressions": 5196,
           "clicks": 81,
           "leads": 6
         }
