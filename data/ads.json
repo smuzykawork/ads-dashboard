@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T06:41:12.477Z",
+  "generated_at": "2026-07-29T08:03:51.346Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4651,7 +4651,7 @@
           "campaign_id": "120247137863810027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04 – копія",
           "spend": 6.36,
-          "impressions": 3015,
+          "impressions": 3017,
           "clicks": 51,
           "leads": 2
         },
@@ -4660,7 +4660,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 15.72,
-          "impressions": 8369,
+          "impressions": 8374,
           "clicks": 94,
           "leads": 4
         },
@@ -4669,7 +4669,7 @@
           "campaign_id": "120247324682980027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 22.07",
           "spend": 15.04,
-          "impressions": 4149,
+          "impressions": 4151,
           "clicks": 78,
           "leads": 2
         },
@@ -6639,9 +6639,9 @@
           "date": "2026-07-27",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 11.48,
-          "impressions": 3560,
-          "clicks": 37,
+          "spend": 11.52,
+          "impressions": 3561,
+          "clicks": 40,
           "leads": 1
         },
         {
@@ -6675,8 +6675,8 @@
           "date": "2026-07-28",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 8.24,
-          "impressions": 2454,
+          "spend": 8.25,
+          "impressions": 2456,
           "clicks": 25,
           "leads": 1
         },
@@ -6685,7 +6685,7 @@
           "campaign_id": "120245627155800292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 28.07",
           "spend": 5.88,
-          "impressions": 1186,
+          "impressions": 1188,
           "clicks": 15,
           "leads": 0
         }
@@ -7555,7 +7555,7 @@
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 5.84,
-          "impressions": 1471,
+          "impressions": 1472,
           "clicks": 20,
           "leads": 2
         }
@@ -11330,8 +11330,8 @@
           "date": "2026-07-28",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 63.45,
-          "impressions": 4547,
+          "spend": 63.5,
+          "impressions": 4553,
           "clicks": 112,
           "leads": 4
         }
