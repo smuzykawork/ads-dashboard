@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T15:29:46.797Z",
+  "generated_at": "2026-07-30T16:43:35.803Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -6667,7 +6667,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 8.36,
-          "impressions": 2735,
+          "impressions": 2736,
           "clicks": 31,
           "leads": 3
         },
