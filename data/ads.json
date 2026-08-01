@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T23:32:18.535Z",
+  "generated_at": "2026-08-01T23:41:25.918Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -6667,7 +6667,7 @@
           "campaign_id": "120239240019780292",
           "campaign_name": "Менеджер з продажу",
           "spend": 1.1,
-          "impressions": 170,
+          "impressions": 171,
           "clicks": 10,
           "leads": 1
         },
@@ -11267,8 +11267,8 @@
           "date": "2026-08-01",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 115.77,
-          "impressions": 8869,
+          "spend": 115.78,
+          "impressions": 8872,
           "clicks": 165,
           "leads": 2
         }
