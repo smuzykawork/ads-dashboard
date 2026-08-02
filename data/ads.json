@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T07:07:31.813Z",
+  "generated_at": "2026-08-02T07:52:43.398Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -6685,7 +6685,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 7.19,
-          "impressions": 2341,
+          "impressions": 2343,
           "clicks": 25,
           "leads": 1
         },
@@ -7564,7 +7564,7 @@
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 12.4,
-          "impressions": 4109,
+          "impressions": 4113,
           "clicks": 73,
           "leads": 5
         }
@@ -11268,7 +11268,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 116.06,
-          "impressions": 8926,
+          "impressions": 8930,
           "clicks": 166,
           "leads": 2
         }
