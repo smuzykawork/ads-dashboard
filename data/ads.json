@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T19:23:23.324Z",
+  "generated_at": "2026-08-02T19:42:03.460Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -11268,7 +11268,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 116.21,
-          "impressions": 8966,
+          "impressions": 8968,
           "clicks": 166,
           "leads": 2
         }
