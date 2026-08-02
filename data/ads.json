@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T21:06:40.541Z",
+  "generated_at": "2026-08-02T21:23:19.645Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4525,7 +4525,7 @@
           "campaign_id": "120247137863810027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04 – копія",
           "spend": 6.16,
-          "impressions": 2592,
+          "impressions": 2596,
           "clicks": 45,
           "leads": 1
         },
@@ -4533,8 +4533,8 @@
           "date": "2026-08-02",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 5.7,
-          "impressions": 2914,
+          "spend": 5.71,
+          "impressions": 2921,
           "clicks": 31,
           "leads": 2
         },
@@ -4543,7 +4543,7 @@
           "campaign_id": "120247457012740027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 9.7,
-          "impressions": 1438,
+          "impressions": 1442,
           "clicks": 9,
           "leads": 0
         }
@@ -6684,8 +6684,8 @@
           "date": "2026-08-02",
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
-          "spend": 8.2,
-          "impressions": 2203,
+          "spend": 8.21,
+          "impressions": 2206,
           "clicks": 32,
           "leads": 2
         },
@@ -6693,8 +6693,8 @@
           "date": "2026-08-02",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 8.33,
-          "impressions": 3233,
+          "spend": 8.34,
+          "impressions": 3239,
           "clicks": 36,
           "leads": 5
         },
@@ -7572,9 +7572,9 @@
           "date": "2026-08-02",
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
-          "spend": 17.94,
-          "impressions": 6009,
-          "clicks": 79,
+          "spend": 17.96,
+          "impressions": 6018,
+          "clicks": 80,
           "leads": 2
         }
       ]
