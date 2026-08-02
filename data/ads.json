@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T21:23:19.645Z",
+  "generated_at": "2026-08-02T21:37:49.448Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4525,7 +4525,7 @@
           "campaign_id": "120247137863810027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04 – копія",
           "spend": 6.16,
-          "impressions": 2596,
+          "impressions": 2599,
           "clicks": 45,
           "leads": 1
         },
@@ -6684,8 +6684,8 @@
           "date": "2026-08-02",
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
-          "spend": 8.21,
-          "impressions": 2206,
+          "spend": 8.25,
+          "impressions": 2207,
           "clicks": 32,
           "leads": 2
         },
@@ -6694,7 +6694,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 8.34,
-          "impressions": 3239,
+          "impressions": 3240,
           "clicks": 36,
           "leads": 5
         },
@@ -7573,7 +7573,7 @@
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 17.96,
-          "impressions": 6018,
+          "impressions": 6022,
           "clicks": 80,
           "leads": 2
         }
