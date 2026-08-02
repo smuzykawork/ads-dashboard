@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T21:37:49.448Z",
+  "generated_at": "2026-08-02T22:07:57.083Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4534,7 +4534,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 5.71,
-          "impressions": 2921,
+          "impressions": 2924,
           "clicks": 31,
           "leads": 2
         },
@@ -6694,7 +6694,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 8.34,
-          "impressions": 3240,
+          "impressions": 3242,
           "clicks": 36,
           "leads": 5
         },
@@ -7573,7 +7573,7 @@
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 17.96,
-          "impressions": 6022,
+          "impressions": 6024,
           "clicks": 80,
           "leads": 2
         }
@@ -10184,24 +10184,6 @@
       ],
       "daily": [
         {
-          "date": "2026-05-04",
-          "campaign_id": "120241269377270392",
-          "campaign_name": "Kurs 2 KLIMA",
-          "spend": 1.85,
-          "impressions": 140,
-          "clicks": 2,
-          "leads": 0
-        },
-        {
-          "date": "2026-05-04",
-          "campaign_id": "120245225691310392",
-          "campaign_name": "FGAZy - WEB",
-          "spend": 5.23,
-          "impressions": 264,
-          "clicks": 2,
-          "leads": 0
-        },
-        {
           "date": "2026-05-05",
           "campaign_id": "120241269377270392",
           "campaign_name": "Kurs 2 KLIMA",
@@ -11271,6 +11253,15 @@
           "impressions": 8971,
           "clicks": 166,
           "leads": 2
+        },
+        {
+          "date": "2026-08-02",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 62.94,
+          "impressions": 4459,
+          "clicks": 84,
+          "leads": 3
         }
       ]
     }
