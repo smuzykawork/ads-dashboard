@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T03:29:49.041Z",
+  "generated_at": "2026-08-06T04:40:43.377Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4426,7 +4426,7 @@
           "campaign_id": "120247137863810027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 22.04 – копія",
           "spend": 4.2,
-          "impressions": 1944,
+          "impressions": 1945,
           "clicks": 36,
           "leads": 0
         },
@@ -4434,8 +4434,8 @@
           "date": "2026-08-05",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 5.78,
-          "impressions": 3430,
+          "spend": 5.81,
+          "impressions": 3440,
           "clicks": 33,
           "leads": 1
         },
@@ -6654,17 +6654,17 @@
           "date": "2026-08-05",
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
-          "spend": 6.96,
-          "impressions": 2534,
-          "clicks": 32,
+          "spend": 6.97,
+          "impressions": 2540,
+          "clicks": 33,
           "leads": 3
         },
         {
           "date": "2026-08-05",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 8.33,
-          "impressions": 4051,
+          "spend": 8.34,
+          "impressions": 4063,
           "clicks": 39,
           "leads": 2
         },
@@ -6672,8 +6672,8 @@
           "date": "2026-08-05",
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
-          "spend": 2.38,
-          "impressions": 1081,
+          "spend": 2.4,
+          "impressions": 1092,
           "clicks": 18,
           "leads": 3
         }
@@ -7542,8 +7542,8 @@
           "date": "2026-08-05",
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
-          "spend": 15.82,
-          "impressions": 5539,
+          "spend": 15.83,
+          "impressions": 5550,
           "clicks": 78,
           "leads": 3
         }
