@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T09:41:36.394Z",
+  "generated_at": "2026-08-07T10:24:16.255Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -6645,8 +6645,8 @@
           "date": "2026-08-06",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 8.51,
-          "impressions": 3802,
+          "spend": 8.52,
+          "impressions": 3803,
           "clicks": 29,
           "leads": 2
         },
@@ -6655,7 +6655,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 3.77,
-          "impressions": 1435,
+          "impressions": 1436,
           "clicks": 13,
           "leads": 2
         }
@@ -7525,7 +7525,7 @@
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 15.3,
-          "impressions": 4967,
+          "impressions": 4968,
           "clicks": 67,
           "leads": 5
         }
