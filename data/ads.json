@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-08-07T09:11:40.467Z",
+  "generated_at": "2026-08-07T09:41:36.394Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120247724820890027",
+          "name": "Курс ОН Монт.Конд новий",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120247457012740027",
           "name": "Курс ОН Монт.Конд",
@@ -1197,12 +1203,6 @@
         {
           "id": "120210146655420027",
           "name": "Конверсія на сайті /Онлайн-курс «Проєктування вентиляційних систем в Autodesk Revit»/ 27.07",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120210146636670027",
-          "name": "Конверсія на сайті /Онлайн-курс «Проєктування сучасних систем вентиляції»/ 27.07",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -4408,7 +4408,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 6.7,
-          "impressions": 4610,
+          "impressions": 4611,
           "clicks": 53,
           "leads": 4
         }
@@ -6655,7 +6655,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 3.77,
-          "impressions": 1434,
+          "impressions": 1435,
           "clicks": 13,
           "leads": 2
         }
