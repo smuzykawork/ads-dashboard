@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T19:38:36.341Z",
+  "generated_at": "2026-08-08T19:52:25.999Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -10080,7 +10080,1061 @@
           "objective": "LINK_CLICKS"
         }
       ],
-      "daily": []
+      "daily": [
+        {
+          "date": "2026-05-10",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 34.3,
+          "impressions": 1990,
+          "clicks": 37,
+          "leads": 5
+        },
+        {
+          "date": "2026-05-11",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 34.66,
+          "impressions": 2511,
+          "clicks": 46,
+          "leads": 2
+        },
+        {
+          "date": "2026-05-12",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 23.02,
+          "impressions": 1529,
+          "clicks": 25,
+          "leads": 2
+        },
+        {
+          "date": "2026-05-13",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 40.4,
+          "impressions": 2551,
+          "clicks": 43,
+          "leads": 3
+        },
+        {
+          "date": "2026-05-14",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 43.54,
+          "impressions": 3120,
+          "clicks": 26,
+          "leads": 1
+        },
+        {
+          "date": "2026-05-15",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 42.25,
+          "impressions": 2385,
+          "clicks": 24,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-16",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 61.49,
+          "impressions": 3861,
+          "clicks": 54,
+          "leads": 3
+        },
+        {
+          "date": "2026-05-17",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 36.91,
+          "impressions": 2453,
+          "clicks": 31,
+          "leads": 1
+        },
+        {
+          "date": "2026-05-18",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 33.19,
+          "impressions": 2141,
+          "clicks": 34,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-19",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 25.76,
+          "impressions": 1607,
+          "clicks": 18,
+          "leads": 1
+        },
+        {
+          "date": "2026-05-20",
+          "campaign_id": "120246162254390392",
+          "campaign_name": "Kompas inwestycjy",
+          "spend": 10.95,
+          "impressions": 428,
+          "clicks": 4,
+          "leads": 0
+        },
+        {
+          "date": "2026-05-31",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 15.5,
+          "impressions": 886,
+          "clicks": 40,
+          "leads": 5
+        },
+        {
+          "date": "2026-06-01",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 28.36,
+          "impressions": 1752,
+          "clicks": 49,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-01",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 55.99,
+          "impressions": 3779,
+          "clicks": 95,
+          "leads": 5
+        },
+        {
+          "date": "2026-06-02",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 28.34,
+          "impressions": 1435,
+          "clicks": 34,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-02",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 49.42,
+          "impressions": 4211,
+          "clicks": 70,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-03",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 32.47,
+          "impressions": 1670,
+          "clicks": 35,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-03",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 49.72,
+          "impressions": 4491,
+          "clicks": 90,
+          "leads": 4
+        },
+        {
+          "date": "2026-06-04",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 30.7,
+          "impressions": 1528,
+          "clicks": 44,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-04",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 56.43,
+          "impressions": 5644,
+          "clicks": 92,
+          "leads": 5
+        },
+        {
+          "date": "2026-06-05",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 32.61,
+          "impressions": 1575,
+          "clicks": 25,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-05",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 66.24,
+          "impressions": 7193,
+          "clicks": 130,
+          "leads": 4
+        },
+        {
+          "date": "2026-06-06",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 41.81,
+          "impressions": 2796,
+          "clicks": 36,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-06",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 85.55,
+          "impressions": 9105,
+          "clicks": 137,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-07",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 32.98,
+          "impressions": 1715,
+          "clicks": 32,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-07",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 56.83,
+          "impressions": 5723,
+          "clicks": 86,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-08",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 28.78,
+          "impressions": 1547,
+          "clicks": 25,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-08",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 59.5,
+          "impressions": 5213,
+          "clicks": 87,
+          "leads": 4
+        },
+        {
+          "date": "2026-06-09",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 23.53,
+          "impressions": 1162,
+          "clicks": 11,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-09",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 58.42,
+          "impressions": 5345,
+          "clicks": 77,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-09",
+          "campaign_id": "120249049288770392",
+          "campaign_name": "Spawanie",
+          "spend": 27.34,
+          "impressions": 1422,
+          "clicks": 37,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-10",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 26.78,
+          "impressions": 1069,
+          "clicks": 20,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-10",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 60.1,
+          "impressions": 5119,
+          "clicks": 98,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-10",
+          "campaign_id": "120249049288770392",
+          "campaign_name": "Spawanie",
+          "spend": 20.76,
+          "impressions": 906,
+          "clicks": 17,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-11",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 30.72,
+          "impressions": 1525,
+          "clicks": 33,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-11",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 54.32,
+          "impressions": 5025,
+          "clicks": 100,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-11",
+          "campaign_id": "120249049288770392",
+          "campaign_name": "Spawanie",
+          "spend": 18.27,
+          "impressions": 915,
+          "clicks": 26,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-12",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 33.34,
+          "impressions": 1778,
+          "clicks": 42,
+          "leads": 4
+        },
+        {
+          "date": "2026-06-12",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 58.97,
+          "impressions": 5278,
+          "clicks": 99,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-12",
+          "campaign_id": "120249049288770392",
+          "campaign_name": "Spawanie",
+          "spend": 26.47,
+          "impressions": 1590,
+          "clicks": 22,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-13",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 21.89,
+          "impressions": 1093,
+          "clicks": 17,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-13",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 38.24,
+          "impressions": 2401,
+          "clicks": 36,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-13",
+          "campaign_id": "120249049288770392",
+          "campaign_name": "Spawanie",
+          "spend": 26.86,
+          "impressions": 1249,
+          "clicks": 21,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-13",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 25.45,
+          "impressions": 875,
+          "clicks": 12,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-14",
+          "campaign_id": "120249049288770392",
+          "campaign_name": "Spawanie",
+          "spend": 0.98,
+          "impressions": 43,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-14",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 120.59,
+          "impressions": 4383,
+          "clicks": 92,
+          "leads": 11
+        },
+        {
+          "date": "2026-06-15",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 102.31,
+          "impressions": 4786,
+          "clicks": 60,
+          "leads": 7
+        },
+        {
+          "date": "2026-06-16",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 82.79,
+          "impressions": 3692,
+          "clicks": 43,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-17",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 68.66,
+          "impressions": 2473,
+          "clicks": 43,
+          "leads": 5
+        },
+        {
+          "date": "2026-06-18",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 49.77,
+          "impressions": 2145,
+          "clicks": 43,
+          "leads": 8
+        },
+        {
+          "date": "2026-06-18",
+          "campaign_id": "120249868127860392",
+          "campaign_name": "Project",
+          "spend": 0.18,
+          "impressions": 15,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-19",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 50.51,
+          "impressions": 1986,
+          "clicks": 28,
+          "leads": 6
+        },
+        {
+          "date": "2026-06-19",
+          "campaign_id": "120249868127860392",
+          "campaign_name": "Project",
+          "spend": 53.06,
+          "impressions": 1848,
+          "clicks": 26,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-20",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 35.86,
+          "impressions": 1475,
+          "clicks": 32,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-20",
+          "campaign_id": "120249868127860392",
+          "campaign_name": "Project",
+          "spend": 59.48,
+          "impressions": 1856,
+          "clicks": 22,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-21",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 49.08,
+          "impressions": 1865,
+          "clicks": 27,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-21",
+          "campaign_id": "120249868127860392",
+          "campaign_name": "Project",
+          "spend": 52.16,
+          "impressions": 1612,
+          "clicks": 25,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-21",
+          "campaign_id": "120250048170390392",
+          "campaign_name": "Projekt klik 2 Kampania",
+          "spend": 9.44,
+          "impressions": 2448,
+          "clicks": 35,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-21",
+          "campaign_id": "120250050295230392",
+          "campaign_name": "Project acive",
+          "spend": 4.4,
+          "impressions": 371,
+          "clicks": 11,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 75.46,
+          "impressions": 3500,
+          "clicks": 39,
+          "leads": 5
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120249868127860392",
+          "campaign_name": "Project",
+          "spend": 31.01,
+          "impressions": 767,
+          "clicks": 18,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120250048170390392",
+          "campaign_name": "Projekt klik 2 Kampania",
+          "spend": 23.16,
+          "impressions": 3748,
+          "clicks": 97,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-22",
+          "campaign_id": "120250050295230392",
+          "campaign_name": "Project acive",
+          "spend": 13.37,
+          "impressions": 985,
+          "clicks": 44,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-23",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 67.83,
+          "impressions": 2856,
+          "clicks": 19,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-23",
+          "campaign_id": "120249868127860392",
+          "campaign_name": "Project",
+          "spend": 25.61,
+          "impressions": 709,
+          "clicks": 17,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-23",
+          "campaign_id": "120250048170390392",
+          "campaign_name": "Projekt klik 2 Kampania",
+          "spend": 13.36,
+          "impressions": 3735,
+          "clicks": 58,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-23",
+          "campaign_id": "120250050295230392",
+          "campaign_name": "Project acive",
+          "spend": 12.65,
+          "impressions": 638,
+          "clicks": 22,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-24",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 64.05,
+          "impressions": 2951,
+          "clicks": 30,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-25",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 75.91,
+          "impressions": 3378,
+          "clicks": 28,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-26",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 72.14,
+          "impressions": 3137,
+          "clicks": 28,
+          "leads": 2
+        },
+        {
+          "date": "2026-06-27",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 88.14,
+          "impressions": 3719,
+          "clicks": 38,
+          "leads": 1
+        },
+        {
+          "date": "2026-06-28",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 15.8,
+          "impressions": 435,
+          "clicks": 11,
+          "leads": 0
+        },
+        {
+          "date": "2026-06-28",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 84.2,
+          "impressions": 3982,
+          "clicks": 46,
+          "leads": 5
+        },
+        {
+          "date": "2026-06-29",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 52.38,
+          "impressions": 3326,
+          "clicks": 135,
+          "leads": 10
+        },
+        {
+          "date": "2026-06-29",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 90.95,
+          "impressions": 4503,
+          "clicks": 29,
+          "leads": 3
+        },
+        {
+          "date": "2026-06-30",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 43.66,
+          "impressions": 3820,
+          "clicks": 117,
+          "leads": 7
+        },
+        {
+          "date": "2026-06-30",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 90.73,
+          "impressions": 3918,
+          "clicks": 39,
+          "leads": 3
+        },
+        {
+          "date": "2026-07-01",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 23.58,
+          "impressions": 2272,
+          "clicks": 87,
+          "leads": 2
+        },
+        {
+          "date": "2026-07-01",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 97.44,
+          "impressions": 4355,
+          "clicks": 52,
+          "leads": 3
+        },
+        {
+          "date": "2026-07-02",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 39.74,
+          "impressions": 3807,
+          "clicks": 75,
+          "leads": 0
+        },
+        {
+          "date": "2026-07-02",
+          "campaign_id": "120249472664530392",
+          "campaign_name": "FGAZY UKR Europe",
+          "spend": 41.45,
+          "impressions": 1698,
+          "clicks": 7,
+          "leads": 0
+        },
+        {
+          "date": "2026-07-04",
+          "campaign_id": "120250891766850392",
+          "campaign_name": "Fgazy - 07",
+          "spend": 14.6,
+          "impressions": 523,
+          "clicks": 20,
+          "leads": 2
+        },
+        {
+          "date": "2026-07-05",
+          "campaign_id": "120250891766850392",
+          "campaign_name": "Fgazy - 07",
+          "spend": 145.97,
+          "impressions": 6271,
+          "clicks": 287,
+          "leads": 29
+        },
+        {
+          "date": "2026-07-05",
+          "campaign_id": "120250897328920392",
+          "campaign_name": "Projekt 2 - rus",
+          "spend": 106.67,
+          "impressions": 2513,
+          "clicks": 50,
+          "leads": 0
+        },
+        {
+          "date": "2026-07-06",
+          "campaign_id": "120250891766850392",
+          "campaign_name": "Fgazy - 07",
+          "spend": 74.13,
+          "impressions": 4470,
+          "clicks": 142,
+          "leads": 13
+        },
+        {
+          "date": "2026-07-06",
+          "campaign_id": "120250897328920392",
+          "campaign_name": "Projekt 2 - rus",
+          "spend": 85.35,
+          "impressions": 2761,
+          "clicks": 50,
+          "leads": 3
+        },
+        {
+          "date": "2026-07-07",
+          "campaign_id": "120250891766850392",
+          "campaign_name": "Fgazy - 07",
+          "spend": 63.05,
+          "impressions": 4121,
+          "clicks": 147,
+          "leads": 11
+        },
+        {
+          "date": "2026-07-07",
+          "campaign_id": "120250897328920392",
+          "campaign_name": "Projekt 2 - rus",
+          "spend": 102.38,
+          "impressions": 2868,
+          "clicks": 45,
+          "leads": 3
+        },
+        {
+          "date": "2026-07-08",
+          "campaign_id": "120250891766850392",
+          "campaign_name": "Fgazy - 07",
+          "spend": 98.84,
+          "impressions": 5934,
+          "clicks": 179,
+          "leads": 11
+        },
+        {
+          "date": "2026-07-08",
+          "campaign_id": "120250897328920392",
+          "campaign_name": "Projekt 2 - rus",
+          "spend": 152.91,
+          "impressions": 3653,
+          "clicks": 74,
+          "leads": 3
+        },
+        {
+          "date": "2026-07-09",
+          "campaign_id": "120250891766850392",
+          "campaign_name": "Fgazy - 07",
+          "spend": 84.88,
+          "impressions": 6196,
+          "clicks": 166,
+          "leads": 8
+        },
+        {
+          "date": "2026-07-09",
+          "campaign_id": "120250897328920392",
+          "campaign_name": "Projekt 2 - rus",
+          "spend": 142.92,
+          "impressions": 3340,
+          "clicks": 52,
+          "leads": 1
+        },
+        {
+          "date": "2026-07-10",
+          "campaign_id": "120250891766850392",
+          "campaign_name": "Fgazy - 07",
+          "spend": 87.35,
+          "impressions": 5498,
+          "clicks": 126,
+          "leads": 6
+        },
+        {
+          "date": "2026-07-10",
+          "campaign_id": "120250897328920392",
+          "campaign_name": "Projekt 2 - rus",
+          "spend": 139.86,
+          "impressions": 2783,
+          "clicks": 30,
+          "leads": 0
+        },
+        {
+          "date": "2026-07-11",
+          "campaign_id": "120250891766850392",
+          "campaign_name": "Fgazy - 07",
+          "spend": 169.05,
+          "impressions": 10015,
+          "clicks": 221,
+          "leads": 18
+        },
+        {
+          "date": "2026-07-11",
+          "campaign_id": "120250897328920392",
+          "campaign_name": "Projekt 2 - rus",
+          "spend": 302.15,
+          "impressions": 4998,
+          "clicks": 60,
+          "leads": 1
+        },
+        {
+          "date": "2026-07-12",
+          "campaign_id": "120250891766850392",
+          "campaign_name": "Fgazy - 07",
+          "spend": 77.07,
+          "impressions": 5690,
+          "clicks": 97,
+          "leads": 9
+        },
+        {
+          "date": "2026-07-12",
+          "campaign_id": "120250897328920392",
+          "campaign_name": "Projekt 2 - rus",
+          "spend": 124.46,
+          "impressions": 2085,
+          "clicks": 36,
+          "leads": 0
+        },
+        {
+          "date": "2026-07-13",
+          "campaign_id": "120250891766850392",
+          "campaign_name": "Fgazy - 07",
+          "spend": 91.74,
+          "impressions": 7224,
+          "clicks": 131,
+          "leads": 7
+        },
+        {
+          "date": "2026-07-14",
+          "campaign_id": "120250891766850392",
+          "campaign_name": "Fgazy - 07",
+          "spend": 41.79,
+          "impressions": 3352,
+          "clicks": 55,
+          "leads": 2
+        },
+        {
+          "date": "2026-07-22",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 46.61,
+          "impressions": 2055,
+          "clicks": 105,
+          "leads": 5
+        },
+        {
+          "date": "2026-07-23",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 51.81,
+          "impressions": 2925,
+          "clicks": 87,
+          "leads": 4
+        },
+        {
+          "date": "2026-07-24",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 55.72,
+          "impressions": 3500,
+          "clicks": 91,
+          "leads": 2
+        },
+        {
+          "date": "2026-07-25",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 59.78,
+          "impressions": 3017,
+          "clicks": 77,
+          "leads": 2
+        },
+        {
+          "date": "2026-07-26",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 62.22,
+          "impressions": 3679,
+          "clicks": 84,
+          "leads": 2
+        },
+        {
+          "date": "2026-07-27",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 55.37,
+          "impressions": 3775,
+          "clicks": 97,
+          "leads": 3
+        },
+        {
+          "date": "2026-07-28",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 63.6,
+          "impressions": 4560,
+          "clicks": 112,
+          "leads": 4
+        },
+        {
+          "date": "2026-07-29",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 56.87,
+          "impressions": 4184,
+          "clicks": 102,
+          "leads": 6
+        },
+        {
+          "date": "2026-07-30",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 61.55,
+          "impressions": 3969,
+          "clicks": 85,
+          "leads": 5
+        },
+        {
+          "date": "2026-07-31",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 71.44,
+          "impressions": 4461,
+          "clicks": 132,
+          "leads": 11
+        },
+        {
+          "date": "2026-08-01",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 116.22,
+          "impressions": 8971,
+          "clicks": 166,
+          "leads": 2
+        },
+        {
+          "date": "2026-08-02",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 63.72,
+          "impressions": 4539,
+          "clicks": 85,
+          "leads": 3
+        },
+        {
+          "date": "2026-08-03",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 62.25,
+          "impressions": 4589,
+          "clicks": 75,
+          "leads": 4
+        },
+        {
+          "date": "2026-08-04",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 29.9,
+          "impressions": 2329,
+          "clicks": 52,
+          "leads": 2
+        },
+        {
+          "date": "2026-08-05",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 0,
+          "impressions": 2,
+          "clicks": 0,
+          "leads": 0
+        },
+        {
+          "date": "2026-08-06",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 121.37,
+          "impressions": 8551,
+          "clicks": 81,
+          "leads": 0
+        },
+        {
+          "date": "2026-08-07",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 102.27,
+          "impressions": 6010,
+          "clicks": 128,
+          "leads": 5
+        }
+      ]
     }
   ]
 }
