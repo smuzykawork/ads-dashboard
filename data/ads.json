@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T04:34:08.946Z",
+  "generated_at": "2026-08-08T05:27:00.692Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4372,7 +4372,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 5.75,
-          "impressions": 3182,
+          "impressions": 3184,
           "clicks": 52,
           "leads": 1
         },
@@ -4381,7 +4381,7 @@
           "campaign_id": "120247724820890027",
           "campaign_name": "Курс ОН Монт.Конд новий",
           "spend": 4.5,
-          "impressions": 1628,
+          "impressions": 1629,
           "clicks": 25,
           "leads": 1
         },
@@ -4389,8 +4389,8 @@
           "date": "2026-08-07",
           "campaign_id": "120247733930170027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05 – копія",
-          "spend": 6.03,
-          "impressions": 2400,
+          "spend": 6.08,
+          "impressions": 2420,
           "clicks": 31,
           "leads": 0
         },
@@ -4398,8 +4398,8 @@
           "date": "2026-08-07",
           "campaign_id": "120247734094120027",
           "campaign_name": "Курс ОН Монт.ВЕНТ",
-          "spend": 3.06,
-          "impressions": 521,
+          "spend": 3.07,
+          "impressions": 524,
           "clicks": 9,
           "leads": 0
         },
@@ -4407,8 +4407,8 @@
           "date": "2026-08-07",
           "campaign_id": "120247734183150027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 07.08",
-          "spend": 1.9,
-          "impressions": 622,
+          "spend": 1.93,
+          "impressions": 624,
           "clicks": 17,
           "leads": 1
         }
@@ -6628,7 +6628,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 5.43,
-          "impressions": 1681,
+          "impressions": 1682,
           "clicks": 25,
           "leads": 1
         },
@@ -6636,8 +6636,8 @@
           "date": "2026-08-07",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 7.22,
-          "impressions": 2838,
+          "spend": 7.23,
+          "impressions": 2841,
           "clicks": 21,
           "leads": 1
         },
@@ -6655,7 +6655,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 3.2,
-          "impressions": 1185,
+          "impressions": 1187,
           "clicks": 11,
           "leads": 2
         }
@@ -11129,8 +11129,8 @@
           "date": "2026-08-07",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 101.94,
-          "impressions": 5966,
+          "spend": 101.95,
+          "impressions": 5970,
           "clicks": 128,
           "leads": 5
         }
