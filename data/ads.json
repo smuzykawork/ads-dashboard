@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:57:11.384Z",
+  "generated_at": "2026-08-08T00:30:29.046Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4372,7 +4372,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 5.7,
-          "impressions": 3168,
+          "impressions": 3169,
           "clicks": 52,
           "leads": 1
         },
@@ -4390,7 +4390,7 @@
           "campaign_id": "120247733930170027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05 – копія",
           "spend": 5.92,
-          "impressions": 2363,
+          "impressions": 2368,
           "clicks": 30,
           "leads": 0
         },
@@ -6655,7 +6655,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 3.17,
-          "impressions": 1182,
+          "impressions": 1183,
           "clicks": 11,
           "leads": 2
         }
@@ -7525,7 +7525,7 @@
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 12.97,
-          "impressions": 4023,
+          "impressions": 4025,
           "clicks": 66,
           "leads": 5
         }
@@ -11129,8 +11129,8 @@
           "date": "2026-08-07",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 101.61,
-          "impressions": 5948,
+          "spend": 101.63,
+          "impressions": 5951,
           "clicks": 128,
           "leads": 5
         }
