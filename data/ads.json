@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T02:51:22.478Z",
+  "generated_at": "2026-08-09T04:32:25.084Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4372,7 +4372,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 6.12,
-          "impressions": 2633,
+          "impressions": 2639,
           "clicks": 39,
           "leads": 1
         },
@@ -4381,7 +4381,7 @@
           "campaign_id": "120247724820890027",
           "campaign_name": "Курс ОН Монт.Конд новий",
           "spend": 10.08,
-          "impressions": 2957,
+          "impressions": 2959,
           "clicks": 36,
           "leads": 0
         },
@@ -4389,9 +4389,9 @@
           "date": "2026-08-08",
           "campaign_id": "120247733930170027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05 – копія",
-          "spend": 18.42,
-          "impressions": 6551,
-          "clicks": 117,
+          "spend": 18.46,
+          "impressions": 6555,
+          "clicks": 118,
           "leads": 5
         },
         {
@@ -4399,7 +4399,7 @@
           "campaign_id": "120247734094120027",
           "campaign_name": "Курс ОН Монт.ВЕНТ",
           "spend": 9.11,
-          "impressions": 1582,
+          "impressions": 1585,
           "clicks": 20,
           "leads": 0
         },
@@ -6646,7 +6646,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 6.82,
-          "impressions": 2269,
+          "impressions": 2270,
           "clicks": 23,
           "leads": 1
         },
@@ -6654,8 +6654,8 @@
           "date": "2026-08-08",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 6.47,
-          "impressions": 2294,
+          "spend": 6.48,
+          "impressions": 2296,
           "clicks": 27,
           "leads": 1
         },
@@ -7534,7 +7534,7 @@
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 17.79,
-          "impressions": 5112,
+          "impressions": 5114,
           "clicks": 75,
           "leads": 4
         }
@@ -11130,7 +11130,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 107.55,
-          "impressions": 6988,
+          "impressions": 6999,
           "clicks": 139,
           "leads": 4
         }
