@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T22:04:01.320Z",
+  "generated_at": "2026-08-09T22:44:27.501Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4371,8 +4371,8 @@
           "date": "2026-08-09",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 5.74,
-          "impressions": 2660,
+          "spend": 5.75,
+          "impressions": 2663,
           "clicks": 31,
           "leads": 1
         },
@@ -4389,8 +4389,8 @@
           "date": "2026-08-09",
           "campaign_id": "120247733930170027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05 – копія",
-          "spend": 19.37,
-          "impressions": 7368,
+          "spend": 19.38,
+          "impressions": 7370,
           "clicks": 96,
           "leads": 0
         },
@@ -4398,8 +4398,8 @@
           "date": "2026-08-09",
           "campaign_id": "120247734094120027",
           "campaign_name": "Курс ОН Монт.ВЕНТ",
-          "spend": 9.93,
-          "impressions": 1537,
+          "spend": 9.95,
+          "impressions": 1539,
           "clicks": 32,
           "leads": 0
         },
@@ -6664,7 +6664,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 9.2,
-          "impressions": 2196,
+          "impressions": 2199,
           "clicks": 38,
           "leads": 3
         },
@@ -6672,8 +6672,8 @@
           "date": "2026-08-09",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 9.08,
-          "impressions": 3154,
+          "spend": 9.09,
+          "impressions": 3156,
           "clicks": 27,
           "leads": 1
         },
@@ -7551,8 +7551,8 @@
           "date": "2026-08-09",
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
-          "spend": 19.86,
-          "impressions": 5547,
+          "spend": 19.89,
+          "impressions": 5554,
           "clicks": 87,
           "leads": 8
         }
@@ -11138,8 +11138,8 @@
           "date": "2026-08-09",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 79.81,
-          "impressions": 5548,
+          "spend": 79.96,
+          "impressions": 5555,
           "clicks": 134,
           "leads": 4
         },
@@ -11147,8 +11147,8 @@
           "date": "2026-08-09",
           "campaign_id": "120251977132780392",
           "campaign_name": "Kurs 6 - Ukr Montarz ukr",
-          "spend": 0.25,
-          "impressions": 40,
+          "spend": 0.29,
+          "impressions": 47,
           "clicks": 1,
           "leads": 0
         }
