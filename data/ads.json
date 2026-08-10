@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:18:34.283Z",
+  "generated_at": "2026-08-10T23:46:23.187Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4381,7 +4381,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 4.96,
-          "impressions": 2834,
+          "impressions": 2835,
           "clicks": 30,
           "leads": 1
         },
@@ -4398,8 +4398,8 @@
           "date": "2026-08-10",
           "campaign_id": "120247733930170027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05 – копія",
-          "spend": 18.03,
-          "impressions": 6413,
+          "spend": 18.04,
+          "impressions": 6414,
           "clicks": 79,
           "leads": 0
         },
@@ -4417,7 +4417,7 @@
           "campaign_id": "120247734183150027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 07.08",
           "spend": 4.25,
-          "impressions": 1421,
+          "impressions": 1422,
           "clicks": 26,
           "leads": 0
         }
@@ -6681,8 +6681,8 @@
           "date": "2026-08-10",
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
-          "spend": 7.14,
-          "impressions": 1623,
+          "spend": 7.15,
+          "impressions": 1624,
           "clicks": 16,
           "leads": 1
         },
