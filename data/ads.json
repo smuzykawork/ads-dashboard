@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T17:58:40.282Z",
+  "generated_at": "2026-08-10T18:22:51.645Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -11149,7 +11149,7 @@
           "campaign_name": "Kurs 6 - Ukr Montarz ukr",
           "spend": 0.32,
           "impressions": 50,
-          "clicks": 1,
+          "clicks": 3,
           "leads": 0
         }
       ]
