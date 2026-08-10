@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:10:37.175Z",
+  "generated_at": "2026-08-10T21:25:38.011Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4380,8 +4380,8 @@
           "date": "2026-08-10",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 4.94,
-          "impressions": 2824,
+          "spend": 4.95,
+          "impressions": 2826,
           "clicks": 29,
           "leads": 1
         },
@@ -4398,9 +4398,9 @@
           "date": "2026-08-10",
           "campaign_id": "120247733930170027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05 – копія",
-          "spend": 17.99,
-          "impressions": 6386,
-          "clicks": 78,
+          "spend": 18,
+          "impressions": 6394,
+          "clicks": 79,
           "leads": 0
         },
         {
@@ -6682,7 +6682,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 7.13,
-          "impressions": 1615,
+          "impressions": 1616,
           "clicks": 16,
           "leads": 1
         },
@@ -6691,7 +6691,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 7.55,
-          "impressions": 2885,
+          "impressions": 2888,
           "clicks": 17,
           "leads": 0
         },
@@ -6699,8 +6699,8 @@
           "date": "2026-08-10",
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
-          "spend": 4.32,
-          "impressions": 1934,
+          "spend": 4.33,
+          "impressions": 1938,
           "clicks": 15,
           "leads": 1
         }
@@ -7569,8 +7569,8 @@
           "date": "2026-08-10",
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
-          "spend": 12.42,
-          "impressions": 3602,
+          "spend": 12.51,
+          "impressions": 3624,
           "clicks": 46,
           "leads": 3
         }
