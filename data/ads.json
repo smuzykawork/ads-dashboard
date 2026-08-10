@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:53:10.039Z",
+  "generated_at": "2026-08-10T22:05:42.302Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4381,8 +4381,8 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 4.96,
-          "impressions": 2832,
-          "clicks": 29,
+          "impressions": 2833,
+          "clicks": 30,
           "leads": 1
         },
         {
@@ -4398,8 +4398,8 @@
           "date": "2026-08-10",
           "campaign_id": "120247733930170027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05 – копія",
-          "spend": 18.01,
-          "impressions": 6401,
+          "spend": 18.02,
+          "impressions": 6402,
           "clicks": 79,
           "leads": 0
         },
@@ -6682,7 +6682,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 7.14,
-          "impressions": 1620,
+          "impressions": 1621,
           "clicks": 16,
           "leads": 1
         },
@@ -6691,7 +6691,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 7.56,
-          "impressions": 2892,
+          "impressions": 2893,
           "clicks": 17,
           "leads": 0
         },
@@ -6700,7 +6700,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 4.33,
-          "impressions": 1940,
+          "impressions": 1941,
           "clicks": 15,
           "leads": 1
         }
@@ -7570,7 +7570,7 @@
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 15.66,
-          "impressions": 4419,
+          "impressions": 4420,
           "clicks": 60,
           "leads": 3
         }
@@ -10100,15 +10100,6 @@
       ],
       "daily": [
         {
-          "date": "2026-05-12",
-          "campaign_id": "120246162254390392",
-          "campaign_name": "Kompas inwestycjy",
-          "spend": 23.02,
-          "impressions": 1529,
-          "clicks": 25,
-          "leads": 2
-        },
-        {
           "date": "2026-05-13",
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
@@ -11159,6 +11150,24 @@
           "spend": 0.32,
           "impressions": 50,
           "clicks": 3,
+          "leads": 0
+        },
+        {
+          "date": "2026-08-10",
+          "campaign_id": "120251977132780392",
+          "campaign_name": "Kurs 6 - Ukr Montarz ukr",
+          "spend": 41.62,
+          "impressions": 4383,
+          "clicks": 50,
+          "leads": 0
+        },
+        {
+          "date": "2026-08-10",
+          "campaign_id": "120251977903890392",
+          "campaign_name": "KURS FAGAZ Whatsup",
+          "spend": 40.39,
+          "impressions": 4195,
+          "clicks": 70,
           "leads": 0
         }
       ]
