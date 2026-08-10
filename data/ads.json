@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:41:52.418Z",
+  "generated_at": "2026-08-10T10:47:01.005Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4372,7 +4372,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 5.77,
-          "impressions": 2700,
+          "impressions": 2701,
           "clicks": 31,
           "leads": 1
         },
@@ -4390,7 +4390,7 @@
           "campaign_id": "120247733930170027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05 – копія",
           "spend": 19.44,
-          "impressions": 7414,
+          "impressions": 7415,
           "clicks": 96,
           "leads": 0
         },
