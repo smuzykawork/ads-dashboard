@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T10:34:32.112Z",
+  "generated_at": "2026-08-11T11:00:44.440Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4381,7 +4381,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 5.02,
-          "impressions": 2863,
+          "impressions": 2864,
           "clicks": 30,
           "leads": 1
         },
@@ -4417,7 +4417,7 @@
           "campaign_id": "120247734183150027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 07.08",
           "spend": 4.29,
-          "impressions": 1432,
+          "impressions": 1433,
           "clicks": 26,
           "leads": 0
         }
@@ -6691,7 +6691,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 7.59,
-          "impressions": 2912,
+          "impressions": 2913,
           "clicks": 17,
           "leads": 0
         },
@@ -11166,7 +11166,7 @@
           "campaign_id": "120251977903890392",
           "campaign_name": "KURS FAGAZ Whatsup",
           "spend": 40.4,
-          "impressions": 4200,
+          "impressions": 4201,
           "clicks": 70,
           "leads": 0
         }
