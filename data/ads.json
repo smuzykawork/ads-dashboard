@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:56:08.085Z",
+  "generated_at": "2026-08-11T09:10:37.443Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -9,7 +9,7 @@
         {
           "id": "120247734183150027",
           "name": "ОН Проєктування сучасних систем вентиляції 07.08",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -21,7 +21,7 @@
         {
           "id": "120247733930170027",
           "name": "Курс ОН сервісант систем конд і вент 19.05 – копія",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -4381,7 +4381,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 5.02,
-          "impressions": 2861,
+          "impressions": 2862,
           "clicks": 30,
           "leads": 1
         },
@@ -4398,8 +4398,8 @@
           "date": "2026-08-10",
           "campaign_id": "120247733930170027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.05 – копія",
-          "spend": 18.16,
-          "impressions": 6469,
+          "spend": 18.17,
+          "impressions": 6475,
           "clicks": 80,
           "leads": 0
         },
@@ -4416,8 +4416,8 @@
           "date": "2026-08-10",
           "campaign_id": "120247734183150027",
           "campaign_name": "ОН Проєктування сучасних систем вентиляції 07.08",
-          "spend": 4.27,
-          "impressions": 1430,
+          "spend": 4.29,
+          "impressions": 1432,
           "clicks": 26,
           "leads": 0
         }
@@ -6682,7 +6682,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 7.16,
-          "impressions": 1630,
+          "impressions": 1631,
           "clicks": 16,
           "leads": 1
         },
@@ -6690,8 +6690,8 @@
           "date": "2026-08-10",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 7.58,
-          "impressions": 2911,
+          "spend": 7.59,
+          "impressions": 2912,
           "clicks": 17,
           "leads": 0
         },
@@ -6700,7 +6700,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 4.37,
-          "impressions": 1971,
+          "impressions": 1973,
           "clicks": 16,
           "leads": 1
         }
