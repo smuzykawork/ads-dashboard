@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T10:42:20.005Z",
+  "generated_at": "2026-08-12T11:30:09.607Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4417,7 +4417,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 5.01,
-          "impressions": 2554,
+          "impressions": 2556,
           "clicks": 22,
           "leads": 0
         },
@@ -4426,7 +4426,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 4.35,
-          "impressions": 858,
+          "impressions": 859,
           "clicks": 20,
           "leads": 0
         }
@@ -4437,6 +4437,12 @@
       "name": "Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120246007640630292",
+          "name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120245840198040292",
           "name": "Дилери вебінар – копія",
@@ -4463,7 +4469,7 @@
         },
         {
           "id": "120245536564470292",
-          "name": "Вакансія СЕРВІСАНТ КИЇВ 26.03 – копія",
+          "name": "Вакансія СЕРВІСАНТ КИЇВ 12.08",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
@@ -6131,7 +6137,7 @@
         {
           "date": "2026-07-24",
           "campaign_id": "120245536564470292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 26.03 – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08",
           "spend": 6.27,
           "impressions": 736,
           "clicks": 13,
@@ -6167,7 +6173,7 @@
         {
           "date": "2026-07-25",
           "campaign_id": "120245536564470292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 26.03 – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08",
           "spend": 5.64,
           "impressions": 866,
           "clicks": 23,
@@ -6203,7 +6209,7 @@
         {
           "date": "2026-07-26",
           "campaign_id": "120245536564470292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 26.03 – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08",
           "spend": 8.86,
           "impressions": 1213,
           "clicks": 26,
@@ -6239,7 +6245,7 @@
         {
           "date": "2026-07-27",
           "campaign_id": "120245536564470292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 26.03 – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08",
           "spend": 9.64,
           "impressions": 1226,
           "clicks": 30,
@@ -6275,7 +6281,7 @@
         {
           "date": "2026-07-28",
           "campaign_id": "120245536564470292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 26.03 – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08",
           "spend": 3.56,
           "impressions": 367,
           "clicks": 8,
@@ -7588,7 +7594,7 @@
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 12.29,
-          "impressions": 3798,
+          "impressions": 3799,
           "clicks": 60,
           "leads": 3
         }
@@ -11192,8 +11198,8 @@
           "date": "2026-08-11",
           "campaign_id": "120251977903890392",
           "campaign_name": "KURS FAGAZ Whatsup",
-          "spend": 40.98,
-          "impressions": 4265,
+          "spend": 40.99,
+          "impressions": 4266,
           "clicks": 57,
           "leads": 0
         }
