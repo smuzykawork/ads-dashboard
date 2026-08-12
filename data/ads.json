@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T00:42:07.021Z",
+  "generated_at": "2026-08-12T02:38:18.175Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4390,7 +4390,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 4.39,
-          "impressions": 2878,
+          "impressions": 2881,
           "clicks": 23,
           "leads": 0
         },
@@ -4417,7 +4417,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 4.89,
-          "impressions": 2478,
+          "impressions": 2483,
           "clicks": 21,
           "leads": 0
         },
@@ -4425,8 +4425,8 @@
           "date": "2026-08-11",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 4.2,
-          "impressions": 823,
+          "spend": 4.23,
+          "impressions": 831,
           "clicks": 19,
           "leads": 0
         }
@@ -6699,8 +6699,8 @@
           "date": "2026-08-11",
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
-          "spend": 4.76,
-          "impressions": 1256,
+          "spend": 4.78,
+          "impressions": 1259,
           "clicks": 18,
           "leads": 3
         },
@@ -6709,7 +6709,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 7.37,
-          "impressions": 2610,
+          "impressions": 2611,
           "clicks": 18,
           "leads": 0
         },
@@ -6717,8 +6717,8 @@
           "date": "2026-08-11",
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
-          "spend": 3.27,
-          "impressions": 1404,
+          "spend": 3.29,
+          "impressions": 1405,
           "clicks": 18,
           "leads": 2
         }
@@ -7588,7 +7588,7 @@
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 12.24,
-          "impressions": 3768,
+          "impressions": 3773,
           "clicks": 60,
           "leads": 3
         }
