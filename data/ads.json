@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:09:03.411Z",
+  "generated_at": "2026-08-12T22:23:50.145Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4417,7 +4417,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 4.32,
-          "impressions": 2216,
+          "impressions": 2217,
           "clicks": 21,
           "leads": 0
         },
@@ -4435,7 +4435,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 7.71,
-          "impressions": 3132,
+          "impressions": 3133,
           "clicks": 32,
           "leads": 1
         },
@@ -4443,8 +4443,8 @@
           "date": "2026-08-12",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 16.34,
-          "impressions": 5064,
+          "spend": 16.35,
+          "impressions": 5065,
           "clicks": 61,
           "leads": 2
         }
@@ -6732,8 +6732,8 @@
           "date": "2026-08-12",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 7.72,
-          "impressions": 2761,
+          "spend": 7.73,
+          "impressions": 2763,
           "clicks": 22,
           "leads": 0
         },
@@ -6750,8 +6750,8 @@
           "date": "2026-08-12",
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
-          "spend": 4.86,
-          "impressions": 973,
+          "spend": 4.87,
+          "impressions": 974,
           "clicks": 20,
           "leads": 0
         }
@@ -7620,8 +7620,8 @@
           "date": "2026-08-12",
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
-          "spend": 7.26,
-          "impressions": 2199,
+          "spend": 7.34,
+          "impressions": 2235,
           "clicks": 29,
           "leads": 6
         }
@@ -11216,8 +11216,8 @@
           "date": "2026-08-12",
           "campaign_id": "120251977132780392",
           "campaign_name": "Kurs 6 - Ukr Montarz ukr",
-          "spend": 31.84,
-          "impressions": 2873,
+          "spend": 31.99,
+          "impressions": 2885,
           "clicks": 37,
           "leads": 0
         },
@@ -11225,8 +11225,8 @@
           "date": "2026-08-12",
           "campaign_id": "120251977903890392",
           "campaign_name": "KURS FAGAZ Whatsup",
-          "spend": 37.8,
-          "impressions": 4635,
+          "spend": 37.95,
+          "impressions": 4658,
           "clicks": 43,
           "leads": 0
         }
