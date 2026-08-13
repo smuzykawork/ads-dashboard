@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-08-13T15:30:02.362Z",
+  "generated_at": "2026-08-13T15:38:39.922Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120247891420900027",
+          "name": "ОН вент пром буд",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120247833451410027",
           "name": "проєктування 1=2",
@@ -1197,12 +1203,6 @@
         {
           "id": "120210610915840027",
           "name": "Конверсія на сайті /Онлайн-курс «Автоматика щитів керування вентиляцією»/ 18.08",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120210518669960027",
-          "name": "Конверсія на сайті /Онлайн-курс «Монтажник»/ 14.08 –",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -6724,7 +6724,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 8.24,
-          "impressions": 2065,
+          "impressions": 2066,
           "clicks": 13,
           "leads": 2
         },
