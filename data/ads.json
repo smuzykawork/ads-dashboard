@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T15:38:39.922Z",
+  "generated_at": "2026-08-13T16:35:32.190Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -11225,8 +11225,8 @@
           "date": "2026-08-12",
           "campaign_id": "120251977903890392",
           "campaign_name": "KURS FAGAZ Whatsup",
-          "spend": 38.03,
-          "impressions": 4677,
+          "spend": 38.05,
+          "impressions": 4678,
           "clicks": 43,
           "leads": 0
         }
