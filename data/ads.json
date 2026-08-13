@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:22:31.463Z",
+  "generated_at": "2026-08-13T06:39:43.189Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4416,8 +4416,8 @@
           "date": "2026-08-12",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 4.34,
-          "impressions": 2235,
+          "spend": 4.36,
+          "impressions": 2242,
           "clicks": 21,
           "leads": 0
         },
@@ -4435,7 +4435,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 7.76,
-          "impressions": 3167,
+          "impressions": 3176,
           "clicks": 32,
           "leads": 1
         },
@@ -4443,8 +4443,8 @@
           "date": "2026-08-12",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 16.36,
-          "impressions": 5076,
+          "spend": 16.37,
+          "impressions": 5080,
           "clicks": 61,
           "leads": 2
         }
@@ -6724,7 +6724,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 8.24,
-          "impressions": 2063,
+          "impressions": 2065,
           "clicks": 13,
           "leads": 2
         },
@@ -6733,7 +6733,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 7.8,
-          "impressions": 2787,
+          "impressions": 2792,
           "clicks": 22,
           "leads": 0
         },
@@ -6741,8 +6741,8 @@
           "date": "2026-08-12",
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
-          "spend": 4.05,
-          "impressions": 1731,
+          "spend": 4.06,
+          "impressions": 1734,
           "clicks": 12,
           "leads": 0
         },
@@ -6751,7 +6751,7 @@
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 4.89,
-          "impressions": 985,
+          "impressions": 986,
           "clicks": 20,
           "leads": 0
         }
@@ -7620,8 +7620,8 @@
           "date": "2026-08-12",
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
-          "spend": 17.39,
-          "impressions": 5245,
+          "spend": 17.41,
+          "impressions": 5251,
           "clicks": 74,
           "leads": 6
         }
@@ -11226,7 +11226,7 @@
           "campaign_id": "120251977903890392",
           "campaign_name": "KURS FAGAZ Whatsup",
           "spend": 38.02,
-          "impressions": 4670,
+          "impressions": 4671,
           "clicks": 43,
           "leads": 0
         }
