@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T02:40:07.815Z",
+  "generated_at": "2026-08-13T03:06:14.769Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4417,7 +4417,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 4.32,
-          "impressions": 2221,
+          "impressions": 2222,
           "clicks": 21,
           "leads": 0
         },
@@ -4435,7 +4435,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 7.74,
-          "impressions": 3148,
+          "impressions": 3149,
           "clicks": 32,
           "leads": 1
         },
@@ -6723,8 +6723,8 @@
           "date": "2026-08-12",
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
-          "spend": 8.22,
-          "impressions": 2058,
+          "spend": 8.23,
+          "impressions": 2059,
           "clicks": 13,
           "leads": 2
         },
@@ -6733,7 +6733,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 7.77,
-          "impressions": 2770,
+          "impressions": 2771,
           "clicks": 22,
           "leads": 0
         },
@@ -7620,8 +7620,8 @@
           "date": "2026-08-12",
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
-          "spend": 17.37,
-          "impressions": 5240,
+          "spend": 17.38,
+          "impressions": 5243,
           "clicks": 74,
           "leads": 6
         }
@@ -11226,7 +11226,7 @@
           "campaign_id": "120251977903890392",
           "campaign_name": "KURS FAGAZ Whatsup",
           "spend": 38.02,
-          "impressions": 4668,
+          "impressions": 4669,
           "clicks": 43,
           "leads": 0
         }
