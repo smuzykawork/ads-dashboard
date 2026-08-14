@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T08:47:48.520Z",
+  "generated_at": "2026-08-14T10:13:09.603Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4408,7 +4408,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 8.02,
-          "impressions": 3949,
+          "impressions": 3951,
           "clicks": 44,
           "leads": 2
         },
@@ -4417,7 +4417,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 10.29,
-          "impressions": 3720,
+          "impressions": 3723,
           "clicks": 45,
           "leads": 1
         },
@@ -4425,8 +4425,8 @@
           "date": "2026-08-13",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 7.46,
-          "impressions": 3023,
+          "spend": 7.47,
+          "impressions": 3025,
           "clicks": 45,
           "leads": 3
         },
@@ -6759,8 +6759,8 @@
           "date": "2026-08-13",
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
-          "spend": 3.9,
-          "impressions": 1239,
+          "spend": 3.91,
+          "impressions": 1240,
           "clicks": 10,
           "leads": 0
         },
@@ -6768,8 +6768,8 @@
           "date": "2026-08-13",
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
-          "spend": 8.96,
-          "impressions": 1408,
+          "spend": 8.97,
+          "impressions": 1409,
           "clicks": 50,
           "leads": 3
         }
@@ -7640,7 +7640,7 @@
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 15.81,
           "impressions": 3724,
-          "clicks": 69,
+          "clicks": 70,
           "leads": 7
         }
       ]
@@ -11244,7 +11244,7 @@
           "campaign_id": "120251977903890392",
           "campaign_name": "KURS FAGAZ Whatsup",
           "spend": 59.39,
-          "impressions": 7402,
+          "impressions": 7403,
           "clicks": 85,
           "leads": 0
         }
