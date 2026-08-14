@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:28:27.944Z",
+  "generated_at": "2026-08-14T11:52:32.798Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4417,7 +4417,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 10.3,
-          "impressions": 3724,
+          "impressions": 3725,
           "clicks": 45,
           "leads": 1
         },
@@ -6751,7 +6751,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 7.86,
-          "impressions": 2293,
+          "impressions": 2294,
           "clicks": 26,
           "leads": 2
         },
@@ -6769,7 +6769,7 @@
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 8.97,
-          "impressions": 1411,
+          "impressions": 1412,
           "clicks": 50,
           "leads": 3
         }
