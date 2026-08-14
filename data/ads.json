@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-08-14T14:02:37.651Z",
+  "generated_at": "2026-08-14T15:02:55.944Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120247920622710027",
+          "name": "Курс ОН Монт.Конд НОВА",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120247891420900027",
           "name": "ОН вент пром буд",
@@ -1197,12 +1203,6 @@
         {
           "id": "120210610957800027",
           "name": "Конверсія на сайті /СЕРПНЕВИЙ РОЗПРОДАЖ/ 18.08",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120210610915840027",
-          "name": "Конверсія на сайті /Онлайн-курс «Автоматика щитів керування вентиляцією»/ 18.08",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -4408,7 +4408,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 8.03,
-          "impressions": 3955,
+          "impressions": 3956,
           "clicks": 44,
           "leads": 2
         },
@@ -4426,7 +4426,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 7.47,
-          "impressions": 3026,
+          "impressions": 3027,
           "clicks": 45,
           "leads": 3
         },
