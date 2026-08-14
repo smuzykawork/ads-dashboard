@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T12:06:05.541Z",
+  "generated_at": "2026-08-14T12:28:10.911Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4408,7 +4408,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 8.02,
-          "impressions": 3953,
+          "impressions": 3954,
           "clicks": 44,
           "leads": 2
         },
@@ -4417,7 +4417,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 10.3,
-          "impressions": 3725,
+          "impressions": 3727,
           "clicks": 45,
           "leads": 1
         },
@@ -7644,8 +7644,8 @@
           "date": "2026-08-13",
           "campaign_id": "120250168625590749",
           "campaign_name": "ТН ЛІДИ 24.07 – копія",
-          "spend": 15.81,
-          "impressions": 3724,
+          "spend": 15.82,
+          "impressions": 3726,
           "clicks": 70,
           "leads": 7
         }
@@ -11249,8 +11249,8 @@
           "date": "2026-08-13",
           "campaign_id": "120251977903890392",
           "campaign_name": "KURS FAGAZ Whatsup",
-          "spend": 59.4,
-          "impressions": 7404,
+          "spend": 59.41,
+          "impressions": 7405,
           "clicks": 85,
           "leads": 0
         }
