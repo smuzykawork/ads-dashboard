@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T15:33:00.765Z",
+  "generated_at": "2026-08-14T16:01:09.711Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4408,7 +4408,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 8.03,
-          "impressions": 3957,
+          "impressions": 3958,
           "clicks": 44,
           "leads": 2
         },
@@ -11249,8 +11249,8 @@
           "date": "2026-08-13",
           "campaign_id": "120251977903890392",
           "campaign_name": "KURS FAGAZ Whatsup",
-          "spend": 59.46,
-          "impressions": 7408,
+          "spend": 59.48,
+          "impressions": 7410,
           "clicks": 85,
           "leads": 0
         }
