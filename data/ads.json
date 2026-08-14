@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:58:58.438Z",
+  "generated_at": "2026-08-14T22:34:54.340Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4407,8 +4407,8 @@
           "date": "2026-08-14",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 9.14,
-          "impressions": 4337,
+          "spend": 9.15,
+          "impressions": 4339,
           "clicks": 54,
           "leads": 2
         },
@@ -4417,7 +4417,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 10.26,
-          "impressions": 3016,
+          "impressions": 3017,
           "clicks": 45,
           "leads": 2
         },
@@ -4425,8 +4425,8 @@
           "date": "2026-08-14",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 7.49,
-          "impressions": 3717,
+          "spend": 7.5,
+          "impressions": 3721,
           "clicks": 41,
           "leads": 2
         },
@@ -4434,8 +4434,8 @@
           "date": "2026-08-14",
           "campaign_id": "120247891420900027",
           "campaign_name": "ОН вент пром буд",
-          "spend": 12.16,
-          "impressions": 2635,
+          "spend": 12.17,
+          "impressions": 2638,
           "clicks": 39,
           "leads": 1
         },
@@ -4444,7 +4444,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 3.59,
-          "impressions": 1500,
+          "impressions": 1502,
           "clicks": 19,
           "leads": 0
         }
@@ -6786,8 +6786,8 @@
           "date": "2026-08-14",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 8.03,
-          "impressions": 2408,
+          "spend": 8.1,
+          "impressions": 2409,
           "clicks": 20,
           "leads": 0
         },
@@ -7690,7 +7690,7 @@
           "campaign_id": "120250561620380749",
           "campaign_name": "ТН ЛІДИ 14.08",
           "spend": 8.24,
-          "impressions": 1687,
+          "impressions": 1688,
           "clicks": 23,
           "leads": 2
         }
@@ -10184,15 +10184,6 @@
       ],
       "daily": [
         {
-          "date": "2026-05-16",
-          "campaign_id": "120246162254390392",
-          "campaign_name": "Kompas inwestycjy",
-          "spend": 61.49,
-          "impressions": 3861,
-          "clicks": 54,
-          "leads": 3
-        },
-        {
           "date": "2026-05-17",
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
@@ -11288,6 +11279,24 @@
           "spend": 59.54,
           "impressions": 7413,
           "clicks": 85,
+          "leads": 0
+        },
+        {
+          "date": "2026-08-14",
+          "campaign_id": "120251977132780392",
+          "campaign_name": "Kurs 6 - Ukr Montarz ukr",
+          "spend": 15.9,
+          "impressions": 1155,
+          "clicks": 18,
+          "leads": 0
+        },
+        {
+          "date": "2026-08-14",
+          "campaign_id": "120251977903890392",
+          "campaign_name": "KURS FAGAZ Whatsup",
+          "spend": 10.83,
+          "impressions": 1313,
+          "clicks": 19,
           "leads": 0
         }
       ]
