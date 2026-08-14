@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T10:39:36.417Z",
+  "generated_at": "2026-08-14T11:28:27.944Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4408,7 +4408,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 8.02,
-          "impressions": 3952,
+          "impressions": 3953,
           "clicks": 44,
           "leads": 2
         },
@@ -6769,7 +6769,7 @@
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 8.97,
-          "impressions": 1410,
+          "impressions": 1411,
           "clicks": 50,
           "leads": 3
         }
@@ -6781,9 +6781,15 @@
       "currency": "USD",
       "campaigns": [
         {
+          "id": "120250561620380749",
+          "name": "ТН ЛІДИ 14.08",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120250168625590749",
           "name": "ТН ЛІДИ 24.07 – копія",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -11243,8 +11249,8 @@
           "date": "2026-08-13",
           "campaign_id": "120251977903890392",
           "campaign_name": "KURS FAGAZ Whatsup",
-          "spend": 59.39,
-          "impressions": 7403,
+          "spend": 59.4,
+          "impressions": 7404,
           "clicks": 85,
           "leads": 0
         }
