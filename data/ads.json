@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:56:58.418Z",
+  "generated_at": "2026-08-15T22:33:25.777Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4417,7 +4417,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 9.37,
-          "impressions": 5032,
+          "impressions": 5033,
           "clicks": 69,
           "leads": 2
         },
@@ -4426,7 +4426,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 9.98,
-          "impressions": 2453,
+          "impressions": 2456,
           "clicks": 26,
           "leads": 0
         },
@@ -4435,7 +4435,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 7.15,
-          "impressions": 2948,
+          "impressions": 2950,
           "clicks": 30,
           "leads": 0
         },
@@ -4444,7 +4444,7 @@
           "campaign_id": "120247891420900027",
           "campaign_name": "ОН вент пром буд",
           "spend": 9.51,
-          "impressions": 1856,
+          "impressions": 1857,
           "clicks": 32,
           "leads": 1
         },
@@ -6814,7 +6814,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 5.29,
-          "impressions": 847,
+          "impressions": 848,
           "clicks": 16,
           "leads": 1
         },
@@ -10210,15 +10210,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-05-17",
-          "campaign_id": "120246162254390392",
-          "campaign_name": "Kompas inwestycjy",
-          "spend": 36.91,
-          "impressions": 2453,
-          "clicks": 31,
-          "leads": 1
-        },
         {
           "date": "2026-05-18",
           "campaign_id": "120246162254390392",
