@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T20:58:58.426Z",
+  "generated_at": "2026-08-15T21:30:40.144Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -1208,42 +1208,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-05-17",
-          "campaign_id": "120242845623600027",
-          "campaign_name": "Вебінар - Помилки Теплові насоси 07.05",
-          "spend": 9.29,
-          "impressions": 3530,
-          "clicks": 43,
-          "leads": 0
-        },
-        {
-          "date": "2026-05-17",
-          "campaign_id": "120243437692670027",
-          "campaign_name": "Вебінар - Помилки Теплові насоси 15.05",
-          "spend": 11.69,
-          "impressions": 4365,
-          "clicks": 44,
-          "leads": 1
-        },
-        {
-          "date": "2026-05-17",
-          "campaign_id": "120243437752190027",
-          "campaign_name": "ОН Теплові насоси 15.05",
-          "spend": 20.66,
-          "impressions": 8275,
-          "clicks": 103,
-          "leads": 2
-        },
-        {
-          "date": "2026-05-17",
-          "campaign_id": "120243438130760027",
-          "campaign_name": "ОН Теплові насоси 15.05",
-          "spend": 21.01,
-          "impressions": 7514,
-          "clicks": 88,
-          "leads": 1
-        },
         {
           "date": "2026-05-18",
           "campaign_id": "120242845623600027",
@@ -4447,6 +4411,51 @@
           "impressions": 1523,
           "clicks": 20,
           "leads": 0
+        },
+        {
+          "date": "2026-08-15",
+          "campaign_id": "120247139188530027",
+          "campaign_name": "Курс ОН Монт.Конд",
+          "spend": 9.36,
+          "impressions": 5029,
+          "clicks": 69,
+          "leads": 2
+        },
+        {
+          "date": "2026-08-15",
+          "campaign_id": "120247832123130027",
+          "campaign_name": "Курс ОН сервісант систем конд і вент",
+          "spend": 9.98,
+          "impressions": 2451,
+          "clicks": 26,
+          "leads": 0
+        },
+        {
+          "date": "2026-08-15",
+          "campaign_id": "120247833451410027",
+          "campaign_name": "проєктування 1=2",
+          "spend": 7.14,
+          "impressions": 2942,
+          "clicks": 30,
+          "leads": 0
+        },
+        {
+          "date": "2026-08-15",
+          "campaign_id": "120247891420900027",
+          "campaign_name": "ОН вент пром буд",
+          "spend": 9.51,
+          "impressions": 1856,
+          "clicks": 32,
+          "leads": 1
+        },
+        {
+          "date": "2026-08-15",
+          "campaign_id": "120247920622710027",
+          "campaign_name": "Курс ОН Монт.Конд НОВА",
+          "spend": 8.84,
+          "impressions": 3607,
+          "clicks": 63,
+          "leads": 2
         }
       ]
     },
@@ -5117,15 +5126,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-05-17",
-          "campaign_id": "120240769624600292",
-          "campaign_name": "Дилер Контакти - Форма",
-          "spend": 5.01,
-          "impressions": 1258,
-          "clicks": 12,
-          "leads": 0
-        },
         {
           "date": "2026-05-18",
           "campaign_id": "120240769624600292",
@@ -6808,6 +6808,42 @@
           "impressions": 718,
           "clicks": 19,
           "leads": 1
+        },
+        {
+          "date": "2026-08-15",
+          "campaign_id": "120245542298330292",
+          "campaign_name": "хаер тн ж",
+          "spend": 5.29,
+          "impressions": 847,
+          "clicks": 16,
+          "leads": 1
+        },
+        {
+          "date": "2026-08-15",
+          "campaign_id": "120245543377600292",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "spend": 7.8,
+          "impressions": 2463,
+          "clicks": 28,
+          "leads": 2
+        },
+        {
+          "date": "2026-08-15",
+          "campaign_id": "120245840198040292",
+          "campaign_name": "Дилери вебінар – копія",
+          "spend": 3.62,
+          "impressions": 1006,
+          "clicks": 8,
+          "leads": 0
+        },
+        {
+          "date": "2026-08-15",
+          "campaign_id": "120246007640630292",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
+          "spend": 7.34,
+          "impressions": 1711,
+          "clicks": 35,
+          "leads": 0
         }
       ]
     },
@@ -6866,15 +6902,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-05-17",
-          "campaign_id": "120243169362960749",
-          "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 11.15,
-          "impressions": 4295,
-          "clicks": 69,
-          "leads": 3
-        },
         {
           "date": "2026-05-18",
           "campaign_id": "120243169362960749",
@@ -7693,6 +7720,15 @@
           "impressions": 1700,
           "clicks": 24,
           "leads": 2
+        },
+        {
+          "date": "2026-08-15",
+          "campaign_id": "120250561620380749",
+          "campaign_name": "ТН ЛІДИ 14.08",
+          "spend": 12.6,
+          "impressions": 2925,
+          "clicks": 51,
+          "leads": 3
         }
       ]
     },
@@ -8285,15 +8321,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-05-17",
-          "campaign_id": "120244164745920713",
-          "campaign_name": "СBO | CPL |  Травень / Кейси",
-          "spend": 12.59,
-          "impressions": 814,
-          "clicks": 10,
-          "leads": 0
-        },
         {
           "date": "2026-05-18",
           "campaign_id": "120244164745920713",
@@ -8981,6 +9008,12 @@
       "name": "Academy Aklima",
       "currency": "PLN",
       "campaigns": [
+        {
+          "id": "120252140195060392",
+          "name": "Kurs Prof Ukr - EU",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120251977903890392",
           "name": "KURS FAGAZ Whatsup",
@@ -10174,12 +10207,6 @@
           "name": "Рилс только база",
           "status": "PAUSED",
           "objective": "LINK_CLICKS"
-        },
-        {
-          "id": "120211384294140392",
-          "name": "Анимация Клик на регистр ГП Все",
-          "status": "PAUSED",
-          "objective": "OUTCOME_TRAFFIC"
         }
       ],
       "daily": [
