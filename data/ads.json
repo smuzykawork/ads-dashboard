@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T04:13:53.928Z",
+  "generated_at": "2026-08-15T04:41:18.983Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4408,7 +4408,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 9.19,
-          "impressions": 4354,
+          "impressions": 4356,
           "clicks": 54,
           "leads": 2
         },
@@ -4417,7 +4417,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 10.28,
-          "impressions": 3024,
+          "impressions": 3026,
           "clicks": 45,
           "leads": 2
         },
@@ -4426,7 +4426,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 7.51,
-          "impressions": 3738,
+          "impressions": 3739,
           "clicks": 41,
           "leads": 2
         },
@@ -4444,8 +4444,8 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 3.62,
-          "impressions": 1512,
-          "clicks": 19,
+          "impressions": 1513,
+          "clicks": 20,
           "leads": 0
         }
       ]
@@ -6778,7 +6778,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 6.83,
-          "impressions": 1349,
+          "impressions": 1350,
           "clicks": 20,
           "leads": 0
         },
@@ -6786,8 +6786,8 @@
           "date": "2026-08-14",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 8.12,
-          "impressions": 2418,
+          "spend": 8.13,
+          "impressions": 2420,
           "clicks": 20,
           "leads": 0
         },
@@ -6795,8 +6795,8 @@
           "date": "2026-08-14",
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
-          "spend": 3.58,
-          "impressions": 1128,
+          "spend": 3.6,
+          "impressions": 1130,
           "clicks": 7,
           "leads": 1
         },
