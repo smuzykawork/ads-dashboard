@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T01:55:41.652Z",
+  "generated_at": "2026-08-15T02:03:38.141Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4416,8 +4416,8 @@
           "date": "2026-08-14",
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
-          "spend": 10.27,
-          "impressions": 3020,
+          "spend": 10.28,
+          "impressions": 3021,
           "clicks": 45,
           "leads": 2
         },
