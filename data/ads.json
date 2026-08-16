@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T06:01:09.972Z",
+  "generated_at": "2026-08-16T06:54:43.376Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4417,7 +4417,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 9.38,
-          "impressions": 5051,
+          "impressions": 5054,
           "clicks": 69,
           "leads": 2
         },
@@ -4426,7 +4426,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 9.99,
-          "impressions": 2467,
+          "impressions": 2468,
           "clicks": 26,
           "leads": 0
         },
@@ -4435,7 +4435,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 7.15,
-          "impressions": 2966,
+          "impressions": 2968,
           "clicks": 30,
           "leads": 0
         },
@@ -4444,7 +4444,7 @@
           "campaign_id": "120247891420900027",
           "campaign_name": "ОН вент пром буд",
           "spend": 9.52,
-          "impressions": 1859,
+          "impressions": 1860,
           "clicks": 32,
           "leads": 1
         },
@@ -4453,7 +4453,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 8.85,
-          "impressions": 3613,
+          "impressions": 3614,
           "clicks": 63,
           "leads": 2
         }
@@ -6840,8 +6840,8 @@
           "date": "2026-08-15",
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
-          "spend": 7.34,
-          "impressions": 1716,
+          "spend": 7.35,
+          "impressions": 1717,
           "clicks": 35,
           "leads": 0
         }
@@ -7726,7 +7726,7 @@
           "campaign_id": "120250561620380749",
           "campaign_name": "ТН ЛІДИ 14.08",
           "spend": 12.62,
-          "impressions": 2932,
+          "impressions": 2935,
           "clicks": 51,
           "leads": 3
         }
