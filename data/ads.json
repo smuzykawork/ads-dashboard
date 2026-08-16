@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T21:56:12.729Z",
+  "generated_at": "2026-08-16T22:32:19.088Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4426,7 +4426,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 11.44,
-          "impressions": 5417,
+          "impressions": 5419,
           "clicks": 86,
           "leads": 1
         },
@@ -4434,8 +4434,8 @@
           "date": "2026-08-16",
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
-          "spend": 11.67,
-          "impressions": 2930,
+          "spend": 11.68,
+          "impressions": 2933,
           "clicks": 48,
           "leads": 1
         },
@@ -4444,7 +4444,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 11.17,
-          "impressions": 4001,
+          "impressions": 4003,
           "clicks": 41,
           "leads": 3
         },
@@ -4452,8 +4452,8 @@
           "date": "2026-08-16",
           "campaign_id": "120247891420900027",
           "campaign_name": "ОН вент пром буд",
-          "spend": 9.46,
-          "impressions": 1401,
+          "spend": 9.47,
+          "impressions": 1402,
           "clicks": 28,
           "leads": 1
         },
@@ -4462,7 +4462,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 13.38,
-          "impressions": 4586,
+          "impressions": 4588,
           "clicks": 91,
           "leads": 3
         }
@@ -7761,8 +7761,8 @@
           "date": "2026-08-16",
           "campaign_id": "120250561620380749",
           "campaign_name": "ТН ЛІДИ 14.08",
-          "spend": 17.14,
-          "impressions": 4264,
+          "spend": 17.16,
+          "impressions": 4268,
           "clicks": 82,
           "leads": 9
         }
@@ -10238,15 +10238,6 @@
       ],
       "daily": [
         {
-          "date": "2026-05-18",
-          "campaign_id": "120246162254390392",
-          "campaign_name": "Kompas inwestycjy",
-          "spend": 33.19,
-          "impressions": 2141,
-          "clicks": 34,
-          "leads": 0
-        },
-        {
           "date": "2026-05-19",
           "campaign_id": "120246162254390392",
           "campaign_name": "Kompas inwestycjy",
@@ -11343,6 +11334,15 @@
           "impressions": 1314,
           "clicks": 19,
           "leads": 0
+        },
+        {
+          "date": "2026-08-16",
+          "campaign_id": "120252140195060392",
+          "campaign_name": "Kurs Prof Ukr - EU",
+          "spend": 96.26,
+          "impressions": 3107,
+          "clicks": 82,
+          "leads": 7
         }
       ]
     }
