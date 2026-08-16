@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T20:33:27.548Z",
+  "generated_at": "2026-08-16T20:45:47.327Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4443,8 +4443,8 @@
           "date": "2026-08-15",
           "campaign_id": "120247891420900027",
           "campaign_name": "ОН вент пром буд",
-          "spend": 9.52,
-          "impressions": 1861,
+          "spend": 9.53,
+          "impressions": 1862,
           "clicks": 32,
           "leads": 1
         },
