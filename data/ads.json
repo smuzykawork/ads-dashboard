@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T11:59:25.868Z",
+  "generated_at": "2026-08-17T13:01:51.005Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4444,7 +4444,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 11.19,
-          "impressions": 4051,
+          "impressions": 4052,
           "clicks": 41,
           "leads": 3
         },
@@ -4453,7 +4453,7 @@
           "campaign_id": "120247891420900027",
           "campaign_name": "ОН вент пром буд",
           "spend": 9.49,
-          "impressions": 1409,
+          "impressions": 1410,
           "clicks": 28,
           "leads": 1
         },
@@ -11339,8 +11339,8 @@
           "date": "2026-08-16",
           "campaign_id": "120252140195060392",
           "campaign_name": "Kurs Prof Ukr - EU",
-          "spend": 96.68,
-          "impressions": 3121,
+          "spend": 96.69,
+          "impressions": 3123,
           "clicks": 82,
           "leads": 7
         }
