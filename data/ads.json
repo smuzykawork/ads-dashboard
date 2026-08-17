@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T05:21:07.518Z",
+  "generated_at": "2026-08-17T05:44:41.584Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4425,8 +4425,8 @@
           "date": "2026-08-16",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 11.48,
-          "impressions": 5476,
+          "spend": 11.49,
+          "impressions": 5482,
           "clicks": 86,
           "leads": 1
         },
@@ -4434,8 +4434,8 @@
           "date": "2026-08-16",
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
-          "spend": 11.81,
-          "impressions": 2962,
+          "spend": 11.82,
+          "impressions": 2964,
           "clicks": 48,
           "leads": 1
         },
@@ -4443,8 +4443,8 @@
           "date": "2026-08-16",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 11.18,
-          "impressions": 4038,
+          "spend": 11.19,
+          "impressions": 4043,
           "clicks": 41,
           "leads": 3
         },
@@ -4453,7 +4453,7 @@
           "campaign_id": "120247891420900027",
           "campaign_name": "ОН вент пром буд",
           "spend": 9.49,
-          "impressions": 1406,
+          "impressions": 1407,
           "clicks": 28,
           "leads": 1
         },
@@ -4461,8 +4461,8 @@
           "date": "2026-08-16",
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
-          "spend": 13.41,
-          "impressions": 4613,
+          "spend": 13.42,
+          "impressions": 4615,
           "clicks": 91,
           "leads": 3
         }
@@ -6858,8 +6858,8 @@
           "date": "2026-08-16",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 9.06,
-          "impressions": 2586,
+          "spend": 9.08,
+          "impressions": 2590,
           "clicks": 28,
           "leads": 2
         },
@@ -6868,7 +6868,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 4.93,
-          "impressions": 1192,
+          "impressions": 1193,
           "clicks": 16,
           "leads": 1
         },
