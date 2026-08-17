@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:44:06.534Z",
+  "generated_at": "2026-08-17T10:56:00.683Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4426,7 +4426,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 11.54,
-          "impressions": 5507,
+          "impressions": 5508,
           "clicks": 86,
           "leads": 1
         },
@@ -11339,8 +11339,8 @@
           "date": "2026-08-16",
           "campaign_id": "120252140195060392",
           "campaign_name": "Kurs Prof Ukr - EU",
-          "spend": 96.62,
-          "impressions": 3119,
+          "spend": 96.63,
+          "impressions": 3120,
           "clicks": 82,
           "leads": 7
         }
