@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:38:30.175Z",
+  "generated_at": "2026-08-17T08:24:08.076Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4425,8 +4425,8 @@
           "date": "2026-08-16",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 11.52,
-          "impressions": 5501,
+          "spend": 11.53,
+          "impressions": 5502,
           "clicks": 86,
           "leads": 1
         },
@@ -4435,7 +4435,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 11.83,
-          "impressions": 2968,
+          "impressions": 2973,
           "clicks": 48,
           "leads": 1
         },
@@ -4444,7 +4444,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 11.19,
-          "impressions": 4050,
+          "impressions": 4051,
           "clicks": 41,
           "leads": 3
         },
@@ -4462,7 +4462,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 13.45,
-          "impressions": 4622,
+          "impressions": 4624,
           "clicks": 92,
           "leads": 3
         }
@@ -6850,7 +6850,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 7.99,
-          "impressions": 1261,
+          "impressions": 1262,
           "clicks": 15,
           "leads": 1
         },
@@ -6868,7 +6868,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 4.94,
-          "impressions": 1196,
+          "impressions": 1197,
           "clicks": 16,
           "leads": 1
         },
@@ -7762,7 +7762,7 @@
           "campaign_id": "120250561620380749",
           "campaign_name": "ТН ЛІДИ 14.08",
           "spend": 17.3,
-          "impressions": 4291,
+          "impressions": 4292,
           "clicks": 82,
           "leads": 9
         }
@@ -11339,8 +11339,8 @@
           "date": "2026-08-16",
           "campaign_id": "120252140195060392",
           "campaign_name": "Kurs Prof Ukr - EU",
-          "spend": 96.61,
-          "impressions": 3118,
+          "spend": 96.62,
+          "impressions": 3119,
           "clicks": 82,
           "leads": 7
         }
