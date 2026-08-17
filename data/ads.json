@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T03:26:40.214Z",
+  "generated_at": "2026-08-17T03:33:12.824Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4426,7 +4426,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 11.46,
-          "impressions": 5445,
+          "impressions": 5446,
           "clicks": 86,
           "leads": 1
         },
@@ -4435,7 +4435,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 11.72,
-          "impressions": 2943,
+          "impressions": 2945,
           "clicks": 48,
           "leads": 1
         },
@@ -4444,7 +4444,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 11.17,
-          "impressions": 4022,
+          "impressions": 4023,
           "clicks": 41,
           "leads": 3
         },
@@ -4462,7 +4462,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 13.4,
-          "impressions": 4599,
+          "impressions": 4600,
           "clicks": 91,
           "leads": 3
         }
@@ -6849,8 +6849,8 @@
           "date": "2026-08-16",
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
-          "spend": 7.83,
-          "impressions": 1254,
+          "spend": 7.93,
+          "impressions": 1255,
           "clicks": 15,
           "leads": 1
         },
@@ -6877,7 +6877,7 @@
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 7.67,
-          "impressions": 1682,
+          "impressions": 1683,
           "clicks": 32,
           "leads": 1
         }
