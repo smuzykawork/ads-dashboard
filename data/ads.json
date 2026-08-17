@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:38:38.668Z",
+  "generated_at": "2026-08-17T17:53:52.823Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4444,7 +4444,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 11.19,
-          "impressions": 4052,
+          "impressions": 4053,
           "clicks": 41,
           "leads": 3
         },
