@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:04:01.833Z",
+  "generated_at": "2026-08-17T17:38:38.668Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -6859,7 +6859,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 9.09,
-          "impressions": 2599,
+          "impressions": 2600,
           "clicks": 28,
           "leads": 2
         },
@@ -11339,8 +11339,8 @@
           "date": "2026-08-16",
           "campaign_id": "120252140195060392",
           "campaign_name": "Kurs Prof Ukr - EU",
-          "spend": 96.7,
-          "impressions": 3125,
+          "spend": 96.73,
+          "impressions": 3126,
           "clicks": 82,
           "leads": 7
         }
