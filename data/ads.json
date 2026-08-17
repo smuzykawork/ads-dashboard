@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:48:14.480Z",
+  "generated_at": "2026-08-17T15:59:33.540Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7762,7 +7762,7 @@
           "campaign_id": "120250561620380749",
           "campaign_name": "ТН ЛІДИ 14.08",
           "spend": 17.32,
-          "impressions": 4295,
+          "impressions": 4296,
           "clicks": 82,
           "leads": 9
         }
