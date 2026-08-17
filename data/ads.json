@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T14:38:07.605Z",
+  "generated_at": "2026-08-17T14:52:55.947Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -15,7 +15,7 @@
         {
           "id": "120247891420900027",
           "name": "ОН вент пром буд",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
