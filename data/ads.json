@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T05:53:58.333Z",
+  "generated_at": "2026-08-18T06:01:46.737Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4417,7 +4417,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 9.36,
-          "impressions": 4334,
+          "impressions": 4337,
           "clicks": 51,
           "leads": 0
         },
@@ -4426,7 +4426,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 9.33,
-          "impressions": 3187,
+          "impressions": 3189,
           "clicks": 51,
           "leads": 1
         },
@@ -4435,7 +4435,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 9.78,
-          "impressions": 4398,
+          "impressions": 4399,
           "clicks": 48,
           "leads": 1
         },
@@ -4453,7 +4453,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 10.24,
-          "impressions": 4388,
+          "impressions": 4389,
           "clicks": 67,
           "leads": 2
         }
@@ -6859,7 +6859,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 7.58,
-          "impressions": 1479,
+          "impressions": 1480,
           "clicks": 25,
           "leads": 2
         },
@@ -6868,16 +6868,16 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 8.5,
-          "impressions": 2732,
-          "clicks": 25,
+          "impressions": 2735,
+          "clicks": 26,
           "leads": 2
         },
         {
           "date": "2026-08-17",
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
-          "spend": 4,
-          "impressions": 1184,
+          "spend": 4.01,
+          "impressions": 1185,
           "clicks": 6,
           "leads": 1
         },
