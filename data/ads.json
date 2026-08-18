@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T13:29:50.260Z",
+  "generated_at": "2026-08-18T13:53:00.497Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4417,7 +4417,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 9.64,
-          "impressions": 4369,
+          "impressions": 4370,
           "clicks": 51,
           "leads": 0
         },
@@ -6898,9 +6898,15 @@
       "currency": "USD",
       "campaigns": [
         {
+          "id": "120250630086770749",
+          "name": "ТН ЛІДИ 14.08 – копія",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120250561620380749",
           "name": "ТН ЛІДИ 14.08",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -7771,7 +7777,7 @@
           "campaign_id": "120250561620380749",
           "campaign_name": "ТН ЛІДИ 14.08",
           "spend": 14.33,
-          "impressions": 3845,
+          "impressions": 3846,
           "clicks": 58,
           "leads": 6
         }
