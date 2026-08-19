@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T17:35:50.148Z",
+  "generated_at": "2026-08-19T17:49:10.695Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4444,7 +4444,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 11.89,
-          "impressions": 4648,
+          "impressions": 4649,
           "clicks": 81,
           "leads": 2
         },
@@ -9062,7 +9062,7 @@
         {
           "id": "120252140195060392",
           "name": "Kurs Prof Ukr - EU",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
