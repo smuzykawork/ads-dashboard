@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:03:19.202Z",
+  "generated_at": "2026-08-19T21:34:54.198Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4443,17 +4443,17 @@
           "date": "2026-08-19",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 10.51,
-          "impressions": 4924,
-          "clicks": 50,
+          "spend": 10.56,
+          "impressions": 4965,
+          "clicks": 51,
           "leads": 0
         },
         {
           "date": "2026-08-19",
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
-          "spend": 9.63,
-          "impressions": 4164,
+          "spend": 9.69,
+          "impressions": 4179,
           "clicks": 65,
           "leads": 1
         },
@@ -4461,17 +4461,17 @@
           "date": "2026-08-19",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 10.48,
-          "impressions": 3450,
-          "clicks": 33,
+          "spend": 10.51,
+          "impressions": 3464,
+          "clicks": 34,
           "leads": 2
         },
         {
           "date": "2026-08-19",
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
-          "spend": 8.32,
-          "impressions": 3089,
+          "spend": 8.34,
+          "impressions": 3100,
           "clicks": 31,
           "leads": 0
         }
@@ -6912,17 +6912,17 @@
           "date": "2026-08-19",
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
-          "spend": 6.77,
-          "impressions": 1258,
-          "clicks": 24,
+          "spend": 6.81,
+          "impressions": 1263,
+          "clicks": 25,
           "leads": 2
         },
         {
           "date": "2026-08-19",
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 7.75,
-          "impressions": 1750,
+          "spend": 7.8,
+          "impressions": 1760,
           "clicks": 10,
           "leads": 0
         },
@@ -6930,8 +6930,8 @@
           "date": "2026-08-19",
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
-          "spend": 4.06,
-          "impressions": 1281,
+          "spend": 4.08,
+          "impressions": 1286,
           "clicks": 17,
           "leads": 0
         },
@@ -6940,7 +6940,7 @@
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 8.05,
-          "impressions": 1505,
+          "impressions": 1509,
           "clicks": 26,
           "leads": 2
         }
@@ -7840,7 +7840,7 @@
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 11.01,
-          "impressions": 3158,
+          "impressions": 3161,
           "clicks": 49,
           "leads": 3
         }
