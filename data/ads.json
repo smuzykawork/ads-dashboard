@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T23:01:11.246Z",
+  "generated_at": "2026-08-19T23:32:09.573Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4443,8 +4443,8 @@
           "date": "2026-08-19",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 10.61,
-          "impressions": 4987,
+          "spend": 10.63,
+          "impressions": 4997,
           "clicks": 52,
           "leads": 0
         },
@@ -4453,7 +4453,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 9.69,
-          "impressions": 4190,
+          "impressions": 4191,
           "clicks": 66,
           "leads": 1
         },
@@ -4462,7 +4462,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 10.53,
-          "impressions": 3474,
+          "impressions": 3475,
           "clicks": 34,
           "leads": 2
         },
@@ -6913,7 +6913,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 6.81,
-          "impressions": 1265,
+          "impressions": 1267,
           "clicks": 25,
           "leads": 2
         },
@@ -6931,7 +6931,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 4.1,
-          "impressions": 1292,
+          "impressions": 1293,
           "clicks": 17,
           "leads": 0
         },
@@ -11390,8 +11390,8 @@
           "date": "2026-08-19",
           "campaign_id": "120252140195060392",
           "campaign_name": "Kurs Prof Ukr - EU",
-          "spend": 59.95,
-          "impressions": 1914,
+          "spend": 59.96,
+          "impressions": 1915,
           "clicks": 40,
           "leads": 3
         }
