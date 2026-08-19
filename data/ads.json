@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-08-19T21:49:18.995Z",
+  "generated_at": "2026-08-19T22:00:47.785Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120248032664350027",
+          "name": "Курс ОН сервісант систем конд і вент 19.08",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120247920622710027",
           "name": "Курс ОН Монт.Конд НОВА",
@@ -1197,12 +1203,6 @@
         {
           "id": "120210702647390027",
           "name": "Конверсія на сайті /Онлайн-курс «ТН»/ 21.08",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120210610957800027",
-          "name": "Конверсія на сайті /СЕРПНЕВИЙ РОЗПРОДАЖ/ 18.08",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -4443,8 +4443,8 @@
           "date": "2026-08-19",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 10.58,
-          "impressions": 4970,
+          "spend": 10.59,
+          "impressions": 4974,
           "clicks": 52,
           "leads": 0
         },
@@ -4453,7 +4453,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 9.69,
-          "impressions": 4182,
+          "impressions": 4183,
           "clicks": 65,
           "leads": 1
         },
@@ -4462,7 +4462,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 10.51,
-          "impressions": 3465,
+          "impressions": 3466,
           "clicks": 34,
           "leads": 2
         },
@@ -6939,8 +6939,8 @@
           "date": "2026-08-19",
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
-          "spend": 8.05,
-          "impressions": 1510,
+          "spend": 8.09,
+          "impressions": 1514,
           "clicks": 26,
           "leads": 2
         }
@@ -11385,6 +11385,15 @@
           "impressions": 2604,
           "clicks": 62,
           "leads": 2
+        },
+        {
+          "date": "2026-08-19",
+          "campaign_id": "120252140195060392",
+          "campaign_name": "Kurs Prof Ukr - EU",
+          "spend": 59.95,
+          "impressions": 1914,
+          "clicks": 40,
+          "leads": 3
         }
       ]
     }
