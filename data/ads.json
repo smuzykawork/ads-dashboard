@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:00:47.785Z",
+  "generated_at": "2026-08-19T22:35:43.257Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4443,8 +4443,8 @@
           "date": "2026-08-19",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 10.59,
-          "impressions": 4974,
+          "spend": 10.6,
+          "impressions": 4983,
           "clicks": 52,
           "leads": 0
         },
@@ -4453,7 +4453,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 9.69,
-          "impressions": 4183,
+          "impressions": 4188,
           "clicks": 65,
           "leads": 1
         },
@@ -4461,8 +4461,8 @@
           "date": "2026-08-19",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 10.51,
-          "impressions": 3466,
+          "spend": 10.52,
+          "impressions": 3471,
           "clicks": 34,
           "leads": 2
         },
@@ -4470,8 +4470,8 @@
           "date": "2026-08-19",
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
-          "spend": 8.34,
-          "impressions": 3100,
+          "spend": 8.35,
+          "impressions": 3101,
           "clicks": 31,
           "leads": 0
         }
@@ -6930,8 +6930,8 @@
           "date": "2026-08-19",
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
-          "spend": 4.09,
-          "impressions": 1287,
+          "spend": 4.1,
+          "impressions": 1290,
           "clicks": 17,
           "leads": 0
         },
@@ -6939,8 +6939,8 @@
           "date": "2026-08-19",
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
-          "spend": 8.09,
-          "impressions": 1514,
+          "spend": 8.1,
+          "impressions": 1515,
           "clicks": 26,
           "leads": 2
         }
