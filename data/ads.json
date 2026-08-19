@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T19:48:16.369Z",
+  "generated_at": "2026-08-19T19:59:47.863Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -11363,8 +11363,8 @@
           "date": "2026-08-18",
           "campaign_id": "120252140195060392",
           "campaign_name": "Kurs Prof Ukr - EU",
-          "spend": 79.6,
-          "impressions": 2603,
+          "spend": 79.61,
+          "impressions": 2604,
           "clicks": 62,
           "leads": 2
         }
