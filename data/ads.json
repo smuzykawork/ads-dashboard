@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T05:01:37.664Z",
+  "generated_at": "2026-08-19T05:13:10.804Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4435,7 +4435,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 8.63,
-          "impressions": 3354,
+          "impressions": 3358,
           "clicks": 42,
           "leads": 0
         },
@@ -4444,7 +4444,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 11.84,
-          "impressions": 4619,
+          "impressions": 4621,
           "clicks": 81,
           "leads": 2
         },
@@ -4453,7 +4453,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 8.11,
-          "impressions": 3342,
+          "impressions": 3345,
           "clicks": 21,
           "leads": 0
         },
@@ -6886,7 +6886,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 8.22,
-          "impressions": 1665,
+          "impressions": 1667,
           "clicks": 28,
           "leads": 4
         },
@@ -11363,8 +11363,8 @@
           "date": "2026-08-18",
           "campaign_id": "120252140195060392",
           "campaign_name": "Kurs Prof Ukr - EU",
-          "spend": 79.41,
-          "impressions": 2596,
+          "spend": 79.51,
+          "impressions": 2597,
           "clicks": 62,
           "leads": 2
         }
