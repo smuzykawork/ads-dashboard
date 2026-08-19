@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:24:47.285Z",
+  "generated_at": "2026-08-19T07:48:46.634Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4452,8 +4452,8 @@
           "date": "2026-08-18",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 8.12,
-          "impressions": 3355,
+          "spend": 8.14,
+          "impressions": 3358,
           "clicks": 21,
           "leads": 0
         },
@@ -4462,7 +4462,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 7.92,
-          "impressions": 2636,
+          "impressions": 2637,
           "clicks": 43,
           "leads": 1
         }
@@ -6895,7 +6895,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 8.27,
-          "impressions": 2647,
+          "impressions": 2648,
           "clicks": 16,
           "leads": 1
         },
@@ -6913,7 +6913,7 @@
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 10.73,
-          "impressions": 2036,
+          "impressions": 2037,
           "clicks": 28,
           "leads": 1
         }
@@ -7813,7 +7813,7 @@
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 5.02,
-          "impressions": 1283,
+          "impressions": 1284,
           "clicks": 13,
           "leads": 2
         }
