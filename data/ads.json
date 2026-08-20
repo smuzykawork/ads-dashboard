@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:06:16.013Z",
+  "generated_at": "2026-08-20T03:24:04.357Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4444,7 +4444,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 10.66,
-          "impressions": 5020,
+          "impressions": 5027,
           "clicks": 53,
           "leads": 0
         },
@@ -4452,8 +4452,8 @@
           "date": "2026-08-19",
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
-          "spend": 9.71,
-          "impressions": 4201,
+          "spend": 9.73,
+          "impressions": 4205,
           "clicks": 66,
           "leads": 1
         },
@@ -4462,7 +4462,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 10.55,
-          "impressions": 3482,
+          "impressions": 3483,
           "clicks": 34,
           "leads": 2
         },
@@ -4470,8 +4470,8 @@
           "date": "2026-08-19",
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
-          "spend": 8.36,
-          "impressions": 3102,
+          "spend": 8.37,
+          "impressions": 3104,
           "clicks": 31,
           "leads": 0
         }
@@ -6912,8 +6912,8 @@
           "date": "2026-08-19",
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
-          "spend": 6.81,
-          "impressions": 1269,
+          "spend": 6.83,
+          "impressions": 1270,
           "clicks": 25,
           "leads": 2
         },
