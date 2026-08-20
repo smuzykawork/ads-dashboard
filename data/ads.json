@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T13:57:01.272Z",
+  "generated_at": "2026-08-20T14:09:21.115Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4452,8 +4452,8 @@
           "date": "2026-08-19",
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
-          "spend": 9.77,
-          "impressions": 4274,
+          "spend": 9.78,
+          "impressions": 4275,
           "clicks": 66,
           "leads": 1
         },
@@ -7840,7 +7840,7 @@
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 11.07,
-          "impressions": 3179,
+          "impressions": 3180,
           "clicks": 49,
           "leads": 3
         }
