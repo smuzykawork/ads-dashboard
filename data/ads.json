@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:36:21.191Z",
+  "generated_at": "2026-08-20T11:51:59.630Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4416,8 +4416,8 @@
           "date": "2026-08-18",
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
-          "spend": 11.89,
-          "impressions": 4650,
+          "spend": 11.91,
+          "impressions": 4652,
           "clicks": 81,
           "leads": 2
         },
@@ -11391,7 +11391,7 @@
           "campaign_id": "120252140195060392",
           "campaign_name": "Kurs Prof Ukr - EU",
           "spend": 60.01,
-          "impressions": 1917,
+          "impressions": 1918,
           "clicks": 40,
           "leads": 3
         }
