@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:02:38.530Z",
+  "generated_at": "2026-08-20T23:35:08.489Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4443,8 +4443,8 @@
           "date": "2026-08-20",
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 10.05,
-          "impressions": 5248,
+          "spend": 10.07,
+          "impressions": 5252,
           "clicks": 59,
           "leads": 2
         },
@@ -4462,7 +4462,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 9.31,
-          "impressions": 3347,
+          "impressions": 3350,
           "clicks": 46,
           "leads": 0
         },
@@ -6949,7 +6949,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 6.89,
-          "impressions": 2130,
+          "impressions": 2131,
           "clicks": 17,
           "leads": 0
         },
@@ -6958,7 +6958,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 3.32,
-          "impressions": 1196,
+          "impressions": 1197,
           "clicks": 5,
           "leads": 0
         },
@@ -11417,8 +11417,8 @@
           "date": "2026-08-20",
           "campaign_id": "120252236032780392",
           "campaign_name": "Profesia na site",
-          "spend": 70.66,
-          "impressions": 6895,
+          "spend": 70.67,
+          "impressions": 6896,
           "clicks": 170,
           "leads": 0
         }
