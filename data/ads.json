@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T09:17:04.526Z",
+  "generated_at": "2026-08-20T09:45:58.024Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4444,7 +4444,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 10.78,
-          "impressions": 5133,
+          "impressions": 5135,
           "clicks": 54,
           "leads": 0
         },
@@ -4453,7 +4453,7 @@
           "campaign_id": "120247832123130027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 9.76,
-          "impressions": 4263,
+          "impressions": 4266,
           "clicks": 66,
           "leads": 1
         },
@@ -6922,7 +6922,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 7.86,
-          "impressions": 1780,
+          "impressions": 1781,
           "clicks": 10,
           "leads": 0
         },
@@ -11390,8 +11390,8 @@
           "date": "2026-08-19",
           "campaign_id": "120252140195060392",
           "campaign_name": "Kurs Prof Ukr - EU",
-          "spend": 60,
-          "impressions": 1916,
+          "spend": 60.01,
+          "impressions": 1917,
           "clicks": 40,
           "leads": 3
         }
