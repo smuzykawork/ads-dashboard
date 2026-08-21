@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T08:04:04.210Z",
+  "generated_at": "2026-08-21T08:19:22.574Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4444,7 +4444,7 @@
           "campaign_id": "120247139188530027",
           "campaign_name": "Курс ОН Монт.Конд",
           "spend": 10.13,
-          "impressions": 5333,
+          "impressions": 5336,
           "clicks": 60,
           "leads": 2
         },
@@ -4461,8 +4461,8 @@
           "date": "2026-08-20",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 9.41,
-          "impressions": 3394,
+          "spend": 9.42,
+          "impressions": 3395,
           "clicks": 46,
           "leads": 0
         },
@@ -6958,7 +6958,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 3.35,
-          "impressions": 1211,
+          "impressions": 1212,
           "clicks": 5,
           "leads": 0
         },
@@ -6967,7 +6967,7 @@
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 6.57,
-          "impressions": 1241,
+          "impressions": 1242,
           "clicks": 19,
           "leads": 1
         }
