@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:49:22.311Z",
+  "generated_at": "2026-08-21T23:00:44.755Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4461,8 +4461,8 @@
           "date": "2026-08-21",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 10.09,
-          "impressions": 4181,
+          "spend": 10.13,
+          "impressions": 4184,
           "clicks": 49,
           "leads": 5
         },
@@ -4479,8 +4479,8 @@
           "date": "2026-08-21",
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
-          "spend": 14.63,
-          "impressions": 4724,
+          "spend": 14.65,
+          "impressions": 4725,
           "clicks": 90,
           "leads": 3
         }
@@ -6967,7 +6967,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 7.04,
-          "impressions": 1392,
+          "impressions": 1393,
           "clicks": 21,
           "leads": 1
         },
