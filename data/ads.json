@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T09:06:16.473Z",
+  "generated_at": "2026-08-21T09:19:06.978Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -81,7 +81,7 @@
         {
           "id": "120247139188530027",
           "name": "Курс ОН Монт.Конд",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -4462,7 +4462,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 9.42,
-          "impressions": 3395,
+          "impressions": 3396,
           "clicks": 46,
           "leads": 0
         },
@@ -4471,7 +4471,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 13.08,
-          "impressions": 5228,
+          "impressions": 5229,
           "clicks": 89,
           "leads": 7
         },
