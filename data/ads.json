@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T21:57:45.343Z",
+  "generated_at": "2026-08-22T22:33:11.858Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4453,7 +4453,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 10.65,
-          "impressions": 3747,
+          "impressions": 3748,
           "clicks": 38,
           "leads": 0
         },
@@ -4461,8 +4461,8 @@
           "date": "2026-08-22",
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
-          "spend": 7.5,
-          "impressions": 2480,
+          "spend": 7.51,
+          "impressions": 2483,
           "clicks": 50,
           "leads": 0
         },
@@ -4471,7 +4471,7 @@
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
           "spend": 18.59,
-          "impressions": 3998,
+          "impressions": 4001,
           "clicks": 75,
           "leads": 3
         }
@@ -7003,7 +7003,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 3.11,
-          "impressions": 1257,
+          "impressions": 1258,
           "clicks": 9,
           "leads": 0
         },
@@ -7012,7 +7012,7 @@
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 6.85,
-          "impressions": 987,
+          "impressions": 988,
           "clicks": 9,
           "leads": 2
         }
@@ -7911,8 +7911,8 @@
           "date": "2026-08-22",
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
-          "spend": 9.01,
-          "impressions": 2749,
+          "spend": 9.02,
+          "impressions": 2753,
           "clicks": 44,
           "leads": 6
         }
@@ -11456,6 +11456,15 @@
           "spend": 53.63,
           "impressions": 5721,
           "clicks": 152,
+          "leads": 0
+        },
+        {
+          "date": "2026-08-22",
+          "campaign_id": "120252236032780392",
+          "campaign_name": "Profesia na site",
+          "spend": 56.06,
+          "impressions": 5856,
+          "clicks": 141,
           "leads": 0
         }
       ]
