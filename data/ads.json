@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T06:00:59.936Z",
+  "generated_at": "2026-08-22T06:55:07.079Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4461,8 +4461,8 @@
           "date": "2026-08-21",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 10.18,
-          "impressions": 4222,
+          "spend": 10.19,
+          "impressions": 4233,
           "clicks": 50,
           "leads": 5
         },
@@ -4470,8 +4470,8 @@
           "date": "2026-08-21",
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
-          "spend": 9.08,
-          "impressions": 3458,
+          "spend": 9.09,
+          "impressions": 3459,
           "clicks": 64,
           "leads": 1
         },
@@ -4479,9 +4479,9 @@
           "date": "2026-08-21",
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
-          "spend": 14.75,
-          "impressions": 4775,
-          "clicks": 92,
+          "spend": 14.77,
+          "impressions": 4781,
+          "clicks": 93,
           "leads": 3
         }
       ]
@@ -6984,8 +6984,8 @@
           "date": "2026-08-21",
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
-          "spend": 3.75,
-          "impressions": 1323,
+          "spend": 3.77,
+          "impressions": 1325,
           "clicks": 19,
           "leads": 4
         },
@@ -6994,7 +6994,7 @@
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 6.66,
-          "impressions": 1109,
+          "impressions": 1110,
           "clicks": 26,
           "leads": 0
         }
@@ -7894,7 +7894,7 @@
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 10.33,
-          "impressions": 3159,
+          "impressions": 3160,
           "clicks": 54,
           "leads": 4
         }
