@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:18:53.085Z",
+  "generated_at": "2026-08-22T07:39:27.943Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4461,8 +4461,8 @@
           "date": "2026-08-21",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 10.19,
-          "impressions": 4234,
+          "spend": 10.2,
+          "impressions": 4235,
           "clicks": 50,
           "leads": 5
         },
@@ -6967,7 +6967,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 7.08,
-          "impressions": 1399,
+          "impressions": 1401,
           "clicks": 21,
           "leads": 1
         },
@@ -6976,7 +6976,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 6.46,
-          "impressions": 1825,
+          "impressions": 1826,
           "clicks": 17,
           "leads": 2
         },
@@ -6985,7 +6985,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 3.77,
-          "impressions": 1325,
+          "impressions": 1326,
           "clicks": 19,
           "leads": 4
         },
@@ -6994,7 +6994,7 @@
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 6.66,
-          "impressions": 1110,
+          "impressions": 1112,
           "clicks": 26,
           "leads": 0
         }
@@ -11444,8 +11444,8 @@
           "date": "2026-08-21",
           "campaign_id": "120252236032780392",
           "campaign_name": "Profesia na site",
-          "spend": 53.6,
-          "impressions": 5717,
+          "spend": 53.61,
+          "impressions": 5718,
           "clicks": 151,
           "leads": 0
         }
