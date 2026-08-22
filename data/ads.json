@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T04:16:49.294Z",
+  "generated_at": "2026-08-22T04:43:42.253Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4461,8 +4461,8 @@
           "date": "2026-08-21",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 10.15,
-          "impressions": 4203,
+          "spend": 10.17,
+          "impressions": 4211,
           "clicks": 50,
           "leads": 5
         },
@@ -4480,7 +4480,7 @@
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
           "spend": 14.74,
-          "impressions": 4755,
+          "impressions": 4760,
           "clicks": 92,
           "leads": 3
         }
@@ -6976,7 +6976,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 6.46,
-          "impressions": 1813,
+          "impressions": 1817,
           "clicks": 17,
           "leads": 2
         },
@@ -6985,7 +6985,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 3.75,
-          "impressions": 1316,
+          "impressions": 1317,
           "clicks": 19,
           "leads": 4
         },
@@ -6993,8 +6993,8 @@
           "date": "2026-08-21",
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
-          "spend": 6.64,
-          "impressions": 1105,
+          "spend": 6.65,
+          "impressions": 1106,
           "clicks": 25,
           "leads": 0
         }
