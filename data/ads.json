@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T05:37:11.360Z",
+  "generated_at": "2026-08-22T05:51:33.903Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4462,7 +4462,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 10.17,
-          "impressions": 4218,
+          "impressions": 4220,
           "clicks": 50,
           "leads": 5
         },
@@ -4480,7 +4480,7 @@
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
           "spend": 14.75,
-          "impressions": 4772,
+          "impressions": 4774,
           "clicks": 92,
           "leads": 3
         }
@@ -6966,8 +6966,8 @@
           "date": "2026-08-21",
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
-          "spend": 7.07,
-          "impressions": 1397,
+          "spend": 7.08,
+          "impressions": 1399,
           "clicks": 21,
           "leads": 1
         },
@@ -6985,7 +6985,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 3.75,
-          "impressions": 1319,
+          "impressions": 1320,
           "clicks": 19,
           "leads": 4
         },
@@ -6994,8 +6994,8 @@
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 6.65,
-          "impressions": 1106,
-          "clicks": 25,
+          "impressions": 1107,
+          "clicks": 26,
           "leads": 0
         }
       ]
@@ -7893,8 +7893,8 @@
           "date": "2026-08-21",
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
-          "spend": 10.32,
-          "impressions": 3157,
+          "spend": 10.33,
+          "impressions": 3158,
           "clicks": 54,
           "leads": 4
         }
