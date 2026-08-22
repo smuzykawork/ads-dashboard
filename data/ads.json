@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T08:42:17.804Z",
+  "generated_at": "2026-08-22T08:56:20.845Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4471,7 +4471,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 9.09,
-          "impressions": 3459,
+          "impressions": 3460,
           "clicks": 64,
           "leads": 1
         },
