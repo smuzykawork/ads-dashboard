@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T22:33:35.105Z",
+  "generated_at": "2026-08-23T22:46:23.725Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4444,7 +4444,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 10.19,
-          "impressions": 3117,
+          "impressions": 3119,
           "clicks": 32,
           "leads": 2
         },
@@ -4461,8 +4461,8 @@
           "date": "2026-08-23",
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
-          "spend": 21.99,
-          "impressions": 4457,
+          "spend": 22,
+          "impressions": 4459,
           "clicks": 87,
           "leads": 2
         }
@@ -7012,7 +7012,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 5.47,
-          "impressions": 1646,
+          "impressions": 1647,
           "clicks": 11,
           "leads": 0
         },
@@ -7020,8 +7020,8 @@
           "date": "2026-08-23",
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
-          "spend": 4.71,
-          "impressions": 1359,
+          "spend": 4.72,
+          "impressions": 1360,
           "clicks": 19,
           "leads": 2
         },
@@ -11480,8 +11480,8 @@
           "date": "2026-08-23",
           "campaign_id": "120252236032780392",
           "campaign_name": "Profesia na site",
-          "spend": 72.9,
-          "impressions": 7455,
+          "spend": 72.92,
+          "impressions": 7456,
           "clicks": 165,
           "leads": 0
         }
