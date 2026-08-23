@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T11:57:42.856Z",
+  "generated_at": "2026-08-23T12:57:52.002Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -6984,8 +6984,8 @@
           "date": "2026-08-22",
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
-          "spend": 5.8,
-          "impressions": 1191,
+          "spend": 5.81,
+          "impressions": 1192,
           "clicks": 15,
           "leads": 1
         },
