@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:23:43.728Z",
+  "generated_at": "2026-08-24T07:15:12.369Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4435,7 +4435,7 @@
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
           "spend": 18.6,
-          "impressions": 4031,
+          "impressions": 4032,
           "clicks": 76,
           "leads": 3
         },
@@ -4444,7 +4444,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 10.26,
-          "impressions": 3144,
+          "impressions": 3147,
           "clicks": 32,
           "leads": 2
         },
@@ -4452,8 +4452,8 @@
           "date": "2026-08-23",
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
-          "spend": 12.96,
-          "impressions": 4658,
+          "spend": 12.98,
+          "impressions": 4662,
           "clicks": 94,
           "leads": 5
         },
@@ -4461,8 +4461,8 @@
           "date": "2026-08-23",
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
-          "spend": 22.15,
-          "impressions": 4514,
+          "spend": 22.17,
+          "impressions": 4519,
           "clicks": 88,
           "leads": 2
         }
@@ -7012,7 +7012,7 @@
           "campaign_id": "120245543377600292",
           "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 5.47,
-          "impressions": 1660,
+          "impressions": 1661,
           "clicks": 11,
           "leads": 0
         },
@@ -7021,7 +7021,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 4.73,
-          "impressions": 1374,
+          "impressions": 1375,
           "clicks": 19,
           "leads": 2
         },
@@ -7030,7 +7030,7 @@
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 9.69,
-          "impressions": 1705,
+          "impressions": 1707,
           "clicks": 50,
           "leads": 2
         }
