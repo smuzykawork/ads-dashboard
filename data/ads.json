@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T17:15:35.170Z",
+  "generated_at": "2026-08-24T17:39:42.635Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7006,7 +7006,7 @@
           "campaign_id": "120246007640630292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 6.88,
-          "impressions": 994,
+          "impressions": 995,
           "clicks": 9,
           "leads": 2
         },
@@ -11158,8 +11158,8 @@
           "date": "2026-08-23",
           "campaign_id": "120252236032780392",
           "campaign_name": "Profesia na site",
-          "spend": 73.01,
-          "impressions": 7462,
+          "spend": 73.02,
+          "impressions": 7463,
           "clicks": 166,
           "leads": 0
         }
