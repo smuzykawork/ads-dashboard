@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T19:17:34.795Z",
+  "generated_at": "2026-08-25T19:40:10.446Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -9164,7 +9164,7 @@
         {
           "id": "120252236032780392",
           "name": "Profesia na site",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_TRAFFIC"
         },
         {
