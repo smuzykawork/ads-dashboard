@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T16:18:01.961Z",
+  "generated_at": "2026-08-25T16:50:14.268Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -11519,8 +11519,8 @@
           "date": "2026-08-24",
           "campaign_id": "120252236032780392",
           "campaign_name": "Profesia na site",
-          "spend": 59.73,
-          "impressions": 6149,
+          "spend": 59.75,
+          "impressions": 6150,
           "clicks": 126,
           "leads": 0
         }
