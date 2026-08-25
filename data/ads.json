@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T20:39:56.420Z",
+  "generated_at": "2026-08-25T20:54:37.559Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4425,8 +4425,8 @@
           "date": "2026-08-24",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 10.19,
-          "impressions": 3878,
+          "spend": 10.2,
+          "impressions": 3879,
           "clicks": 30,
           "leads": 0
         },
@@ -7024,7 +7024,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 7.93,
-          "impressions": 1283,
+          "impressions": 1284,
           "clicks": 27,
           "leads": 3
         },
