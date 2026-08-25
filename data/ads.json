@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T23:58:26.644Z",
+  "generated_at": "2026-08-25T01:47:22.663Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4426,7 +4426,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 10.09,
-          "impressions": 3795,
+          "impressions": 3798,
           "clicks": 28,
           "leads": 0
         },
@@ -4435,7 +4435,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 11.24,
-          "impressions": 4938,
+          "impressions": 4940,
           "clicks": 112,
           "leads": 5
         },
@@ -4444,7 +4444,7 @@
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
           "spend": 17.25,
-          "impressions": 3261,
+          "impressions": 3262,
           "clicks": 75,
           "leads": 1
         }
@@ -7024,7 +7024,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 7.92,
-          "impressions": 1274,
+          "impressions": 1275,
           "clicks": 27,
           "leads": 3
         },
@@ -7042,7 +7042,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 4.51,
-          "impressions": 1419,
+          "impressions": 1420,
           "clicks": 12,
           "leads": 2
         },
@@ -7068,8 +7068,8 @@
           "date": "2026-08-24",
           "campaign_id": "120246318688090292",
           "campaign_name": "Дилер Контакти 24.08",
-          "spend": 3.02,
-          "impressions": 648,
+          "spend": 3.03,
+          "impressions": 649,
           "clicks": 3,
           "leads": 1
         }
@@ -7969,7 +7969,7 @@
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 11.06,
-          "impressions": 3832,
+          "impressions": 3834,
           "clicks": 64,
           "leads": 7
         }
@@ -11520,7 +11520,7 @@
           "campaign_id": "120252236032780392",
           "campaign_name": "Profesia na site",
           "spend": 59.69,
-          "impressions": 6144,
+          "impressions": 6145,
           "clicks": 126,
           "leads": 0
         }
