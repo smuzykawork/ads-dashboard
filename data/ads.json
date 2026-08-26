@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:10:23.430Z",
+  "generated_at": "2026-08-26T09:24:35.399Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4407,8 +4407,8 @@
           "date": "2026-08-25",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 8.82,
-          "impressions": 3097,
+          "spend": 8.83,
+          "impressions": 3098,
           "clicks": 37,
           "leads": 0
         },
@@ -4426,7 +4426,7 @@
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
           "spend": 20.04,
-          "impressions": 3398,
+          "impressions": 3399,
           "clicks": 71,
           "leads": 1
         }
@@ -7069,7 +7069,7 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 9.22,
-          "impressions": 1175,
+          "impressions": 1176,
           "clicks": 30,
           "leads": 1
         },
