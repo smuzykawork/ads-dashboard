@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T23:24:07.720Z",
+  "generated_at": "2026-08-27T00:56:37.524Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4380,8 +4380,8 @@
           "date": "2026-08-26",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 10.03,
-          "impressions": 3503,
+          "spend": 10.09,
+          "impressions": 3509,
           "clicks": 33,
           "leads": 2
         },
@@ -4389,8 +4389,8 @@
           "date": "2026-08-26",
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
-          "spend": 7.72,
-          "impressions": 2473,
+          "spend": 7.77,
+          "impressions": 2476,
           "clicks": 49,
           "leads": 0
         },
@@ -7059,8 +7059,8 @@
           "date": "2026-08-26",
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
-          "spend": 4.27,
-          "impressions": 1332,
+          "spend": 4.33,
+          "impressions": 1336,
           "clicks": 12,
           "leads": 1
         },
@@ -7069,16 +7069,16 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.34,
-          "impressions": 1185,
-          "clicks": 32,
+          "impressions": 1188,
+          "clicks": 33,
           "leads": 3
         },
         {
           "date": "2026-08-26",
           "campaign_id": "120246318688090292",
           "campaign_name": "Дилер Контакти 24.08",
-          "spend": 5.32,
-          "impressions": 1099,
+          "spend": 5.33,
+          "impressions": 1100,
           "clicks": 12,
           "leads": 1
         }
@@ -7977,8 +7977,8 @@
           "date": "2026-08-26",
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
-          "spend": 7.86,
-          "impressions": 2006,
+          "spend": 7.88,
+          "impressions": 2011,
           "clicks": 17,
           "leads": 0
         }
@@ -9152,6 +9152,12 @@
       "name": "Academy Aklima",
       "currency": "PLN",
       "campaigns": [
+        {
+          "id": "120252365230840392",
+          "name": "FGAZ Knopka",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120252236032780392",
           "name": "Profesia na site",
@@ -10345,12 +10351,6 @@
           "name": "Анімація Біла",
           "status": "PAUSED",
           "objective": "OUTCOME_TRAFFIC"
-        },
-        {
-          "id": "120211400075770392",
-          "name": "Post: \"🔧🏢 Szukamy serwisanta do pracy w Warszawie!...\"",
-          "status": "PAUSED",
-          "objective": "MESSAGES"
         }
       ],
       "daily": [
