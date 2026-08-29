@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T14:25:01.845Z",
+  "generated_at": "2026-08-29T14:41:37.742Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -9134,7 +9134,7 @@
         {
           "id": "120252365230840392",
           "name": "FGAZ Knopka",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
