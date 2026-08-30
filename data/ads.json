@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T22:56:04.655Z",
+  "generated_at": "2026-08-30T23:25:37.967Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4273,7 +4273,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 11.75,
-          "impressions": 3734,
+          "impressions": 3738,
           "clicks": 40,
           "leads": 3
         },
@@ -7050,8 +7050,8 @@
           "date": "2026-08-30",
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
-          "spend": 4.84,
-          "impressions": 1566,
+          "spend": 4.85,
+          "impressions": 1567,
           "clicks": 8,
           "leads": 0
         },
@@ -7059,8 +7059,8 @@
           "date": "2026-08-30",
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
-          "spend": 9.3,
-          "impressions": 1303,
+          "spend": 9.31,
+          "impressions": 1304,
           "clicks": 36,
           "leads": 2
         },
@@ -11501,8 +11501,8 @@
           "date": "2026-08-30",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 10.82,
-          "impressions": 482,
+          "spend": 10.86,
+          "impressions": 486,
           "clicks": 8,
           "leads": 0
         },
@@ -11510,9 +11510,9 @@
           "date": "2026-08-30",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 6.68,
-          "impressions": 278,
-          "clicks": 2,
+          "spend": 6.73,
+          "impressions": 280,
+          "clicks": 3,
           "leads": 0
         },
         {
