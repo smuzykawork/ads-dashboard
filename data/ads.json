@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T17:46:14.075Z",
+  "generated_at": "2026-08-30T20:05:14.136Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4300,7 +4300,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 8.95,
-          "impressions": 2818,
+          "impressions": 2819,
           "clicks": 30,
           "leads": 1
         },
@@ -4308,8 +4308,8 @@
           "date": "2026-08-29",
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
-          "spend": 18.89,
-          "impressions": 7255,
+          "spend": 18.9,
+          "impressions": 7257,
           "clicks": 116,
           "leads": 7
         },
@@ -7059,8 +7059,8 @@
           "date": "2026-08-29",
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
-          "spend": 3.31,
-          "impressions": 1094,
+          "spend": 3.32,
+          "impressions": 1095,
           "clicks": 13,
           "leads": 2
         },
@@ -7969,7 +7969,7 @@
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 8.23,
-          "impressions": 2065,
+          "impressions": 2066,
           "clicks": 33,
           "leads": 3
         },
@@ -7978,7 +7978,7 @@
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 9.43,
-          "impressions": 2225,
+          "impressions": 2226,
           "clicks": 38,
           "leads": 3
         }
@@ -9197,7 +9197,7 @@
         {
           "id": "120248315379390392",
           "name": "Kurs N5 Serwis",
-          "status": "PAUSED",
+          "status": "ACTIVE",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -9209,7 +9209,7 @@
         {
           "id": "120245836336330392",
           "name": "Kurs 2 Klima new",
-          "status": "PAUSED",
+          "status": "ACTIVE",
           "objective": "OUTCOME_LEADS"
         },
         {
