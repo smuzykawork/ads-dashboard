@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T23:46:18.979Z",
+  "generated_at": "2026-08-31T23:58:28.780Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4228,7 +4228,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 11.46,
-          "impressions": 4264,
+          "impressions": 4266,
           "clicks": 37,
           "leads": 2
         },
@@ -4237,7 +4237,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 13.8,
-          "impressions": 5079,
+          "impressions": 5081,
           "clicks": 68,
           "leads": 3
         },
@@ -7024,7 +7024,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 4.1,
-          "impressions": 1162,
+          "impressions": 1163,
           "clicks": 14,
           "leads": 1
         },
@@ -11475,7 +11475,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 95.55,
-          "impressions": 4777,
+          "impressions": 4778,
           "clicks": 123,
           "leads": 8
         },
