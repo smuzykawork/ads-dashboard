@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T12:04:53.936Z",
+  "generated_at": "2026-09-01T14:47:31.507Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4227,8 +4227,8 @@
           "date": "2026-08-31",
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
-          "spend": 11.58,
-          "impressions": 4334,
+          "spend": 11.59,
+          "impressions": 4339,
           "clicks": 37,
           "leads": 2
         },
@@ -4236,8 +4236,8 @@
           "date": "2026-08-31",
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
-          "spend": 13.9,
-          "impressions": 5138,
+          "spend": 13.92,
+          "impressions": 5142,
           "clicks": 69,
           "leads": 3
         },
@@ -7015,7 +7015,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 7.62,
-          "impressions": 1651,
+          "impressions": 1652,
           "clicks": 28,
           "leads": 4
         },
@@ -7024,7 +7024,7 @@
           "campaign_id": "120245840198040292",
           "campaign_name": "Дилери вебінар – копія",
           "spend": 4.12,
-          "impressions": 1177,
+          "impressions": 1178,
           "clicks": 14,
           "leads": 1
         },
@@ -7033,7 +7033,7 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 9.8,
-          "impressions": 1710,
+          "impressions": 1711,
           "clicks": 28,
           "leads": 2
         },
@@ -7941,8 +7941,8 @@
           "date": "2026-08-31",
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
-          "spend": 10.77,
-          "impressions": 3005,
+          "spend": 10.8,
+          "impressions": 3007,
           "clicks": 58,
           "leads": 8
         }
@@ -11474,8 +11474,8 @@
           "date": "2026-08-31",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 96.8,
-          "impressions": 4821,
+          "spend": 96.83,
+          "impressions": 4823,
           "clicks": 124,
           "leads": 8
         },
