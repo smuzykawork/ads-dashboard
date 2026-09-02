@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T00:23:07.993Z",
+  "generated_at": "2026-09-02T01:25:30.837Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4182,8 +4182,8 @@
           "date": "2026-08-31",
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
-          "spend": 13.94,
-          "impressions": 5145,
+          "spend": 13.95,
+          "impressions": 5146,
           "clicks": 70,
           "leads": 3
         },
@@ -4201,7 +4201,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 3.57,
-          "impressions": 1490,
+          "impressions": 1491,
           "clicks": 22,
           "leads": 2
         },
@@ -7024,7 +7024,7 @@
           "campaign_id": "120246318688090292",
           "campaign_name": "Дилер Контакти 24.08",
           "spend": 5.73,
-          "impressions": 890,
+          "impressions": 891,
           "clicks": 6,
           "leads": 0
         }
@@ -11465,8 +11465,8 @@
           "date": "2026-09-01",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 68.73,
-          "impressions": 4728,
+          "spend": 68.76,
+          "impressions": 4732,
           "clicks": 71,
           "leads": 4
         },
