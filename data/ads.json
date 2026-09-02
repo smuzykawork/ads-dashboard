@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:44:19.867Z",
+  "generated_at": "2026-09-02T14:23:07.112Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -6997,7 +6997,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 6.8,
-          "impressions": 1410,
+          "impressions": 1411,
           "clicks": 19,
           "leads": 1
         },
@@ -7015,7 +7015,7 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.68,
-          "impressions": 1473,
+          "impressions": 1474,
           "clicks": 22,
           "leads": 0
         },
@@ -11457,7 +11457,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 78.42,
-          "impressions": 4237,
+          "impressions": 4239,
           "clicks": 99,
           "leads": 2
         },
@@ -11466,7 +11466,7 @@
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
           "spend": 69.58,
-          "impressions": 4786,
+          "impressions": 4788,
           "clicks": 73,
           "leads": 4
         },
@@ -11474,8 +11474,8 @@
           "date": "2026-09-01",
           "campaign_id": "120252379723490392",
           "campaign_name": "FGAZY Forma",
-          "spend": 88.68,
-          "impressions": 2354,
+          "spend": 88.74,
+          "impressions": 2356,
           "clicks": 47,
           "leads": 2
         }
