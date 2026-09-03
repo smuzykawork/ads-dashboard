@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:35:43.919Z",
+  "generated_at": "2026-09-03T18:05:50.916Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7870,7 +7870,7 @@
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 9.13,
-          "impressions": 3377,
+          "impressions": 3378,
           "clicks": 43,
           "leads": 0
         }
@@ -11420,8 +11420,8 @@
           "date": "2026-09-02",
           "campaign_id": "120252379723490392",
           "campaign_name": "FGAZY Forma",
-          "spend": 88.05,
-          "impressions": 2551,
+          "spend": 88.06,
+          "impressions": 2552,
           "clicks": 49,
           "leads": 2
         }
