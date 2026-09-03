@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T00:42:02.009Z",
+  "generated_at": "2026-09-03T04:19:13.664Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -6951,8 +6951,8 @@
           "date": "2026-09-02",
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
-          "spend": 6.89,
-          "impressions": 1522,
+          "spend": 6.9,
+          "impressions": 1525,
           "clicks": 20,
           "leads": 2
         },
@@ -6960,8 +6960,8 @@
           "date": "2026-09-02",
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
-          "spend": 6.77,
-          "impressions": 1294,
+          "spend": 6.78,
+          "impressions": 1297,
           "clicks": 23,
           "leads": 0
         },
@@ -6970,7 +6970,7 @@
           "campaign_id": "120246318688090292",
           "campaign_name": "Дилер Контакти 24.08",
           "spend": 4.44,
-          "impressions": 583,
+          "impressions": 584,
           "clicks": 9,
           "leads": 1
         }
@@ -7869,8 +7869,8 @@
           "date": "2026-09-02",
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
-          "spend": 9.08,
-          "impressions": 3359,
+          "spend": 9.12,
+          "impressions": 3369,
           "clicks": 43,
           "leads": 0
         }
@@ -11402,8 +11402,8 @@
           "date": "2026-09-02",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 67.18,
-          "impressions": 3268,
+          "spend": 67.55,
+          "impressions": 3285,
           "clicks": 76,
           "leads": 1
         },
@@ -11411,8 +11411,8 @@
           "date": "2026-09-02",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 64.7,
-          "impressions": 4343,
+          "spend": 64.83,
+          "impressions": 4364,
           "clicks": 78,
           "leads": 4
         },
