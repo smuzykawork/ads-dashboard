@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-09-03T11:29:56.491Z",
+  "generated_at": "2026-09-03T14:26:54.511Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120248264714900027",
+          "name": "Курс ОФ Монт.Конд",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120248032664350027",
           "name": "Курс ОН сервісант систем конд і вент 19.08",
@@ -27,7 +33,7 @@
         {
           "id": "120247833451410027",
           "name": "проєктування 1=2",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -1197,12 +1203,6 @@
         {
           "id": "120210710308720027",
           "name": "Конверсія на сайті /Онлайн-курс «Вентиляція і кондиціонування повітря промислових будівель та споруд»/ 22.08",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120210702647390027",
-          "name": "Конверсія на сайті /Онлайн-курс «ТН»/ 21.08",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
