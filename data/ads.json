@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:05:51.164Z",
+  "generated_at": "2026-09-03T11:29:56.491Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -6952,7 +6952,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 6.9,
-          "impressions": 1527,
+          "impressions": 1528,
           "clicks": 20,
           "leads": 2
         },
@@ -6970,7 +6970,7 @@
           "campaign_id": "120246318688090292",
           "campaign_name": "Дилер Контакти 24.08",
           "spend": 4.46,
-          "impressions": 587,
+          "impressions": 588,
           "clicks": 9,
           "leads": 1
         }
@@ -7870,7 +7870,7 @@
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 9.13,
-          "impressions": 3376,
+          "impressions": 3377,
           "clicks": 43,
           "leads": 0
         }
@@ -11411,8 +11411,8 @@
           "date": "2026-09-02",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 65.36,
-          "impressions": 4402,
+          "spend": 65.38,
+          "impressions": 4404,
           "clicks": 78,
           "leads": 4
         },
