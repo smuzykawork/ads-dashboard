@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:08:59.771Z",
+  "generated_at": "2026-09-04T01:22:23.724Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4102,7 +4102,7 @@
           "campaign_id": "120247833451410027",
           "campaign_name": "проєктування 1=2",
           "spend": 6.68,
-          "impressions": 2554,
+          "impressions": 2555,
           "clicks": 27,
           "leads": 0
         },
@@ -4111,7 +4111,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 29.65,
-          "impressions": 9461,
+          "impressions": 9462,
           "clicks": 130,
           "leads": 2
         },
@@ -11394,7 +11394,7 @@
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
           "spend": 63.26,
-          "impressions": 4090,
+          "impressions": 4091,
           "clicks": 83,
           "leads": 5
         },
