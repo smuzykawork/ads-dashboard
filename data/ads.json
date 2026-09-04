@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T23:59:36.953Z",
+  "generated_at": "2026-09-04T01:08:59.771Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4111,7 +4111,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 29.65,
-          "impressions": 9459,
+          "impressions": 9461,
           "clicks": 130,
           "leads": 2
         },
@@ -7851,8 +7851,8 @@
           "date": "2026-09-03",
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
-          "spend": 9.91,
-          "impressions": 2967,
+          "spend": 9.92,
+          "impressions": 2968,
           "clicks": 51,
           "leads": 3
         }
@@ -11393,8 +11393,8 @@
           "date": "2026-09-03",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 63.24,
-          "impressions": 4089,
+          "spend": 63.26,
+          "impressions": 4090,
           "clicks": 83,
           "leads": 5
         },
@@ -11402,8 +11402,8 @@
           "date": "2026-09-03",
           "campaign_id": "120252379723490392",
           "campaign_name": "FGAZY Forma",
-          "spend": 101.37,
-          "impressions": 2599,
+          "spend": 101.46,
+          "impressions": 2602,
           "clicks": 45,
           "leads": 1
         }
