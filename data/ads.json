@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T21:22:56.578Z",
+  "generated_at": "2026-09-04T22:26:24.594Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4093,7 +4093,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 34.08,
-          "impressions": 10224,
+          "impressions": 10237,
           "clicks": 120,
           "leads": 8
         },
@@ -4101,8 +4101,8 @@
           "date": "2026-09-04",
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
-          "spend": 7.55,
-          "impressions": 1303,
+          "spend": 7.56,
+          "impressions": 1305,
           "clicks": 25,
           "leads": 1
         },
@@ -4110,8 +4110,8 @@
           "date": "2026-09-04",
           "campaign_id": "120248264714900027",
           "campaign_name": "Курс ОФ Монт.Конд",
-          "spend": 20.18,
-          "impressions": 4877,
+          "spend": 20.22,
+          "impressions": 4885,
           "clicks": 43,
           "leads": 2
         },
@@ -4119,8 +4119,8 @@
           "date": "2026-09-04",
           "campaign_id": "120248293934990027",
           "campaign_name": "Курс ОФ сервісант систем конд і вент",
-          "spend": 2.29,
-          "impressions": 556,
+          "spend": 2.31,
+          "impressions": 561,
           "clicks": 5,
           "leads": 0
         }
@@ -6933,8 +6933,8 @@
           "date": "2026-09-04",
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
-          "spend": 6.41,
-          "impressions": 1261,
+          "spend": 6.43,
+          "impressions": 1263,
           "clicks": 23,
           "leads": 3
         },
@@ -6942,8 +6942,8 @@
           "date": "2026-09-04",
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
-          "spend": 8.05,
-          "impressions": 1519,
+          "spend": 8.06,
+          "impressions": 1522,
           "clicks": 37,
           "leads": 4
         },
@@ -6951,8 +6951,8 @@
           "date": "2026-09-04",
           "campaign_id": "120246318688090292",
           "campaign_name": "Дилер Контакти 24.08",
-          "spend": 4.53,
-          "impressions": 788,
+          "spend": 4.54,
+          "impressions": 790,
           "clicks": 15,
           "leads": 0
         }
@@ -7852,7 +7852,7 @@
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 9.74,
-          "impressions": 2521,
+          "impressions": 2522,
           "clicks": 42,
           "leads": 4
         }
@@ -10139,24 +10139,6 @@
       ],
       "daily": [
         {
-          "date": "2026-06-06",
-          "campaign_id": "120245836336330392",
-          "campaign_name": "Kurs 2 Klima new",
-          "spend": 41.81,
-          "impressions": 2796,
-          "clicks": 36,
-          "leads": 1
-        },
-        {
-          "date": "2026-06-06",
-          "campaign_id": "120248315379390392",
-          "campaign_name": "Kurs N5 Serwis",
-          "spend": 85.55,
-          "impressions": 9105,
-          "clicks": 137,
-          "leads": 2
-        },
-        {
           "date": "2026-06-07",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
@@ -11397,6 +11379,33 @@
           "impressions": 2606,
           "clicks": 45,
           "leads": 1
+        },
+        {
+          "date": "2026-09-04",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 84.49,
+          "impressions": 5143,
+          "clicks": 84,
+          "leads": 3
+        },
+        {
+          "date": "2026-09-04",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 62.4,
+          "impressions": 3114,
+          "clicks": 53,
+          "leads": 4
+        },
+        {
+          "date": "2026-09-04",
+          "campaign_id": "120252379723490392",
+          "campaign_name": "FGAZY Forma",
+          "spend": 104.84,
+          "impressions": 3078,
+          "clicks": 48,
+          "leads": 2
         }
       ]
     }
