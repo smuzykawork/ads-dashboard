@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T23:20:44.526Z",
+  "generated_at": "2026-09-04T23:58:36.259Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4093,7 +4093,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 34.08,
-          "impressions": 10239,
+          "impressions": 10241,
           "clicks": 120,
           "leads": 8
         },
@@ -4111,7 +4111,7 @@
           "campaign_id": "120248264714900027",
           "campaign_name": "Курс ОФ Монт.Конд",
           "spend": 20.22,
-          "impressions": 4885,
+          "impressions": 4886,
           "clicks": 43,
           "leads": 2
         },
@@ -6934,7 +6934,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 6.44,
-          "impressions": 1265,
+          "impressions": 1266,
           "clicks": 23,
           "leads": 3
         },
@@ -11384,8 +11384,8 @@
           "date": "2026-09-04",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 84.71,
-          "impressions": 5153,
+          "spend": 84.84,
+          "impressions": 5160,
           "clicks": 84,
           "leads": 3
         },
@@ -11393,8 +11393,8 @@
           "date": "2026-09-04",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 62.8,
-          "impressions": 3122,
+          "spend": 62.81,
+          "impressions": 3123,
           "clicks": 53,
           "leads": 4
         },
