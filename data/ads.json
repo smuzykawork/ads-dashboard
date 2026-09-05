@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T23:58:36.259Z",
+  "generated_at": "2026-09-05T00:18:41.689Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4093,7 +4093,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 34.08,
-          "impressions": 10241,
+          "impressions": 10242,
           "clicks": 120,
           "leads": 8
         },
@@ -11384,8 +11384,8 @@
           "date": "2026-09-04",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 84.84,
-          "impressions": 5160,
+          "spend": 84.86,
+          "impressions": 5161,
           "clicks": 84,
           "leads": 3
         },
@@ -11394,7 +11394,7 @@
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
           "spend": 62.81,
-          "impressions": 3123,
+          "impressions": 3124,
           "clicks": 53,
           "leads": 4
         },
