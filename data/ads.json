@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T16:09:45.484Z",
+  "generated_at": "2026-09-05T16:56:56.258Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4093,7 +4093,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 34.22,
-          "impressions": 10327,
+          "impressions": 10328,
           "clicks": 120,
           "leads": 8
         },
@@ -6943,7 +6943,7 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.11,
-          "impressions": 1538,
+          "impressions": 1539,
           "clicks": 38,
           "leads": 4
         },
@@ -11402,8 +11402,8 @@
           "date": "2026-09-04",
           "campaign_id": "120252379723490392",
           "campaign_name": "FGAZY Forma",
-          "spend": 105.27,
-          "impressions": 3086,
+          "spend": 105.32,
+          "impressions": 3087,
           "clicks": 48,
           "leads": 2
         }
