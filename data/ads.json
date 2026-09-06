@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T21:17:07.307Z",
+  "generated_at": "2026-09-06T21:32:24.189Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4092,8 +4092,8 @@
           "date": "2026-09-06",
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
-          "spend": 22.17,
-          "impressions": 5160,
+          "spend": 22.18,
+          "impressions": 5162,
           "clicks": 71,
           "leads": 2
         },
@@ -4102,7 +4102,7 @@
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
           "spend": 6.23,
-          "impressions": 664,
+          "impressions": 665,
           "clicks": 14,
           "leads": 0
         },
@@ -4120,7 +4120,7 @@
           "campaign_id": "120248293934990027",
           "campaign_name": "Курс ОФ сервісант систем конд і вент",
           "spend": 13.54,
-          "impressions": 3280,
+          "impressions": 3281,
           "clicks": 34,
           "leads": 2
         }
@@ -6952,7 +6952,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 9.4,
-          "impressions": 1507,
+          "impressions": 1509,
           "clicks": 33,
           "leads": 4
         },
@@ -6961,7 +6961,7 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.87,
-          "impressions": 1304,
+          "impressions": 1306,
           "clicks": 18,
           "leads": 0
         },
