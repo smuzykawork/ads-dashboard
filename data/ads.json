@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T11:21:35.391Z",
+  "generated_at": "2026-09-06T13:36:56.386Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4093,7 +4093,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 29.98,
-          "impressions": 7893,
+          "impressions": 7894,
           "clicks": 113,
           "leads": 5
         },
@@ -4119,8 +4119,8 @@
           "date": "2026-09-05",
           "campaign_id": "120248293934990027",
           "campaign_name": "Курс ОФ сервісант систем конд і вент",
-          "spend": 9.75,
-          "impressions": 2199,
+          "spend": 9.76,
+          "impressions": 2200,
           "clicks": 23,
           "leads": 0
         }
@@ -7861,7 +7861,7 @@
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 8.76,
-          "impressions": 2262,
+          "impressions": 2263,
           "clicks": 32,
           "leads": 3
         }
@@ -11357,8 +11357,8 @@
           "date": "2026-09-04",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 85.94,
-          "impressions": 5214,
+          "spend": 85.96,
+          "impressions": 5215,
           "clicks": 84,
           "leads": 3
         },
@@ -11375,8 +11375,8 @@
           "date": "2026-09-04",
           "campaign_id": "120252379723490392",
           "campaign_name": "FGAZY Forma",
-          "spend": 105.37,
-          "impressions": 3090,
+          "spend": 105.39,
+          "impressions": 3091,
           "clicks": 48,
           "leads": 2
         },
@@ -11385,7 +11385,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 85.9,
-          "impressions": 4363,
+          "impressions": 4364,
           "clicks": 100,
           "leads": 3
         },
@@ -11393,8 +11393,8 @@
           "date": "2026-09-05",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 71.59,
-          "impressions": 4150,
+          "spend": 71.6,
+          "impressions": 4152,
           "clicks": 79,
           "leads": 2
         },
