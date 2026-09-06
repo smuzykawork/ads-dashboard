@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T23:49:02.620Z",
+  "generated_at": "2026-09-06T00:05:43.610Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4120,7 +4120,7 @@
           "campaign_id": "120248293934990027",
           "campaign_name": "Курс ОФ сервісант систем конд і вент",
           "spend": 9.75,
-          "impressions": 2185,
+          "impressions": 2186,
           "clicks": 23,
           "leads": 0
         }
@@ -11393,8 +11393,8 @@
           "date": "2026-09-05",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 71.46,
-          "impressions": 4125,
+          "spend": 71.47,
+          "impressions": 4126,
           "clicks": 79,
           "leads": 2
         },
