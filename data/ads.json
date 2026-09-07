@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T00:09:39.944Z",
+  "generated_at": "2026-09-07T01:18:28.309Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4092,8 +4092,8 @@
           "date": "2026-09-06",
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
-          "spend": 22.21,
-          "impressions": 5170,
+          "spend": 22.22,
+          "impressions": 5172,
           "clicks": 71,
           "leads": 2
         },
@@ -4110,8 +4110,8 @@
           "date": "2026-09-06",
           "campaign_id": "120248264714900027",
           "campaign_name": "Курс ОФ Монт.Конд",
-          "spend": 16.71,
-          "impressions": 2802,
+          "spend": 16.72,
+          "impressions": 2803,
           "clicks": 16,
           "leads": 0
         },
@@ -4120,7 +4120,7 @@
           "campaign_id": "120248293934990027",
           "campaign_name": "Курс ОФ сервісант систем конд і вент",
           "spend": 13.54,
-          "impressions": 3281,
+          "impressions": 3282,
           "clicks": 34,
           "leads": 2
         }
@@ -6960,8 +6960,8 @@
           "date": "2026-09-06",
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
-          "spend": 8.91,
-          "impressions": 1310,
+          "spend": 8.92,
+          "impressions": 1311,
           "clicks": 18,
           "leads": 0
         },
@@ -6970,7 +6970,7 @@
           "campaign_id": "120246318688090292",
           "campaign_name": "Дилер Контакти 24.08",
           "spend": 7.15,
-          "impressions": 766,
+          "impressions": 767,
           "clicks": 10,
           "leads": 1
         }
@@ -7870,7 +7870,7 @@
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 13.48,
-          "impressions": 3198,
+          "impressions": 3200,
           "clicks": 76,
           "leads": 7
         }
@@ -11402,8 +11402,8 @@
           "date": "2026-09-06",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 62.76,
-          "impressions": 4734,
+          "spend": 62.8,
+          "impressions": 4737,
           "clicks": 117,
           "leads": 3
         }
