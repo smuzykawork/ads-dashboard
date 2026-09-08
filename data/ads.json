@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-09-08T14:46:37.688Z",
+  "generated_at": "2026-09-08T18:07:37.360Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120248359151310027",
+          "name": "ОН Теплові насоси 08.09",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120248293934990027",
           "name": "Курс ОФ сервісант систем конд і вент",
@@ -27,7 +33,7 @@
         {
           "id": "120247920622710027",
           "name": "Курс ОН Монт.Конд НОВА",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -1197,12 +1203,6 @@
         {
           "id": "120210973710520027",
           "name": "Атмосфера монтажник",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120210973559580027",
-          "name": "Офлайн Монтажник 03.09.24",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -4101,8 +4101,8 @@
           "date": "2026-09-07",
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
-          "spend": 5.08,
-          "impressions": 818,
+          "spend": 5.09,
+          "impressions": 820,
           "clicks": 20,
           "leads": 0
         },
