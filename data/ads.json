@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T04:58:32.834Z",
+  "generated_at": "2026-09-08T05:17:19.336Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4093,7 +4093,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 16.85,
-          "impressions": 5094,
+          "impressions": 5095,
           "clicks": 56,
           "leads": 1
         },
@@ -6952,7 +6952,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 8.27,
-          "impressions": 1409,
+          "impressions": 1410,
           "clicks": 29,
           "leads": 6
         },
@@ -6961,7 +6961,7 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.53,
-          "impressions": 1473,
+          "impressions": 1475,
           "clicks": 37,
           "leads": 3
         },
@@ -6969,8 +6969,8 @@
           "date": "2026-09-07",
           "campaign_id": "120246318688090292",
           "campaign_name": "Дилер Контакти 24.08",
-          "spend": 5.87,
-          "impressions": 757,
+          "spend": 5.88,
+          "impressions": 758,
           "clicks": 6,
           "leads": 0
         }
@@ -11375,8 +11375,8 @@
           "date": "2026-09-07",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 72.13,
-          "impressions": 3761,
+          "spend": 72.15,
+          "impressions": 3763,
           "clicks": 88,
           "leads": 6
         },
@@ -11384,8 +11384,8 @@
           "date": "2026-09-07",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 62.46,
-          "impressions": 4348,
+          "spend": 62.52,
+          "impressions": 4352,
           "clicks": 79,
           "leads": 2
         }
