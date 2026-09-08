@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T09:34:16.756Z",
+  "generated_at": "2026-09-08T09:55:06.219Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7870,7 +7870,7 @@
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 9.59,
-          "impressions": 2390,
+          "impressions": 2391,
           "clicks": 49,
           "leads": 6
         }
@@ -11384,8 +11384,8 @@
           "date": "2026-09-07",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 62.76,
-          "impressions": 4370,
+          "spend": 62.77,
+          "impressions": 4371,
           "clicks": 80,
           "leads": 2
         }
