@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:48:07.992Z",
+  "generated_at": "2026-09-09T22:45:58.789Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4083,8 +4083,8 @@
           "date": "2026-09-09",
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
-          "spend": 16.81,
-          "impressions": 5734,
+          "spend": 16.82,
+          "impressions": 5739,
           "clicks": 107,
           "leads": 4
         }
@@ -6916,7 +6916,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 6.64,
-          "impressions": 1254,
+          "impressions": 1255,
           "clicks": 13,
           "leads": 2
         },
@@ -6925,7 +6925,7 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 7.25,
-          "impressions": 1517,
+          "impressions": 1518,
           "clicks": 18,
           "leads": 0
         },
@@ -10049,33 +10049,6 @@
       ],
       "daily": [
         {
-          "date": "2026-06-11",
-          "campaign_id": "120245836336330392",
-          "campaign_name": "Kurs 2 Klima new",
-          "spend": 30.72,
-          "impressions": 1525,
-          "clicks": 33,
-          "leads": 2
-        },
-        {
-          "date": "2026-06-11",
-          "campaign_id": "120248315379390392",
-          "campaign_name": "Kurs N5 Serwis",
-          "spend": 54.32,
-          "impressions": 5025,
-          "clicks": 100,
-          "leads": 2
-        },
-        {
-          "date": "2026-06-11",
-          "campaign_id": "120249049288770392",
-          "campaign_name": "Spawanie",
-          "spend": 18.27,
-          "impressions": 915,
-          "clicks": 26,
-          "leads": 3
-        },
-        {
           "date": "2026-06-12",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
@@ -11307,6 +11280,24 @@
           "impressions": 4020,
           "clicks": 72,
           "leads": 5
+        },
+        {
+          "date": "2026-09-09",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 58.33,
+          "impressions": 2675,
+          "clicks": 34,
+          "leads": 1
+        },
+        {
+          "date": "2026-09-09",
+          "campaign_id": "120248315379390392",
+          "campaign_name": "Kurs N5 Serwis",
+          "spend": 54.41,
+          "impressions": 3659,
+          "clicks": 66,
+          "leads": 2
         }
       ]
     }
