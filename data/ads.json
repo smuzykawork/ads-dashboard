@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-09T00:25:08.737Z",
+  "generated_at": "2026-09-09T01:33:39.704Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
-      "name": "act_1579613729153862",
-      "currency": "UAH",
+      "name": "Academy Aclima",
+      "currency": "USD",
       "campaigns": [
         {
           "id": "120248359151310027",
@@ -4083,8 +4083,8 @@
           "date": "2026-09-08",
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
-          "spend": 5.04,
-          "impressions": 1059,
+          "spend": 5.05,
+          "impressions": 1060,
           "clicks": 18,
           "leads": 0
         },
@@ -4101,8 +4101,8 @@
           "date": "2026-09-08",
           "campaign_id": "120248293934990027",
           "campaign_name": "Курс ОФ сервісант систем конд і вент",
-          "spend": 6.25,
-          "impressions": 1701,
+          "spend": 6.26,
+          "impressions": 1702,
           "clicks": 13,
           "leads": 1
         },
@@ -6943,7 +6943,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 6.48,
-          "impressions": 1517,
+          "impressions": 1518,
           "clicks": 17,
           "leads": 1
         },
@@ -6952,7 +6952,7 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.77,
-          "impressions": 1677,
+          "impressions": 1679,
           "clicks": 30,
           "leads": 1
         },
@@ -6962,7 +6962,7 @@
           "campaign_name": "Дилер Контакти 24.08",
           "spend": 5.16,
           "impressions": 813,
-          "clicks": 11,
+          "clicks": 12,
           "leads": 2
         }
       ]
@@ -7861,7 +7861,7 @@
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 10.54,
-          "impressions": 3625,
+          "impressions": 3628,
           "clicks": 52,
           "leads": 4
         }
@@ -11339,8 +11339,8 @@
           "date": "2026-09-08",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 65.37,
-          "impressions": 2998,
+          "spend": 65.39,
+          "impressions": 3000,
           "clicks": 55,
           "leads": 2
         },
@@ -11349,7 +11349,7 @@
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
           "spend": 61.64,
-          "impressions": 3958,
+          "impressions": 3959,
           "clicks": 70,
           "leads": 5
         }
