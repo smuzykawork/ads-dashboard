@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-09T00:06:46.366Z",
+  "generated_at": "2026-09-09T00:25:08.737Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
-      "name": "Academy Aclima",
-      "currency": "USD",
+      "name": "act_1579613729153862",
+      "currency": "UAH",
       "campaigns": [
         {
           "id": "120248359151310027",
@@ -11348,8 +11348,8 @@
           "date": "2026-09-08",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 61.63,
-          "impressions": 3957,
+          "spend": 61.64,
+          "impressions": 3958,
           "clicks": 70,
           "leads": 5
         }
