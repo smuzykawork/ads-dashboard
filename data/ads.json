@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:53:27.554Z",
+  "generated_at": "2026-09-09T14:28:51.100Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4074,8 +4074,8 @@
           "date": "2026-09-08",
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
-          "spend": 14.29,
-          "impressions": 4167,
+          "spend": 14.3,
+          "impressions": 4168,
           "clicks": 59,
           "leads": 2
         },
@@ -4102,7 +4102,7 @@
           "campaign_id": "120248293934990027",
           "campaign_name": "Курс ОФ сервісант систем конд і вент",
           "spend": 6.28,
-          "impressions": 1725,
+          "impressions": 1726,
           "clicks": 13,
           "leads": 1
         },
@@ -4111,7 +4111,7 @@
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
           "spend": 2.22,
-          "impressions": 677,
+          "impressions": 678,
           "clicks": 9,
           "leads": 0
         }
@@ -6943,7 +6943,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 6.51,
-          "impressions": 1524,
+          "impressions": 1525,
           "clicks": 20,
           "leads": 1
         },
@@ -6952,7 +6952,7 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.86,
-          "impressions": 1706,
+          "impressions": 1707,
           "clicks": 30,
           "leads": 1
         },
@@ -7860,8 +7860,8 @@
           "date": "2026-09-08",
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
-          "spend": 10.62,
-          "impressions": 3657,
+          "spend": 10.63,
+          "impressions": 3658,
           "clicks": 53,
           "leads": 4
         }
