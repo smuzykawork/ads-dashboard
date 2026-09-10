@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T00:24:30.988Z",
+  "generated_at": "2026-09-10T00:38:43.549Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4075,7 +4075,7 @@
           "campaign_id": "120248293934990027",
           "campaign_name": "Курс ОФ сервісант систем конд і вент",
           "spend": 8.36,
-          "impressions": 2089,
+          "impressions": 2090,
           "clicks": 17,
           "leads": 1
         },
@@ -4084,7 +4084,7 @@
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
           "spend": 16.82,
-          "impressions": 5741,
+          "impressions": 5742,
           "clicks": 107,
           "leads": 4
         }
@@ -11286,7 +11286,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 58.37,
-          "impressions": 2677,
+          "impressions": 2678,
           "clicks": 34,
           "leads": 1
         },
@@ -11295,7 +11295,7 @@
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
           "spend": 54.69,
-          "impressions": 3667,
+          "impressions": 3668,
           "clicks": 66,
           "leads": 2
         }
