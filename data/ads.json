@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T00:07:37.230Z",
+  "generated_at": "2026-09-10T00:24:30.988Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4084,7 +4084,7 @@
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
           "spend": 16.82,
-          "impressions": 5740,
+          "impressions": 5741,
           "clicks": 107,
           "leads": 4
         }
@@ -11294,8 +11294,8 @@
           "date": "2026-09-09",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 54.68,
-          "impressions": 3666,
+          "spend": 54.69,
+          "impressions": 3667,
           "clicks": 66,
           "leads": 2
         }
