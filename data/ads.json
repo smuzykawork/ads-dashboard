@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T11:10:24.062Z",
+  "generated_at": "2026-09-10T14:33:00.605Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4003,7 +4003,7 @@
           "campaign_id": "120247920622710027",
           "campaign_name": "Курс ОН Монт.Конд НОВА",
           "spend": 14.31,
-          "impressions": 4171,
+          "impressions": 4172,
           "clicks": 59,
           "leads": 2
         },
@@ -4084,8 +4084,8 @@
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
           "spend": 16.89,
-          "impressions": 5795,
-          "clicks": 107,
+          "impressions": 5797,
+          "clicks": 108,
           "leads": 4
         }
       ]
@@ -6916,7 +6916,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 6.66,
-          "impressions": 1261,
+          "impressions": 1263,
           "clicks": 13,
           "leads": 2
         },
@@ -6925,7 +6925,7 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 7.44,
-          "impressions": 1546,
+          "impressions": 1547,
           "clicks": 18,
           "leads": 0
         },
@@ -11294,8 +11294,8 @@
           "date": "2026-09-09",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 55.33,
-          "impressions": 3726,
+          "spend": 55.34,
+          "impressions": 3729,
           "clicks": 66,
           "leads": 2
         }
