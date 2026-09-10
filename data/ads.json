@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T18:36:11.680Z",
+  "generated_at": "2026-09-10T19:35:13.713Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -6916,7 +6916,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 6.66,
-          "impressions": 1263,
+          "impressions": 1264,
           "clicks": 13,
           "leads": 2
         },
@@ -6924,8 +6924,8 @@
           "date": "2026-09-09",
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
-          "spend": 7.45,
-          "impressions": 1549,
+          "spend": 7.46,
+          "impressions": 1550,
           "clicks": 18,
           "leads": 0
         },
@@ -7833,8 +7833,8 @@
           "date": "2026-09-09",
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
-          "spend": 8.47,
-          "impressions": 2295,
+          "spend": 8.49,
+          "impressions": 2296,
           "clicks": 43,
           "leads": 4
         }
