@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T05:04:12.090Z",
+  "generated_at": "2026-09-10T05:19:45.194Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4083,8 +4083,8 @@
           "date": "2026-09-09",
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
-          "spend": 16.85,
-          "impressions": 5776,
+          "spend": 16.86,
+          "impressions": 5777,
           "clicks": 107,
           "leads": 4
         }
@@ -6925,7 +6925,7 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 7.43,
-          "impressions": 1537,
+          "impressions": 1538,
           "clicks": 18,
           "leads": 0
         },
@@ -11294,8 +11294,8 @@
           "date": "2026-09-09",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 55.04,
-          "impressions": 3693,
+          "spend": 55.08,
+          "impressions": 3699,
           "clicks": 66,
           "leads": 2
         }
