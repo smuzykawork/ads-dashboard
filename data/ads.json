@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:49:31.720Z",
+  "generated_at": "2026-09-11T14:32:01.399Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4038,8 +4038,8 @@
           "date": "2026-09-10",
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
-          "spend": 10.3,
-          "impressions": 2013,
+          "spend": 10.31,
+          "impressions": 2014,
           "clicks": 21,
           "leads": 1
         },
@@ -4057,7 +4057,7 @@
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
           "spend": 18.36,
-          "impressions": 6672,
+          "impressions": 6673,
           "clicks": 112,
           "leads": 3
         }
@@ -6897,8 +6897,8 @@
           "date": "2026-09-10",
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
-          "spend": 7.58,
-          "impressions": 1461,
+          "spend": 7.59,
+          "impressions": 1462,
           "clicks": 17,
           "leads": 1
         },
@@ -7807,7 +7807,7 @@
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 8.95,
-          "impressions": 2407,
+          "impressions": 2408,
           "clicks": 41,
           "leads": 2
         }
@@ -11231,8 +11231,8 @@
           "date": "2026-09-10",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 65.19,
-          "impressions": 2796,
+          "spend": 65.2,
+          "impressions": 2797,
           "clicks": 49,
           "leads": 1
         },
@@ -11240,8 +11240,8 @@
           "date": "2026-09-10",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 58.72,
-          "impressions": 3612,
+          "spend": 58.73,
+          "impressions": 3613,
           "clicks": 80,
           "leads": 4
         }
