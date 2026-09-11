@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:10:43.867Z",
+  "generated_at": "2026-09-11T11:49:31.720Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -11231,8 +11231,8 @@
           "date": "2026-09-10",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 65.16,
-          "impressions": 2795,
+          "spend": 65.19,
+          "impressions": 2796,
           "clicks": 49,
           "leads": 1
         },
@@ -11240,8 +11240,8 @@
           "date": "2026-09-10",
           "campaign_id": "120248315379390392",
           "campaign_name": "Kurs N5 Serwis",
-          "spend": 58.65,
-          "impressions": 3610,
+          "spend": 58.72,
+          "impressions": 3612,
           "clicks": 80,
           "leads": 4
         }
