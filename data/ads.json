@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T21:49:37.134Z",
+  "generated_at": "2026-09-11T21:57:20.902Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4021,7 +4021,7 @@
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
           "spend": 17.02,
-          "impressions": 5470,
+          "impressions": 5472,
           "clicks": 89,
           "leads": 4
         },
@@ -4030,7 +4030,7 @@
           "campaign_id": "120248395824460027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.09",
           "spend": 14.57,
-          "impressions": 3716,
+          "impressions": 3718,
           "clicks": 55,
           "leads": 1
         }
