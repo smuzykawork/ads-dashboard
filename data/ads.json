@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:45:50.015Z",
+  "generated_at": "2026-09-11T18:41:13.381Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4057,7 +4057,7 @@
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
           "spend": 18.36,
-          "impressions": 6675,
+          "impressions": 6676,
           "clicks": 112,
           "leads": 3
         }
@@ -8802,6 +8802,12 @@
       "currency": "PLN",
       "campaigns": [
         {
+          "id": "120252616754350392",
+          "name": "FGAZ WEBINAR",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120252379723490392",
           "name": "FGAZY Forma",
           "status": "PAUSED",
@@ -8882,7 +8888,7 @@
         {
           "id": "120248315379390392",
           "name": "Kurs N5 Serwis",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -9994,12 +10000,6 @@
           "name": "Nowa kampania z celem Ruch",
           "status": "PAUSED",
           "objective": "OUTCOME_TRAFFIC"
-        },
-        {
-          "id": "120211424454370392",
-          "name": "Post: \"🔧🏢 Szukamy serwisanta do pracy w Warszawie!...\"",
-          "status": "PAUSED",
-          "objective": "MESSAGES"
         }
       ],
       "daily": [
@@ -11231,8 +11231,8 @@
           "date": "2026-09-10",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 65.22,
-          "impressions": 2798,
+          "spend": 65.25,
+          "impressions": 2800,
           "clicks": 49,
           "leads": 1
         },
