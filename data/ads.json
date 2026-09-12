@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:54:56.770Z",
+  "generated_at": "2026-09-12T05:06:39.205Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4020,8 +4020,8 @@
           "date": "2026-09-11",
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
-          "spend": 17.1,
-          "impressions": 5501,
+          "spend": 17.11,
+          "impressions": 5503,
           "clicks": 90,
           "leads": 4
         },
@@ -4029,8 +4029,8 @@
           "date": "2026-09-11",
           "campaign_id": "120248395824460027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.09",
-          "spend": 14.67,
-          "impressions": 3761,
+          "spend": 14.68,
+          "impressions": 3763,
           "clicks": 55,
           "leads": 1
         }
@@ -7779,8 +7779,8 @@
           "date": "2026-09-11",
           "campaign_id": "120250630086770749",
           "campaign_name": "ТН ЛІДИ 14.08 – копія",
-          "spend": 6.76,
-          "impressions": 1900,
+          "spend": 6.77,
+          "impressions": 1901,
           "clicks": 25,
           "leads": 2
         }
@@ -11187,7 +11187,7 @@
           "campaign_id": "120252616754350392",
           "campaign_name": "FGAZ WEBINAR",
           "spend": 41.11,
-          "impressions": 1219,
+          "impressions": 1220,
           "clicks": 20,
           "leads": 0
         }
