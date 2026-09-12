@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T22:12:29.816Z",
+  "generated_at": "2026-09-12T22:27:09.465Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3994,7 +3994,7 @@
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
           "spend": 19.27,
-          "impressions": 6671,
+          "impressions": 6672,
           "clicks": 90,
           "leads": 1
         },
@@ -11132,8 +11132,8 @@
           "date": "2026-09-12",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 74.49,
-          "impressions": 3090,
+          "spend": 74.5,
+          "impressions": 3091,
           "clicks": 69,
           "leads": 4
         },
@@ -11142,7 +11142,7 @@
           "campaign_id": "120252616754350392",
           "campaign_name": "FGAZ WEBINAR",
           "spend": 15.6,
-          "impressions": 320,
+          "impressions": 321,
           "clicks": 27,
           "leads": 0
         }
