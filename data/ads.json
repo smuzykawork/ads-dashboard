@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T14:02:41.857Z",
+  "generated_at": "2026-09-12T16:30:14.326Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4012,7 +4012,7 @@
           "campaign_id": "120248032664350027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
           "spend": 14.91,
-          "impressions": 2116,
+          "impressions": 2117,
           "clicks": 34,
           "leads": 1
         },
@@ -4030,7 +4030,7 @@
           "campaign_id": "120248395824460027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.09",
           "spend": 14.72,
-          "impressions": 3785,
+          "impressions": 3786,
           "clicks": 56,
           "leads": 1
         }
@@ -11186,8 +11186,8 @@
           "date": "2026-09-11",
           "campaign_id": "120252616754350392",
           "campaign_name": "FGAZ WEBINAR",
-          "spend": 41.54,
-          "impressions": 1233,
+          "spend": 41.56,
+          "impressions": 1234,
           "clicks": 21,
           "leads": 0
         }
