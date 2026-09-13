@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T11:41:52.988Z",
+  "generated_at": "2026-09-13T12:19:55.467Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3994,7 +3994,7 @@
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
           "spend": 19.31,
-          "impressions": 6719,
+          "impressions": 6721,
           "clicks": 92,
           "leads": 1
         },
