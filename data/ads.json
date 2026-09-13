@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T21:43:13.485Z",
+  "generated_at": "2026-09-13T22:21:56.997Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3966,8 +3966,8 @@
           "date": "2026-09-13",
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
-          "spend": 17.75,
-          "impressions": 4320,
+          "spend": 17.76,
+          "impressions": 4325,
           "clicks": 59,
           "leads": 1
         },
@@ -3975,8 +3975,8 @@
           "date": "2026-09-13",
           "campaign_id": "120248395824460027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.09",
-          "spend": 21.94,
-          "impressions": 3674,
+          "spend": 21.95,
+          "impressions": 3675,
           "clicks": 56,
           "leads": 1
         }
@@ -6808,7 +6808,7 @@
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
           "spend": 3.41,
-          "impressions": 749,
+          "impressions": 750,
           "clicks": 19,
           "leads": 3
         },
@@ -7740,8 +7740,8 @@
           "date": "2026-09-13",
           "campaign_id": "120250980663130749",
           "campaign_name": "БРИГАДИ конткати",
-          "spend": 8.44,
-          "impressions": 1377,
+          "spend": 8.45,
+          "impressions": 1378,
           "clicks": 24,
           "leads": 0
         }
@@ -9884,15 +9884,6 @@
       ],
       "daily": [
         {
-          "date": "2026-06-15",
-          "campaign_id": "120249472664530392",
-          "campaign_name": "FGAZY UKR Europe",
-          "spend": 102.31,
-          "impressions": 4786,
-          "clicks": 60,
-          "leads": 7
-        },
-        {
           "date": "2026-06-16",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
@@ -11114,6 +11105,24 @@
           "spend": 15.68,
           "impressions": 322,
           "clicks": 27,
+          "leads": 0
+        },
+        {
+          "date": "2026-09-13",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 76.29,
+          "impressions": 3725,
+          "clicks": 76,
+          "leads": 4
+        },
+        {
+          "date": "2026-09-13",
+          "campaign_id": "120252616754350392",
+          "campaign_name": "FGAZ WEBINAR",
+          "spend": 26.25,
+          "impressions": 458,
+          "clicks": 17,
           "leads": 0
         }
       ]
