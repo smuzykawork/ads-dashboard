@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T23:34:53.306Z",
+  "generated_at": "2026-09-14T00:58:25.981Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3966,8 +3966,8 @@
           "date": "2026-09-13",
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
-          "spend": 17.76,
-          "impressions": 4325,
+          "spend": 17.77,
+          "impressions": 4326,
           "clicks": 59,
           "leads": 1
         },
@@ -6816,8 +6816,8 @@
           "date": "2026-09-13",
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
-          "spend": 10.51,
-          "impressions": 1251,
+          "spend": 10.54,
+          "impressions": 1253,
           "clicks": 16,
           "leads": 1
         },
@@ -6826,7 +6826,7 @@
           "campaign_id": "120246318688090292",
           "campaign_name": "Дилер Контакти 24.08",
           "spend": 5.83,
-          "impressions": 961,
+          "impressions": 962,
           "clicks": 10,
           "leads": 1
         }
@@ -11111,8 +11111,8 @@
           "date": "2026-09-13",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 76.37,
-          "impressions": 3732,
+          "spend": 76.41,
+          "impressions": 3735,
           "clicks": 76,
           "leads": 4
         },
