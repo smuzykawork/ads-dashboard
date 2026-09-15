@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T12:11:39.065Z",
+  "generated_at": "2026-09-15T13:28:59.307Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3940,7 +3940,7 @@
           "campaign_id": "120248395824460027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.09",
           "spend": 22.15,
-          "impressions": 3696,
+          "impressions": 3697,
           "clicks": 56,
           "leads": 1
         },
@@ -3967,7 +3967,7 @@
           "campaign_id": "120248395824460027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.09",
           "spend": 21.18,
-          "impressions": 3987,
+          "impressions": 3988,
           "clicks": 63,
           "leads": 3
         }
@@ -6823,7 +6823,7 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.77,
-          "impressions": 1019,
+          "impressions": 1020,
           "clicks": 19,
           "leads": 3
         },
@@ -11147,8 +11147,8 @@
           "date": "2026-09-14",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 72.75,
-          "impressions": 3499,
+          "spend": 72.76,
+          "impressions": 3500,
           "clicks": 59,
           "leads": 4
         },
