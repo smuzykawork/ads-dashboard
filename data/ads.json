@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T01:23:56.838Z",
+  "generated_at": "2026-09-15T01:40:40.097Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3957,8 +3957,8 @@
           "date": "2026-09-14",
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
-          "spend": 21.01,
-          "impressions": 5774,
+          "spend": 21.02,
+          "impressions": 5775,
           "clicks": 68,
           "leads": 4
         },
@@ -11148,7 +11148,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 71.59,
-          "impressions": 3455,
+          "impressions": 3456,
           "clicks": 58,
           "leads": 4
         },
