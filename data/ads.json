@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:55:06.308Z",
+  "generated_at": "2026-09-16T12:50:17.465Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3967,7 +3967,7 @@
           "campaign_id": "120248395824460027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.09",
           "spend": 17.02,
-          "impressions": 2963,
+          "impressions": 2964,
           "clicks": 68,
           "leads": 1
         }
@@ -7804,7 +7804,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 29.17,
-          "impressions": 9906,
+          "impressions": 9907,
           "clicks": 243,
           "leads": 19
         },
@@ -11147,8 +11147,8 @@
           "date": "2026-09-15",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 59.25,
-          "impressions": 3259,
+          "spend": 59.26,
+          "impressions": 3260,
           "clicks": 45,
           "leads": 2
         },
