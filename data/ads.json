@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T23:07:22.270Z",
+  "generated_at": "2026-09-16T23:15:19.448Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -6850,7 +6850,7 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 7.51,
-          "impressions": 957,
+          "impressions": 958,
           "clicks": 21,
           "leads": 1
         },
@@ -7830,8 +7830,8 @@
           "date": "2026-09-16",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 25.93,
-          "impressions": 9323,
+          "spend": 25.94,
+          "impressions": 9325,
           "clicks": 153,
           "leads": 3
         },
@@ -11164,8 +11164,8 @@
           "date": "2026-09-16",
           "campaign_id": "120252681991680392",
           "campaign_name": "F-Gaz forma Webinar",
-          "spend": 51.92,
-          "impressions": 1338,
+          "spend": 51.96,
+          "impressions": 1339,
           "clicks": 29,
           "leads": 3
         }
