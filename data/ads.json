@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:50:17.465Z",
+  "generated_at": "2026-09-16T13:26:35.882Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3958,7 +3958,7 @@
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
           "spend": 19.75,
-          "impressions": 6534,
+          "impressions": 6535,
           "clicks": 70,
           "leads": 1
         },
@@ -7804,7 +7804,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 29.17,
-          "impressions": 9907,
+          "impressions": 9908,
           "clicks": 243,
           "leads": 19
         },
@@ -8699,6 +8699,12 @@
       "name": "Academy Aklima",
       "currency": "PLN",
       "campaigns": [
+        {
+          "id": "120252681991680392",
+          "name": "F-Gaz forma Webinar",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120252616754350392",
           "name": "FGAZ WEBINAR",
@@ -9892,12 +9898,6 @@
           "name": "Кактус",
           "status": "PAUSED",
           "objective": "OUTCOME_ENGAGEMENT"
-        },
-        {
-          "id": "120211426973190392",
-          "name": "Nowa kampania z celem Ruch",
-          "status": "PAUSED",
-          "objective": "OUTCOME_TRAFFIC"
         }
       ],
       "daily": [
