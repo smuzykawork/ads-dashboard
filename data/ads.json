@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T13:26:35.882Z",
+  "generated_at": "2026-09-16T17:11:48.704Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -33,7 +33,7 @@
         {
           "id": "120248032664350027",
           "name": "Курс ОН сервісант систем конд і вент 19.08",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -3957,8 +3957,8 @@
           "date": "2026-09-15",
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
-          "spend": 19.75,
-          "impressions": 6535,
+          "spend": 19.77,
+          "impressions": 6537,
           "clicks": 70,
           "leads": 1
         },
@@ -3967,7 +3967,7 @@
           "campaign_id": "120248395824460027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.09",
           "spend": 17.02,
-          "impressions": 2964,
+          "impressions": 2968,
           "clicks": 68,
           "leads": 1
         }
@@ -6832,7 +6832,7 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.2,
-          "impressions": 1079,
+          "impressions": 1081,
           "clicks": 18,
           "leads": 3
         },
@@ -6849,8 +6849,8 @@
           "date": "2026-09-15",
           "campaign_id": "120246711269350292",
           "campaign_name": "хаер тн ж 14.09",
-          "spend": 4.9,
-          "impressions": 1477,
+          "spend": 4.91,
+          "impressions": 1478,
           "clicks": 56,
           "leads": 9
         }
@@ -7804,7 +7804,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 29.17,
-          "impressions": 9908,
+          "impressions": 9912,
           "clicks": 243,
           "leads": 19
         },
@@ -8703,12 +8703,6 @@
           "id": "120252681991680392",
           "name": "F-Gaz forma Webinar",
           "status": "ACTIVE",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120252616754350392",
-          "name": "FGAZ WEBINAR",
-          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -9898,6 +9892,12 @@
           "name": "Кактус",
           "status": "PAUSED",
           "objective": "OUTCOME_ENGAGEMENT"
+        },
+        {
+          "id": "120211426973190392",
+          "name": "Nowa kampania z celem Ruch",
+          "status": "PAUSED",
+          "objective": "OUTCOME_TRAFFIC"
         }
       ],
       "daily": [
@@ -11147,8 +11147,8 @@
           "date": "2026-09-15",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 59.26,
-          "impressions": 3260,
+          "spend": 59.27,
+          "impressions": 3261,
           "clicks": 45,
           "leads": 2
         },
@@ -11156,8 +11156,8 @@
           "date": "2026-09-15",
           "campaign_id": "120252616754350392",
           "campaign_name": "FGAZ WEBINAR",
-          "spend": 16.16,
-          "impressions": 261,
+          "spend": 16.96,
+          "impressions": 262,
           "clicks": 7,
           "leads": 0
         }
