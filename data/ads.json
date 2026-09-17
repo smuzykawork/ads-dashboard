@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T00:25:57.660Z",
+  "generated_at": "2026-09-17T01:34:47.966Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3966,8 +3966,8 @@
           "date": "2026-09-16",
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
-          "spend": 17.1,
-          "impressions": 5771,
+          "spend": 17.11,
+          "impressions": 5776,
           "clicks": 73,
           "leads": 0
         },
@@ -6858,8 +6858,8 @@
           "date": "2026-09-16",
           "campaign_id": "120246318688090292",
           "campaign_name": "Дилер Контакти 24.08",
-          "spend": 5.16,
-          "impressions": 887,
+          "spend": 5.17,
+          "impressions": 888,
           "clicks": 9,
           "leads": 1
         },
@@ -7830,8 +7830,8 @@
           "date": "2026-09-16",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 25.95,
-          "impressions": 9334,
+          "spend": 25.96,
+          "impressions": 9340,
           "clicks": 153,
           "leads": 3
         },
@@ -11155,8 +11155,8 @@
           "date": "2026-09-16",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 70.01,
-          "impressions": 2868,
+          "spend": 70.02,
+          "impressions": 2869,
           "clicks": 53,
           "leads": 1
         },
@@ -11164,8 +11164,8 @@
           "date": "2026-09-16",
           "campaign_id": "120252681991680392",
           "campaign_name": "F-Gaz forma Webinar",
-          "spend": 52.07,
-          "impressions": 1341,
+          "spend": 52.31,
+          "impressions": 1344,
           "clicks": 29,
           "leads": 3
         }
