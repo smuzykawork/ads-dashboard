@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-09-18T11:50:51.629Z",
+  "generated_at": "2026-09-18T14:24:58.318Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120248528989640027",
+          "name": "ОН Теплові насоси 18.09",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120248395824460027",
           "name": "Курс ОН сервісант систем конд і вент 10.09",
@@ -1197,12 +1203,6 @@
         {
           "id": "120211067296930027",
           "name": "Передзамовлення",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120210988434550027",
-          "name": "Онлайн «Інженер з проєктування систем опалення»",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -3958,7 +3958,7 @@
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
           "spend": 17.56,
-          "impressions": 4901,
+          "impressions": 4904,
           "clicks": 67,
           "leads": 1
         },
@@ -7839,8 +7839,8 @@
           "date": "2026-09-17",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 29.35,
-          "impressions": 9743,
+          "spend": 29.36,
+          "impressions": 9747,
           "clicks": 178,
           "leads": 7
         },
