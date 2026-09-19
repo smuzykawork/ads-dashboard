@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T11:18:50.565Z",
+  "generated_at": "2026-09-19T13:28:01.866Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3958,7 +3958,7 @@
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
           "spend": 20.84,
-          "impressions": 5346,
+          "impressions": 5350,
           "clicks": 69,
           "leads": 1
         },
@@ -6867,8 +6867,8 @@
           "date": "2026-09-18",
           "campaign_id": "120246711269350292",
           "campaign_name": "хаер тн ж 14.09",
-          "spend": 5.67,
-          "impressions": 1347,
+          "spend": 5.68,
+          "impressions": 1348,
           "clicks": 35,
           "leads": 6
         }
@@ -7848,8 +7848,8 @@
           "date": "2026-09-18",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 42.42,
-          "impressions": 11392,
+          "spend": 42.44,
+          "impressions": 11396,
           "clicks": 177,
           "leads": 8
         },
@@ -11182,8 +11182,8 @@
           "date": "2026-09-18",
           "campaign_id": "120252681991680392",
           "campaign_name": "F-Gaz forma Webinar",
-          "spend": 145.37,
-          "impressions": 4148,
+          "spend": 145.46,
+          "impressions": 4149,
           "clicks": 71,
           "leads": 6
         }
