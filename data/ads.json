@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:50:21.334Z",
+  "generated_at": "2026-09-19T11:18:50.565Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -11182,8 +11182,8 @@
           "date": "2026-09-18",
           "campaign_id": "120252681991680392",
           "campaign_name": "F-Gaz forma Webinar",
-          "spend": 145.33,
-          "impressions": 4146,
+          "spend": 145.37,
+          "impressions": 4148,
           "clicks": 71,
           "leads": 6
         }
