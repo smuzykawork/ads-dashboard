@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T19:36:04.699Z",
+  "generated_at": "2026-09-19T20:32:57.717Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3967,7 +3967,7 @@
           "campaign_id": "120248395824460027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.09",
           "spend": 5.83,
-          "impressions": 763,
+          "impressions": 764,
           "clicks": 22,
           "leads": 1
         },
@@ -6879,6 +6879,12 @@
       "name": "MyCond UA",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120251083852350749",
+          "name": "B2B дилери",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120250995561940749",
           "name": "ТН ЛІДИ 14.09",
