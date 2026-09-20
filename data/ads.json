@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:51:29.685Z",
+  "generated_at": "2026-09-20T22:35:23.367Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3976,7 +3976,7 @@
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
           "spend": 19.87,
-          "impressions": 5777,
+          "impressions": 5782,
           "clicks": 83,
           "leads": 2
         },
@@ -3985,7 +3985,7 @@
           "campaign_id": "120248395824460027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.09",
           "spend": 6.79,
-          "impressions": 1028,
+          "impressions": 1029,
           "clicks": 20,
           "leads": 1
         },
@@ -3993,8 +3993,8 @@
           "date": "2026-09-20",
           "campaign_id": "120248528989640027",
           "campaign_name": "ОН Теплові насоси 18.09",
-          "spend": 20.62,
-          "impressions": 4647,
+          "spend": 20.63,
+          "impressions": 4651,
           "clicks": 62,
           "leads": 0
         }
@@ -7881,8 +7881,8 @@
           "date": "2026-09-20",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 53.08,
-          "impressions": 12646,
+          "spend": 53.1,
+          "impressions": 12661,
           "clicks": 176,
           "leads": 7
         },
@@ -9970,42 +9970,6 @@
       ],
       "daily": [
         {
-          "date": "2026-06-22",
-          "campaign_id": "120249472664530392",
-          "campaign_name": "FGAZY UKR Europe",
-          "spend": 75.46,
-          "impressions": 3500,
-          "clicks": 39,
-          "leads": 5
-        },
-        {
-          "date": "2026-06-22",
-          "campaign_id": "120249868127860392",
-          "campaign_name": "Project",
-          "spend": 31.01,
-          "impressions": 767,
-          "clicks": 18,
-          "leads": 0
-        },
-        {
-          "date": "2026-06-22",
-          "campaign_id": "120250048170390392",
-          "campaign_name": "Projekt klik 2 Kampania",
-          "spend": 23.16,
-          "impressions": 3748,
-          "clicks": 97,
-          "leads": 0
-        },
-        {
-          "date": "2026-06-22",
-          "campaign_id": "120250050295230392",
-          "campaign_name": "Project acive",
-          "spend": 13.37,
-          "impressions": 985,
-          "clicks": 44,
-          "leads": 0
-        },
-        {
           "date": "2026-06-23",
           "campaign_id": "120249472664530392",
           "campaign_name": "FGAZY UKR Europe",
@@ -11201,6 +11165,15 @@
           "impressions": 4959,
           "clicks": 85,
           "leads": 9
+        },
+        {
+          "date": "2026-09-20",
+          "campaign_id": "120252681991680392",
+          "campaign_name": "F-Gaz forma Webinar",
+          "spend": 188.78,
+          "impressions": 4661,
+          "clicks": 86,
+          "leads": 7
         }
       ]
     }
