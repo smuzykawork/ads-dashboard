@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:28:42.278Z",
+  "generated_at": "2026-09-20T21:51:29.685Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3975,8 +3975,8 @@
           "date": "2026-09-20",
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
-          "spend": 19.86,
-          "impressions": 5773,
+          "spend": 19.87,
+          "impressions": 5777,
           "clicks": 83,
           "leads": 2
         },
@@ -3984,8 +3984,8 @@
           "date": "2026-09-20",
           "campaign_id": "120248395824460027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.09",
-          "spend": 6.78,
-          "impressions": 1027,
+          "spend": 6.79,
+          "impressions": 1028,
           "clicks": 20,
           "leads": 1
         },
@@ -3994,7 +3994,7 @@
           "campaign_id": "120248528989640027",
           "campaign_name": "ОН Теплові насоси 18.09",
           "spend": 20.62,
-          "impressions": 4646,
+          "impressions": 4647,
           "clicks": 62,
           "leads": 0
         }
@@ -7882,7 +7882,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 53.08,
-          "impressions": 12635,
+          "impressions": 12646,
           "clicks": 176,
           "leads": 7
         },
