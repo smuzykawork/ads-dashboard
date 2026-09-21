@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-09-21T14:25:16.053Z",
+  "generated_at": "2026-09-21T17:11:53.113Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120248578662700027",
+          "name": "Курс ОФ Теплові насоси 21.09",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120248578599090027",
+          "name": "Курс ОН сервісант систем конд і вент 21.09",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120248528989640027",
           "name": "ОН Теплові насоси 18.09",
@@ -1193,18 +1205,6 @@
           "name": "Реклама на підписку",
           "status": "PAUSED",
           "objective": "OUTCOME_TRAFFIC"
-        },
-        {
-          "id": "120211167626710027",
-          "name": "Офлайн ТН",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120211067296930027",
-          "name": "Передзамовлення",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
         }
       ],
       "daily": [
@@ -3993,8 +3993,8 @@
           "date": "2026-09-20",
           "campaign_id": "120248528989640027",
           "campaign_name": "ОН Теплові насоси 18.09",
-          "spend": 20.68,
-          "impressions": 4694,
+          "spend": 20.69,
+          "impressions": 4696,
           "clicks": 62,
           "leads": 0
         }
@@ -7882,7 +7882,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 53.72,
-          "impressions": 12853,
+          "impressions": 12854,
           "clicks": 180,
           "leads": 7
         },
@@ -7899,8 +7899,8 @@
           "date": "2026-09-20",
           "campaign_id": "120251083852350749",
           "campaign_name": "B2B дилери",
-          "spend": 11.03,
-          "impressions": 1979,
+          "spend": 11.04,
+          "impressions": 1980,
           "clicks": 23,
           "leads": 0
         }
@@ -11170,8 +11170,8 @@
           "date": "2026-09-20",
           "campaign_id": "120252681991680392",
           "campaign_name": "F-Gaz forma Webinar",
-          "spend": 189.64,
-          "impressions": 4688,
+          "spend": 189.7,
+          "impressions": 4689,
           "clicks": 86,
           "leads": 7
         }
