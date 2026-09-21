@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T19:39:38.837Z",
+  "generated_at": "2026-09-21T21:14:27.106Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -1208,24 +1208,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-06-23",
-          "campaign_id": "120243710381520027",
-          "campaign_name": "Вебінар - Помилки Теплові насоси 27.03 – копія",
-          "spend": 10.23,
-          "impressions": 5053,
-          "clicks": 61,
-          "leads": 4
-        },
-        {
-          "date": "2026-06-23",
-          "campaign_id": "120245308588170027",
-          "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія",
-          "spend": 9.56,
-          "impressions": 2604,
-          "clicks": 35,
-          "leads": 2
-        },
         {
           "date": "2026-06-24",
           "campaign_id": "120243710381520027",
@@ -3975,8 +3957,8 @@
           "date": "2026-09-20",
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
-          "spend": 20.27,
-          "impressions": 5830,
+          "spend": 20.28,
+          "impressions": 5831,
           "clicks": 83,
           "leads": 2
         },
@@ -3993,10 +3975,55 @@
           "date": "2026-09-20",
           "campaign_id": "120248528989640027",
           "campaign_name": "ОН Теплові насоси 18.09",
-          "spend": 20.71,
-          "impressions": 4699,
+          "spend": 20.72,
+          "impressions": 4700,
           "clicks": 62,
           "leads": 0
+        },
+        {
+          "date": "2026-09-21",
+          "campaign_id": "120248359151310027",
+          "campaign_name": "ОН Теплові насоси 08.09",
+          "spend": 21.09,
+          "impressions": 5573,
+          "clicks": 80,
+          "leads": 1
+        },
+        {
+          "date": "2026-09-21",
+          "campaign_id": "120248395824460027",
+          "campaign_name": "Курс ОН сервісант систем конд і вент 10.09",
+          "spend": 5.23,
+          "impressions": 946,
+          "clicks": 16,
+          "leads": 1
+        },
+        {
+          "date": "2026-09-21",
+          "campaign_id": "120248528989640027",
+          "campaign_name": "ОН Теплові насоси 18.09",
+          "spend": 12.48,
+          "impressions": 2238,
+          "clicks": 24,
+          "leads": 0
+        },
+        {
+          "date": "2026-09-21",
+          "campaign_id": "120248578599090027",
+          "campaign_name": "Курс ОН сервісант систем конд і вент 21.09",
+          "spend": 2.92,
+          "impressions": 838,
+          "clicks": 11,
+          "leads": 0
+        },
+        {
+          "date": "2026-09-21",
+          "campaign_id": "120248578662700027",
+          "campaign_name": "Курс ОФ Теплові насоси 21.09",
+          "spend": 6.81,
+          "impressions": 1473,
+          "clicks": 16,
+          "leads": 1
         }
       ]
     },
@@ -4685,24 +4712,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-06-23",
-          "campaign_id": "120242568737500292",
-          "campaign_name": "Мультизональні системи кондиціювання MRV",
-          "spend": 14.62,
-          "impressions": 3476,
-          "clicks": 39,
-          "leads": 1
-        },
-        {
-          "date": "2026-06-23",
-          "campaign_id": "120243193615220292",
-          "campaign_name": "Дилери вебінар",
-          "spend": 7.37,
-          "impressions": 1605,
-          "clicks": 14,
-          "leads": 2
-        },
         {
           "date": "2026-06-24",
           "campaign_id": "120242568737500292",
@@ -6871,6 +6880,15 @@
           "impressions": 24,
           "clicks": 2,
           "leads": 1
+        },
+        {
+          "date": "2026-09-21",
+          "campaign_id": "120246711269350292",
+          "campaign_name": "хаер тн ж 14.09",
+          "spend": 4,
+          "impressions": 715,
+          "clicks": 17,
+          "leads": 3
         }
       ]
     },
@@ -6959,15 +6977,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-06-23",
-          "campaign_id": "120243169362960749",
-          "campaign_name": "ТН ЛІДИ 10.03",
-          "spend": 16.17,
-          "impressions": 3831,
-          "clicks": 52,
-          "leads": 3
-        },
         {
           "date": "2026-06-24",
           "campaign_id": "120243169362960749",
@@ -7903,6 +7912,15 @@
           "impressions": 1980,
           "clicks": 23,
           "leads": 0
+        },
+        {
+          "date": "2026-09-21",
+          "campaign_id": "120250995433840749",
+          "campaign_name": "БРИГАДИ конткати 14.09",
+          "spend": 47.05,
+          "impressions": 9457,
+          "clicks": 129,
+          "leads": 6
         }
       ]
     },
@@ -11170,8 +11188,8 @@
           "date": "2026-09-20",
           "campaign_id": "120252681991680392",
           "campaign_name": "F-Gaz forma Webinar",
-          "spend": 189.7,
-          "impressions": 4689,
+          "spend": 189.71,
+          "impressions": 4690,
           "clicks": 86,
           "leads": 7
         }
