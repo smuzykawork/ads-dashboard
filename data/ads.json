@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T01:20:14.260Z",
+  "generated_at": "2026-09-21T05:31:00.686Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3948,8 +3948,8 @@
           "date": "2026-09-19",
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
-          "spend": 18.3,
-          "impressions": 4905,
+          "spend": 18.31,
+          "impressions": 4906,
           "clicks": 63,
           "leads": 0
         },
@@ -3975,8 +3975,8 @@
           "date": "2026-09-20",
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
-          "spend": 20.19,
-          "impressions": 5788,
+          "spend": 20.24,
+          "impressions": 5812,
           "clicks": 83,
           "leads": 2
         },
@@ -3985,7 +3985,7 @@
           "campaign_id": "120248395824460027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.09",
           "spend": 6.79,
-          "impressions": 1029,
+          "impressions": 1033,
           "clicks": 20,
           "leads": 1
         },
@@ -3993,8 +3993,8 @@
           "date": "2026-09-20",
           "campaign_id": "120248528989640027",
           "campaign_name": "ОН Теплові насоси 18.09",
-          "spend": 20.63,
-          "impressions": 4655,
+          "spend": 20.64,
+          "impressions": 4674,
           "clicks": 62,
           "leads": 0
         }
@@ -7881,17 +7881,17 @@
           "date": "2026-09-20",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 53.18,
-          "impressions": 12686,
-          "clicks": 176,
+          "spend": 53.52,
+          "impressions": 12785,
+          "clicks": 178,
           "leads": 7
         },
         {
           "date": "2026-09-20",
           "campaign_id": "120250995561940749",
           "campaign_name": "ТН ЛІДИ 14.09",
-          "spend": 0.29,
-          "impressions": 15,
+          "spend": 0.3,
+          "impressions": 16,
           "clicks": 0,
           "leads": 0
         },
@@ -7899,8 +7899,8 @@
           "date": "2026-09-20",
           "campaign_id": "120251083852350749",
           "campaign_name": "B2B дилери",
-          "spend": 11,
-          "impressions": 1975,
+          "spend": 11.02,
+          "impressions": 1976,
           "clicks": 23,
           "leads": 0
         }
@@ -11170,8 +11170,8 @@
           "date": "2026-09-20",
           "campaign_id": "120252681991680392",
           "campaign_name": "F-Gaz forma Webinar",
-          "spend": 189.28,
-          "impressions": 4669,
+          "spend": 189.44,
+          "impressions": 4680,
           "clicks": 86,
           "leads": 7
         }
