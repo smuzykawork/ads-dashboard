@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T09:52:28.281Z",
+  "generated_at": "2026-09-22T10:10:25.332Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7917,8 +7917,8 @@
           "date": "2026-09-21",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 47.78,
-          "impressions": 9586,
+          "spend": 47.79,
+          "impressions": 9587,
           "clicks": 130,
           "leads": 6
         }
@@ -11161,8 +11161,8 @@
           "date": "2026-09-21",
           "campaign_id": "120252681991680392",
           "campaign_name": "F-Gaz forma Webinar",
-          "spend": 149.62,
-          "impressions": 3919,
+          "spend": 149.63,
+          "impressions": 3920,
           "clicks": 65,
           "leads": 5
         }
