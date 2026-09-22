@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:21:21.777Z",
+  "generated_at": "2026-09-22T22:24:58.987Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7905,8 +7905,8 @@
           "date": "2026-09-22",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 39.16,
-          "impressions": 9198,
+          "spend": 39.17,
+          "impressions": 9199,
           "clicks": 149,
           "leads": 5
         },
