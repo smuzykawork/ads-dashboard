@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T15:10:36.209Z",
+  "generated_at": "2026-09-22T18:48:13.022Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4021,7 +4021,7 @@
           "campaign_id": "120248578662700027",
           "campaign_name": "Курс ОФ Теплові насоси 21.09",
           "spend": 6.85,
-          "impressions": 1492,
+          "impressions": 1493,
           "clicks": 16,
           "leads": 1
         }
@@ -6898,6 +6898,12 @@
       "currency": "USD",
       "campaigns": [
         {
+          "id": "120251126564730749",
+          "name": "Вебінар курс майконд 30.09",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120251083852350749",
           "name": "B2B дилери",
           "status": "PAUSED",
@@ -7917,8 +7923,8 @@
           "date": "2026-09-21",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 47.79,
-          "impressions": 9589,
+          "spend": 47.8,
+          "impressions": 9591,
           "clicks": 130,
           "leads": 6
         }
@@ -11161,8 +11167,8 @@
           "date": "2026-09-21",
           "campaign_id": "120252681991680392",
           "campaign_name": "F-Gaz forma Webinar",
-          "spend": 149.65,
-          "impressions": 3921,
+          "spend": 149.7,
+          "impressions": 3923,
           "clicks": 65,
           "leads": 5
         }
