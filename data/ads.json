@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:00:45.455Z",
+  "generated_at": "2026-09-22T22:21:21.777Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3984,8 +3984,8 @@
           "date": "2026-09-22",
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
-          "spend": 21.9,
-          "impressions": 6095,
+          "spend": 21.91,
+          "impressions": 6098,
           "clicks": 70,
           "leads": 1
         },
@@ -4012,7 +4012,7 @@
           "campaign_id": "120248578662700027",
           "campaign_name": "Курс ОФ Теплові насоси 21.09",
           "spend": 24.26,
-          "impressions": 4759,
+          "impressions": 4761,
           "clicks": 57,
           "leads": 2
         }
@@ -6868,7 +6868,7 @@
           "campaign_id": "120246711269350292",
           "campaign_name": "хаер тн ж 14.09",
           "spend": 5.02,
-          "impressions": 963,
+          "impressions": 964,
           "clicks": 25,
           "leads": 2
         }
@@ -7905,8 +7905,8 @@
           "date": "2026-09-22",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 39.13,
-          "impressions": 9195,
+          "spend": 39.16,
+          "impressions": 9198,
           "clicks": 149,
           "leads": 5
         },
@@ -7914,8 +7914,8 @@
           "date": "2026-09-22",
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
-          "spend": 3.76,
-          "impressions": 677,
+          "spend": 3.77,
+          "impressions": 680,
           "clicks": 23,
           "leads": 4
         }
