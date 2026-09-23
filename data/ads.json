@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T05:52:56.674Z",
+  "generated_at": "2026-09-23T06:17:29.994Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4003,7 +4003,7 @@
           "campaign_id": "120248578599090027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 21.09",
           "spend": 8.96,
-          "impressions": 2088,
+          "impressions": 2089,
           "clicks": 19,
           "leads": 0
         },
@@ -7905,8 +7905,8 @@
           "date": "2026-09-22",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 39.34,
-          "impressions": 9286,
+          "spend": 39.35,
+          "impressions": 9292,
           "clicks": 150,
           "leads": 5
         },
@@ -7914,8 +7914,8 @@
           "date": "2026-09-22",
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
-          "spend": 3.8,
-          "impressions": 691,
+          "spend": 3.81,
+          "impressions": 692,
           "clicks": 23,
           "leads": 4
         }
@@ -11158,8 +11158,8 @@
           "date": "2026-09-22",
           "campaign_id": "120252681991680392",
           "campaign_name": "F-Gaz forma Webinar",
-          "spend": 111.31,
-          "impressions": 2735,
+          "spend": 111.55,
+          "impressions": 2737,
           "clicks": 36,
           "leads": 2
         }
