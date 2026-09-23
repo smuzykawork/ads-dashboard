@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:25:45.977Z",
+  "generated_at": "2026-09-23T11:55:26.298Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4011,8 +4011,8 @@
           "date": "2026-09-22",
           "campaign_id": "120248578662700027",
           "campaign_name": "Курс ОФ Теплові насоси 21.09",
-          "spend": 24.26,
-          "impressions": 4767,
+          "spend": 24.28,
+          "impressions": 4769,
           "clicks": 57,
           "leads": 2
         }
@@ -7906,7 +7906,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 39.57,
-          "impressions": 9317,
+          "impressions": 9319,
           "clicks": 150,
           "leads": 5
         },
