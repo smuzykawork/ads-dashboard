@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:24:58.987Z",
+  "generated_at": "2026-09-23T00:23:02.464Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3985,7 +3985,7 @@
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
           "spend": 21.91,
-          "impressions": 6098,
+          "impressions": 6100,
           "clicks": 70,
           "leads": 1
         },
@@ -4003,7 +4003,7 @@
           "campaign_id": "120248578599090027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 21.09",
           "spend": 8.95,
-          "impressions": 2081,
+          "impressions": 2083,
           "clicks": 19,
           "leads": 0
         },
@@ -6868,7 +6868,7 @@
           "campaign_id": "120246711269350292",
           "campaign_name": "хаер тн ж 14.09",
           "spend": 5.02,
-          "impressions": 964,
+          "impressions": 965,
           "clicks": 25,
           "leads": 2
         }
@@ -7905,8 +7905,8 @@
           "date": "2026-09-22",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 39.17,
-          "impressions": 9199,
+          "spend": 39.19,
+          "impressions": 9210,
           "clicks": 149,
           "leads": 5
         },
@@ -7915,7 +7915,7 @@
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
           "spend": 3.77,
-          "impressions": 680,
+          "impressions": 682,
           "clicks": 23,
           "leads": 4
         }
@@ -11158,8 +11158,8 @@
           "date": "2026-09-22",
           "campaign_id": "120252681991680392",
           "campaign_name": "F-Gaz forma Webinar",
-          "spend": 110.87,
-          "impressions": 2725,
+          "spend": 110.89,
+          "impressions": 2727,
           "clicks": 36,
           "leads": 2
         }
