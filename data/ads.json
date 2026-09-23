@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T23:37:15.827Z",
+  "generated_at": "2026-09-23T23:50:14.153Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -6856,7 +6856,7 @@
           "campaign_id": "120246888745410292",
           "campaign_name": "Менеджер з продажу ТН",
           "spend": 3.69,
-          "impressions": 424,
+          "impressions": 425,
           "clicks": 8,
           "leads": 0
         }
@@ -7903,7 +7903,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 15.84,
-          "impressions": 3908,
+          "impressions": 3909,
           "clicks": 73,
           "leads": 6
         },
