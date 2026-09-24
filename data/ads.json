@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:33:22.078Z",
+  "generated_at": "2026-09-24T19:03:33.875Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3949,7 +3949,7 @@
           "campaign_id": "120248395824460027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.09",
           "spend": 5.06,
-          "impressions": 1027,
+          "impressions": 1028,
           "clicks": 8,
           "leads": 1
         },
@@ -3976,7 +3976,7 @@
           "campaign_id": "120248359151310027",
           "campaign_name": "ОН Теплові насоси 08.09",
           "spend": 12.58,
-          "impressions": 3644,
+          "impressions": 3646,
           "clicks": 43,
           "leads": 0
         },
@@ -3994,7 +3994,7 @@
           "campaign_id": "120248578599090027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 21.09",
           "spend": 9.08,
-          "impressions": 2422,
+          "impressions": 2423,
           "clicks": 33,
           "leads": 1
         },
@@ -7912,7 +7912,7 @@
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
           "spend": 17.03,
-          "impressions": 5446,
+          "impressions": 5448,
           "clicks": 80,
           "leads": 12
         }
