@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T05:25:24.674Z",
+  "generated_at": "2026-09-25T07:40:44.584Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3949,7 +3949,7 @@
           "campaign_id": "120248578599090027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 21.09",
           "spend": 9.08,
-          "impressions": 2424,
+          "impressions": 2425,
           "clicks": 33,
           "leads": 1
         },
@@ -6837,8 +6837,8 @@
           "date": "2026-09-24",
           "campaign_id": "120246888745410292",
           "campaign_name": "Менеджер з продажу ТН",
-          "spend": 34.17,
-          "impressions": 3015,
+          "spend": 34.18,
+          "impressions": 3016,
           "clicks": 60,
           "leads": 7
         }
@@ -7893,8 +7893,8 @@
           "date": "2026-09-24",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 22.58,
-          "impressions": 5658,
+          "spend": 22.6,
+          "impressions": 5668,
           "clicks": 99,
           "leads": 6
         },
@@ -7902,8 +7902,8 @@
           "date": "2026-09-24",
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
-          "spend": 16.16,
-          "impressions": 5219,
+          "spend": 16.18,
+          "impressions": 5239,
           "clicks": 93,
           "leads": 10
         }
