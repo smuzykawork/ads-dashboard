@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T00:00:53.796Z",
+  "generated_at": "2026-09-25T01:24:49.552Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7894,7 +7894,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 22.48,
-          "impressions": 5613,
+          "impressions": 5614,
           "clicks": 99,
           "leads": 6
         },
@@ -7903,7 +7903,7 @@
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
           "spend": 16.1,
-          "impressions": 5180,
+          "impressions": 5184,
           "clicks": 93,
           "leads": 10
         }
