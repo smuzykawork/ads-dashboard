@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:02:22.697Z",
+  "generated_at": "2026-09-25T15:34:12.264Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4026,7 +4026,7 @@
         {
           "id": "120246318509580292",
           "name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
-          "status": "PAUSED",
+          "status": "ACTIVE",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -6837,8 +6837,8 @@
           "date": "2026-09-24",
           "campaign_id": "120246888745410292",
           "campaign_name": "Менеджер з продажу ТН",
-          "spend": 34.36,
-          "impressions": 3020,
+          "spend": 34.37,
+          "impressions": 3021,
           "clicks": 61,
           "leads": 7
         }
