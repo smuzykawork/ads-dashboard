@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T13:23:21.449Z",
+  "generated_at": "2026-09-26T17:05:34.633Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3984,9 +3984,9 @@
           "date": "2026-09-25",
           "campaign_id": "120248578662700027",
           "campaign_name": "Курс ОФ Теплові насоси 21.09",
-          "spend": 5.33,
-          "impressions": 1353,
-          "clicks": 19,
+          "spend": 5.34,
+          "impressions": 1354,
+          "clicks": 20,
           "leads": 1
         }
       ]
@@ -7902,8 +7902,8 @@
           "date": "2026-09-25",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 16.96,
-          "impressions": 4037,
+          "spend": 16.98,
+          "impressions": 4038,
           "clicks": 69,
           "leads": 5
         },
@@ -7912,7 +7912,7 @@
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
           "spend": 22.73,
-          "impressions": 6482,
+          "impressions": 6483,
           "clicks": 90,
           "leads": 13
         }
