@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:26:18.177Z",
+  "generated_at": "2026-09-27T08:34:00.819Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7894,7 +7894,7 @@
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
           "spend": 20.82,
-          "impressions": 4101,
+          "impressions": 4102,
           "clicks": 60,
           "leads": 4
         }
