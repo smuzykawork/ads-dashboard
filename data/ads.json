@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:16:21.588Z",
+  "generated_at": "2026-09-28T14:30:28.870Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3913,7 +3913,7 @@
           "campaign_id": "120248578662700027",
           "campaign_name": "Курс ОФ Теплові насоси 21.09",
           "spend": 6.31,
-          "impressions": 1680,
+          "impressions": 1685,
           "clicks": 30,
           "leads": 0
         }
@@ -6775,7 +6775,7 @@
           "campaign_id": "120246318509580292",
           "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 9.52,
-          "impressions": 1228,
+          "impressions": 1231,
           "clicks": 29,
           "leads": 2
         },
@@ -7866,8 +7866,8 @@
           "date": "2026-09-27",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 21.8,
-          "impressions": 4493,
+          "spend": 21.83,
+          "impressions": 4514,
           "clicks": 83,
           "leads": 0
         },
@@ -7875,8 +7875,8 @@
           "date": "2026-09-27",
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
-          "spend": 22.46,
-          "impressions": 4613,
+          "spend": 22.5,
+          "impressions": 4624,
           "clicks": 64,
           "leads": 5
         }
