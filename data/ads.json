@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-09-28T15:20:15.636Z",
+  "generated_at": "2026-09-28T20:49:28.685Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120248690631950027",
+          "name": "ОН Теплові насоси 28.09",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120248578662700027",
           "name": "Курс ОФ Теплові насоси 21.09",
@@ -1197,12 +1203,6 @@
         {
           "id": "120211263729270027",
           "name": "Розіграш ТГ",
-          "status": "PAUSED",
-          "objective": "OUTCOME_TRAFFIC"
-        },
-        {
-          "id": "120211248587310027",
-          "name": "Реклама на підписку",
           "status": "PAUSED",
           "objective": "OUTCOME_TRAFFIC"
         }
@@ -7872,8 +7872,8 @@
           "date": "2026-09-27",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 21.83,
-          "impressions": 4514,
+          "spend": 21.85,
+          "impressions": 4518,
           "clicks": 83,
           "leads": 0
         },
@@ -7882,7 +7882,7 @@
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
           "spend": 22.5,
-          "impressions": 4624,
+          "impressions": 4625,
           "clicks": 64,
           "leads": 5
         }
