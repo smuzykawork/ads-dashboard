@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T21:52:29.082Z",
+  "generated_at": "2026-09-28T22:12:23.121Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3886,7 +3886,7 @@
           "campaign_id": "120248578662700027",
           "campaign_name": "Курс ОФ Теплові насоси 21.09",
           "spend": 4.86,
-          "impressions": 1241,
+          "impressions": 1242,
           "clicks": 20,
           "leads": 1
         },
@@ -6772,7 +6772,7 @@
           "campaign_id": "120246978949550292",
           "campaign_name": "Пошук співпраці ОВІК",
           "spend": 3.53,
-          "impressions": 583,
+          "impressions": 584,
           "clicks": 11,
           "leads": 0
         }
@@ -7863,8 +7863,8 @@
           "date": "2026-09-28",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 13.37,
-          "impressions": 3079,
+          "spend": 13.38,
+          "impressions": 3082,
           "clicks": 42,
           "leads": 3
         },
@@ -7873,7 +7873,7 @@
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
           "spend": 6.14,
-          "impressions": 1058,
+          "impressions": 1059,
           "clicks": 21,
           "leads": 2
         }
@@ -9942,24 +9942,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-06-30",
-          "campaign_id": "120245836336330392",
-          "campaign_name": "Kurs 2 Klima new",
-          "spend": 43.66,
-          "impressions": 3820,
-          "clicks": 117,
-          "leads": 7
-        },
-        {
-          "date": "2026-06-30",
-          "campaign_id": "120249472664530392",
-          "campaign_name": "FGAZY UKR Europe",
-          "spend": 90.73,
-          "impressions": 3918,
-          "clicks": 39,
-          "leads": 3
-        },
         {
           "date": "2026-07-01",
           "campaign_id": "120245836336330392",
