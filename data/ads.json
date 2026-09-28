@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T14:30:28.870Z",
+  "generated_at": "2026-09-28T15:20:15.636Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3924,6 +3924,12 @@
       "name": "Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120246978949550292",
+          "name": "Пошук співпраці ОВІК",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120246888745410292",
           "name": "Менеджер з продажу ТН",
