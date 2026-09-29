@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:49:51.915Z",
+  "generated_at": "2026-09-29T14:21:31.667Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3908,7 +3908,7 @@
       "campaigns": [
         {
           "id": "120246978949550292",
-          "name": "Пошук співпраці ОВІК",
+          "name": "Пошук співпраці ОВІК (Проєктант)",
           "status": "ACTIVE",
           "objective": "OUTCOME_LEADS"
         },
@@ -4970,7 +4970,7 @@
         {
           "date": "2026-07-27",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – коп��я",
           "spend": 11.52,
           "impressions": 3561,
           "clicks": 40,
@@ -5123,7 +5123,7 @@
         {
           "date": "2026-07-31",
           "campaign_id": "120245627155800292",
-          "campaign_name": "Вакансія С��РВІСАНТ КИЇВ 28.07",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 28.07",
           "spend": 7.57,
           "impressions": 1477,
           "clicks": 33,
@@ -5213,7 +5213,7 @@
         {
           "date": "2026-08-03",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Ко��такти 03.06 – копія",
           "spend": 7.37,
           "impressions": 3369,
           "clicks": 22,
@@ -5672,7 +5672,7 @@
         {
           "date": "2026-08-18",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Ди��ери вебінар – копія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 4.22,
           "impressions": 1261,
           "clicks": 14,
@@ -6023,7 +6023,7 @@
         {
           "date": "2026-08-27",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакти 24.08",
+          "campaign_name": "Дилер Конта��ти 24.08",
           "spend": 3.08,
           "impressions": 547,
           "clicks": 1,
@@ -6095,7 +6095,7 @@
         {
           "date": "2026-08-29",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакти 24.08",
+          "campaign_name": "Дилер Ко��такти 24.08",
           "spend": 4.75,
           "impressions": 913,
           "clicks": 4,
@@ -6770,9 +6770,9 @@
         {
           "date": "2026-09-28",
           "campaign_id": "120246978949550292",
-          "campaign_name": "Пошук співпраці ОВІК",
-          "spend": 3.61,
-          "impressions": 602,
+          "campaign_name": "Пошук співпраці ОВІК (Проєктант)",
+          "spend": 3.62,
+          "impressions": 604,
           "clicks": 12,
           "leads": 0
         }
@@ -7864,7 +7864,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 13.46,
-          "impressions": 3141,
+          "impressions": 3149,
           "clicks": 43,
           "leads": 3
         },
