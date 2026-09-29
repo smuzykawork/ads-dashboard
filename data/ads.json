@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:31:10.106Z",
+  "generated_at": "2026-09-29T08:21:40.426Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3895,7 +3895,7 @@
           "campaign_id": "120248690631950027",
           "campaign_name": "ОН Теплові насоси 28.09",
           "spend": 2.13,
-          "impressions": 559,
+          "impressions": 560,
           "clicks": 8,
           "leads": 1
         }
@@ -4673,7 +4673,7 @@
         {
           "date": "2026-07-07",
           "campaign_id": "120244999594470292",
-          "campaign_name": "хае�� тн",
+          "campaign_name": "хаер тн",
           "spend": 10.42,
           "impressions": 4228,
           "clicks": 71,
@@ -4880,7 +4880,7 @@
         {
           "date": "2026-07-25",
           "campaign_id": "120245536564470292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08",
+          "campaign_name": "Вакансія СЕРВІСА��Т КИЇВ 12.08",
           "spend": 5.64,
           "impressions": 866,
           "clicks": 23,
@@ -5816,7 +5816,7 @@
         {
           "date": "2026-08-22",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебін��р – копія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 3.12,
           "impressions": 1270,
           "clicks": 9,
@@ -6689,7 +6689,7 @@
         {
           "date": "2026-09-22",
           "campaign_id": "120246711269350292",
-          "campaign_name": "хаер тн ж 14.09",
+          "campaign_name": "хае�� тн ж 14.09",
           "spend": 5.02,
           "impressions": 966,
           "clicks": 25,
@@ -6772,7 +6772,7 @@
           "campaign_id": "120246978949550292",
           "campaign_name": "Пошук співпраці ОВІК",
           "spend": 3.61,
-          "impressions": 600,
+          "impressions": 601,
           "clicks": 12,
           "leads": 0
         }
@@ -7864,7 +7864,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 13.46,
-          "impressions": 3138,
+          "impressions": 3140,
           "clicks": 43,
           "leads": 3
         },
