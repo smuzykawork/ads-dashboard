@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:00:53.285Z",
+  "generated_at": "2026-09-30T13:36:29.955Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3868,7 +3868,7 @@
           "campaign_id": "120248578662700027",
           "campaign_name": "Курс ОФ Теплові насоси 21.09",
           "spend": 4.26,
-          "impressions": 1213,
+          "impressions": 1215,
           "clicks": 10,
           "leads": 0
         },
@@ -4844,7 +4844,7 @@
         {
           "date": "2026-07-25",
           "campaign_id": "120239240019780292",
-          "campaign_name": "Менеджер �� продажу",
+          "campaign_name": "Менеджер з продажу",
           "spend": 5.09,
           "impressions": 493,
           "clicks": 24,
@@ -5123,7 +5123,7 @@
         {
           "date": "2026-08-01",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакт�� 03.06 – копія",
           "spend": 7.19,
           "impressions": 2345,
           "clicks": 25,
@@ -5672,7 +5672,7 @@
         {
           "date": "2026-08-19",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – копі��",
           "spend": 7.86,
           "impressions": 1781,
           "clicks": 10,
@@ -6753,8 +6753,8 @@
           "date": "2026-09-29",
           "campaign_id": "120246978949550292",
           "campaign_name": "Пошук співпраці ОВІК (Проєктант)",
-          "spend": 7.52,
-          "impressions": 1049,
+          "spend": 7.53,
+          "impressions": 1050,
           "clicks": 15,
           "leads": 1
         }
@@ -7196,7 +7196,7 @@
         {
           "date": "2026-08-09",
           "campaign_id": "120250168625590749",
-          "campaign_name": "ТН ЛІДИ 24.07 ��� копія",
+          "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 20,
           "impressions": 5592,
           "clicks": 88,
@@ -7845,8 +7845,8 @@
           "date": "2026-09-29",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 5.12,
-          "impressions": 1093,
+          "spend": 5.15,
+          "impressions": 1094,
           "clicks": 11,
           "leads": 0
         }
