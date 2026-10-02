@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T05:58:27.622Z",
+  "generated_at": "2026-10-02T06:14:46.812Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3877,7 +3877,7 @@
           "campaign_id": "120248715894280027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 29.09",
           "spend": 5.67,
-          "impressions": 1654,
+          "impressions": 1655,
           "clicks": 22,
           "leads": 0
         },
@@ -3886,7 +3886,7 @@
           "campaign_id": "120248752939760027",
           "campaign_name": "ОН Теплові насоси 01.10",
           "spend": 1.31,
-          "impressions": 385,
+          "impressions": 387,
           "clicks": 9,
           "leads": 0
         },
@@ -3895,7 +3895,7 @@
           "campaign_id": "120248753019340027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 01.10",
           "spend": 3.65,
-          "impressions": 826,
+          "impressions": 827,
           "clicks": 13,
           "leads": 1
         }
@@ -4826,7 +4826,7 @@
         {
           "date": "2026-07-24",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 ��� копія",
+          "campaign_name": "Дилер Контакти 03.06 �� копія",
           "spend": 5.26,
           "impressions": 1377,
           "clicks": 18,
@@ -6275,7 +6275,7 @@
         {
           "date": "2026-09-05",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Диле�� Контакти 24.08",
+          "campaign_name": "Дилер Кон��акти 24.08",
           "spend": 2.77,
           "impressions": 530,
           "clicks": 4,
@@ -6320,7 +6320,7 @@
         {
           "date": "2026-09-07",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Ваканс��я СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.55,
           "impressions": 1483,
           "clicks": 37,
@@ -6518,7 +6518,7 @@
         {
           "date": "2026-09-14",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакти 24.08",
+          "campaign_name": "Ди��ер Контакти 24.08",
           "spend": 6.09,
           "impressions": 991,
           "clicks": 18,
@@ -6536,7 +6536,7 @@
         {
           "date": "2026-09-15",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія ��ЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.2,
           "impressions": 1082,
           "clicks": 18,
@@ -6563,7 +6563,7 @@
         {
           "date": "2026-09-16",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 �� копія – копія",
           "spend": 7.58,
           "impressions": 978,
           "clicks": 21,
@@ -6689,7 +6689,7 @@
         {
           "date": "2026-09-25",
           "campaign_id": "120246888745410292",
-          "campaign_name": "Менеджер з продажу ТН",
+          "campaign_name": "Менедж��р з продажу ТН",
           "spend": 21.93,
           "impressions": 1702,
           "clicks": 49,
@@ -7855,7 +7855,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 5.24,
-          "impressions": 1333,
+          "impressions": 1334,
           "clicks": 23,
           "leads": 3
         }
