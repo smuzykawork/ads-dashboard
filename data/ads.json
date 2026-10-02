@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:39:06.937Z",
+  "generated_at": "2026-10-02T12:58:00.157Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3858,8 +3858,8 @@
           "date": "2026-10-01",
           "campaign_id": "120248578662700027",
           "campaign_name": "Курс ОФ Теплові насоси 21.09",
-          "spend": 4.7,
-          "impressions": 1186,
+          "spend": 4.73,
+          "impressions": 1187,
           "clicks": 16,
           "leads": 0
         },
@@ -3877,7 +3877,7 @@
           "campaign_id": "120248715894280027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 29.09",
           "spend": 5.68,
-          "impressions": 1657,
+          "impressions": 1659,
           "clicks": 22,
           "leads": 0
         },
@@ -3895,7 +3895,7 @@
           "campaign_id": "120248753019340027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 01.10",
           "spend": 3.66,
-          "impressions": 831,
+          "impressions": 832,
           "clicks": 13,
           "leads": 1
         }
@@ -4961,7 +4961,7 @@
         {
           "date": "2026-07-28",
           "campaign_id": "120245542298330292",
-          "campaign_name": "х��ер тн ж",
+          "campaign_name": "хаер тн ж",
           "spend": 7.11,
           "impressions": 1539,
           "clicks": 32,
@@ -5060,7 +5060,7 @@
         {
           "date": "2026-07-31",
           "campaign_id": "120239240019780292",
-          "campaign_name": "��енеджер з продажу",
+          "campaign_name": "Менеджер з продажу",
           "spend": 2.6,
           "impressions": 268,
           "clicks": 23,
@@ -5123,7 +5123,7 @@
         {
           "date": "2026-08-01",
           "campaign_id": "120245627155800292",
-          "campaign_name": "Вакансія ��ЕРВІСАНТ КИЇВ 28.07",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 28.07",
           "spend": 6.61,
           "impressions": 1090,
           "clicks": 18,
@@ -5330,7 +5330,7 @@
         {
           "date": "2026-08-09",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 ��� копія",
           "spend": 9.13,
           "impressions": 3186,
           "clicks": 28,
@@ -5384,7 +5384,7 @@
         {
           "date": "2026-08-11",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "��илер Контакти 03.06 – копія",
           "spend": 7.46,
           "impressions": 2644,
           "clicks": 19,
@@ -6383,7 +6383,7 @@
         {
           "date": "2026-09-09",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакти 24.08",
+          "campaign_name": "Дилер К��нтакти 24.08",
           "spend": 4.23,
           "impressions": 863,
           "clicks": 10,
@@ -6590,7 +6590,7 @@
         {
           "date": "2026-09-17",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – к��пія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 5.84,
           "impressions": 832,
           "clicks": 12,
@@ -7313,7 +7313,7 @@
         {
           "date": "2026-08-21",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІД�� 14.08 – копія",
+          "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 10.33,
           "impressions": 3166,
           "clicks": 54,
@@ -7394,7 +7394,7 @@
         {
           "date": "2026-08-30",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІ��И 14.08 – копія",
           "spend": 12.25,
           "impressions": 3139,
           "clicks": 45,
@@ -7475,7 +7475,7 @@
         {
           "date": "2026-09-08",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "��Н ЛІДИ 14.08 – копія",
           "spend": 10.63,
           "impressions": 3659,
           "clicks": 53,
