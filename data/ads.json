@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T23:06:47.963Z",
+  "generated_at": "2026-10-02T00:00:57.675Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3895,7 +3895,7 @@
           "campaign_id": "120248753019340027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 01.10",
           "spend": 3.62,
-          "impressions": 814,
+          "impressions": 815,
           "clicks": 13,
           "leads": 1
         }
@@ -4826,7 +4826,7 @@
         {
           "date": "2026-07-24",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 ��� копія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 5.26,
           "impressions": 1377,
           "clicks": 18,
@@ -5087,7 +5087,7 @@
         {
           "date": "2026-07-31",
           "campaign_id": "120245627155800292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 28.07",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇ�� 28.07",
           "spend": 7.57,
           "impressions": 1477,
           "clicks": 33,
@@ -6599,7 +6599,7 @@
         {
           "date": "2026-09-17",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакти 24.08",
+          "campaign_name": "Д��лер Контакти 24.08",
           "spend": 3.88,
           "impressions": 506,
           "clicks": 6,
@@ -6763,7 +6763,7 @@
           "campaign_id": "120246978949550292",
           "campaign_name": "Пошук співпраці ОВІК (Проєктант)",
           "spend": 11.75,
-          "impressions": 1536,
+          "impressions": 1537,
           "clicks": 20,
           "leads": 0
         }
@@ -7855,7 +7855,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 5.22,
-          "impressions": 1329,
+          "impressions": 1330,
           "clicks": 23,
           "leads": 3
         }
