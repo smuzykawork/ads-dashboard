@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T00:14:46.290Z",
+  "generated_at": "2026-10-02T02:12:19.155Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3858,8 +3858,8 @@
           "date": "2026-10-01",
           "campaign_id": "120248578662700027",
           "campaign_name": "Курс ОФ Теплові насоси 21.09",
-          "spend": 4.69,
-          "impressions": 1178,
+          "spend": 4.7,
+          "impressions": 1180,
           "clicks": 16,
           "leads": 0
         },
@@ -3886,7 +3886,7 @@
           "campaign_id": "120248752939760027",
           "campaign_name": "ОН Теплові насоси 01.10",
           "spend": 1.21,
-          "impressions": 376,
+          "impressions": 377,
           "clicks": 9,
           "leads": 0
         },
@@ -3895,7 +3895,7 @@
           "campaign_id": "120248753019340027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 01.10",
           "spend": 3.62,
-          "impressions": 815,
+          "impressions": 818,
           "clicks": 13,
           "leads": 1
         }
@@ -6763,7 +6763,7 @@
           "campaign_id": "120246978949550292",
           "campaign_name": "Пошук співпраці ОВІК (Проєктант)",
           "spend": 11.75,
-          "impressions": 1537,
+          "impressions": 1538,
           "clicks": 20,
           "leads": 0
         }
@@ -7295,7 +7295,7 @@
         {
           "date": "2026-08-19",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІДИ 14.08 – ко��ія",
           "spend": 11.07,
           "impressions": 3181,
           "clicks": 49,
@@ -7574,7 +7574,7 @@
         {
           "date": "2026-09-15",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "Б��ИГАДИ конткати 14.09",
           "spend": 29.4,
           "impressions": 9914,
           "clicks": 243,
