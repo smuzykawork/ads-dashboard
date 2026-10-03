@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T07:06:26.199Z",
+  "generated_at": "2026-10-03T08:25:07.262Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3885,8 +3885,8 @@
           "date": "2026-10-02",
           "campaign_id": "120248578662700027",
           "campaign_name": "Курс ОФ Теплові насоси 21.09",
-          "spend": 5.54,
-          "impressions": 914,
+          "spend": 5.55,
+          "impressions": 916,
           "clicks": 16,
           "leads": 1
         },
@@ -3895,7 +3895,7 @@
           "campaign_id": "120248752939760027",
           "campaign_name": "ОН Теплові насоси 01.10",
           "spend": 24.71,
-          "impressions": 7339,
+          "impressions": 7341,
           "clicks": 145,
           "leads": 2
         },
@@ -3903,8 +3903,8 @@
           "date": "2026-10-02",
           "campaign_id": "120248753019340027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 01.10",
-          "spend": 9.9,
-          "impressions": 4948,
+          "spend": 9.95,
+          "impressions": 4955,
           "clicks": 122,
           "leads": 0
         }
@@ -5492,7 +5492,7 @@
         {
           "date": "2026-08-14",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕ��ВІСАНТ КИЇВ 12.08 – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 5.92,
           "impressions": 719,
           "clicks": 19,
@@ -6572,7 +6572,7 @@
         {
           "date": "2026-09-16",
           "campaign_id": "120246711269350292",
-          "campaign_name": "хае�� тн ж 14.09",
+          "campaign_name": "хаер тн ж 14.09",
           "spend": 5.72,
           "impressions": 1440,
           "clicks": 29,
@@ -6725,7 +6725,7 @@
         {
           "date": "2026-09-28",
           "campaign_id": "120246978949550292",
-          "campaign_name": "Пошук співпраці ОВІК (Проєкта��т)",
+          "campaign_name": "Пошук співпраці ОВІК (Проєктант)",
           "spend": 3.62,
           "impressions": 605,
           "clicks": 12,
@@ -6761,9 +6761,9 @@
         {
           "date": "2026-10-02",
           "campaign_id": "120246978949550292",
-          "campaign_name": "Пошук ��півпраці ОВІК (Проєктант)",
-          "spend": 1.86,
-          "impressions": 225,
+          "campaign_name": "Пошук співпраці ОВІК (Проєктант)",
+          "spend": 1.87,
+          "impressions": 226,
           "clicks": 7,
           "leads": 0
         }
@@ -7079,7 +7079,7 @@
         {
           "date": "2026-07-29",
           "campaign_id": "120250168625590749",
-          "campaign_name": "ТН ЛІДИ 24.07 – копія",
+          "campaign_name": "ТН ЛІ��И 24.07 – копія",
           "spend": 19.7,
           "impressions": 5233,
           "clicks": 81,
@@ -7214,7 +7214,7 @@
         {
           "date": "2026-08-13",
           "campaign_id": "120250168625590749",
-          "campaign_name": "ТН ЛІДИ 24.07 – копія",
+          "campaign_name": "ТН ЛІДИ 24.07 �� копія",
           "spend": 15.84,
           "impressions": 3728,
           "clicks": 70,
@@ -7853,7 +7853,7 @@
         {
           "date": "2026-10-02",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ контка��и 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 5.55,
           "impressions": 1417,
           "clicks": 32,
