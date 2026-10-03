@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T21:08:36.177Z",
+  "generated_at": "2026-10-03T21:37:27.660Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3868,7 +3868,7 @@
           "campaign_id": "120248578662700027",
           "campaign_name": "Курс ОФ Теплові насоси 21.09",
           "spend": 5.55,
-          "impressions": 918,
+          "impressions": 919,
           "clicks": 16,
           "leads": 1
         },
@@ -3903,9 +3903,9 @@
           "date": "2026-10-03",
           "campaign_id": "120248752939760027",
           "campaign_name": "ОН Теплові насоси 01.10",
-          "spend": 39.49,
-          "impressions": 12038,
-          "clicks": 183,
+          "spend": 39.53,
+          "impressions": 12086,
+          "clicks": 184,
           "leads": 4
         },
         {
@@ -5231,7 +5231,7 @@
         {
           "date": "2026-08-06",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 �� копія",
           "spend": 8.52,
           "impressions": 3806,
           "clicks": 29,
@@ -5528,7 +5528,7 @@
         {
           "date": "2026-08-15",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – ко��ія",
           "spend": 7.36,
           "impressions": 1721,
           "clicks": 35,
@@ -6500,7 +6500,7 @@
         {
           "date": "2026-09-14",
           "campaign_id": "120246318509580292",
-          "campaign_name": "В��кансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.77,
           "impressions": 1020,
           "clicks": 19,
@@ -7855,7 +7855,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 4.39,
-          "impressions": 871,
+          "impressions": 872,
           "clicks": 22,
           "leads": 1
         }
