@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T08:38:13.175Z",
+  "generated_at": "2026-10-04T08:49:10.895Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3904,7 +3904,7 @@
           "campaign_id": "120248752939760027",
           "campaign_name": "ОН Теплові насоси 01.10",
           "spend": 39.58,
-          "impressions": 12244,
+          "impressions": 12245,
           "clicks": 186,
           "leads": 4
         },
@@ -5870,7 +5870,7 @@
         {
           "date": "2026-08-24",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакти 24.08",
+          "campaign_name": "Дилер Конта��ти 24.08",
           "spend": 3.04,
           "impressions": 659,
           "clicks": 3,
@@ -5888,7 +5888,7 @@
         {
           "date": "2026-08-25",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери вебінар ��� копія",
           "spend": 4.28,
           "impressions": 1411,
           "clicks": 13,
@@ -6176,7 +6176,7 @@
         {
           "date": "2026-09-02",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – ко��ія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 6.84,
           "impressions": 1305,
           "clicks": 23,
