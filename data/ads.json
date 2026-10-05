@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T22:33:47.290Z",
+  "generated_at": "2026-10-05T22:49:06.397Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5321,7 +5321,7 @@
         {
           "date": "2026-08-10",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери ��ебінар – копія",
           "spend": 4.37,
           "impressions": 1974,
           "clicks": 16,
@@ -6599,7 +6599,7 @@
         {
           "date": "2026-09-21",
           "campaign_id": "120246711269350292",
-          "campaign_name": "хаер тн �� 14.09",
+          "campaign_name": "хаер тн ж 14.09",
           "spend": 4.02,
           "impressions": 726,
           "clicks": 18,
@@ -6662,7 +6662,7 @@
         {
           "date": "2026-09-26",
           "campaign_id": "120246888745410292",
-          "campaign_name": "Менеджер з продажу ТН",
+          "campaign_name": "Менеджер з продаж�� ТН",
           "spend": 16.86,
           "impressions": 924,
           "clicks": 34,
@@ -7592,7 +7592,7 @@
         {
           "date": "2026-09-19",
           "campaign_id": "120251083852350749",
-          "campaign_name": "B2B ��илери",
+          "campaign_name": "B2B дилери",
           "spend": 0.75,
           "impressions": 299,
           "clicks": 1,
@@ -7818,8 +7818,8 @@
           "date": "2026-10-05",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 4.42,
-          "impressions": 1125,
+          "spend": 4.43,
+          "impressions": 1126,
           "clicks": 17,
           "leads": 0
         }
