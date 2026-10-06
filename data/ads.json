@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:35:22.394Z",
+  "generated_at": "2026-10-06T21:46:57.374Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4745,7 +4745,7 @@
         {
           "date": "2026-07-24",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – ко��ія",
           "spend": 5.26,
           "impressions": 1377,
           "clicks": 18,
@@ -4961,7 +4961,7 @@
         {
           "date": "2026-07-30",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – ко��ія",
           "spend": 7.23,
           "impressions": 2687,
           "clicks": 26,
@@ -7331,7 +7331,7 @@
         {
           "date": "2026-09-05",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІДИ 14.08 – ко��ія",
           "spend": 8.76,
           "impressions": 2265,
           "clicks": 32,
@@ -7782,8 +7782,8 @@
           "date": "2026-10-06",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 5.2,
-          "impressions": 1291,
+          "spend": 5.21,
+          "impressions": 1292,
           "clicks": 23,
           "leads": 1
         }
