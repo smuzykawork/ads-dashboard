@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T22:55:20.032Z",
+  "generated_at": "2026-10-06T02:54:07.559Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3886,7 +3886,7 @@
           "campaign_id": "120248752939760027",
           "campaign_name": "ОН Теплові насоси 01.10",
           "spend": 15.62,
-          "impressions": 6197,
+          "impressions": 6205,
           "clicks": 118,
           "leads": 2
         },
@@ -4934,7 +4934,7 @@
         {
           "date": "2026-07-28",
           "campaign_id": "120245627155800292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 28.07",
+          "campaign_name": "Вакансія ��ЕРВІСАНТ КИЇВ 28.07",
           "spend": 5.93,
           "impressions": 1192,
           "clicks": 15,
@@ -6032,7 +6032,7 @@
         {
           "date": "2026-08-30",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебі��ар – копія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 4.89,
           "impressions": 1584,
           "clicks": 9,
@@ -6338,7 +6338,7 @@
         {
           "date": "2026-09-09",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Кон��акти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 4.23,
           "impressions": 863,
           "clicks": 10,
@@ -6698,7 +6698,7 @@
         {
           "date": "2026-09-29",
           "campaign_id": "120246978949550292",
-          "campaign_name": "Пошук співпраці ОВІК (Проєктант)",
+          "campaign_name": "Пошук співпраці ОВІК (Проє��тант)",
           "spend": 7.53,
           "impressions": 1050,
           "clicks": 15,
@@ -6716,7 +6716,7 @@
         {
           "date": "2026-10-01",
           "campaign_id": "120246978949550292",
-          "campaign_name": "Пошук співпраці ОВІК (Проєктант)",
+          "campaign_name": "Пошук співпрац�� ОВІК (Проєктант)",
           "spend": 11.81,
           "impressions": 1546,
           "clicks": 20,
@@ -7196,7 +7196,7 @@
         {
           "date": "2026-08-17",
           "campaign_id": "120250561620380749",
-          "campaign_name": "ТН ��ІДИ 14.08",
+          "campaign_name": "ТН ЛІДИ 14.08",
           "spend": 14.33,
           "impressions": 3846,
           "clicks": 58,
@@ -7592,7 +7592,7 @@
         {
           "date": "2026-09-19",
           "campaign_id": "120251083852350749",
-          "campaign_name": "B2B дилери",
+          "campaign_name": "B2B ��илери",
           "spend": 0.75,
           "impressions": 299,
           "clicks": 1,
@@ -7818,8 +7818,8 @@
           "date": "2026-10-05",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 4.43,
-          "impressions": 1126,
+          "spend": 4.44,
+          "impressions": 1128,
           "clicks": 17,
           "leads": 0
         }
