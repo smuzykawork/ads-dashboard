@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:53:48.824Z",
+  "generated_at": "2026-10-07T01:27:28.386Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5042,7 +5042,7 @@
         {
           "date": "2026-08-01",
           "campaign_id": "120245627155800292",
-          "campaign_name": "Вака��сія СЕРВІСАНТ КИЇВ 28.07",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 28.07",
           "spend": 6.61,
           "impressions": 1090,
           "clicks": 18,
@@ -5789,7 +5789,7 @@
         {
           "date": "2026-08-24",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ К��ЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 4.12,
           "impressions": 743,
           "clicks": 14,
@@ -6005,7 +6005,7 @@
         {
           "date": "2026-08-30",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – ко��ія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 9.42,
           "impressions": 1333,
           "clicks": 36,
@@ -6068,7 +6068,7 @@
         {
           "date": "2026-09-01",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери веб��нар – копія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 1.23,
           "impressions": 417,
           "clicks": 4,
@@ -7782,8 +7782,8 @@
           "date": "2026-10-06",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 5.21,
-          "impressions": 1292,
+          "spend": 5.23,
+          "impressions": 1301,
           "clicks": 23,
           "leads": 1
         }
@@ -9852,24 +9852,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-07-08",
-          "campaign_id": "120250891766850392",
-          "campaign_name": "Fgazy - 07",
-          "spend": 98.84,
-          "impressions": 5934,
-          "clicks": 179,
-          "leads": 11
-        },
-        {
-          "date": "2026-07-08",
-          "campaign_id": "120250897328920392",
-          "campaign_name": "Projekt 2 - rus",
-          "spend": 152.91,
-          "impressions": 3653,
-          "clicks": 74,
-          "leads": 3
-        },
         {
           "date": "2026-07-09",
           "campaign_id": "120250891766850392",
