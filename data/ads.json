@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-10-07T09:18:24.338Z",
+  "generated_at": "2026-10-07T16:22:10.308Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120248843546410027",
+          "name": "ОН Теплові насоси 07.10",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120248842507460027",
+          "name": "Курс ОФ сервісант систем конд і вент 07.10",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120248753019340027",
           "name": "Курс ОН сервісант систем конд і вент 01.10",
@@ -1193,18 +1205,6 @@
           "name": "Конверсія на телеграм 26.09",
           "status": "PAUSED",
           "objective": "OUTCOME_TRAFFIC"
-        },
-        {
-          "id": "120211497826790027",
-          "name": "Конверсія на телеграм 23.09",
-          "status": "PAUSED",
-          "objective": "OUTCOME_TRAFFIC"
-        },
-        {
-          "id": "120211497139910027",
-          "name": "Конверсія на сайті /Онлайн-курс «Проєктування сучасних систем вентиляції» 23.09",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
         }
       ],
       "daily": [
@@ -5321,7 +5321,7 @@
         {
           "date": "2026-08-12",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер т�� ж",
+          "campaign_name": "хаер тн ж",
           "spend": 8.24,
           "impressions": 2066,
           "clicks": 13,
@@ -5555,7 +5555,7 @@
         {
           "date": "2026-08-18",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери ��ебінар – копія",
           "spend": 4.22,
           "impressions": 1261,
           "clicks": 14,
@@ -5780,7 +5780,7 @@
         {
           "date": "2026-08-24",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 �� копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 5.1,
           "impressions": 486,
           "clicks": 17,
@@ -6284,7 +6284,7 @@
         {
           "date": "2026-09-09",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер ��н ж",
+          "campaign_name": "хаер тн ж",
           "spend": 6.67,
           "impressions": 1266,
           "clicks": 13,
@@ -6626,7 +6626,7 @@
         {
           "date": "2026-09-26",
           "campaign_id": "120246888745410292",
-          "campaign_name": "Менеджер з продажу ТН",
+          "campaign_name": "Менеджер з продаж�� ТН",
           "spend": 16.86,
           "impressions": 924,
           "clicks": 34,
@@ -7430,7 +7430,7 @@
         {
           "date": "2026-09-14",
           "campaign_id": "120250980663130749",
-          "campaign_name": "БРИГАДИ конткати",
+          "campaign_name": "БРИГАДИ ко��ткати",
           "spend": 8.9,
           "impressions": 1350,
           "clicks": 28,
