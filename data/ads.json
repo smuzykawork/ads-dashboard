@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:49:09.287Z",
+  "generated_at": "2026-10-07T08:33:44.572Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5321,7 +5321,7 @@
         {
           "date": "2026-08-12",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ж",
+          "campaign_name": "хаер т�� ж",
           "spend": 8.24,
           "impressions": 2066,
           "clicks": 13,
@@ -5330,7 +5330,7 @@
         {
           "date": "2026-08-12",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – к��пія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 7.8,
           "impressions": 2798,
           "clicks": 22,
@@ -6482,7 +6482,7 @@
         {
           "date": "2026-09-16",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕ��ВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 7.58,
           "impressions": 978,
           "clicks": 21,
@@ -6509,7 +6509,7 @@
         {
           "date": "2026-09-17",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСА��Т КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 5.84,
           "impressions": 832,
           "clicks": 12,
@@ -7205,7 +7205,7 @@
         {
           "date": "2026-08-22",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІДИ 14.08 – копі��",
           "spend": 9.03,
           "impressions": 2772,
           "clicks": 44,
@@ -7304,7 +7304,7 @@
         {
           "date": "2026-09-02",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІДИ 14.08 – ко��ія",
           "spend": 9.13,
           "impressions": 3378,
           "clicks": 43,
@@ -7430,7 +7430,7 @@
         {
           "date": "2026-09-14",
           "campaign_id": "120250980663130749",
-          "campaign_name": "БРИГАДИ конткати",
+          "campaign_name": "БРИГАДИ ко��ткати",
           "spend": 8.9,
           "impressions": 1350,
           "clicks": 28,
@@ -7718,7 +7718,7 @@
         {
           "date": "2026-09-29",
           "campaign_id": "120250995433840749",
-          "campaign_name": "Б��ИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 5.15,
           "impressions": 1094,
           "clicks": 11,
@@ -7782,8 +7782,8 @@
           "date": "2026-10-06",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 5.23,
-          "impressions": 1302,
+          "spend": 5.26,
+          "impressions": 1320,
           "clicks": 23,
           "leads": 1
         }
