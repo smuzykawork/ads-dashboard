@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T09:29:01.206Z",
+  "generated_at": "2026-10-08T16:24:08.313Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -15,7 +15,7 @@
         {
           "id": "120248842507460027",
           "name": "Курс ОФ сервісант систем конд і вент 07.10",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -3849,8 +3849,8 @@
           "date": "2026-10-07",
           "campaign_id": "120248842507460027",
           "campaign_name": "Курс ОФ сервісант систем конд і вент 07.10",
-          "spend": 6.65,
-          "impressions": 2822,
+          "spend": 6.66,
+          "impressions": 2829,
           "clicks": 41,
           "leads": 3
         },
@@ -3859,7 +3859,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 4.17,
-          "impressions": 1384,
+          "impressions": 1386,
           "clicks": 20,
           "leads": 1
         }
@@ -5258,7 +5258,7 @@
         {
           "date": "2026-08-10",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "��илер Контакти 03.06 – копія",
           "spend": 7.6,
           "impressions": 2914,
           "clicks": 17,
@@ -5510,7 +5510,7 @@
         {
           "date": "2026-08-17",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – ко��ія",
           "spend": 9.26,
           "impressions": 1960,
           "clicks": 28,
@@ -6221,7 +6221,7 @@
         {
           "date": "2026-09-07",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Ва��ансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.55,
           "impressions": 1483,
           "clicks": 37,
@@ -6581,7 +6581,7 @@
         {
           "date": "2026-09-25",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 �� копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.16,
           "impressions": 993,
           "clicks": 18,
@@ -6671,7 +6671,7 @@
         {
           "date": "2026-10-02",
           "campaign_id": "120246978949550292",
-          "campaign_name": "Пошук співпраці ОВІК (Проєктант)",
+          "campaign_name": "Пошук співпраці ОВІК (Проє��тант)",
           "spend": 1.87,
           "impressions": 226,
           "clicks": 7,
@@ -6687,7 +6687,7 @@
         {
           "id": "120251126564730749",
           "name": "Вебінар курс майконд 30.09",
-          "status": "PAUSED",
+          "status": "ACTIVE",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -7079,7 +7079,7 @@
         {
           "date": "2026-08-13",
           "campaign_id": "120250168625590749",
-          "campaign_name": "ТН Л��ДИ 24.07 – копія",
+          "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 15.84,
           "impressions": 3728,
           "clicks": 70,
@@ -7151,7 +7151,7 @@
         {
           "date": "2026-08-19",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІ��И 14.08 – копія",
           "spend": 11.07,
           "impressions": 3181,
           "clicks": 49,
@@ -7502,7 +7502,7 @@
         {
           "date": "2026-09-19",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ кон��кати 14.09",
           "spend": 56.54,
           "impressions": 15378,
           "clicks": 203,
@@ -7764,8 +7764,8 @@
           "date": "2026-10-07",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 5.41,
-          "impressions": 1196,
+          "spend": 5.44,
+          "impressions": 1200,
           "clicks": 20,
           "leads": 0
         }
@@ -10801,8 +10801,8 @@
           "date": "2026-10-07",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 30.41,
-          "impressions": 867,
+          "spend": 30.43,
+          "impressions": 869,
           "clicks": 26,
           "leads": 2
         },
@@ -10810,8 +10810,8 @@
           "date": "2026-10-07",
           "campaign_id": "120253017776350392",
           "campaign_name": "FGAZY NEW CRM",
-          "spend": 18.71,
-          "impressions": 454,
+          "spend": 18.74,
+          "impressions": 457,
           "clicks": 7,
           "leads": 0
         }
