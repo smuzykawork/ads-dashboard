@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T02:34:24.401Z",
+  "generated_at": "2026-10-09T08:55:44.044Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3833,7 +3833,7 @@
           "campaign_name": "Курс ОФ сервісант систем конд і вент 07.10",
           "spend": 6.66,
           "impressions": 2834,
-          "clicks": 41,
+          "clicks": 42,
           "leads": 3
         },
         {
@@ -3858,8 +3858,8 @@
           "date": "2026-10-08",
           "campaign_id": "120248842507460027",
           "campaign_name": "Курс ОФ сервісант систем конд і вент 07.10",
-          "spend": 6.3,
-          "impressions": 2530,
+          "spend": 6.31,
+          "impressions": 2532,
           "clicks": 62,
           "leads": 4
         },
@@ -3867,8 +3867,8 @@
           "date": "2026-10-08",
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
-          "spend": 8.8,
-          "impressions": 2338,
+          "spend": 8.84,
+          "impressions": 2350,
           "clicks": 21,
           "leads": 1
         }
@@ -7439,7 +7439,7 @@
         {
           "date": "2026-09-16",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ к��нткати 14.09",
           "spend": 26.25,
           "impressions": 9484,
           "clicks": 154,
@@ -7502,7 +7502,7 @@
         {
           "date": "2026-09-19",
           "campaign_id": "120250995561940749",
-          "campaign_name": "ТН ЛІ��И 14.09",
+          "campaign_name": "ТН ЛІДИ 14.09",
           "spend": 2.7,
           "impressions": 705,
           "clicks": 19,
@@ -7764,8 +7764,8 @@
           "date": "2026-10-08",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 5.04,
-          "impressions": 1199,
+          "spend": 5.09,
+          "impressions": 1213,
           "clicks": 23,
           "leads": 1
         },
@@ -7773,8 +7773,8 @@
           "date": "2026-10-08",
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
-          "spend": 14.86,
-          "impressions": 3350,
+          "spend": 15.11,
+          "impressions": 3416,
           "clicks": 51,
           "leads": 3
         }
@@ -10810,8 +10810,8 @@
           "date": "2026-10-08",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 121.32,
-          "impressions": 4062,
+          "spend": 121.54,
+          "impressions": 4074,
           "clicks": 131,
           "leads": 6
         },
@@ -10819,8 +10819,8 @@
           "date": "2026-10-08",
           "campaign_id": "120252681991680392",
           "campaign_name": "F-Gaz forma Webinar",
-          "spend": 40.78,
-          "impressions": 501,
+          "spend": 41.05,
+          "impressions": 506,
           "clicks": 7,
           "leads": 0
         },
@@ -10828,8 +10828,8 @@
           "date": "2026-10-08",
           "campaign_id": "120253017776350392",
           "campaign_name": "FGAZY NEW CRM",
-          "spend": 136.88,
-          "impressions": 3714,
+          "spend": 138.29,
+          "impressions": 3740,
           "clicks": 73,
           "leads": 1
         }
