@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T08:55:44.044Z",
+  "generated_at": "2026-10-09T09:26:02.407Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7133,7 +7133,7 @@
         {
           "date": "2026-08-18",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН Л��ДИ 14.08 – копія",
           "spend": 5.03,
           "impressions": 1287,
           "clicks": 13,
@@ -7439,7 +7439,7 @@
         {
           "date": "2026-09-16",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ к��нткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 26.25,
           "impressions": 9484,
           "clicks": 154,
@@ -10828,8 +10828,8 @@
           "date": "2026-10-08",
           "campaign_id": "120253017776350392",
           "campaign_name": "FGAZY NEW CRM",
-          "spend": 138.29,
-          "impressions": 3740,
+          "spend": 138.32,
+          "impressions": 3742,
           "clicks": 73,
           "leads": 1
         }
