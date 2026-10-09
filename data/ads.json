@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:07:15.288Z",
+  "generated_at": "2026-10-09T16:28:47.798Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5015,7 +5015,7 @@
         {
           "date": "2026-08-01",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Кон��акти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 7.19,
           "impressions": 2345,
           "clicks": 25,
@@ -5294,7 +5294,7 @@
         {
           "date": "2026-08-11",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери вебінар – ко��ія",
           "spend": 3.32,
           "impressions": 1424,
           "clicks": 18,
@@ -6194,7 +6194,7 @@
         {
           "date": "2026-09-06",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ К��ЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.94,
           "impressions": 1329,
           "clicks": 19,
@@ -7133,7 +7133,7 @@
         {
           "date": "2026-08-18",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІ��И 14.08 – копія",
           "spend": 5.03,
           "impressions": 1287,
           "clicks": 13,
@@ -7727,7 +7727,7 @@
         {
           "date": "2026-10-04",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ контк��ти 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 5.62,
           "impressions": 1076,
           "clicks": 14,
@@ -10828,8 +10828,8 @@
           "date": "2026-10-08",
           "campaign_id": "120253017776350392",
           "campaign_name": "FGAZY NEW CRM",
-          "spend": 138.5,
-          "impressions": 3746,
+          "spend": 138.68,
+          "impressions": 3748,
           "clicks": 74,
           "leads": 1
         }
