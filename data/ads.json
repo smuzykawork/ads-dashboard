@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:58:58.587Z",
+  "generated_at": "2026-10-10T15:16:39.189Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3859,7 +3859,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 9.66,
-          "impressions": 2040,
+          "impressions": 2041,
           "clicks": 26,
           "leads": 2
         }
@@ -7430,7 +7430,7 @@
         {
           "date": "2026-09-17",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАД�� конткати 14.09",
           "spend": 29.39,
           "impressions": 9757,
           "clicks": 178,
