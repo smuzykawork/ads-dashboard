@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T21:48:37.015Z",
+  "generated_at": "2026-10-10T01:16:46.716Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3858,8 +3858,8 @@
           "date": "2026-10-09",
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
-          "spend": 9.63,
-          "impressions": 2024,
+          "spend": 9.64,
+          "impressions": 2027,
           "clicks": 26,
           "leads": 2
         }
@@ -4691,7 +4691,7 @@
         {
           "date": "2026-07-24",
           "campaign_id": "120245536564470292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08",
+          "campaign_name": "Вакансі�� СЕРВІСАНТ КИЇВ 12.08",
           "spend": 6.27,
           "impressions": 736,
           "clicks": 13,
@@ -5744,7 +5744,7 @@
         {
           "date": "2026-08-24",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
+          "campaign_name": "Вакансі�� СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 5.1,
           "impressions": 486,
           "clicks": 17,
@@ -7755,8 +7755,8 @@
           "date": "2026-10-09",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 4.8,
-          "impressions": 1017,
+          "spend": 4.83,
+          "impressions": 1020,
           "clicks": 15,
           "leads": 0
         },
@@ -7764,8 +7764,8 @@
           "date": "2026-10-09",
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
-          "spend": 34.63,
-          "impressions": 8728,
+          "spend": 34.66,
+          "impressions": 8746,
           "clicks": 124,
           "leads": 8
         }
@@ -9835,24 +9835,6 @@
       ],
       "daily": [
         {
-          "date": "2026-07-11",
-          "campaign_id": "120250891766850392",
-          "campaign_name": "Fgazy - 07",
-          "spend": 169.05,
-          "impressions": 10015,
-          "clicks": 221,
-          "leads": 18
-        },
-        {
-          "date": "2026-07-11",
-          "campaign_id": "120250897328920392",
-          "campaign_name": "Projekt 2 - rus",
-          "spend": 302.15,
-          "impressions": 4998,
-          "clicks": 60,
-          "leads": 1
-        },
-        {
           "date": "2026-07-12",
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
@@ -10823,6 +10805,33 @@
           "impressions": 3748,
           "clicks": 74,
           "leads": 1
+        },
+        {
+          "date": "2026-10-09",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 99.23,
+          "impressions": 2957,
+          "clicks": 61,
+          "leads": 5
+        },
+        {
+          "date": "2026-10-09",
+          "campaign_id": "120252681991680392",
+          "campaign_name": "F-Gaz forma Webinar",
+          "spend": 93,
+          "impressions": 1229,
+          "clicks": 38,
+          "leads": 2
+        },
+        {
+          "date": "2026-10-09",
+          "campaign_id": "120253017776350392",
+          "campaign_name": "FGAZY NEW CRM",
+          "spend": 83.36,
+          "impressions": 2191,
+          "clicks": 34,
+          "leads": 0
         }
       ]
     }
