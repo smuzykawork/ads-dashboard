@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T01:50:52.708Z",
+  "generated_at": "2026-10-10T07:45:14.705Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3858,8 +3858,8 @@
           "date": "2026-10-09",
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
-          "spend": 9.64,
-          "impressions": 2027,
+          "spend": 9.66,
+          "impressions": 2040,
           "clicks": 26,
           "leads": 2
         }
@@ -5069,7 +5069,7 @@
         {
           "date": "2026-08-04",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер ��н ж",
+          "campaign_name": "хаер тн ж",
           "spend": 8.07,
           "impressions": 3012,
           "clicks": 42,
@@ -5105,7 +5105,7 @@
         {
           "date": "2026-08-05",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери вебіна�� – копія",
           "spend": 2.42,
           "impressions": 1112,
           "clicks": 18,
@@ -5150,7 +5150,7 @@
         {
           "date": "2026-08-07",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 �� копія",
           "spend": 7.26,
           "impressions": 2854,
           "clicks": 21,
@@ -5924,7 +5924,7 @@
         {
           "date": "2026-08-29",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери ве��інар – копія",
           "spend": 3.32,
           "impressions": 1095,
           "clicks": 13,
@@ -6131,7 +6131,7 @@
         {
           "date": "2026-09-04",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Ко��такти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 4.6,
           "impressions": 798,
           "clicks": 15,
@@ -7043,7 +7043,7 @@
         {
           "date": "2026-08-13",
           "campaign_id": "120250168625590749",
-          "campaign_name": "ТН ЛІДИ 24.07 – копія",
+          "campaign_name": "ТН Л��ДИ 24.07 – копія",
           "spend": 15.84,
           "impressions": 3728,
           "clicks": 70,
@@ -7286,7 +7286,7 @@
         {
           "date": "2026-09-07",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ��ІДИ 14.08 – копія",
           "spend": 9.6,
           "impressions": 2394,
           "clicks": 49,
@@ -7755,8 +7755,8 @@
           "date": "2026-10-09",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 4.83,
-          "impressions": 1020,
+          "spend": 4.85,
+          "impressions": 1027,
           "clicks": 15,
           "leads": 0
         },
@@ -7764,8 +7764,8 @@
           "date": "2026-10-09",
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
-          "spend": 34.66,
-          "impressions": 8749,
+          "spend": 34.73,
+          "impressions": 8789,
           "clicks": 124,
           "leads": 8
         }
@@ -10810,8 +10810,8 @@
           "date": "2026-10-09",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 99.23,
-          "impressions": 2957,
+          "spend": 99.54,
+          "impressions": 2978,
           "clicks": 61,
           "leads": 5
         },
@@ -10819,8 +10819,8 @@
           "date": "2026-10-09",
           "campaign_id": "120252681991680392",
           "campaign_name": "F-Gaz forma Webinar",
-          "spend": 93,
-          "impressions": 1229,
+          "spend": 93.07,
+          "impressions": 1233,
           "clicks": 38,
           "leads": 2
         },
@@ -10828,8 +10828,8 @@
           "date": "2026-10-09",
           "campaign_id": "120253017776350392",
           "campaign_name": "FGAZY NEW CRM",
-          "spend": 83.36,
-          "impressions": 2191,
+          "spend": 83.51,
+          "impressions": 2203,
           "clicks": 34,
           "leads": 0
         }
