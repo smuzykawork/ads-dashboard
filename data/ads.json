@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T18:52:31.454Z",
+  "generated_at": "2026-10-10T20:01:00.135Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3859,7 +3859,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 9.66,
-          "impressions": 2041,
+          "impressions": 2042,
           "clicks": 26,
           "leads": 2
         }
@@ -5744,7 +5744,7 @@
         {
           "date": "2026-08-24",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансі�� СЕРВІСАНТ КИЇВ 12.08 – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 5.1,
           "impressions": 486,
           "clicks": 17,
@@ -6338,7 +6338,7 @@
         {
           "date": "2026-09-12",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ ��ИЇВ 12.08 – копія – копія",
           "spend": 6.14,
           "impressions": 1085,
           "clicks": 21,
@@ -7196,7 +7196,7 @@
         {
           "date": "2026-08-28",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 �� копія",
+          "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 8.23,
           "impressions": 2066,
           "clicks": 33,
@@ -7223,7 +7223,7 @@
         {
           "date": "2026-08-31",
           "campaign_id": "120250630086770749",
-          "campaign_name": "Т�� ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 10.8,
           "impressions": 3008,
           "clicks": 58,
@@ -7764,8 +7764,8 @@
           "date": "2026-10-09",
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
-          "spend": 34.73,
-          "impressions": 8799,
+          "spend": 34.74,
+          "impressions": 8801,
           "clicks": 124,
           "leads": 8
         }
