@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:50:21.469Z",
+  "generated_at": "2026-10-11T22:14:35.300Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3832,7 +3832,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 11.78,
-          "impressions": 2480,
+          "impressions": 2482,
           "clicks": 40,
           "leads": 1
         }
@@ -4574,7 +4574,7 @@
         {
           "date": "2026-07-17",
           "campaign_id": "120245383162920292",
-          "campaign_name": "Вак��нсія СЕРВІСАНТ КИЇВ 17.07",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 17.07",
           "spend": 5.63,
           "impressions": 1740,
           "clicks": 24,
@@ -4592,7 +4592,7 @@
         {
           "date": "2026-07-19",
           "campaign_id": "120245383162920292",
-          "campaign_name": "Вакансія СЕРВІС��НТ КИЇВ 17.07",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 17.07",
           "spend": 9.1,
           "impressions": 2230,
           "clicks": 43,
@@ -4853,7 +4853,7 @@
         {
           "date": "2026-07-29",
           "campaign_id": "120245627155800292",
-          "campaign_name": "Вакансія СЕРВІ��АНТ КИЇВ 28.07",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 28.07",
           "spend": 9.27,
           "impressions": 1560,
           "clicks": 37,
@@ -5267,7 +5267,7 @@
         {
           "date": "2026-08-12",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
+          "campaign_name": "Вакан��ія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 4.91,
           "impressions": 990,
           "clicks": 20,
@@ -5888,7 +5888,7 @@
         {
           "date": "2026-08-29",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – ко��ія – копія",
           "spend": 7.19,
           "impressions": 1152,
           "clicks": 18,
@@ -6077,7 +6077,7 @@
         {
           "date": "2026-09-04",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 �� копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.11,
           "impressions": 1539,
           "clicks": 38,
@@ -6320,7 +6320,7 @@
         {
           "date": "2026-09-13",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – ��опія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 10.57,
           "impressions": 1265,
           "clicks": 17,
@@ -9808,15 +9808,6 @@
       ],
       "daily": [
         {
-          "date": "2026-07-13",
-          "campaign_id": "120250891766850392",
-          "campaign_name": "Fgazy - 07",
-          "spend": 91.74,
-          "impressions": 7224,
-          "clicks": 131,
-          "leads": 7
-        },
-        {
           "date": "2026-07-14",
           "campaign_id": "120250891766850392",
           "campaign_name": "Fgazy - 07",
@@ -10814,6 +10805,33 @@
           "impressions": 4178,
           "clicks": 89,
           "leads": 4
+        },
+        {
+          "date": "2026-10-11",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 98.76,
+          "impressions": 3620,
+          "clicks": 77,
+          "leads": 4
+        },
+        {
+          "date": "2026-10-11",
+          "campaign_id": "120252681991680392",
+          "campaign_name": "F-Gaz forma Webinar",
+          "spend": 56.7,
+          "impressions": 877,
+          "clicks": 16,
+          "leads": 0
+        },
+        {
+          "date": "2026-10-11",
+          "campaign_id": "120253017776350392",
+          "campaign_name": "FGAZY NEW CRM",
+          "spend": 97.6,
+          "impressions": 2276,
+          "clicks": 28,
+          "leads": 0
         }
       ]
     }
