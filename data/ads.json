@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T18:00:30.983Z",
+  "generated_at": "2026-10-11T18:15:53.917Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4844,7 +4844,7 @@
         {
           "date": "2026-07-28",
           "campaign_id": "120245627155800292",
-          "campaign_name": "Вакан��ія СЕРВІСАНТ КИЇВ 28.07",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 28.07",
           "spend": 5.93,
           "impressions": 1192,
           "clicks": 15,
@@ -7756,7 +7756,7 @@
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
           "spend": 34.63,
-          "impressions": 6825,
+          "impressions": 6826,
           "clicks": 85,
           "leads": 1
         }
