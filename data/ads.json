@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:08:50.166Z",
+  "generated_at": "2026-10-12T18:57:30.769Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3831,8 +3831,8 @@
           "date": "2026-10-11",
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
-          "spend": 11.82,
-          "impressions": 2499,
+          "spend": 11.84,
+          "impressions": 2501,
           "clicks": 41,
           "leads": 1
         }
@@ -4652,7 +4652,7 @@
         {
           "date": "2026-07-24",
           "campaign_id": "120245536564470292",
-          "campaign_name": "Ваканс��я СЕРВІСАНТ КИЇВ 12.08",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08",
           "spend": 6.27,
           "impressions": 736,
           "clicks": 13,
@@ -5246,7 +5246,7 @@
         {
           "date": "2026-08-12",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер ��н ж",
+          "campaign_name": "хаер тн ж",
           "spend": 8.24,
           "impressions": 2066,
           "clicks": 13,
@@ -5579,7 +5579,7 @@
         {
           "date": "2026-08-21",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Диле�� Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 6.47,
           "impressions": 1828,
           "clicks": 17,
@@ -6038,7 +6038,7 @@
         {
           "date": "2026-09-02",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контак��и 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 4.47,
           "impressions": 589,
           "clicks": 9,
@@ -6155,7 +6155,7 @@
         {
           "date": "2026-09-07",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ж",
+          "campaign_name": "ха��р тн ж",
           "spend": 8.27,
           "impressions": 1413,
           "clicks": 29,
@@ -6524,7 +6524,7 @@
         {
           "date": "2026-09-25",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – коп��я – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.16,
           "impressions": 993,
           "clicks": 18,
@@ -6941,7 +6941,7 @@
         {
           "date": "2026-08-08",
           "campaign_id": "120250168625590749",
-          "campaign_name": "ТН ЛІДИ 24.07 – копія",
+          "campaign_name": "ТН ЛІДИ 24.07 – к��пія",
           "spend": 17.79,
           "impressions": 5126,
           "clicks": 75,
@@ -7508,7 +7508,7 @@
         {
           "date": "2026-09-24",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БР��ГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 22.63,
           "impressions": 5678,
           "clicks": 99,
@@ -7571,7 +7571,7 @@
         {
           "date": "2026-09-27",
           "campaign_id": "120251126564730749",
-          "campaign_name": "Вебінар к��рс майконд 30.09",
+          "campaign_name": "Вебінар курс майконд 30.09",
           "spend": 22.5,
           "impressions": 4625,
           "clicks": 64,
@@ -7735,7 +7735,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 6.15,
-          "impressions": 1143,
+          "impressions": 1144,
           "clicks": 20,
           "leads": 3
         },
@@ -8611,6 +8611,24 @@
       "name": "Academy Aklima",
       "currency": "PLN",
       "campaigns": [
+        {
+          "id": "120253089988260392",
+          "name": "FGAZ - Anather",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120253089879570392",
+          "name": "FGAZ - Francja",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120253089696410392",
+          "name": "FGAZ - Niemec",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120253017776350392",
           "name": "FGAZY NEW CRM",
@@ -9792,24 +9810,6 @@
           "name": "Голос проф",
           "status": "PAUSED",
           "objective": "OUTCOME_TRAFFIC"
-        },
-        {
-          "id": "120211495476760392",
-          "name": "2 части",
-          "status": "PAUSED",
-          "objective": "OUTCOME_TRAFFIC"
-        },
-        {
-          "id": "120211495328290392",
-          "name": "Post: \"Webinar: \"Agregaty wody lodowej w obiektach...\"",
-          "status": "PAUSED",
-          "objective": "LINK_CLICKS"
-        },
-        {
-          "id": "120211437581770392",
-          "name": "Кактус",
-          "status": "PAUSED",
-          "objective": "OUTCOME_ENGAGEMENT"
         }
       ],
       "daily": [
