@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T22:14:35.300Z",
+  "generated_at": "2026-10-11T23:59:51.560Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3831,8 +3831,8 @@
           "date": "2026-10-11",
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
-          "spend": 11.78,
-          "impressions": 2482,
+          "spend": 11.8,
+          "impressions": 2483,
           "clicks": 40,
           "leads": 1
         }
@@ -5888,7 +5888,7 @@
         {
           "date": "2026-08-29",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – ко��ія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 7.19,
           "impressions": 1152,
           "clicks": 18,
@@ -6077,7 +6077,7 @@
         {
           "date": "2026-09-04",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВ��САНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.11,
           "impressions": 1539,
           "clicks": 38,
@@ -6581,7 +6581,7 @@
         {
           "date": "2026-09-29",
           "campaign_id": "120246978949550292",
-          "campaign_name": "Пошук співпраці ОВІК (Проєктант)",
+          "campaign_name": "Пошук співпраці ОВІК (Проєктан��)",
           "spend": 7.53,
           "impressions": 1050,
           "clicks": 15,
@@ -7737,8 +7737,8 @@
           "date": "2026-10-11",
           "campaign_id": "120251126564730749",
           "campaign_name": "Вебінар курс майконд 30.09",
-          "spend": 18.23,
-          "impressions": 3230,
+          "spend": 18.24,
+          "impressions": 3231,
           "clicks": 36,
           "leads": 1
         }
@@ -10810,8 +10810,8 @@
           "date": "2026-10-11",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 98.76,
-          "impressions": 3620,
+          "spend": 98.82,
+          "impressions": 3625,
           "clicks": 77,
           "leads": 4
         },
@@ -10819,8 +10819,8 @@
           "date": "2026-10-11",
           "campaign_id": "120252681991680392",
           "campaign_name": "F-Gaz forma Webinar",
-          "spend": 56.7,
-          "impressions": 877,
+          "spend": 56.75,
+          "impressions": 878,
           "clicks": 16,
           "leads": 0
         },
