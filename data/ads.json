@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T01:16:37.707Z",
+  "generated_at": "2026-10-13T02:10:00.538Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3796,7 +3796,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 11.74,
-          "impressions": 2906,
+          "impressions": 2907,
           "clicks": 41,
           "leads": 2
         },
@@ -3805,7 +3805,7 @@
           "campaign_id": "120248913570370027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 6.03,
-          "impressions": 2452,
+          "impressions": 2454,
           "clicks": 33,
           "leads": 0
         },
@@ -4553,7 +4553,7 @@
         {
           "date": "2026-07-17",
           "campaign_id": "120245383162920292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 17.07",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИ��В 17.07",
           "spend": 5.63,
           "impressions": 1740,
           "clicks": 24,
@@ -4679,7 +4679,7 @@
         {
           "date": "2026-07-25",
           "campaign_id": "120245543377600292",
-          "campaign_name": "��илер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 11.52,
           "impressions": 3374,
           "clicks": 41,
@@ -4850,7 +4850,7 @@
         {
           "date": "2026-07-30",
           "campaign_id": "120245542298330292",
-          "campaign_name": "ха��р тн ж",
+          "campaign_name": "хаер тн ж",
           "spend": 7.16,
           "impressions": 2092,
           "clicks": 34,
@@ -4976,7 +4976,7 @@
         {
           "date": "2026-08-02",
           "campaign_id": "120245627155800292",
-          "campaign_name": "Вакансія С��РВІСАНТ КИЇВ 28.07",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 28.07",
           "spend": 7.69,
           "impressions": 1465,
           "clicks": 26,
@@ -5363,7 +5363,7 @@
         {
           "date": "2026-08-16",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ж",
+          "campaign_name": "хаер тн ��",
           "spend": 7.99,
           "impressions": 1262,
           "clicks": 15,
@@ -5516,7 +5516,7 @@
         {
           "date": "2026-08-20",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – коп��я",
           "spend": 6.93,
           "impressions": 2147,
           "clicks": 17,
@@ -6263,7 +6263,7 @@
         {
           "date": "2026-09-12",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ж",
+          "campaign_name": "хаер ��н ж",
           "spend": 2.3,
           "impressions": 524,
           "clicks": 6,
@@ -6515,7 +6515,7 @@
         {
           "date": "2026-09-26",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇ�� 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 13.75,
           "impressions": 2144,
           "clicks": 49,
@@ -6524,7 +6524,7 @@
         {
           "date": "2026-09-26",
           "campaign_id": "120246888745410292",
-          "campaign_name": "Менеджер з продажу ТН",
+          "campaign_name": "Менеджер �� продажу ТН",
           "spend": 16.86,
           "impressions": 924,
           "clicks": 34,
@@ -7688,7 +7688,7 @@
         {
           "date": "2026-10-10",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГА��И конткати 14.09",
           "spend": 4.18,
           "impressions": 875,
           "clicks": 10,
@@ -10843,8 +10843,8 @@
           "date": "2026-10-12",
           "campaign_id": "120253089696410392",
           "campaign_name": "FGAZ - Niemec",
-          "spend": 24.4,
-          "impressions": 357,
+          "spend": 24.41,
+          "impressions": 358,
           "clicks": 13,
           "leads": 1
         },
