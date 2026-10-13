@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:37:55.695Z",
+  "generated_at": "2026-10-13T22:59:11.146Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3796,7 +3796,7 @@
           "campaign_id": "120248913570370027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 10.7,
-          "impressions": 4917,
+          "impressions": 4919,
           "clicks": 67,
           "leads": 4
         },
@@ -4643,7 +4643,7 @@
         {
           "date": "2026-07-25",
           "campaign_id": "120239240019780292",
-          "campaign_name": "М��неджер з продажу",
+          "campaign_name": "Менеджер з продажу",
           "spend": 5.09,
           "impressions": 493,
           "clicks": 24,
@@ -5417,7 +5417,7 @@
         {
           "date": "2026-08-17",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
+          "campaign_name": "Вакансія СЕРВІ��АНТ КИЇВ 12.08 – копія",
           "spend": 9.26,
           "impressions": 1960,
           "clicks": 28,
@@ -5525,7 +5525,7 @@
         {
           "date": "2026-08-20",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копі��",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 6.6,
           "impressions": 1246,
           "clicks": 19,
@@ -6788,7 +6788,7 @@
         {
           "date": "2026-07-27",
           "campaign_id": "120250097366020749",
-          "campaign_name": "ТН ЛІДИ 24.07",
+          "campaign_name": "Т�� ЛІДИ 24.07",
           "spend": 18.4,
           "impressions": 5851,
           "clicks": 83,
@@ -7735,7 +7735,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 4.97,
-          "impressions": 1395,
+          "impressions": 1396,
           "clicks": 16,
           "leads": 1
         }
@@ -10879,8 +10879,8 @@
           "date": "2026-10-13",
           "campaign_id": "120253089696410392",
           "campaign_name": "FGAZ - Niemec",
-          "spend": 54.56,
-          "impressions": 1141,
+          "spend": 54.7,
+          "impressions": 1142,
           "clicks": 48,
           "leads": 1
         },
