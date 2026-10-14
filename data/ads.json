@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:31:23.376Z",
+  "generated_at": "2026-10-14T18:46:59.704Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4643,7 +4643,7 @@
         {
           "date": "2026-07-25",
           "campaign_id": "120239240019780292",
-          "campaign_name": "М��неджер з продажу",
+          "campaign_name": "Менеджер з продажу",
           "spend": 5.09,
           "impressions": 493,
           "clicks": 24,
@@ -6020,7 +6020,7 @@
         {
           "date": "2026-09-03",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 ��� копія – копія",
           "spend": 7.05,
           "impressions": 1344,
           "clicks": 20,
@@ -6434,7 +6434,7 @@
         {
           "date": "2026-09-19",
           "campaign_id": "120246711269350292",
-          "campaign_name": "хаер тн ж 14.09",
+          "campaign_name": "хаер тн �� 14.09",
           "spend": 4.07,
           "impressions": 1130,
           "clicks": 20,
@@ -7373,7 +7373,7 @@
         {
           "date": "2026-09-19",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАД�� конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 56.54,
           "impressions": 15378,
           "clicks": 203,
@@ -7553,7 +7553,7 @@
         {
           "date": "2026-09-28",
           "campaign_id": "120251126564730749",
-          "campaign_name": "Вебінар ��урс майконд 30.09",
+          "campaign_name": "Вебінар курс майконд 30.09",
           "spend": 6.14,
           "impressions": 1060,
           "clicks": 21,
@@ -10888,8 +10888,8 @@
           "date": "2026-10-13",
           "campaign_id": "120253089879570392",
           "campaign_name": "FGAZ - Francja",
-          "spend": 59.68,
-          "impressions": 2241,
+          "spend": 59.69,
+          "impressions": 2242,
           "clicks": 26,
           "leads": 1
         },
