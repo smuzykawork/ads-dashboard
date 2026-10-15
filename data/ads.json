@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T01:37:50.872Z",
+  "generated_at": "2026-10-15T06:27:58.872Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3796,16 +3796,16 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 9.21,
-          "impressions": 1528,
-          "clicks": 13,
+          "impressions": 1529,
+          "clicks": 14,
           "leads": 0
         },
         {
           "date": "2026-10-14",
           "campaign_id": "120248913570370027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
-          "spend": 11.34,
-          "impressions": 3909,
+          "spend": 11.36,
+          "impressions": 3919,
           "clicks": 72,
           "leads": 2
         },
@@ -3814,7 +3814,7 @@
           "campaign_id": "120248919212320027",
           "campaign_name": "ОН проектування 12.10",
           "spend": 3.87,
-          "impressions": 790,
+          "impressions": 791,
           "clicks": 19,
           "leads": 0
         },
@@ -3822,8 +3822,8 @@
           "date": "2026-10-14",
           "campaign_id": "120248935857240027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія – копія",
-          "spend": 10.38,
-          "impressions": 3480,
+          "spend": 10.4,
+          "impressions": 3484,
           "clicks": 39,
           "leads": 1
         },
@@ -3831,8 +3831,8 @@
           "date": "2026-10-14",
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
-          "spend": 12.05,
-          "impressions": 3577,
+          "spend": 12.09,
+          "impressions": 3611,
           "clicks": 68,
           "leads": 4
         }
@@ -6056,7 +6056,7 @@
         {
           "date": "2026-09-04",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІ��АНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.11,
           "impressions": 1539,
           "clicks": 38,
@@ -6578,7 +6578,7 @@
         {
           "date": "2026-10-01",
           "campaign_id": "120246978949550292",
-          "campaign_name": "Пошук співпраці ��ВІК (Проєктант)",
+          "campaign_name": "Пошук співпраці ОВІК (Проєктант)",
           "spend": 11.81,
           "impressions": 1546,
           "clicks": 20,
@@ -6615,8 +6615,8 @@
           "date": "2026-10-14",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 7.12,
-          "impressions": 2708,
+          "spend": 7.13,
+          "impressions": 2716,
           "clicks": 110,
           "leads": 15
         }
@@ -6977,7 +6977,7 @@
         {
           "date": "2026-08-14",
           "campaign_id": "120250561620380749",
-          "campaign_name": "Т�� ЛІДИ 14.08",
+          "campaign_name": "ТН ЛІДИ 14.08",
           "spend": 8.28,
           "impressions": 1700,
           "clicks": 24,
@@ -7589,7 +7589,7 @@
         {
           "date": "2026-10-01",
           "campaign_id": "120250995433840749",
-          "campaign_name": "Б��ИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 5.28,
           "impressions": 1339,
           "clicks": 23,
@@ -7753,7 +7753,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 4.78,
-          "impressions": 1282,
+          "impressions": 1290,
           "clicks": 21,
           "leads": 2
         }
@@ -10933,8 +10933,8 @@
           "date": "2026-10-14",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 102.34,
-          "impressions": 3604,
+          "spend": 103.18,
+          "impressions": 3625,
           "clicks": 88,
           "leads": 5
         },
@@ -10951,8 +10951,8 @@
           "date": "2026-10-14",
           "campaign_id": "120253089879570392",
           "campaign_name": "FGAZ - Francja",
-          "spend": 41.41,
-          "impressions": 1606,
+          "spend": 41.45,
+          "impressions": 1608,
           "clicks": 22,
           "leads": 0
         },
@@ -10969,8 +10969,8 @@
           "date": "2026-10-14",
           "campaign_id": "120253106200750392",
           "campaign_name": "FGAZ - Romania",
-          "spend": 20.72,
-          "impressions": 887,
+          "spend": 20.74,
+          "impressions": 888,
           "clicks": 13,
           "leads": 0
         }
