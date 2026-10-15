@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:37:46.596Z",
+  "generated_at": "2026-10-15T12:08:33.794Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3796,7 +3796,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 9.21,
-          "impressions": 1529,
+          "impressions": 1532,
           "clicks": 14,
           "leads": 0
         },
@@ -3804,8 +3804,8 @@
           "date": "2026-10-14",
           "campaign_id": "120248913570370027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
-          "spend": 11.36,
-          "impressions": 3920,
+          "spend": 11.38,
+          "impressions": 3925,
           "clicks": 72,
           "leads": 2
         },
@@ -3822,8 +3822,8 @@
           "date": "2026-10-14",
           "campaign_id": "120248935857240027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія – копія",
-          "spend": 10.41,
-          "impressions": 3485,
+          "spend": 10.42,
+          "impressions": 3486,
           "clicks": 39,
           "leads": 1
         },
@@ -3831,8 +3831,8 @@
           "date": "2026-10-14",
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
-          "spend": 12.09,
-          "impressions": 3618,
+          "spend": 12.13,
+          "impressions": 3629,
           "clicks": 68,
           "leads": 4
         }
@@ -5129,7 +5129,7 @@
         {
           "date": "2026-08-08",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери ��ебінар – копія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 3.81,
           "impressions": 1317,
           "clicks": 19,
@@ -6615,9 +6615,9 @@
           "date": "2026-10-14",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 7.13,
-          "impressions": 2719,
-          "clicks": 112,
+          "spend": 7.14,
+          "impressions": 2720,
+          "clicks": 113,
           "leads": 15
         }
       ]
@@ -6977,7 +6977,7 @@
         {
           "date": "2026-08-14",
           "campaign_id": "120250561620380749",
-          "campaign_name": "ТН ЛІДИ 14.08",
+          "campaign_name": "��Н ЛІДИ 14.08",
           "spend": 8.28,
           "impressions": 1700,
           "clicks": 24,
@@ -7175,7 +7175,7 @@
         {
           "date": "2026-09-04",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "��Н ЛІДИ 14.08 – копія",
           "spend": 9.79,
           "impressions": 2537,
           "clicks": 43,
@@ -7753,7 +7753,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 4.78,
-          "impressions": 1291,
+          "impressions": 1292,
           "clicks": 21,
           "leads": 2
         }
@@ -8621,6 +8621,12 @@
       "currency": "PLN",
       "campaigns": [
         {
+          "id": "120253124582030392",
+          "name": "FGAZ Another 2",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120253106200750392",
           "name": "FGAZ - Romania",
           "status": "PAUSED",
@@ -8635,13 +8641,13 @@
         {
           "id": "120253089879570392",
           "name": "FGAZ - Francja",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
           "id": "120253089696410392",
           "name": "FGAZ - Niemec",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -9813,12 +9819,6 @@
           "name": "2 Audio",
           "status": "PAUSED",
           "objective": "OUTCOME_TRAFFIC"
-        },
-        {
-          "id": "120211543395970392",
-          "name": "Nowy cel Ruch Kampania z zalecanymi ustawieniami",
-          "status": "PAUSED",
-          "objective": "OUTCOME_TRAFFIC"
         }
       ],
       "daily": [
@@ -10906,8 +10906,8 @@
           "date": "2026-10-13",
           "campaign_id": "120253089879570392",
           "campaign_name": "FGAZ - Francja",
-          "spend": 59.69,
-          "impressions": 2242,
+          "spend": 59.7,
+          "impressions": 2243,
           "clicks": 26,
           "leads": 1
         },
@@ -10933,8 +10933,8 @@
           "date": "2026-10-14",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 103.22,
-          "impressions": 3628,
+          "spend": 103.25,
+          "impressions": 3633,
           "clicks": 88,
           "leads": 5
         },
@@ -10951,8 +10951,8 @@
           "date": "2026-10-14",
           "campaign_id": "120253089879570392",
           "campaign_name": "FGAZ - Francja",
-          "spend": 41.45,
-          "impressions": 1608,
+          "spend": 41.46,
+          "impressions": 1609,
           "clicks": 22,
           "leads": 0
         },
@@ -10970,7 +10970,7 @@
           "campaign_id": "120253106200750392",
           "campaign_name": "FGAZ - Romania",
           "spend": 20.8,
-          "impressions": 889,
+          "impressions": 890,
           "clicks": 13,
           "leads": 0
         }
