@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:35:31.451Z",
+  "generated_at": "2026-10-15T17:22:10.224Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3796,7 +3796,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 9.21,
-          "impressions": 1532,
+          "impressions": 1536,
           "clicks": 14,
           "leads": 0
         },
@@ -3805,7 +3805,7 @@
           "campaign_id": "120248913570370027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 11.38,
-          "impressions": 3925,
+          "impressions": 3926,
           "clicks": 72,
           "leads": 2
         },
@@ -3822,8 +3822,8 @@
           "date": "2026-10-14",
           "campaign_id": "120248935857240027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія – копія",
-          "spend": 10.42,
-          "impressions": 3486,
+          "spend": 10.43,
+          "impressions": 3487,
           "clicks": 39,
           "leads": 1
         },
@@ -3832,7 +3832,7 @@
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
           "spend": 12.13,
-          "impressions": 3631,
+          "impressions": 3632,
           "clicks": 68,
           "leads": 4
         }
@@ -5057,7 +5057,7 @@
         {
           "date": "2026-08-06",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Ди��ер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 8.52,
           "impressions": 3806,
           "clicks": 29,
@@ -5237,7 +5237,7 @@
         {
           "date": "2026-08-12",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – коп��я",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 4.08,
           "impressions": 1741,
           "clicks": 13,
@@ -5534,7 +5534,7 @@
         {
           "date": "2026-08-20",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія С��РВІСАНТ КИЇВ 12.08 – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 6.6,
           "impressions": 1246,
           "clicks": 19,
@@ -6083,7 +6083,7 @@
         {
           "date": "2026-09-05",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕР��ІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 6.04,
           "impressions": 1012,
           "clicks": 15,
@@ -7752,8 +7752,8 @@
           "date": "2026-10-14",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 4.78,
-          "impressions": 1292,
+          "spend": 4.79,
+          "impressions": 1294,
           "clicks": 21,
           "leads": 2
         }
@@ -10933,8 +10933,8 @@
           "date": "2026-10-14",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 103.25,
-          "impressions": 3634,
+          "spend": 103.27,
+          "impressions": 3635,
           "clicks": 88,
           "leads": 5
         },
@@ -10951,8 +10951,8 @@
           "date": "2026-10-14",
           "campaign_id": "120253089879570392",
           "campaign_name": "FGAZ - Francja",
-          "spend": 41.46,
-          "impressions": 1609,
+          "spend": 41.48,
+          "impressions": 1610,
           "clicks": 22,
           "leads": 0
         },
@@ -10960,8 +10960,8 @@
           "date": "2026-10-14",
           "campaign_id": "120253089988260392",
           "campaign_name": "FGAZ - Anather",
-          "spend": 19.28,
-          "impressions": 652,
+          "spend": 19.3,
+          "impressions": 653,
           "clicks": 16,
           "leads": 0
         },
@@ -10969,8 +10969,8 @@
           "date": "2026-10-14",
           "campaign_id": "120253106200750392",
           "campaign_name": "FGAZ - Romania",
-          "spend": 20.8,
-          "impressions": 890,
+          "spend": 20.83,
+          "impressions": 891,
           "clicks": 13,
           "leads": 0
         }
