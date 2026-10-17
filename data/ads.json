@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T22:13:01.718Z",
+  "generated_at": "2026-10-17T22:29:56.588Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3859,7 +3859,7 @@
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
           "spend": 19.87,
-          "impressions": 6704,
+          "impressions": 6706,
           "clicks": 92,
           "leads": 4
         }
@@ -4634,7 +4634,7 @@
         {
           "date": "2026-07-24",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – ко��ія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 5.26,
           "impressions": 1377,
           "clicks": 18,
@@ -6056,7 +6056,7 @@
         {
           "date": "2026-09-04",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Д��лер Контакти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 4.6,
           "impressions": 798,
           "clicks": 15,
@@ -6119,7 +6119,7 @@
         {
           "date": "2026-09-07",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ��",
+          "campaign_name": "хаер тн ж",
           "spend": 8.27,
           "impressions": 1413,
           "clicks": 29,
@@ -6182,7 +6182,7 @@
         {
           "date": "2026-09-09",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВ��САНТ КИЇВ 12.08 – копія – копія",
           "spend": 7.46,
           "impressions": 1550,
           "clicks": 18,
@@ -11102,7 +11102,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 115.02,
-          "impressions": 3686,
+          "impressions": 3689,
           "clicks": 66,
           "leads": 3
         },
