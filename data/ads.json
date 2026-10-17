@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T00:39:56.997Z",
+  "generated_at": "2026-10-17T01:33:51.159Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3840,8 +3840,8 @@
           "date": "2026-10-16",
           "campaign_id": "120248935857240027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія – копія",
-          "spend": 11.26,
-          "impressions": 2588,
+          "spend": 11.27,
+          "impressions": 2589,
           "clicks": 29,
           "leads": 1
         },
@@ -3850,7 +3850,7 @@
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
           "spend": 20.59,
-          "impressions": 7718,
+          "impressions": 7719,
           "clicks": 94,
           "leads": 3
         }
@@ -5030,7 +5030,7 @@
         {
           "date": "2026-08-05",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Д��лери вебінар – копія",
           "spend": 2.42,
           "impressions": 1112,
           "clicks": 18,
@@ -5678,7 +5678,7 @@
         {
           "date": "2026-08-24",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – к��пія",
           "spend": 4.12,
           "impressions": 743,
           "clicks": 14,
@@ -6119,7 +6119,7 @@
         {
           "date": "2026-09-07",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер ��н ж",
+          "campaign_name": "хаер тн ж",
           "spend": 8.27,
           "impressions": 1413,
           "clicks": 29,
@@ -6236,7 +6236,7 @@
         {
           "date": "2026-09-11",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ К��ЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.42,
           "impressions": 1262,
           "clicks": 29,
@@ -6290,7 +6290,7 @@
         {
           "date": "2026-09-13",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІ��АНТ КИЇВ 12.08 – копія – копія",
           "spend": 10.57,
           "impressions": 1265,
           "clicks": 17,
@@ -6625,7 +6625,7 @@
           "campaign_id": "120246711269350292",
           "campaign_name": "хаер тн ж 14.09",
           "spend": 11.18,
-          "impressions": 2417,
+          "impressions": 2418,
           "clicks": 56,
           "leads": 5
         },
@@ -7172,7 +7172,7 @@
         {
           "date": "2026-09-03",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – к��пія",
+          "campaign_name": "ТН ЛІДИ 14.08 – ко��ія",
           "spend": 9.95,
           "impressions": 2985,
           "clicks": 52,
@@ -7271,7 +7271,7 @@
         {
           "date": "2026-09-13",
           "campaign_id": "120250980663130749",
-          "campaign_name": "Б��ИГАДИ конткати",
+          "campaign_name": "БР��ГАДИ конткати",
           "spend": 8.51,
           "impressions": 1391,
           "clicks": 24,
@@ -7786,7 +7786,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 4.62,
-          "impressions": 1157,
+          "impressions": 1159,
           "clicks": 18,
           "leads": 0
         },
@@ -7795,7 +7795,7 @@
           "campaign_id": "120250995561940749",
           "campaign_name": "ТН ЛІДИ 14.09",
           "spend": 8.48,
-          "impressions": 1535,
+          "impressions": 1536,
           "clicks": 25,
           "leads": 3
         },
@@ -11056,8 +11056,8 @@
           "date": "2026-10-16",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 100.9,
-          "impressions": 3185,
+          "spend": 100.93,
+          "impressions": 3188,
           "clicks": 40,
           "leads": 1
         }
