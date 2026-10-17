@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T22:29:56.588Z",
+  "generated_at": "2026-10-17T23:29:08.457Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3841,7 +3841,7 @@
           "campaign_id": "120248913570370027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 8.3,
-          "impressions": 3316,
+          "impressions": 3317,
           "clicks": 29,
           "leads": 0
         },
@@ -3859,7 +3859,7 @@
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
           "spend": 19.87,
-          "impressions": 6706,
+          "impressions": 6708,
           "clicks": 92,
           "leads": 4
         }
@@ -6642,8 +6642,8 @@
           "date": "2026-10-17",
           "campaign_id": "120246711269350292",
           "campaign_name": "хаер тн ж 14.09",
-          "spend": 16.62,
-          "impressions": 4362,
+          "spend": 16.63,
+          "impressions": 4364,
           "clicks": 92,
           "leads": 10
         },
@@ -7685,7 +7685,7 @@
         {
           "date": "2026-10-09",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ кон��кати 14.09",
           "spend": 4.86,
           "impressions": 1028,
           "clicks": 15,
@@ -7840,7 +7840,7 @@
           "campaign_id": "120251473614430749",
           "campaign_name": "ТН ЛІДИ 14.09 1",
           "spend": 7.35,
-          "impressions": 1642,
+          "impressions": 1643,
           "clicks": 41,
           "leads": 4
         }
@@ -11102,7 +11102,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 115.02,
-          "impressions": 3689,
+          "impressions": 3693,
           "clicks": 66,
           "leads": 3
         },
