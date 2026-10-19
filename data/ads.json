@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T06:54:36.575Z",
+  "generated_at": "2026-10-19T07:40:20.045Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3841,7 +3841,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 12.4,
-          "impressions": 2562,
+          "impressions": 2563,
           "clicks": 27,
           "leads": 1
         },
@@ -3850,7 +3850,7 @@
           "campaign_id": "120248913570370027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 11.74,
-          "impressions": 4102,
+          "impressions": 4103,
           "clicks": 62,
           "leads": 6
         },
@@ -3859,7 +3859,7 @@
           "campaign_id": "120248935857240027",
           "campaign_name": "Курс ОН Монтажник кондиціонерів 07.05 – копія – копія",
           "spend": 12.22,
-          "impressions": 3208,
+          "impressions": 3209,
           "clicks": 40,
           "leads": 1
         },
@@ -3868,7 +3868,7 @@
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
           "spend": 26.91,
-          "impressions": 9020,
+          "impressions": 9024,
           "clicks": 138,
           "leads": 1
         }
@@ -4823,7 +4823,7 @@
         {
           "date": "2026-07-29",
           "campaign_id": "120245627155800292",
-          "campaign_name": "Вакансія СЕРВІСАНТ К��ЇВ 28.07",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 28.07",
           "spend": 9.27,
           "impressions": 1560,
           "clicks": 37,
@@ -5165,7 +5165,7 @@
         {
           "date": "2026-08-10",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – копі��",
           "spend": 7.6,
           "impressions": 2914,
           "clicks": 17,
@@ -5552,7 +5552,7 @@
         {
           "date": "2026-08-21",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дил��ри вебінар – копія",
           "spend": 3.78,
           "impressions": 1329,
           "clicks": 19,
@@ -6290,7 +6290,7 @@
         {
           "date": "2026-09-13",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕ��ВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 10.57,
           "impressions": 1265,
           "clicks": 17,
@@ -6661,7 +6661,7 @@
           "campaign_id": "120246711269350292",
           "campaign_name": "хаер тн ж 14.09",
           "spend": 48.69,
-          "impressions": 14284,
+          "impressions": 14288,
           "clicks": 214,
           "leads": 22
         },
@@ -7866,8 +7866,8 @@
           "date": "2026-10-18",
           "campaign_id": "120250995561940749",
           "campaign_name": "ТН ЛІДИ 14.09",
-          "spend": 25.5,
-          "impressions": 6308,
+          "spend": 25.51,
+          "impressions": 6313,
           "clicks": 108,
           "leads": 8
         }
@@ -11146,8 +11146,8 @@
           "date": "2026-10-18",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 112.79,
-          "impressions": 3710,
+          "spend": 112.94,
+          "impressions": 3712,
           "clicks": 67,
           "leads": 6
         },
@@ -11164,8 +11164,8 @@
           "date": "2026-10-18",
           "campaign_id": "120253187872750392",
           "campaign_name": "f-Gaz Francja 2",
-          "spend": 6.63,
-          "impressions": 317,
+          "spend": 6.67,
+          "impressions": 318,
           "clicks": 8,
           "leads": 0
         },
@@ -11173,8 +11173,8 @@
           "date": "2026-10-18",
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
-          "spend": 6.85,
-          "impressions": 314,
+          "spend": 6.86,
+          "impressions": 315,
           "clicks": 6,
           "leads": 0
         }
