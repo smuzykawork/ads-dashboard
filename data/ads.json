@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:38:13.126Z",
+  "generated_at": "2026-10-19T20:43:08.536Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3850,7 +3850,7 @@
           "campaign_id": "120248913570370027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 11.75,
-          "impressions": 4109,
+          "impressions": 4110,
           "clicks": 62,
           "leads": 6
         },
@@ -3868,7 +3868,7 @@
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
           "spend": 26.93,
-          "impressions": 9037,
+          "impressions": 9038,
           "clicks": 138,
           "leads": 1
         }
@@ -4922,7 +4922,7 @@
         {
           "date": "2026-08-01",
           "campaign_id": "120245543377600292",
-          "campaign_name": "��илер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 7.19,
           "impressions": 2345,
           "clicks": 25,
@@ -5174,7 +5174,7 @@
         {
           "date": "2026-08-10",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – ко��ія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 4.37,
           "impressions": 1974,
           "clicks": 16,
@@ -6191,7 +6191,7 @@
         {
           "date": "2026-09-09",
           "campaign_id": "120246318688090292",
-          "campaign_name": "��илер Контакти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 4.23,
           "impressions": 863,
           "clicks": 10,
@@ -6398,7 +6398,7 @@
         {
           "date": "2026-09-17",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "В��кансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 5.84,
           "impressions": 832,
           "clicks": 12,
@@ -6661,7 +6661,7 @@
           "campaign_id": "120246711269350292",
           "campaign_name": "хаер тн ж 14.09",
           "spend": 48.69,
-          "impressions": 14296,
+          "impressions": 14297,
           "clicks": 214,
           "leads": 22
         },
@@ -11146,8 +11146,8 @@
           "date": "2026-10-18",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 113.14,
-          "impressions": 3722,
+          "spend": 113.21,
+          "impressions": 3724,
           "clicks": 67,
           "leads": 6
         },
@@ -11155,8 +11155,8 @@
           "date": "2026-10-18",
           "campaign_id": "120253177747260392",
           "campaign_name": "FGAZ - Niemec 2",
-          "spend": 60.26,
-          "impressions": 996,
+          "spend": 60.27,
+          "impressions": 997,
           "clicks": 28,
           "leads": 0
         },
