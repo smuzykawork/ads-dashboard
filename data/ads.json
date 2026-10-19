@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:31:21.442Z",
+  "generated_at": "2026-10-19T17:38:13.126Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3841,7 +3841,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 12.41,
-          "impressions": 2567,
+          "impressions": 2569,
           "clicks": 27,
           "leads": 1
         },
@@ -3849,8 +3849,8 @@
           "date": "2026-10-18",
           "campaign_id": "120248913570370027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
-          "spend": 11.74,
-          "impressions": 4107,
+          "spend": 11.75,
+          "impressions": 4109,
           "clicks": 62,
           "leads": 6
         },
@@ -6670,7 +6670,7 @@
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
           "spend": 7.96,
-          "impressions": 2706,
+          "impressions": 2707,
           "clicks": 67,
           "leads": 10
         }
@@ -6902,7 +6902,7 @@
         {
           "date": "2026-08-04",
           "campaign_id": "120250168625590749",
-          "campaign_name": "ТН ЛІДИ 24.07 – ��опія",
+          "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 16.76,
           "impressions": 5791,
           "clicks": 90,
@@ -7784,7 +7784,7 @@
         {
           "date": "2026-10-15",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ контк��ти 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 4.5,
           "impressions": 1206,
           "clicks": 24,
@@ -7847,7 +7847,7 @@
         {
           "date": "2026-10-17",
           "campaign_id": "120251473614430749",
-          "campaign_name": "ТН ЛІД�� 14.09 1",
+          "campaign_name": "ТН ЛІДИ 14.09 1",
           "spend": 7.42,
           "impressions": 1651,
           "clicks": 41,
@@ -7858,7 +7858,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 6.27,
-          "impressions": 1387,
+          "impressions": 1388,
           "clicks": 28,
           "leads": 1
         },
@@ -7867,7 +7867,7 @@
           "campaign_id": "120250995561940749",
           "campaign_name": "ТН ЛІДИ 14.09",
           "spend": 25.52,
-          "impressions": 6322,
+          "impressions": 6323,
           "clicks": 108,
           "leads": 8
         }
@@ -11155,8 +11155,8 @@
           "date": "2026-10-18",
           "campaign_id": "120253177747260392",
           "campaign_name": "FGAZ - Niemec 2",
-          "spend": 60.25,
-          "impressions": 995,
+          "spend": 60.26,
+          "impressions": 996,
           "clicks": 28,
           "leads": 0
         },
