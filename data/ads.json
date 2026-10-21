@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T12:26:42.491Z",
+  "generated_at": "2026-10-21T14:00:15.234Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3868,7 +3868,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 9.98,
-          "impressions": 2499,
+          "impressions": 2501,
           "clicks": 34,
           "leads": 1
         },
@@ -3886,7 +3886,7 @@
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
           "spend": 28.36,
-          "impressions": 11300,
+          "impressions": 11301,
           "clicks": 178,
           "leads": 9
         }
@@ -3918,7 +3918,7 @@
         {
           "id": "120246711269350292",
           "name": "хаер тн ж 14.09",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -4769,7 +4769,7 @@
         {
           "date": "2026-07-28",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ��",
+          "campaign_name": "хаер тн ж",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -4778,7 +4778,7 @@
         {
           "date": "2026-07-28",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Диле�� Контакти 03.06 – копія",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -4796,7 +4796,7 @@
         {
           "date": "2026-07-29",
           "campaign_id": "120239240019780292",
-          "campaign_name": "Менеджер з продажу",
+          "campaign_name": "Менеджер з пр��дажу",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -5291,7 +5291,7 @@
         {
           "date": "2026-08-14",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "��илер Контакти 03.06 – копія",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -6738,13 +6738,13 @@
         {
           "id": "120250995561940749",
           "name": "ТН ЛІДИ 14.09",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
           "id": "120250995433840749",
           "name": "БРИГАДИ конткати 14.09",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -6983,7 +6983,7 @@
         {
           "date": "2026-08-11",
           "campaign_id": "120250168625590749",
-          "campaign_name": "��Н ЛІДИ 24.07 – копія",
+          "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -7010,7 +7010,7 @@
         {
           "date": "2026-08-14",
           "campaign_id": "120250168625590749",
-          "campaign_name": "ТН ЛІДИ 24.07 – к��пія",
+          "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -7361,7 +7361,7 @@
         {
           "date": "2026-09-15",
           "campaign_id": "120250995561940749",
-          "campaign_name": "ТН ЛІ��И 14.09",
+          "campaign_name": "ТН ЛІДИ 14.09",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -7523,7 +7523,7 @@
         {
           "date": "2026-09-24",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ ко��ткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
