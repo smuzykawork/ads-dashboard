@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:00:15.234Z",
+  "generated_at": "2026-10-21T15:07:54.306Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3877,8 +3877,8 @@
           "campaign_id": "120248913570370027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
           "spend": 9.53,
-          "impressions": 4067,
-          "clicks": 39,
+          "impressions": 4068,
+          "clicks": 40,
           "leads": 2
         },
         {
@@ -3886,7 +3886,7 @@
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
           "spend": 28.36,
-          "impressions": 11301,
+          "impressions": 11302,
           "clicks": 178,
           "leads": 9
         }
@@ -4778,7 +4778,7 @@
         {
           "date": "2026-07-28",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Диле�� Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -4796,7 +4796,7 @@
         {
           "date": "2026-07-29",
           "campaign_id": "120239240019780292",
-          "campaign_name": "Менеджер з пр��дажу",
+          "campaign_name": "Менеджер з продажу",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -5291,7 +5291,7 @@
         {
           "date": "2026-08-14",
           "campaign_id": "120245543377600292",
-          "campaign_name": "��илер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -5507,7 +5507,7 @@
         {
           "date": "2026-08-20",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакт�� 03.06 – копія",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -5660,7 +5660,7 @@
         {
           "date": "2026-08-24",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дил��ри вебінар – копія",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -5957,7 +5957,7 @@
         {
           "date": "2026-09-01",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Диле��и вебінар – копія",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -7676,7 +7676,7 @@
         {
           "date": "2026-10-06",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИ��АДИ конткати 14.09",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
