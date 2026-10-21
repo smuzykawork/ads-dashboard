@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T07:53:07.665Z",
+  "generated_at": "2026-10-21T10:02:23.019Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3868,7 +3868,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 9.98,
-          "impressions": 2497,
+          "impressions": 2499,
           "clicks": 34,
           "leads": 1
         },
@@ -3876,8 +3876,8 @@
           "date": "2026-10-20",
           "campaign_id": "120248913570370027",
           "campaign_name": "Курс ОН сервісант систем конд і вент",
-          "spend": 9.52,
-          "impressions": 4062,
+          "spend": 9.53,
+          "impressions": 4067,
           "clicks": 39,
           "leads": 2
         },
@@ -3885,8 +3885,8 @@
           "date": "2026-10-20",
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
-          "spend": 28.3,
-          "impressions": 11284,
+          "spend": 28.34,
+          "impressions": 11296,
           "clicks": 178,
           "leads": 9
         }
@@ -4751,7 +4751,7 @@
         {
           "date": "2026-07-28",
           "campaign_id": "120239240019780292",
-          "campaign_name": "Менеджер з продажу",
+          "campaign_name": "Менеджер з про��ажу",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -6020,7 +6020,7 @@
         {
           "date": "2026-09-03",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСА��Т КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -6101,7 +6101,7 @@
         {
           "date": "2026-09-06",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ ��ИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -6290,7 +6290,7 @@
         {
           "date": "2026-09-13",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІС��НТ КИЇВ 12.08 – копія – копія",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -6335,7 +6335,7 @@
         {
           "date": "2026-09-15",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ж",
+          "campaign_name": "х��ер тн ж",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -8797,13 +8797,13 @@
         {
           "id": "120253187872750392",
           "name": "f-Gaz Francja 2",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
           "id": "120253177747260392",
           "name": "FGAZ - Niemec 2",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
