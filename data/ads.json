@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:57:47.810Z",
+  "generated_at": "2026-10-23T12:08:32.695Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3868,7 +3868,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 10.78,
-          "impressions": 2894,
+          "impressions": 2895,
           "clicks": 43,
           "leads": 1
         },
@@ -3886,7 +3886,7 @@
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
           "spend": 23.3,
-          "impressions": 10387,
+          "impressions": 10395,
           "clicks": 156,
           "leads": 3
         },
@@ -3895,7 +3895,7 @@
           "campaign_id": "120249083645780027",
           "campaign_name": "ОН Проєктування autocad",
           "spend": 6.45,
-          "impressions": 2067,
+          "impressions": 2068,
           "clicks": 54,
           "leads": 3
         }
@@ -5300,7 +5300,7 @@
         {
           "date": "2026-08-15",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери вебінар – копі��",
           "spend": 3.62,
           "impressions": 1010,
           "clicks": 8,
@@ -5336,7 +5336,7 @@
         {
           "date": "2026-08-16",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери вебінар – коп��я",
           "spend": 4.94,
           "impressions": 1198,
           "clicks": 16,
@@ -5633,7 +5633,7 @@
         {
           "date": "2026-08-24",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
+          "campaign_name": "Вака��сія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 5.1,
           "impressions": 486,
           "clicks": 17,
@@ -5858,7 +5858,7 @@
         {
           "date": "2026-08-30",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ ��ИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 9.42,
           "impressions": 1333,
           "clicks": 36,
@@ -6146,7 +6146,7 @@
         {
           "date": "2026-09-09",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – коп��я – копія",
           "spend": 7.46,
           "impressions": 1550,
           "clicks": 18,
@@ -6254,7 +6254,7 @@
         {
           "date": "2026-09-13",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакан��ія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 10.57,
           "impressions": 1265,
           "clicks": 17,
@@ -7334,7 +7334,7 @@
         {
           "date": "2026-09-15",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГ��ДИ конткати 14.09",
           "spend": 29.4,
           "impressions": 9914,
           "clicks": 243,
@@ -11326,8 +11326,8 @@
           "date": "2026-10-22",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 85.76,
-          "impressions": 5228,
+          "spend": 85.77,
+          "impressions": 5231,
           "clicks": 95,
           "leads": 3
         },
