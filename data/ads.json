@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T14:57:44.864Z",
+  "generated_at": "2026-10-23T17:28:04.325Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3868,7 +3868,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 10.78,
-          "impressions": 2895,
+          "impressions": 2897,
           "clicks": 43,
           "leads": 1
         },
@@ -3887,7 +3887,7 @@
           "campaign_name": "ОН Проєктування нова",
           "spend": 23.3,
           "impressions": 10398,
-          "clicks": 156,
+          "clicks": 159,
           "leads": 3
         },
         {
@@ -3895,7 +3895,7 @@
           "campaign_id": "120249083645780027",
           "campaign_name": "ОН Проєктування autocad",
           "spend": 6.45,
-          "impressions": 2068,
+          "impressions": 2070,
           "clicks": 54,
           "leads": 3
         }
@@ -4679,7 +4679,7 @@
         {
           "date": "2026-07-27",
           "campaign_id": "120239240019780292",
-          "campaign_name": "Менеджер з продажу",
+          "campaign_name": "Менеджер �� продажу",
           "spend": 3.75,
           "impressions": 377,
           "clicks": 11,
@@ -4706,7 +4706,7 @@
         {
           "date": "2026-07-27",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – ко��ія",
           "spend": 11.52,
           "impressions": 3561,
           "clicks": 40,
@@ -4904,7 +4904,7 @@
         {
           "date": "2026-08-02",
           "campaign_id": "120239240019780292",
-          "campaign_name": "Менеджер з продажу",
+          "campaign_name": "Менеджер з продаж��",
           "spend": 3.15,
           "impressions": 290,
           "clicks": 14,
@@ -4949,7 +4949,7 @@
         {
           "date": "2026-08-03",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер К��нтакти 03.06 – копія",
           "spend": 7.37,
           "impressions": 3369,
           "clicks": 22,
@@ -5138,7 +5138,7 @@
         {
           "date": "2026-08-10",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери веб��нар – копія",
           "spend": 4.37,
           "impressions": 1974,
           "clicks": 16,
@@ -5327,7 +5327,7 @@
         {
           "date": "2026-08-16",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Ди��ер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 9.09,
           "impressions": 2600,
           "clicks": 28,
@@ -5597,7 +5597,7 @@
         {
           "date": "2026-08-23",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИ��В 12.08 – копія",
           "spend": 9.69,
           "impressions": 1712,
           "clicks": 50,
@@ -6696,8 +6696,8 @@
           "date": "2026-10-22",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 7.26,
-          "impressions": 2699,
+          "spend": 7.27,
+          "impressions": 2700,
           "clicks": 58,
           "leads": 7
         }
@@ -6938,7 +6938,7 @@
         {
           "date": "2026-08-08",
           "campaign_id": "120250168625590749",
-          "campaign_name": "ТН ЛІДИ 24.07 – копія",
+          "campaign_name": "ТН Л��ДИ 24.07 – копія",
           "spend": 17.79,
           "impressions": 5126,
           "clicks": 75,
@@ -11326,8 +11326,8 @@
           "date": "2026-10-22",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 85.77,
-          "impressions": 5231,
+          "spend": 85.89,
+          "impressions": 5232,
           "clicks": 95,
           "leads": 3
         },
