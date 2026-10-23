@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:41:04.391Z",
+  "generated_at": "2026-10-23T14:57:44.864Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3886,7 +3886,7 @@
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
           "spend": 23.3,
-          "impressions": 10395,
+          "impressions": 10398,
           "clicks": 156,
           "leads": 3
         },
@@ -5327,7 +5327,7 @@
         {
           "date": "2026-08-16",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Ди��ер Контакти 03.06 – копія",
           "spend": 9.09,
           "impressions": 2600,
           "clicks": 28,
@@ -5669,7 +5669,7 @@
         {
           "date": "2026-08-25",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебін��р – копія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 4.28,
           "impressions": 1411,
           "clicks": 13,
@@ -6362,7 +6362,7 @@
         {
           "date": "2026-09-17",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 ��� копія – копія",
           "spend": 5.84,
           "impressions": 832,
           "clicks": 12,
@@ -11335,8 +11335,8 @@
           "date": "2026-10-22",
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
-          "spend": 78.15,
-          "impressions": 2445,
+          "spend": 78.17,
+          "impressions": 2446,
           "clicks": 68,
           "leads": 0
         }
