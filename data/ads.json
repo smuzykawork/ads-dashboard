@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:46:39.709Z",
+  "generated_at": "2026-10-24T18:03:50.205Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3886,7 +3886,7 @@
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
           "spend": 24.99,
-          "impressions": 10722,
+          "impressions": 10724,
           "clicks": 172,
           "leads": 4
         },
@@ -5201,7 +5201,7 @@
         {
           "date": "2026-08-13",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАН�� КИЇВ 12.08 – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 8.97,
           "impressions": 1412,
           "clicks": 50,
@@ -5948,7 +5948,7 @@
         {
           "date": "2026-09-03",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – ко��ія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 7.05,
           "impressions": 1344,
           "clicks": 20,
@@ -6670,7 +6670,7 @@
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
           "spend": 6.1,
-          "impressions": 2671,
+          "impressions": 2672,
           "clicks": 40,
           "leads": 3
         }
