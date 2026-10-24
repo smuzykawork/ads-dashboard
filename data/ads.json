@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T00:36:58.444Z",
+  "generated_at": "2026-10-24T01:47:00.493Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3876,8 +3876,8 @@
           "date": "2026-10-23",
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
-          "spend": 8.59,
-          "impressions": 2041,
+          "spend": 8.6,
+          "impressions": 2042,
           "clicks": 23,
           "leads": 1
         },
@@ -3885,8 +3885,8 @@
           "date": "2026-10-23",
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
-          "spend": 24.87,
-          "impressions": 10628,
+          "spend": 24.9,
+          "impressions": 10633,
           "clicks": 170,
           "leads": 4
         },
@@ -6434,7 +6434,7 @@
         {
           "date": "2026-09-26",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копі��",
           "spend": 13.75,
           "impressions": 2144,
           "clicks": 49,
@@ -6515,7 +6515,7 @@
         {
           "date": "2026-10-12",
           "campaign_id": "120247250663800292",
-          "campaign_name": "ТГ канал хвац",
+          "campaign_name": "ТГ кана�� хвац",
           "spend": 4.8,
           "impressions": 1068,
           "clicks": 39,
@@ -6670,7 +6670,7 @@
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
           "spend": 6.08,
-          "impressions": 2632,
+          "impressions": 2635,
           "clicks": 40,
           "leads": 3
         }
@@ -11299,8 +11299,8 @@
           "date": "2026-10-23",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 80.04,
-          "impressions": 4689,
+          "spend": 80.06,
+          "impressions": 4691,
           "clicks": 101,
           "leads": 3
         },
