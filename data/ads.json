@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:59:40.478Z",
+  "generated_at": "2026-10-24T05:43:04.938Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3876,8 +3876,8 @@
           "date": "2026-10-23",
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
-          "spend": 8.6,
-          "impressions": 2043,
+          "spend": 8.64,
+          "impressions": 2049,
           "clicks": 23,
           "leads": 1
         },
@@ -3885,17 +3885,17 @@
           "date": "2026-10-23",
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
-          "spend": 24.9,
-          "impressions": 10633,
-          "clicks": 170,
+          "spend": 24.96,
+          "impressions": 10680,
+          "clicks": 171,
           "leads": 4
         },
         {
           "date": "2026-10-23",
           "campaign_id": "120249083645780027",
           "campaign_name": "ОН Проєктування autocad",
-          "spend": 19.18,
-          "impressions": 7020,
+          "spend": 19.21,
+          "impressions": 7029,
           "clicks": 163,
           "leads": 7
         }
@@ -5345,7 +5345,7 @@
         {
           "date": "2026-08-17",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
+          "campaign_name": "Вакансія СЕРВ��САНТ КИЇВ 12.08 – копія",
           "spend": 9.26,
           "impressions": 1960,
           "clicks": 28,
@@ -6002,7 +6002,7 @@
         {
           "date": "2026-09-05",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕР��ІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 6.04,
           "impressions": 1012,
           "clicks": 15,
@@ -6218,7 +6218,7 @@
         {
           "date": "2026-09-13",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ ��ИЇВ 12.08 – копія – копія",
           "spend": 10.57,
           "impressions": 1265,
           "clicks": 17,
@@ -6407,7 +6407,7 @@
         {
           "date": "2026-09-24",
           "campaign_id": "120246888745410292",
-          "campaign_name": "Менеджер з продажу ТН",
+          "campaign_name": "Мен��джер з продажу ТН",
           "spend": 34.37,
           "impressions": 3021,
           "clicks": 61,
@@ -6669,8 +6669,8 @@
           "date": "2026-10-23",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 6.08,
-          "impressions": 2635,
+          "spend": 6.09,
+          "impressions": 2658,
           "clicks": 40,
           "leads": 3
         }
@@ -7082,7 +7082,7 @@
         {
           "date": "2026-08-26",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН Л��ДИ 14.08 – копія",
           "spend": 7.91,
           "impressions": 2032,
           "clicks": 17,
@@ -7469,7 +7469,7 @@
         {
           "date": "2026-09-24",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конт��ати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 22.63,
           "impressions": 5678,
           "clicks": 99,
@@ -11299,8 +11299,8 @@
           "date": "2026-10-23",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 80.06,
-          "impressions": 4691,
+          "spend": 80.49,
+          "impressions": 4705,
           "clicks": 101,
           "leads": 3
         },
@@ -11308,8 +11308,8 @@
           "date": "2026-10-23",
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
-          "spend": 81.39,
-          "impressions": 2246,
+          "spend": 82.19,
+          "impressions": 2253,
           "clicks": 41,
           "leads": 1
         }
