@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:09:43.392Z",
+  "generated_at": "2026-10-25T11:15:51.179Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5219,7 +5219,7 @@
         {
           "date": "2026-08-15",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Диле�� Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 7.82,
           "impressions": 2470,
           "clicks": 29,
@@ -5273,7 +5273,7 @@
         {
           "date": "2026-08-16",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 �� копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 7.69,
           "impressions": 1699,
           "clicks": 32,
@@ -5435,7 +5435,7 @@
         {
           "date": "2026-08-21",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Конт��кти 03.06 – копія",
           "spend": 6.47,
           "impressions": 1828,
           "clicks": 17,
@@ -5813,7 +5813,7 @@
         {
           "date": "2026-08-31",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – ко��ія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 4.12,
           "impressions": 1180,
           "clicks": 14,
@@ -5858,7 +5858,7 @@
         {
           "date": "2026-09-01",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія �� копія",
           "spend": 8.68,
           "impressions": 1474,
           "clicks": 22,
@@ -6416,7 +6416,7 @@
         {
           "date": "2026-09-27",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – к��пія",
           "spend": 9.52,
           "impressions": 1231,
           "clicks": 29,
@@ -6643,7 +6643,7 @@
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
           "spend": 7.76,
-          "impressions": 2299,
+          "impressions": 2301,
           "clicks": 42,
           "leads": 2
         }
@@ -11290,9 +11290,9 @@
           "date": "2026-10-24",
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
-          "spend": 193.17,
-          "impressions": 5522,
-          "clicks": 122,
+          "spend": 193.3,
+          "impressions": 5527,
+          "clicks": 124,
           "leads": 6
         }
       ]
