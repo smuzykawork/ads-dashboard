@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T01:23:25.411Z",
+  "generated_at": "2026-10-25T05:20:54.143Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3868,7 +3868,7 @@
           "campaign_id": "120249083645780027",
           "campaign_name": "ОН Проєктування autocad",
           "spend": 19.28,
-          "impressions": 7039,
+          "impressions": 7040,
           "clicks": 163,
           "leads": 7
         },
@@ -3877,7 +3877,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 7.93,
-          "impressions": 1385,
+          "impressions": 1388,
           "clicks": 19,
           "leads": 0
         },
@@ -3886,8 +3886,8 @@
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
           "spend": 21.06,
-          "impressions": 7829,
-          "clicks": 102,
+          "impressions": 7839,
+          "clicks": 103,
           "leads": 3
         },
         {
@@ -3895,7 +3895,7 @@
           "campaign_id": "120249083645780027",
           "campaign_name": "ОН Проєктування autocad",
           "spend": 8.26,
-          "impressions": 3281,
+          "impressions": 3282,
           "clicks": 63,
           "leads": 1
         }
@@ -5372,7 +5372,7 @@
         {
           "date": "2026-08-19",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери веб��нар – копія",
           "spend": 4.12,
           "impressions": 1302,
           "clicks": 19,
@@ -5885,7 +5885,7 @@
         {
           "date": "2026-09-02",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 ��� копія – копія",
           "spend": 6.84,
           "impressions": 1305,
           "clicks": 23,
@@ -6578,7 +6578,7 @@
         {
           "date": "2026-10-19",
           "campaign_id": "120247250663800292",
-          "campaign_name": "ТГ канал хвац",
+          "campaign_name": "��Г канал хвац",
           "spend": 6.66,
           "impressions": 2492,
           "clicks": 56,
@@ -6642,8 +6642,8 @@
           "date": "2026-10-24",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 7.75,
-          "impressions": 2288,
+          "spend": 7.76,
+          "impressions": 2294,
           "clicks": 42,
           "leads": 2
         }
@@ -7658,7 +7658,7 @@
         {
           "date": "2026-10-11",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ кон��кати 14.09",
           "spend": 6.16,
           "impressions": 1145,
           "clicks": 20,
@@ -7867,7 +7867,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 8.46,
-          "impressions": 1990,
+          "impressions": 1994,
           "clicks": 20,
           "leads": 0
         }
@@ -11281,8 +11281,8 @@
           "date": "2026-10-24",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 79.27,
-          "impressions": 4446,
+          "spend": 79.29,
+          "impressions": 4451,
           "clicks": 86,
           "leads": 2
         },
@@ -11290,8 +11290,8 @@
           "date": "2026-10-24",
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
-          "spend": 193,
-          "impressions": 5513,
+          "spend": 193.13,
+          "impressions": 5517,
           "clicks": 122,
           "leads": 6
         }
