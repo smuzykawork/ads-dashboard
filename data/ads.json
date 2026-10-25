@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T14:34:21.744Z",
+  "generated_at": "2026-10-25T16:03:48.749Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3885,8 +3885,8 @@
           "date": "2026-10-24",
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
-          "spend": 21.07,
-          "impressions": 7860,
+          "spend": 21.08,
+          "impressions": 7861,
           "clicks": 103,
           "leads": 3
         },
@@ -3895,7 +3895,7 @@
           "campaign_id": "120249083645780027",
           "campaign_name": "ОН Проєктування autocad",
           "spend": 8.26,
-          "impressions": 3284,
+          "impressions": 3285,
           "clicks": 63,
           "leads": 1
         }
@@ -6101,7 +6101,7 @@
         {
           "date": "2026-09-10",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ ��ИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 7.59,
           "impressions": 1463,
           "clicks": 17,
@@ -6371,7 +6371,7 @@
         {
           "date": "2026-09-24",
           "campaign_id": "120246888745410292",
-          "campaign_name": "Менеджер �� продажу ТН",
+          "campaign_name": "Менеджер з продажу ТН",
           "spend": 34.37,
           "impressions": 3021,
           "clicks": 61,
@@ -7867,7 +7867,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 8.5,
-          "impressions": 2000,
+          "impressions": 2001,
           "clicks": 20,
           "leads": 0
         }
@@ -11282,7 +11282,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 79.36,
-          "impressions": 4460,
+          "impressions": 4461,
           "clicks": 86,
           "leads": 2
         },
