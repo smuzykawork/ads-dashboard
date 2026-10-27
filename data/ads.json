@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T10:26:09.919Z",
+  "generated_at": "2026-10-27T11:00:44.640Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3877,7 +3877,7 @@
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
           "spend": 26.23,
-          "impressions": 9715,
+          "impressions": 9716,
           "clicks": 120,
           "leads": 6
         },
@@ -3886,7 +3886,7 @@
           "campaign_id": "120249083645780027",
           "campaign_name": "ОН Проєктування autocad",
           "spend": 10.78,
-          "impressions": 4759,
+          "impressions": 4760,
           "clicks": 114,
           "leads": 5
         }
@@ -4958,7 +4958,7 @@
         {
           "date": "2026-08-10",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ж",
+          "campaign_name": "х��ер тн ж",
           "spend": 7.17,
           "impressions": 1632,
           "clicks": 16,
@@ -6146,7 +6146,7 @@
         {
           "date": "2026-09-15",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вак��нсія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.2,
           "impressions": 1082,
           "clicks": 18,
@@ -7136,7 +7136,7 @@
         {
           "date": "2026-09-14",
           "campaign_id": "120250980663130749",
-          "campaign_name": "БРИГАДИ конткати",
+          "campaign_name": "БРИГАДИ конткат��",
           "spend": 8.9,
           "impressions": 1350,
           "clicks": 28,
@@ -7604,7 +7604,7 @@
         {
           "date": "2026-10-14",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИ��АДИ конткати 14.09",
           "spend": 4.79,
           "impressions": 1294,
           "clicks": 21,
@@ -7721,7 +7721,7 @@
         {
           "date": "2026-10-20",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "Б��ИГАДИ конткати 14.09",
           "spend": 5.15,
           "impressions": 1149,
           "clicks": 20,
@@ -7739,7 +7739,7 @@
         {
           "date": "2026-10-21",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИ��АДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 2.41,
           "impressions": 612,
           "clicks": 6,
