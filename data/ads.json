@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-10-28T01:13:23.646Z",
+  "generated_at": "2026-10-28T06:00:22.717Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120249166717010027",
+          "name": "ОН Проєктування autocad – копія",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120249083645780027",
           "name": "ОН Проєктування autocad",
@@ -1197,12 +1203,6 @@
         {
           "id": "120211843794290027",
           "name": "Конверсія на сайті /Онлайн-курс «Спеціаліст із теплових насосів» 08.10",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120211723553070027",
-          "name": "Конверсія на сайті /Онлайн-курс «Спеціаліст із теплових насосів» 03.10",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -3867,8 +3867,8 @@
           "date": "2026-10-27",
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
-          "spend": 5.54,
-          "impressions": 1254,
+          "spend": 5.55,
+          "impressions": 1259,
           "clicks": 36,
           "leads": 3
         },
@@ -3876,8 +3876,8 @@
           "date": "2026-10-27",
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
-          "spend": 12.98,
-          "impressions": 6001,
+          "spend": 13,
+          "impressions": 6031,
           "clicks": 71,
           "leads": 5
         },
@@ -3886,8 +3886,8 @@
           "campaign_id": "120249083645780027",
           "campaign_name": "ОН Проєктування autocad",
           "spend": 3.72,
-          "impressions": 1825,
-          "clicks": 46,
+          "impressions": 1834,
+          "clicks": 47,
           "leads": 1
         }
       ]
@@ -5174,7 +5174,7 @@
         {
           "date": "2026-08-17",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери вебі��ар – копія",
           "spend": 4.41,
           "impressions": 1192,
           "clicks": 6,
@@ -5741,7 +5741,7 @@
         {
           "date": "2026-09-01",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакти 24.08",
+          "campaign_name": "Д��лер Контакти 24.08",
           "spend": 5.82,
           "impressions": 909,
           "clicks": 6,
@@ -6543,8 +6543,8 @@
           "date": "2026-10-27",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 7.67,
-          "impressions": 3185,
+          "spend": 7.7,
+          "impressions": 3205,
           "clicks": 43,
           "leads": 5
         }
@@ -7758,8 +7758,8 @@
           "date": "2026-10-27",
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
-          "spend": 4.63,
-          "impressions": 982,
+          "spend": 4.64,
+          "impressions": 984,
           "clicks": 9,
           "leads": 0
         }
@@ -11200,8 +11200,8 @@
           "date": "2026-10-27",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 98.17,
-          "impressions": 5969,
+          "spend": 98.53,
+          "impressions": 6001,
           "clicks": 106,
           "leads": 1
         }
