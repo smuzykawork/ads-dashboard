@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T00:44:41.114Z",
+  "generated_at": "2026-10-28T01:13:23.646Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3877,7 +3877,7 @@
           "campaign_id": "120248954368680027",
           "campaign_name": "ОН Проєктування нова",
           "spend": 12.98,
-          "impressions": 5999,
+          "impressions": 6001,
           "clicks": 71,
           "leads": 5
         },
@@ -4607,7 +4607,7 @@
         {
           "date": "2026-07-30",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ж",
+          "campaign_name": "х��ер тн ж",
           "spend": 7.16,
           "impressions": 2092,
           "clicks": 34,
@@ -5102,7 +5102,7 @@
         {
           "date": "2026-08-15",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери ве��інар – копія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 3.62,
           "impressions": 1010,
           "clicks": 8,
@@ -5138,7 +5138,7 @@
         {
           "date": "2026-08-16",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери в��бінар – копія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 4.94,
           "impressions": 1198,
           "clicks": 16,
@@ -7271,7 +7271,7 @@
         {
           "date": "2026-09-22",
           "campaign_id": "120251126564730749",
-          "campaign_name": "Вебінар курс м��йконд 30.09",
+          "campaign_name": "Вебінар курс майконд 30.09",
           "spend": 3.82,
           "impressions": 696,
           "clicks": 23,
@@ -11200,8 +11200,8 @@
           "date": "2026-10-27",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 98.16,
-          "impressions": 5968,
+          "spend": 98.17,
+          "impressions": 5969,
           "clicks": 106,
           "leads": 1
         }
