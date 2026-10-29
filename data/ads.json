@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:04:39.614Z",
+  "generated_at": "2026-10-29T20:13:30.161Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3868,7 +3868,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 5.69,
-          "impressions": 2000,
+          "impressions": 2001,
           "clicks": 29,
           "leads": 1
         },
@@ -3904,7 +3904,7 @@
           "campaign_id": "120249172967040027",
           "campaign_name": "АКЦІЯ ВСІ КУРСИ",
           "spend": 10.02,
-          "impressions": 2925,
+          "impressions": 2926,
           "clicks": 69,
           "leads": 3
         }
@@ -6857,7 +6857,7 @@
         {
           "date": "2026-08-22",
           "campaign_id": "120250630086770749",
-          "campaign_name": "Т�� ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 9.03,
           "impressions": 2772,
           "clicks": 44,
@@ -7541,7 +7541,7 @@
         {
           "date": "2026-10-13",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГ��ДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 5.02,
           "impressions": 1424,
           "clicks": 16,
