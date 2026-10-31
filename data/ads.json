@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T18:45:57.362Z",
+  "generated_at": "2026-10-31T21:26:15.702Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4796,7 +4796,7 @@
         {
           "date": "2026-08-07",
           "campaign_id": "120245627155800292",
-          "campaign_name": "Вакансія СЕРВІС��НТ КИЇВ 28.07",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 28.07",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -4985,7 +4985,7 @@
         {
           "date": "2026-08-13",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ ��ИЇВ 12.08 – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 8.97,
           "impressions": 1412,
           "clicks": 50,
@@ -5111,7 +5111,7 @@
         {
           "date": "2026-08-17",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – к��пія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 8.52,
           "impressions": 2746,
           "clicks": 26,
@@ -5372,7 +5372,7 @@
         {
           "date": "2026-08-24",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – коп��я",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 4.53,
           "impressions": 1429,
           "clicks": 12,
@@ -5633,7 +5633,7 @@
         {
           "date": "2026-08-31",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебіна�� – копія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 4.12,
           "impressions": 1180,
           "clicks": 14,
@@ -5786,7 +5786,7 @@
         {
           "date": "2026-09-05",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакан��ія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 6.04,
           "impressions": 1012,
           "clicks": 15,
@@ -6506,7 +6506,7 @@
         {
           "date": "2026-10-29",
           "campaign_id": "120247250663800292",
-          "campaign_name": "ТГ канал хвац",
+          "campaign_name": "ТГ к��нал хвац",
           "spend": 6.96,
           "impressions": 2242,
           "clicks": 46,
@@ -6516,8 +6516,8 @@
           "date": "2026-10-30",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 5.64,
-          "impressions": 1904,
+          "spend": 5.66,
+          "impressions": 1905,
           "clicks": 27,
           "leads": 6
         }
@@ -6857,7 +6857,7 @@
         {
           "date": "2026-08-26",
           "campaign_id": "120250630086770749",
-          "campaign_name": "Т�� ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 7.91,
           "impressions": 2032,
           "clicks": 17,
@@ -6893,7 +6893,7 @@
         {
           "date": "2026-08-30",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІ��И 14.08 – копія",
           "spend": 12.25,
           "impressions": 3139,
           "clicks": 45,
@@ -7325,7 +7325,7 @@
         {
           "date": "2026-09-28",
           "campaign_id": "120251126564730749",
-          "campaign_name": "Вебінар курс майконд 30.09",
+          "campaign_name": "Вебінар ку��с майконд 30.09",
           "spend": 6.14,
           "impressions": 1060,
           "clicks": 21,
@@ -7361,7 +7361,7 @@
         {
           "date": "2026-10-02",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ ��онткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 5.55,
           "impressions": 1418,
           "clicks": 32,
@@ -11191,8 +11191,8 @@
           "date": "2026-10-30",
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
-          "spend": 182.48,
-          "impressions": 7228,
+          "spend": 182.49,
+          "impressions": 7229,
           "clicks": 173,
           "leads": 3
         }
