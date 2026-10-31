@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T07:16:45.336Z",
+  "generated_at": "2026-10-31T07:30:40.110Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3922,7 +3922,7 @@
           "campaign_id": "120249166717010027",
           "campaign_name": "ОН Проєктування акція",
           "spend": 12.92,
-          "impressions": 3229,
+          "impressions": 3231,
           "clicks": 57,
           "leads": 1
         },
@@ -5120,7 +5120,7 @@
         {
           "date": "2026-08-17",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – коп��я",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 4.41,
           "impressions": 1192,
           "clicks": 6,
@@ -5525,7 +5525,7 @@
         {
           "date": "2026-08-28",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дил��ри вебінар – копія",
           "spend": 3.06,
           "impressions": 1168,
           "clicks": 13,
@@ -5732,7 +5732,7 @@
         {
           "date": "2026-09-03",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – коп��я",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 7.05,
           "impressions": 1344,
           "clicks": 20,
@@ -6317,7 +6317,7 @@
         {
           "date": "2026-10-14",
           "campaign_id": "120247250663800292",
-          "campaign_name": "ТГ канал хвац",
+          "campaign_name": "ТГ к��нал хвац",
           "spend": 7.14,
           "impressions": 2720,
           "clicks": 113,
@@ -6344,7 +6344,7 @@
         {
           "date": "2026-10-16",
           "campaign_id": "120247250663800292",
-          "campaign_name": "ТГ канал хвац",
+          "campaign_name": "ТГ к��нал хвац",
           "spend": 5.68,
           "impressions": 1828,
           "clicks": 55,
@@ -6516,8 +6516,8 @@
           "date": "2026-10-30",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 5.63,
-          "impressions": 1901,
+          "spend": 5.64,
+          "impressions": 1903,
           "clicks": 27,
           "leads": 6
         }
@@ -7280,7 +7280,7 @@
         {
           "date": "2026-09-26",
           "campaign_id": "120250995433840749",
-          "campaign_name": "Б��ИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 20.3,
           "impressions": 4494,
           "clicks": 68,
@@ -11191,8 +11191,8 @@
           "date": "2026-10-30",
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
-          "spend": 181.61,
-          "impressions": 7207,
+          "spend": 181.63,
+          "impressions": 7209,
           "clicks": 172,
           "leads": 3
         }
