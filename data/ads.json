@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T23:30:43.364Z",
+  "generated_at": "2026-11-01T23:54:30.698Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3949,7 +3949,7 @@
           "campaign_id": "120249083645780027",
           "campaign_name": "ОН Проєктування autocad",
           "spend": 5.91,
-          "impressions": 2457,
+          "impressions": 2458,
           "clicks": 57,
           "leads": 2
         },
@@ -6525,8 +6525,8 @@
           "date": "2026-11-01",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 8.76,
-          "impressions": 2789,
+          "spend": 8.77,
+          "impressions": 2791,
           "clicks": 58,
           "leads": 7
         }
@@ -6785,7 +6785,7 @@
         {
           "date": "2026-08-19",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІДИ 14.08 – копі��",
           "spend": 11.07,
           "impressions": 3181,
           "clicks": 49,
@@ -7226,7 +7226,7 @@
         {
           "date": "2026-09-23",
           "campaign_id": "120251126564730749",
-          "campaign_name": "Вебінар курс майкон�� 30.09",
+          "campaign_name": "Вебінар курс майконд 30.09",
           "spend": 17.03,
           "impressions": 5448,
           "clicks": 80,
@@ -11209,8 +11209,8 @@
           "date": "2026-11-01",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 109.04,
-          "impressions": 6236,
+          "spend": 109.09,
+          "impressions": 6238,
           "clicks": 117,
           "leads": 3
         },
@@ -11218,8 +11218,8 @@
           "date": "2026-11-01",
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
-          "spend": 129.25,
-          "impressions": 5366,
+          "spend": 129.3,
+          "impressions": 5370,
           "clicks": 87,
           "leads": 1
         }
