@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-11-01T16:52:37.603Z",
+  "generated_at": "2026-11-01T19:33:34.393Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120249245524310027",
+          "name": "АКЦІЯ ВСІ КУРСИ перезапуск",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120249184036680027",
           "name": "АКЦІЯ ВСІ КУРСИ – копія",
@@ -1197,12 +1203,6 @@
         {
           "id": "120211941089080027",
           "name": "Конверсія на сайті /Онлайн-курс «Автоматика щитів керування вентиляцією» 10.10",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120211929899790027",
-          "name": "Пошук викладача_quiz",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -3931,7 +3931,7 @@
           "campaign_id": "120249083645780027",
           "campaign_name": "ОН Проєктування autocad",
           "spend": 4.21,
-          "impressions": 1821,
+          "impressions": 1822,
           "clicks": 38,
           "leads": 1
         },
@@ -4760,7 +4760,7 @@
         {
           "date": "2026-08-07",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ж",
+          "campaign_name": "��аер тн ж",
           "spend": 5.49,
           "impressions": 1684,
           "clicks": 25,
@@ -4805,7 +4805,7 @@
         {
           "date": "2026-08-08",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Д��лер Контакти 03.06 – копія",
           "spend": 6.51,
           "impressions": 2305,
           "clicks": 27,
@@ -5363,7 +5363,7 @@
         {
           "date": "2026-08-24",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
+          "campaign_name": "Вакансія СЕРВІ��АНТ КИЇВ 12.08 – копія",
           "spend": 5.1,
           "impressions": 486,
           "clicks": 17,
@@ -5552,7 +5552,7 @@
         {
           "date": "2026-08-29",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – ��опія – копія",
           "spend": 7.19,
           "impressions": 1152,
           "clicks": 18,
@@ -6508,7 +6508,7 @@
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
           "spend": 7.1,
-          "impressions": 2402,
+          "impressions": 2403,
           "clicks": 44,
           "leads": 3
         }
@@ -11192,7 +11192,7 @@
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
           "spend": 207.1,
-          "impressions": 6834,
+          "impressions": 6835,
           "clicks": 148,
           "leads": 4
         }
