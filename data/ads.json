@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T17:26:46.353Z",
+  "generated_at": "2026-11-02T18:39:44.464Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3940,7 +3940,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 6.19,
-          "impressions": 2694,
+          "impressions": 2695,
           "clicks": 42,
           "leads": 3
         },
@@ -3949,7 +3949,7 @@
           "campaign_id": "120249083645780027",
           "campaign_name": "ОН Проєктування autocad",
           "spend": 5.92,
-          "impressions": 2471,
+          "impressions": 2472,
           "clicks": 58,
           "leads": 2
         },
@@ -5048,7 +5048,7 @@
         {
           "date": "2026-08-15",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
+          "campaign_name": "Вакан��ія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 7.36,
           "impressions": 1721,
           "clicks": 35,
@@ -5066,7 +5066,7 @@
         {
           "date": "2026-08-16",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Ко��такти 03.06 – копія",
           "spend": 9.09,
           "impressions": 2600,
           "clicks": 28,
@@ -6540,7 +6540,7 @@
         {
           "id": "120251473614430749",
           "name": "ТН ЛІДИ 14.09 1",
-          "status": "PAUSED",
+          "status": "ACTIVE",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -7550,7 +7550,7 @@
         {
           "date": "2026-10-16",
           "campaign_id": "120251473614430749",
-          "campaign_name": "��Н ЛІДИ 14.09 1",
+          "campaign_name": "ТН ЛІДИ 14.09 1",
           "spend": 10.36,
           "impressions": 1935,
           "clicks": 37,
