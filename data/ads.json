@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:28:29.572Z",
+  "generated_at": "2026-11-03T17:57:51.741Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3967,7 +3967,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 7.57,
-          "impressions": 3525,
+          "impressions": 3526,
           "clicks": 40,
           "leads": 1
         },
@@ -3976,7 +3976,7 @@
           "campaign_id": "120249083645780027",
           "campaign_name": "ОН Проєктування autocad",
           "spend": 4.49,
-          "impressions": 2090,
+          "impressions": 2091,
           "clicks": 31,
           "leads": 1
         },
@@ -6461,7 +6461,7 @@
         {
           "date": "2026-10-25",
           "campaign_id": "120247250663800292",
-          "campaign_name": "ТГ канал х��ац",
+          "campaign_name": "ТГ канал хвац",
           "spend": 7.37,
           "impressions": 2494,
           "clicks": 57,
@@ -6535,8 +6535,8 @@
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
           "spend": 5.7,
-          "impressions": 2540,
-          "clicks": 31,
+          "impressions": 2541,
+          "clicks": 32,
           "leads": 4
         }
       ]
@@ -7750,7 +7750,7 @@
           "campaign_id": "120250995433840749",
           "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 4.61,
-          "impressions": 1276,
+          "impressions": 1278,
           "clicks": 12,
           "leads": 0
         },
@@ -11236,8 +11236,8 @@
           "date": "2026-11-02",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 92.87,
-          "impressions": 4889,
+          "spend": 92.9,
+          "impressions": 4891,
           "clicks": 76,
           "leads": 3
         },
@@ -11245,8 +11245,8 @@
           "date": "2026-11-02",
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
-          "spend": 101.46,
-          "impressions": 4279,
+          "spend": 101.51,
+          "impressions": 4282,
           "clicks": 90,
           "leads": 1
         }
