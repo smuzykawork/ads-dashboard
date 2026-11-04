@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T22:01:49.503Z",
+  "generated_at": "2026-11-04T22:14:09.263Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4002,8 +4002,8 @@
           "date": "2026-11-04",
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
-          "spend": 9.27,
-          "impressions": 3257,
+          "spend": 9.3,
+          "impressions": 3275,
           "clicks": 31,
           "leads": 1
         },
@@ -4011,8 +4011,8 @@
           "date": "2026-11-04",
           "campaign_id": "120249083645780027",
           "campaign_name": "ОН Проєктування autocad",
-          "spend": 5.12,
-          "impressions": 2015,
+          "spend": 5.18,
+          "impressions": 2023,
           "clicks": 37,
           "leads": 0
         }
@@ -5075,7 +5075,7 @@
         {
           "date": "2026-08-17",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕР��ІСАНТ КИЇВ 12.08 – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 9.26,
           "impressions": 1960,
           "clicks": 28,
@@ -5408,7 +5408,7 @@
         {
           "date": "2026-08-26",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇ�� 12.08 – копія – копія",
           "spend": 8.37,
           "impressions": 1211,
           "clicks": 34,
@@ -5642,7 +5642,7 @@
         {
           "date": "2026-09-02",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер ��н ж",
+          "campaign_name": "хаер тн ж",
           "spend": 6.9,
           "impressions": 1528,
           "clicks": 20,
@@ -6002,7 +6002,7 @@
         {
           "date": "2026-09-15",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вак��нсія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.2,
           "impressions": 1082,
           "clicks": 18,
@@ -6507,8 +6507,8 @@
           "date": "2026-11-04",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 5.7,
-          "impressions": 2152,
+          "spend": 5.73,
+          "impressions": 2156,
           "clicks": 24,
           "leads": 2
         }
@@ -6653,7 +6653,7 @@
         {
           "date": "2026-08-10",
           "campaign_id": "120250168625590749",
-          "campaign_name": "ТН ЛІДИ 24.07 – ��опія",
+          "campaign_name": "ТН ЛІДИ 24.07 – копія",
           "spend": 15.7,
           "impressions": 4456,
           "clicks": 62,
@@ -6878,7 +6878,7 @@
         {
           "date": "2026-09-02",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "Т�� ЛІДИ 14.08 – копія",
           "spend": 9.13,
           "impressions": 3378,
           "clicks": 43,
@@ -7752,8 +7752,8 @@
           "date": "2026-11-04",
           "campaign_id": "120251760159240749",
           "campaign_name": "ТН Майконд",
-          "spend": 8.72,
-          "impressions": 2205,
+          "spend": 8.73,
+          "impressions": 2209,
           "clicks": 72,
           "leads": 2
         },
@@ -7761,9 +7761,9 @@
           "date": "2026-11-04",
           "campaign_id": "120251775841440749",
           "campaign_name": "ТН Майконд Форрма",
-          "spend": 2.84,
-          "impressions": 602,
-          "clicks": 5,
+          "spend": 2.89,
+          "impressions": 610,
+          "clicks": 6,
           "leads": 0
         }
       ]
