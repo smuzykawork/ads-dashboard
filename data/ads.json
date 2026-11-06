@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T07:25:27.244Z",
+  "generated_at": "2026-11-06T08:14:20.403Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3976,7 +3976,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 9.3,
-          "impressions": 2805,
+          "impressions": 2810,
           "clicks": 30,
           "leads": 2
         },
@@ -4796,7 +4796,7 @@
         {
           "date": "2026-08-11",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери вебіна�� – копія",
           "spend": 3.32,
           "impressions": 1424,
           "clicks": 18,
@@ -5156,7 +5156,7 @@
         {
           "date": "2026-08-21",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ К��ЇВ 12.08 – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 6.66,
           "impressions": 1113,
           "clicks": 26,
@@ -6290,7 +6290,7 @@
         {
           "date": "2026-10-20",
           "campaign_id": "120246711269350292",
-          "campaign_name": "хаер тн ж 14.09",
+          "campaign_name": "ха��р тн ж 14.09",
           "spend": 31.38,
           "impressions": 11147,
           "clicks": 164,
@@ -6317,7 +6317,7 @@
         {
           "date": "2026-10-21",
           "campaign_id": "120247250663800292",
-          "campaign_name": "ТГ канал хвац",
+          "campaign_name": "ТГ канал ��вац",
           "spend": 6.42,
           "impressions": 2377,
           "clicks": 52,
@@ -6453,8 +6453,8 @@
           "date": "2026-11-05",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 8.24,
-          "impressions": 2902,
+          "spend": 8.25,
+          "impressions": 2904,
           "clicks": 41,
           "leads": 6
         }
@@ -6788,7 +6788,7 @@
         {
           "date": "2026-08-30",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН Л��ДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 12.25,
           "impressions": 3139,
           "clicks": 45,
@@ -7418,7 +7418,7 @@
         {
           "date": "2026-10-15",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ ко��ткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 4.5,
           "impressions": 1206,
           "clicks": 24,
@@ -7481,7 +7481,7 @@
         {
           "date": "2026-10-17",
           "campaign_id": "120251473614430749",
-          "campaign_name": "ТН ��ІДИ 14.09 1",
+          "campaign_name": "ТН ЛІДИ 14.09 1",
           "spend": 7.42,
           "impressions": 1651,
           "clicks": 41,
@@ -7708,16 +7708,16 @@
           "campaign_id": "120251760159240749",
           "campaign_name": "ТН Майконд",
           "spend": 30.01,
-          "impressions": 6039,
+          "impressions": 6040,
           "clicks": 116,
           "leads": 6
         },
         {
           "date": "2026-11-05",
           "campaign_id": "120251775841440749",
-          "campaign_name": "Т�� Майконд Форрма",
+          "campaign_name": "ТН Майконд Форрма",
           "spend": 16.51,
-          "impressions": 5591,
+          "impressions": 5592,
           "clicks": 89,
           "leads": 10
         }
@@ -11221,18 +11221,18 @@
           "date": "2026-11-05",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 88.55,
-          "impressions": 4797,
-          "clicks": 69,
+          "spend": 88.62,
+          "impressions": 4800,
+          "clicks": 70,
           "leads": 3
         },
         {
           "date": "2026-11-05",
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
-          "spend": 115.99,
-          "impressions": 4371,
-          "clicks": 71,
+          "spend": 116.34,
+          "impressions": 4373,
+          "clicks": 72,
           "leads": 2
         }
       ]
