@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T15:02:50.788Z",
+  "generated_at": "2026-11-08T16:20:43.461Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5363,7 +5363,7 @@
         {
           "date": "2026-08-30",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ж",
+          "campaign_name": "х��ер тн ж",
           "spend": 7.65,
           "impressions": 1881,
           "clicks": 21,
@@ -5858,7 +5858,7 @@
         {
           "date": "2026-09-16",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ К��ЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 7.58,
           "impressions": 978,
           "clicks": 21,
@@ -6137,7 +6137,7 @@
         {
           "date": "2026-10-17",
           "campaign_id": "120247250663800292",
-          "campaign_name": "ТГ к��нал хвац",
+          "campaign_name": "ТГ канал хвац",
           "spend": 5.56,
           "impressions": 1825,
           "clicks": 70,
@@ -6384,7 +6384,7 @@
         {
           "id": "120251760159240749",
           "name": "ТН Майконд",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -7627,7 +7627,7 @@
           "campaign_id": "120251760159240749",
           "campaign_name": "ТН Майконд",
           "spend": 37.64,
-          "impressions": 8325,
+          "impressions": 8327,
           "clicks": 157,
           "leads": 1
         }
@@ -11150,7 +11150,7 @@
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
           "spend": 122.98,
-          "impressions": 3626,
+          "impressions": 3627,
           "clicks": 82,
           "leads": 1
         }
