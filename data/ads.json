@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T19:33:36.148Z",
+  "generated_at": "2026-11-08T20:46:19.755Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5894,7 +5894,7 @@
         {
           "date": "2026-09-17",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер К��нтакти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 3.88,
           "impressions": 506,
           "clicks": 6,
@@ -7400,7 +7400,7 @@
         {
           "date": "2026-10-19",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ ��онткати 14.09",
           "spend": 4.63,
           "impressions": 1081,
           "clicks": 19,
@@ -11149,8 +11149,8 @@
           "date": "2026-11-07",
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
-          "spend": 122.98,
-          "impressions": 3628,
+          "spend": 123.08,
+          "impressions": 3629,
           "clicks": 82,
           "leads": 1
         }
