@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T07:13:21.223Z",
+  "generated_at": "2026-11-08T09:31:34.746Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3922,7 +3922,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 9.83,
-          "impressions": 3978,
+          "impressions": 3981,
           "clicks": 60,
           "leads": 1
         },
@@ -5363,7 +5363,7 @@
         {
           "date": "2026-08-30",
           "campaign_id": "120245542298330292",
-          "campaign_name": "х��ер тн ж",
+          "campaign_name": "хаер тн ж",
           "spend": 7.65,
           "impressions": 1881,
           "clicks": 21,
@@ -6364,7 +6364,7 @@
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
           "spend": 6.31,
-          "impressions": 2323,
+          "impressions": 2327,
           "clicks": 27,
           "leads": 0
         }
@@ -6815,7 +6815,7 @@
         {
           "date": "2026-09-13",
           "campaign_id": "120250980663130749",
-          "campaign_name": "Б��ИГАДИ конткати",
+          "campaign_name": "БРИГАДИ конткати",
           "spend": 8.51,
           "impressions": 1391,
           "clicks": 24,
@@ -7626,8 +7626,8 @@
           "date": "2026-11-07",
           "campaign_id": "120251760159240749",
           "campaign_name": "ТН Майконд",
-          "spend": 37.6,
-          "impressions": 8310,
+          "spend": 37.62,
+          "impressions": 8317,
           "clicks": 157,
           "leads": 1
         }
@@ -11132,7 +11132,7 @@
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
           "spend": 137.9,
-          "impressions": 4416,
+          "impressions": 4417,
           "clicks": 95,
           "leads": 4
         },
@@ -11141,7 +11141,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 93.1,
-          "impressions": 4936,
+          "impressions": 4945,
           "clicks": 82,
           "leads": 2
         },
@@ -11149,8 +11149,8 @@
           "date": "2026-11-07",
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
-          "spend": 122.9,
-          "impressions": 3616,
+          "spend": 122.97,
+          "impressions": 3621,
           "clicks": 82,
           "leads": 1
         }
