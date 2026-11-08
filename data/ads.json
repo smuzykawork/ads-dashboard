@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T06:27:40.710Z",
+  "generated_at": "2026-11-08T07:13:21.223Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3931,7 +3931,7 @@
           "campaign_id": "120249083645780027",
           "campaign_name": "ОН Проєктування autocad",
           "spend": 4.84,
-          "impressions": 1692,
+          "impressions": 1693,
           "clicks": 34,
           "leads": 2
         }
@@ -6363,8 +6363,8 @@
           "date": "2026-11-07",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 6.3,
-          "impressions": 2321,
+          "spend": 6.31,
+          "impressions": 2323,
           "clicks": 27,
           "leads": 0
         }
@@ -6815,7 +6815,7 @@
         {
           "date": "2026-09-13",
           "campaign_id": "120250980663130749",
-          "campaign_name": "БРИГАДИ конткати",
+          "campaign_name": "Б��ИГАДИ конткати",
           "spend": 8.51,
           "impressions": 1391,
           "clicks": 24,
@@ -7004,7 +7004,7 @@
         {
           "date": "2026-09-22",
           "campaign_id": "120251126564730749",
-          "campaign_name": "В��бінар курс майконд 30.09",
+          "campaign_name": "Вебінар курс майконд 30.09",
           "spend": 3.82,
           "impressions": 696,
           "clicks": 23,
@@ -7627,7 +7627,7 @@
           "campaign_id": "120251760159240749",
           "campaign_name": "ТН Майконд",
           "spend": 37.6,
-          "impressions": 8307,
+          "impressions": 8310,
           "clicks": 157,
           "leads": 1
         }
@@ -11141,7 +11141,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 93.1,
-          "impressions": 4934,
+          "impressions": 4936,
           "clicks": 82,
           "leads": 2
         },
@@ -11150,7 +11150,7 @@
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
           "spend": 122.9,
-          "impressions": 3614,
+          "impressions": 3616,
           "clicks": 82,
           "leads": 1
         }
