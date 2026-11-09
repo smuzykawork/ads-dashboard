@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T00:06:56.636Z",
+  "generated_at": "2026-11-09T02:51:59.116Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3895,7 +3895,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 9.26,
-          "impressions": 3890,
+          "impressions": 3892,
           "clicks": 66,
           "leads": 2
         },
@@ -3904,7 +3904,7 @@
           "campaign_id": "120249083645780027",
           "campaign_name": "ОН Проєктування autocad",
           "spend": 5.52,
-          "impressions": 2261,
+          "impressions": 2263,
           "clicks": 38,
           "leads": 2
         }
@@ -5606,7 +5606,7 @@
         {
           "date": "2026-09-09",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ж",
+          "campaign_name": "х��ер тн ж",
           "spend": 6.67,
           "impressions": 1266,
           "clicks": 13,
@@ -5687,7 +5687,7 @@
         {
           "date": "2026-09-12",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ж",
+          "campaign_name": "хаер тн ��",
           "spend": 2.3,
           "impressions": 524,
           "clicks": 6,
@@ -5984,7 +5984,7 @@
         {
           "date": "2026-09-29",
           "campaign_id": "120246978949550292",
-          "campaign_name": "Пошук співпраці ОВІК (П��оєктант)",
+          "campaign_name": "Пошук співпраці ОВІК (Проєктант)",
           "spend": 7.53,
           "impressions": 1050,
           "clicks": 15,
@@ -6002,7 +6002,7 @@
         {
           "date": "2026-10-01",
           "campaign_id": "120246978949550292",
-          "campaign_name": "Пошук співп��аці ОВІК (Проєктант)",
+          "campaign_name": "Пошук співпраці ОВІК (Проєктант)",
           "spend": 11.81,
           "impressions": 1546,
           "clicks": 20,
@@ -6092,7 +6092,7 @@
         {
           "date": "2026-10-18",
           "campaign_id": "120246711269350292",
-          "campaign_name": "ха��р тн ж 14.09",
+          "campaign_name": "хаер тн ж 14.09",
           "spend": 48.69,
           "impressions": 14297,
           "clicks": 214,
@@ -6318,8 +6318,8 @@
           "date": "2026-11-08",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 7.29,
-          "impressions": 2637,
+          "spend": 7.31,
+          "impressions": 2644,
           "clicks": 40,
           "leads": 3
         }
@@ -7436,7 +7436,7 @@
         {
           "date": "2026-10-27",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ к��нткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 4.64,
           "impressions": 991,
           "clicks": 9,
@@ -7573,16 +7573,16 @@
           "campaign_id": "120251760159240749",
           "campaign_name": "ТН Майконд",
           "spend": 37.64,
-          "impressions": 8332,
-          "clicks": 157,
+          "impressions": 8333,
+          "clicks": 158,
           "leads": 1
         },
         {
           "date": "2026-11-08",
           "campaign_id": "120251760159240749",
           "campaign_name": "ТН Майконд",
-          "spend": 16.4,
-          "impressions": 2898,
+          "spend": 16.41,
+          "impressions": 2900,
           "clicks": 76,
           "leads": 0
         }
@@ -11095,8 +11095,8 @@
           "date": "2026-11-08",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 117.55,
-          "impressions": 7225,
+          "spend": 117.71,
+          "impressions": 7230,
           "clicks": 119,
           "leads": 3
         },
@@ -11104,8 +11104,8 @@
           "date": "2026-11-08",
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
-          "spend": 122.12,
-          "impressions": 4025,
+          "spend": 122.21,
+          "impressions": 4031,
           "clicks": 73,
           "leads": 0
         }
