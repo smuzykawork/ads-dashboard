@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-11-10T13:40:09.334Z",
+  "generated_at": "2026-11-10T17:17:37.729Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120249412872190027",
+          "name": "Курс ОН сервісант систем конд і вент 10.11",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120249245524310027",
           "name": "АКЦІЯ ВСІ КУРСИ перезапуск",
@@ -1197,12 +1203,6 @@
         {
           "id": "120211986598340027",
           "name": "Конверсія на сайті /Дистанційне навчання 12.10",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120211941089080027",
-          "name": "Конверсія на сайті /Онлайн-курс «Автоматика щитів керування вентиляцією» 10.10",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -4670,7 +4670,7 @@
         {
           "date": "2026-08-14",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дил��р Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 8.16,
           "impressions": 2435,
           "clicks": 21,
@@ -5372,7 +5372,7 @@
         {
           "date": "2026-09-02",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАН�� КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 6.84,
           "impressions": 1305,
           "clicks": 23,
@@ -6273,8 +6273,8 @@
           "date": "2026-11-09",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 6.43,
-          "impressions": 3081,
+          "spend": 6.44,
+          "impressions": 3087,
           "clicks": 30,
           "leads": 1
         }
@@ -6905,7 +6905,7 @@
         {
           "date": "2026-09-23",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ контк��ти 14.09",
           "spend": 15.97,
           "impressions": 3985,
           "clicks": 73,
@@ -11033,7 +11033,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 85.59,
-          "impressions": 5227,
+          "impressions": 5228,
           "clicks": 74,
           "leads": 2
         },
@@ -11041,8 +11041,8 @@
           "date": "2026-11-09",
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
-          "spend": 99.36,
-          "impressions": 3336,
+          "spend": 99.51,
+          "impressions": 3340,
           "clicks": 54,
           "leads": 0
         }
