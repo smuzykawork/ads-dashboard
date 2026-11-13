@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:11:04.307Z",
+  "generated_at": "2026-11-13T17:56:55.716Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3841,7 +3841,7 @@
           "campaign_id": "120249412872190027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.11",
           "spend": 7.74,
-          "impressions": 2948,
+          "impressions": 2950,
           "clicks": 45,
           "leads": 1
         }
@@ -4805,7 +4805,7 @@
         {
           "date": "2026-08-22",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ж",
+          "campaign_name": "хае�� тн ж",
           "spend": 5.81,
           "impressions": 1194,
           "clicks": 15,
@@ -5642,7 +5642,7 @@
         {
           "date": "2026-09-17",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакти 24.08",
+          "campaign_name": "Дил��р Контакти 24.08",
           "spend": 3.88,
           "impressions": 506,
           "clicks": 6,
@@ -10912,8 +10912,8 @@
           "date": "2026-11-12",
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
-          "spend": 131.43,
-          "impressions": 4193,
+          "spend": 131.44,
+          "impressions": 4194,
           "clicks": 107,
           "leads": 5
         }
