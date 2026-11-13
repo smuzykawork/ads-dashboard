@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:56:55.716Z",
+  "generated_at": "2026-11-13T18:46:44.201Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4805,7 +4805,7 @@
         {
           "date": "2026-08-22",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хае�� тн ж",
+          "campaign_name": "хаер тн ж",
           "spend": 5.81,
           "impressions": 1194,
           "clicks": 15,
@@ -5264,7 +5264,7 @@
         {
           "date": "2026-09-03",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакти 24.08",
+          "campaign_name": "Дилер Контакт�� 24.08",
           "spend": 5.17,
           "impressions": 692,
           "clicks": 6,
@@ -5642,7 +5642,7 @@
         {
           "date": "2026-09-17",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дил��р Контакти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 3.88,
           "impressions": 506,
           "clicks": 6,
@@ -6178,8 +6178,8 @@
       "currency": "USD",
       "campaigns": [
         {
-          "id": "120251913776780749",
-          "name": "БРИГАДИ анкета Сайт",
+          "id": "120251919249500749",
+          "name": "БРИГАДИ анкета Сайт2",
           "status": "ACTIVE",
           "objective": "OUTCOME_LEADS"
         },
@@ -6425,7 +6425,7 @@
         {
           "date": "2026-08-29",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІДИ 14.08 – ко��ія",
           "spend": 9.43,
           "impressions": 2226,
           "clicks": 38,
@@ -6452,7 +6452,7 @@
         {
           "date": "2026-09-01",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІДИ 14.08 – к��пія",
           "spend": 9.29,
           "impressions": 2949,
           "clicks": 55,
@@ -6884,7 +6884,7 @@
         {
           "date": "2026-09-30",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ контк��ти 14.09",
           "spend": 5.12,
           "impressions": 1192,
           "clicks": 17,
@@ -10913,7 +10913,7 @@
           "campaign_id": "120253188106580392",
           "campaign_name": "f-gaz Anather",
           "spend": 131.44,
-          "impressions": 4194,
+          "impressions": 4195,
           "clicks": 107,
           "leads": 5
         }
