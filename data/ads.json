@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:23:22.349Z",
+  "generated_at": "2026-11-14T14:31:22.587Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4733,7 +4733,7 @@
         {
           "date": "2026-08-21",
           "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
+          "campaign_name": "Вак��нсія СЕРВІСАНТ КИЇВ 12.08 – копія",
           "spend": 6.66,
           "impressions": 1113,
           "clicks": 26,
@@ -4877,7 +4877,7 @@
         {
           "date": "2026-08-25",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дил��ри вебінар – копія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 4.28,
           "impressions": 1411,
           "clicks": 13,
@@ -5975,7 +5975,7 @@
         {
           "date": "2026-10-30",
           "campaign_id": "120247250663800292",
-          "campaign_name": "ТГ канал х��ац",
+          "campaign_name": "ТГ канал ��вац",
           "spend": 5.66,
           "impressions": 1905,
           "clicks": 27,
@@ -6623,7 +6623,7 @@
         {
           "date": "2026-09-19",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конт��ати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 56.54,
           "impressions": 15378,
           "clicks": 203,
@@ -6803,7 +6803,7 @@
         {
           "date": "2026-09-28",
           "campaign_id": "120251126564730749",
-          "campaign_name": "Вебінар курс ма��конд 30.09",
+          "campaign_name": "Вебінар курс майконд 30.09",
           "spend": 6.14,
           "impressions": 1060,
           "clicks": 21,
@@ -10876,8 +10876,8 @@
           "date": "2026-11-13",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 89.88,
-          "impressions": 5027,
+          "spend": 89.89,
+          "impressions": 5028,
           "clicks": 82,
           "leads": 2
         },
