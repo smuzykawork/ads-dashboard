@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:59:25.534Z",
+  "generated_at": "2026-11-14T19:22:43.096Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3813,8 +3813,8 @@
           "date": "2026-11-13",
           "campaign_id": "120249412872190027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.11",
-          "spend": 10.05,
-          "impressions": 2920,
+          "spend": 10.06,
+          "impressions": 2921,
           "clicks": 46,
           "leads": 1
         }
@@ -5975,7 +5975,7 @@
         {
           "date": "2026-10-30",
           "campaign_id": "120247250663800292",
-          "campaign_name": "ТГ канал хвац",
+          "campaign_name": "ТГ канал х��ац",
           "spend": 5.66,
           "impressions": 1905,
           "clicks": 27,
@@ -6965,7 +6965,7 @@
         {
           "date": "2026-10-12",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАД�� конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 6.31,
           "impressions": 1602,
           "clicks": 22,
@@ -7019,7 +7019,7 @@
         {
           "date": "2026-10-16",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГА��И конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 4.62,
           "impressions": 1167,
           "clicks": 18,
@@ -10877,7 +10877,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 89.89,
-          "impressions": 5028,
+          "impressions": 5029,
           "clicks": 82,
           "leads": 2
         },
