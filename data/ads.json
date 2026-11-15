@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:30:59.618Z",
+  "generated_at": "2026-11-15T16:59:38.953Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3778,7 +3778,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 8.65,
-          "impressions": 2923,
+          "impressions": 2925,
           "clicks": 55,
           "leads": 3
         },
@@ -3787,7 +3787,7 @@
           "campaign_id": "120249412872190027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.11",
           "spend": 10.72,
-          "impressions": 2893,
+          "impressions": 2894,
           "clicks": 44,
           "leads": 1
         }
@@ -4940,7 +4940,7 @@
         {
           "date": "2026-08-28",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакт�� 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 4.65,
           "impressions": 790,
           "clicks": 12,
@@ -5102,7 +5102,7 @@
         {
           "date": "2026-09-02",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІ��АНТ КИЇВ 12.08 – копія – копія",
           "spend": 6.84,
           "impressions": 1305,
           "clicks": 23,
@@ -5237,7 +5237,7 @@
         {
           "date": "2026-09-07",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕР��ІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.55,
           "impressions": 1483,
           "clicks": 37,
@@ -6057,8 +6057,8 @@
           "date": "2026-11-14",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 5.85,
-          "impressions": 1505,
+          "spend": 5.86,
+          "impressions": 1508,
           "clicks": 20,
           "leads": 1
         }
@@ -7299,9 +7299,9 @@
           "date": "2026-11-14",
           "campaign_id": "120251919249500749",
           "campaign_name": "БРИГАДИ анкета Сайт2",
-          "spend": 26.49,
-          "impressions": 5621,
-          "clicks": 58,
+          "spend": 26.51,
+          "impressions": 5625,
+          "clicks": 59,
           "leads": 0
         }
       ]
@@ -10832,7 +10832,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 100.16,
-          "impressions": 5090,
+          "impressions": 5093,
           "clicks": 83,
           "leads": 4
         },
