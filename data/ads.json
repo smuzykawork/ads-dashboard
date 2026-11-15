@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T09:12:59.976Z",
+  "generated_at": "2026-11-15T11:20:21.635Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3778,7 +3778,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 8.65,
-          "impressions": 2922,
+          "impressions": 2923,
           "clicks": 55,
           "leads": 3
         },
@@ -5579,7 +5579,7 @@
         {
           "date": "2026-09-23",
           "campaign_id": "120246888745410292",
-          "campaign_name": "Менеджер з продажу ТН",
+          "campaign_name": "Менеджер з продажу ��Н",
           "spend": 3.74,
           "impressions": 435,
           "clicks": 9,
@@ -5588,7 +5588,7 @@
         {
           "date": "2026-09-24",
           "campaign_id": "120246888745410292",
-          "campaign_name": "Менеджер з продажу ТН",
+          "campaign_name": "Менеджер �� продажу ТН",
           "spend": 34.37,
           "impressions": 3021,
           "clicks": 61,
@@ -7299,8 +7299,8 @@
           "date": "2026-11-14",
           "campaign_id": "120251919249500749",
           "campaign_name": "БРИГАДИ анкета Сайт2",
-          "spend": 26.47,
-          "impressions": 5618,
+          "spend": 26.49,
+          "impressions": 5621,
           "clicks": 58,
           "leads": 0
         }
@@ -10832,7 +10832,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 100.16,
-          "impressions": 5087,
+          "impressions": 5090,
           "clicks": 83,
           "leads": 4
         },
