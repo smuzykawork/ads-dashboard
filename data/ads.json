@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:20:21.635Z",
+  "generated_at": "2026-11-15T11:30:59.618Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -5579,7 +5579,7 @@
         {
           "date": "2026-09-23",
           "campaign_id": "120246888745410292",
-          "campaign_name": "Менеджер з продажу ��Н",
+          "campaign_name": "Менеджер з продажу ТН",
           "spend": 3.74,
           "impressions": 435,
           "clicks": 9,
@@ -5588,7 +5588,7 @@
         {
           "date": "2026-09-24",
           "campaign_id": "120246888745410292",
-          "campaign_name": "Менеджер �� продажу ТН",
+          "campaign_name": "Менеджер з продажу ТН",
           "spend": 34.37,
           "impressions": 3021,
           "clicks": 61,
