@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T23:11:05.420Z",
+  "generated_at": "2026-11-16T01:54:58.113Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3732,8 +3732,8 @@
           "date": "2026-11-14",
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
-          "spend": 8.65,
-          "impressions": 2927,
+          "spend": 8.66,
+          "impressions": 2928,
           "clicks": 55,
           "leads": 3
         },
@@ -3750,8 +3750,8 @@
           "date": "2026-11-15",
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
-          "spend": 12.13,
-          "impressions": 4724,
+          "spend": 12.14,
+          "impressions": 4727,
           "clicks": 74,
           "leads": 3
         },
@@ -3760,7 +3760,7 @@
           "campaign_id": "120249412872190027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.11",
           "spend": 12.08,
-          "impressions": 2480,
+          "impressions": 2483,
           "clicks": 56,
           "leads": 2
         }
@@ -5417,7 +5417,7 @@
         {
           "date": "2026-09-16",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВ��САНТ КИЇВ 12.08 – копія – копія",
           "spend": 7.58,
           "impressions": 978,
           "clicks": 21,
@@ -6004,7 +6004,7 @@
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
           "spend": 7.82,
-          "impressions": 1980,
+          "impressions": 1983,
           "clicks": 31,
           "leads": 3
         }
@@ -6386,7 +6386,7 @@
         {
           "date": "2026-09-13",
           "campaign_id": "120250980663130749",
-          "campaign_name": "БРИГАДИ конткати",
+          "campaign_name": "БРИГАДИ к��нткати",
           "spend": 8.51,
           "impressions": 1391,
           "clicks": 24,
@@ -6440,7 +6440,7 @@
         {
           "date": "2026-09-15",
           "campaign_id": "120250995561940749",
-          "campaign_name": "ТН ЛІДИ 14.09",
+          "campaign_name": "ТН ЛІ��И 14.09",
           "spend": 10.24,
           "impressions": 3297,
           "clicks": 54,
@@ -7251,8 +7251,8 @@
           "date": "2026-11-15",
           "campaign_id": "120251919249500749",
           "campaign_name": "БРИГАДИ анкета Сайт2",
-          "spend": 19.11,
-          "impressions": 3155,
+          "spend": 19.12,
+          "impressions": 3158,
           "clicks": 30,
           "leads": 1
         },
@@ -7260,8 +7260,8 @@
           "date": "2026-11-15",
           "campaign_id": "120251945894180749",
           "campaign_name": "Бригади Форма 8 питань",
-          "spend": 5.64,
-          "impressions": 1399,
+          "spend": 5.65,
+          "impressions": 1400,
           "clicks": 12,
           "leads": 0
         }
@@ -10801,9 +10801,9 @@
           "date": "2026-11-15",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 107.76,
-          "impressions": 5227,
-          "clicks": 105,
+          "spend": 107.88,
+          "impressions": 5240,
+          "clicks": 106,
           "leads": 6
         }
       ]
