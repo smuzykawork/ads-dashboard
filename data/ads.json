@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T12:04:02.547Z",
+  "generated_at": "2026-11-16T20:20:32.349Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7,9 +7,15 @@
       "currency": "USD",
       "campaigns": [
         {
+          "id": "120249497985930027",
+          "name": "БФ ОХОПЛЕННЯ",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_AWARENESS"
+        },
+        {
           "id": "120249412872190027",
           "name": "Курс ОН сервісант систем конд і вент 10.11",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -1197,12 +1203,6 @@
         {
           "id": "120212098640950027",
           "name": "Корпоративне навчання форма",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120211986598340027",
-          "name": "Конверсія на сайті /Дистанційне навчання 12.10",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -3751,7 +3751,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 12.19,
-          "impressions": 4748,
+          "impressions": 4750,
           "clicks": 74,
           "leads": 3
         },
@@ -3759,8 +3759,8 @@
           "date": "2026-11-15",
           "campaign_id": "120249412872190027",
           "campaign_name": "Курс ОН сервісант систем конд і вент 10.11",
-          "spend": 12.09,
-          "impressions": 2492,
+          "spend": 12.1,
+          "impressions": 2495,
           "clicks": 56,
           "leads": 2
         }
@@ -5156,7 +5156,7 @@
         {
           "date": "2026-09-06",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакти 24.08",
+          "campaign_name": "Дилер ��онтакти 24.08",
           "spend": 7.18,
           "impressions": 773,
           "clicks": 10,
@@ -5570,7 +5570,7 @@
         {
           "date": "2026-09-27",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ К��ЇВ 12.08 – копія – копія",
           "spend": 9.52,
           "impressions": 1231,
           "clicks": 29,
@@ -6004,7 +6004,7 @@
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
           "spend": 7.85,
-          "impressions": 2018,
+          "impressions": 2020,
           "clicks": 32,
           "leads": 3
         }
@@ -6018,7 +6018,7 @@
         {
           "id": "120251945894180749",
           "name": "Бригади Форма 8 питань",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -6278,7 +6278,7 @@
         {
           "date": "2026-09-02",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІДИ 14.08 ��� копія",
           "spend": 9.13,
           "impressions": 3378,
           "clicks": 43,
@@ -6908,7 +6908,7 @@
         {
           "date": "2026-10-16",
           "campaign_id": "120250995561940749",
-          "campaign_name": "ТН ЛІ��И 14.09",
+          "campaign_name": "ТН ЛІДИ 14.09",
           "spend": 8.56,
           "impressions": 1553,
           "clicks": 25,
@@ -7251,17 +7251,17 @@
           "date": "2026-11-15",
           "campaign_id": "120251919249500749",
           "campaign_name": "БРИГАДИ анкета Сайт2",
-          "spend": 19.21,
-          "impressions": 3174,
+          "spend": 19.25,
+          "impressions": 3175,
           "clicks": 30,
           "leads": 1
         },
         {
           "date": "2026-11-15",
           "campaign_id": "120251945894180749",
-          "campaign_name": "Бригади Форма 8 питань",
-          "spend": 5.68,
-          "impressions": 1409,
+          "campaign_name": "Бригади Ф��рма 8 питань",
+          "spend": 5.71,
+          "impressions": 1413,
           "clicks": 12,
           "leads": 0
         }
@@ -10801,8 +10801,8 @@
           "date": "2026-11-15",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 108.49,
-          "impressions": 5275,
+          "spend": 108.6,
+          "impressions": 5283,
           "clicks": 107,
           "leads": 6
         }
