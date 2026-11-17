@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:45:00.865Z",
+  "generated_at": "2026-11-17T14:54:31.550Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3751,7 +3751,7 @@
           "campaign_id": "120249497985930027",
           "campaign_name": "БФ ОХОПЛЕННЯ",
           "spend": 5.43,
-          "impressions": 31413,
+          "impressions": 31414,
           "clicks": 59,
           "leads": 0
         }
@@ -4706,7 +4706,7 @@
         {
           "date": "2026-08-25",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебіна�� – копія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 4.28,
           "impressions": 1411,
           "clicks": 13,
@@ -5075,7 +5075,7 @@
         {
           "date": "2026-09-05",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 �� копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 6.04,
           "impressions": 1012,
           "clicks": 15,
@@ -5525,7 +5525,7 @@
         {
           "date": "2026-09-27",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕР��ІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 9.52,
           "impressions": 1231,
           "clicks": 29,
@@ -5968,7 +5968,7 @@
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
           "spend": 7.57,
-          "impressions": 2473,
+          "impressions": 2474,
           "clicks": 24,
           "leads": 1
         }
@@ -6620,7 +6620,7 @@
         {
           "date": "2026-09-28",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ кон��кати 14.09",
           "spend": 13.46,
           "impressions": 3151,
           "clicks": 43,
