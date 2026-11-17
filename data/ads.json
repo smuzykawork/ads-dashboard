@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T23:02:45.529Z",
+  "generated_at": "2026-11-17T23:09:30.109Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3733,7 +3733,7 @@
           "campaign_id": "120249497985930027",
           "campaign_name": "БФ ОХОПЛЕННЯ",
           "spend": 10.25,
-          "impressions": 61888,
+          "impressions": 61889,
           "clicks": 119,
           "leads": 0
         }
@@ -5174,7 +5174,7 @@
         {
           "date": "2026-09-11",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ж",
+          "campaign_name": "хаер т�� ж",
           "spend": 4.39,
           "impressions": 895,
           "clicks": 19,
@@ -5453,7 +5453,7 @@
         {
           "date": "2026-09-26",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "В��кансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 13.75,
           "impressions": 2144,
           "clicks": 49,
@@ -6455,7 +6455,7 @@
         {
           "date": "2026-09-21",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАД�� конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 47.8,
           "impressions": 9591,
           "clicks": 130,
@@ -6761,7 +6761,7 @@
         {
           "date": "2026-10-13",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ контка��и 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 5.02,
           "impressions": 1424,
           "clicks": 16,
@@ -7166,7 +7166,7 @@
         {
           "date": "2026-11-16",
           "campaign_id": "120251945894180749",
-          "campaign_name": "Бригади Форма 8 питань",
+          "campaign_name": "��ригади Форма 8 питань",
           "spend": 12.18,
           "impressions": 2936,
           "clicks": 32,
@@ -10708,8 +10708,8 @@
           "date": "2026-11-17",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 110.2,
-          "impressions": 5610,
+          "spend": 110.72,
+          "impressions": 5621,
           "clicks": 79,
           "leads": 2
         }
