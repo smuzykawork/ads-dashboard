@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:10:06.762Z",
+  "generated_at": "2026-11-17T14:45:00.865Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3751,7 +3751,7 @@
           "campaign_id": "120249497985930027",
           "campaign_name": "БФ ОХОПЛЕННЯ",
           "spend": 5.43,
-          "impressions": 31403,
+          "impressions": 31413,
           "clicks": 59,
           "leads": 0
         }
@@ -4706,7 +4706,7 @@
         {
           "date": "2026-08-25",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери вебіна�� – копія",
           "spend": 4.28,
           "impressions": 1411,
           "clicks": 13,
@@ -5075,7 +5075,7 @@
         {
           "date": "2026-09-05",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 �� копія – копія",
           "spend": 6.04,
           "impressions": 1012,
           "clicks": 15,
@@ -5525,7 +5525,7 @@
         {
           "date": "2026-09-27",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕР��ІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 9.52,
           "impressions": 1231,
           "clicks": 29,
@@ -7215,8 +7215,8 @@
           "date": "2026-11-16",
           "campaign_id": "120251945894180749",
           "campaign_name": "Бригади Форма 8 питань",
-          "spend": 12.16,
-          "impressions": 2935,
+          "spend": 12.18,
+          "impressions": 2936,
           "clicks": 32,
           "leads": 0
         }
@@ -10757,7 +10757,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 95.09,
-          "impressions": 4626,
+          "impressions": 4628,
           "clicks": 75,
           "leads": 3
         }
