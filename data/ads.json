@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:31:25.745Z",
+  "generated_at": "2026-11-17T03:43:31.443Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3732,8 +3732,8 @@
           "date": "2026-11-16",
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
-          "spend": 8.04,
-          "impressions": 3460,
+          "spend": 8.06,
+          "impressions": 3463,
           "clicks": 47,
           "leads": 2
         },
@@ -3750,8 +3750,8 @@
           "date": "2026-11-16",
           "campaign_id": "120249497985930027",
           "campaign_name": "БФ ОХОПЛЕННЯ",
-          "spend": 5.41,
-          "impressions": 31207,
+          "spend": 5.43,
+          "impressions": 31256,
           "clicks": 57,
           "leads": 0
         }
@@ -4679,7 +4679,7 @@
         {
           "date": "2026-08-24",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – к��пія",
           "spend": 4.12,
           "impressions": 743,
           "clicks": 14,
@@ -4751,7 +4751,7 @@
         {
           "date": "2026-08-26",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вак��нсія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.37,
           "impressions": 1211,
           "clicks": 34,
@@ -5048,7 +5048,7 @@
         {
           "date": "2026-09-04",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копі��",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.11,
           "impressions": 1539,
           "clicks": 38,
@@ -5219,7 +5219,7 @@
         {
           "date": "2026-09-10",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Д��лер Контакти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 4.85,
           "impressions": 753,
           "clicks": 10,
@@ -5967,8 +5967,8 @@
           "date": "2026-11-16",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 7.44,
-          "impressions": 2426,
+          "spend": 7.49,
+          "impressions": 2445,
           "clicks": 24,
           "leads": 1
         }
@@ -6998,7 +6998,7 @@
         {
           "date": "2026-10-26",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ к��нткати 14.09",
           "spend": 6.01,
           "impressions": 1284,
           "clicks": 5,
@@ -7169,7 +7169,7 @@
         {
           "date": "2026-11-13",
           "campaign_id": "120251913776780749",
-          "campaign_name": "БРИГАДИ анкета Сай��",
+          "campaign_name": "БРИГАДИ анкета Сайт",
           "spend": 4.57,
           "impressions": 1469,
           "clicks": 45,
@@ -7197,8 +7197,8 @@
           "date": "2026-11-15",
           "campaign_id": "120251919249500749",
           "campaign_name": "БРИГАДИ анкета Сайт2",
-          "spend": 19.25,
-          "impressions": 3175,
+          "spend": 19.26,
+          "impressions": 3176,
           "clicks": 30,
           "leads": 1
         },
@@ -7215,8 +7215,8 @@
           "date": "2026-11-16",
           "campaign_id": "120251945894180749",
           "campaign_name": "Бригади Форма 8 питань",
-          "spend": 12.14,
-          "impressions": 2930,
+          "spend": 12.16,
+          "impressions": 2932,
           "clicks": 32,
           "leads": 0
         }
@@ -9286,15 +9286,6 @@
       ],
       "daily": [
         {
-          "date": "2026-08-18",
-          "campaign_id": "120252140195060392",
-          "campaign_name": "Kurs Prof Ukr - EU",
-          "spend": 79.63,
-          "impressions": 2605,
-          "clicks": 62,
-          "leads": 2
-        },
-        {
           "date": "2026-08-19",
           "campaign_id": "120252140195060392",
           "campaign_name": "Kurs Prof Ukr - EU",
@@ -10760,6 +10751,15 @@
           "impressions": 5283,
           "clicks": 107,
           "leads": 6
+        },
+        {
+          "date": "2026-11-16",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 94.72,
+          "impressions": 4590,
+          "clicks": 75,
+          "leads": 3
         }
       ]
     }
