@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T23:09:30.109Z",
+  "generated_at": "2026-11-18T04:11:17.103Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3723,8 +3723,8 @@
           "date": "2026-11-17",
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
-          "spend": 5.76,
-          "impressions": 2694,
+          "spend": 5.78,
+          "impressions": 2697,
           "clicks": 43,
           "leads": 1
         },
@@ -3732,8 +3732,8 @@
           "date": "2026-11-17",
           "campaign_id": "120249497985930027",
           "campaign_name": "БФ ОХОПЛЕННЯ",
-          "spend": 10.25,
-          "impressions": 61889,
+          "spend": 10.26,
+          "impressions": 61932,
           "clicks": 119,
           "leads": 0
         }
@@ -4490,7 +4490,7 @@
         {
           "date": "2026-08-21",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Д��лер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 6.47,
           "impressions": 1828,
           "clicks": 17,
@@ -5174,7 +5174,7 @@
         {
           "date": "2026-09-11",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер т�� ж",
+          "campaign_name": "хаер тн ж",
           "spend": 4.39,
           "impressions": 895,
           "clicks": 19,
@@ -5453,7 +5453,7 @@
         {
           "date": "2026-09-26",
           "campaign_id": "120246318509580292",
-          "campaign_name": "В��кансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 13.75,
           "impressions": 2144,
           "clicks": 49,
@@ -5922,8 +5922,8 @@
           "date": "2026-11-17",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 6.15,
-          "impressions": 1794,
+          "spend": 6.17,
+          "impressions": 1803,
           "clicks": 30,
           "leads": 5
         }
@@ -7085,7 +7085,7 @@
         {
           "date": "2026-11-06",
           "campaign_id": "120251760159240749",
-          "campaign_name": "ТН Майконд",
+          "campaign_name": "ТН Майк��нд",
           "spend": 23.83,
           "impressions": 6728,
           "clicks": 112,
@@ -7166,7 +7166,7 @@
         {
           "date": "2026-11-16",
           "campaign_id": "120251945894180749",
-          "campaign_name": "��ригади Форма 8 питань",
+          "campaign_name": "Бригади Форма 8 питань",
           "spend": 12.18,
           "impressions": 2936,
           "clicks": 32,
@@ -10708,8 +10708,8 @@
           "date": "2026-11-17",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 110.72,
-          "impressions": 5621,
+          "spend": 110.87,
+          "impressions": 5638,
           "clicks": 79,
           "leads": 2
         }
