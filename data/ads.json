@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-11-18T13:50:49.530Z",
+  "generated_at": "2026-11-18T14:25:04.703Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
       "name": "Academy Aclima",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120249530995720027",
+          "name": "БФ ОХОПЛЕННЯ 2",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_AWARENESS"
+        },
         {
           "id": "120249497985930027",
           "name": "БФ ОХОПЛЕННЯ",
@@ -1197,12 +1203,6 @@
         {
           "id": "120212152911430027",
           "name": "Конверсія на сайті /Дистанційне навчання форма",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120212098640950027",
-          "name": "Корпоративне навчання форма",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -3732,8 +3732,8 @@
           "date": "2026-11-17",
           "campaign_id": "120249497985930027",
           "campaign_name": "БФ ОХОПЛЕННЯ",
-          "spend": 10.29,
-          "impressions": 62058,
+          "spend": 10.3,
+          "impressions": 62061,
           "clicks": 119,
           "leads": 0
         }
@@ -4490,7 +4490,7 @@
         {
           "date": "2026-08-21",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Д��лер Контакти 03.06 – копія",
+          "campaign_name": "Дилер Контакти 03.06 – копія",
           "spend": 6.47,
           "impressions": 1828,
           "clicks": 17,
@@ -4949,7 +4949,7 @@
         {
           "date": "2026-09-02",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Кон��акти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 4.47,
           "impressions": 589,
           "clicks": 9,
@@ -5246,7 +5246,7 @@
         {
           "date": "2026-09-13",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Конт��кти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 5.9,
           "impressions": 982,
           "clicks": 10,
@@ -5318,7 +5318,7 @@
         {
           "date": "2026-09-16",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія ��� копія",
           "spend": 7.58,
           "impressions": 978,
           "clicks": 21,
@@ -5345,7 +5345,7 @@
         {
           "date": "2026-09-17",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – коп��я",
           "spend": 5.84,
           "impressions": 832,
           "clicks": 12,
@@ -5390,7 +5390,7 @@
         {
           "date": "2026-09-20",
           "campaign_id": "120246711269350292",
-          "campaign_name": "хаер тн ж 14.09",
+          "campaign_name": "х��ер тн ж 14.09",
           "spend": 0.08,
           "impressions": 24,
           "clicks": 2,
@@ -5444,7 +5444,7 @@
         {
           "date": "2026-09-25",
           "campaign_id": "120246888745410292",
-          "campaign_name": "Менеджер з продажу ТН",
+          "campaign_name": "Менеджер з про��ажу ТН",
           "spend": 21.93,
           "impressions": 1702,
           "clicks": 49,
@@ -5912,7 +5912,7 @@
         {
           "date": "2026-11-16",
           "campaign_id": "120247250663800292",
-          "campaign_name": "��Г канал хвац",
+          "campaign_name": "ТГ канал хвац",
           "spend": 7.57,
           "impressions": 2475,
           "clicks": 24,
@@ -6407,7 +6407,7 @@
         {
           "date": "2026-09-19",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ к��нткати 14.09",
           "spend": 56.54,
           "impressions": 15378,
           "clicks": 203,
