@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:28:25.770Z",
+  "generated_at": "2026-11-18T13:50:49.530Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3733,7 +3733,7 @@
           "campaign_id": "120249497985930027",
           "campaign_name": "БФ ОХОПЛЕННЯ",
           "spend": 10.29,
-          "impressions": 62053,
+          "impressions": 62058,
           "clicks": 119,
           "leads": 0
         }
@@ -4490,7 +4490,7 @@
         {
           "date": "2026-08-21",
           "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
+          "campaign_name": "Д��лер Контакти 03.06 – копія",
           "spend": 6.47,
           "impressions": 1828,
           "clicks": 17,
@@ -4949,7 +4949,7 @@
         {
           "date": "2026-09-02",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакти 24.08",
+          "campaign_name": "Дилер Кон��акти 24.08",
           "spend": 4.47,
           "impressions": 589,
           "clicks": 9,
@@ -5093,7 +5093,7 @@
         {
           "date": "2026-09-08",
           "campaign_id": "120245542298330292",
-          "campaign_name": "х��ер тн ж",
+          "campaign_name": "хаер тн ж",
           "spend": 6.51,
           "impressions": 1527,
           "clicks": 20,
@@ -5246,7 +5246,7 @@
         {
           "date": "2026-09-13",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакти 24.08",
+          "campaign_name": "Дилер Конт��кти 24.08",
           "spend": 5.9,
           "impressions": 982,
           "clicks": 10,
@@ -5912,7 +5912,7 @@
         {
           "date": "2026-11-16",
           "campaign_id": "120247250663800292",
-          "campaign_name": "ТГ канал хвац",
+          "campaign_name": "��Г канал хвац",
           "spend": 7.57,
           "impressions": 2475,
           "clicks": 24,
@@ -5934,6 +5934,12 @@
       "name": "MyCond UA",
       "currency": "USD",
       "campaigns": [
+        {
+          "id": "120251996476260749",
+          "name": "ЛІДИ ТН  основний Форма коротка",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
         {
           "id": "120251984768110749",
           "name": "ЛІДИ ТН КВІЗ основний",
