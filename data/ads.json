@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T03:15:12.964Z",
+  "generated_at": "2026-11-19T03:43:59.938Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3697,7 +3697,7 @@
           "campaign_id": "120248843546410027",
           "campaign_name": "ОН Теплові насоси 07.10",
           "spend": 5.49,
-          "impressions": 2956,
+          "impressions": 2957,
           "clicks": 53,
           "leads": 2
         },
@@ -3706,7 +3706,7 @@
           "campaign_id": "120249497985930027",
           "campaign_name": "БФ ОХОПЛЕННЯ",
           "spend": 9.06,
-          "impressions": 53033,
+          "impressions": 53038,
           "clicks": 111,
           "leads": 0
         },
@@ -3715,7 +3715,7 @@
           "campaign_id": "120249530995720027",
           "campaign_name": "БФ ОХОПЛЕННЯ 2",
           "spend": 4.42,
-          "impressions": 26623,
+          "impressions": 26625,
           "clicks": 47,
           "leads": 0
         }
@@ -5039,7 +5039,7 @@
         {
           "date": "2026-09-08",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хае�� тн ж",
+          "campaign_name": "хаер тн ж",
           "spend": 6.51,
           "impressions": 1527,
           "clicks": 20,
@@ -6128,7 +6128,7 @@
         {
           "date": "2026-09-02",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "Т�� ЛІДИ 14.08 – копія",
           "spend": 9.13,
           "impressions": 3378,
           "clicks": 43,
@@ -7064,7 +7064,7 @@
         {
           "date": "2026-11-12",
           "campaign_id": "120251760159240749",
-          "campaign_name": "ТН ��айконд",
+          "campaign_name": "ТН Майконд",
           "spend": 0,
           "impressions": 0,
           "clicks": 0,
@@ -7128,8 +7128,8 @@
           "date": "2026-11-18",
           "campaign_id": "120251984768110749",
           "campaign_name": "ЛІДИ ТН КВІЗ основний",
-          "spend": 4.47,
-          "impressions": 1269,
+          "spend": 4.52,
+          "impressions": 1270,
           "clicks": 28,
           "leads": 1
         },
