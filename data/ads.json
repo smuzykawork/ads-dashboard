@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T20:59:15.803Z",
+  "generated_at": "2026-11-19T21:24:52.728Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -4517,7 +4517,7 @@
         {
           "date": "2026-08-23",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери веб��нар – копія",
           "spend": 4.73,
           "impressions": 1378,
           "clicks": 19,
@@ -4949,7 +4949,7 @@
         {
           "date": "2026-09-04",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер К��нтакти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 4.6,
           "impressions": 798,
           "clicks": 15,
@@ -5878,7 +5878,7 @@
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
           "spend": 6.3,
-          "impressions": 2112,
+          "impressions": 2113,
           "clicks": 38,
           "leads": 3
         }
