@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T12:10:14.128Z",
+  "generated_at": "2026-11-19T12:52:47.188Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3706,7 +3706,7 @@
           "campaign_id": "120249497985930027",
           "campaign_name": "БФ ОХОПЛЕННЯ",
           "spend": 9.09,
-          "impressions": 53175,
+          "impressions": 53179,
           "clicks": 111,
           "leads": 0
         },
@@ -3715,7 +3715,7 @@
           "campaign_id": "120249530995720027",
           "campaign_name": "БФ ОХОПЛЕННЯ 2",
           "spend": 4.44,
-          "impressions": 26717,
+          "impressions": 26724,
           "clicks": 47,
           "leads": 0
         }
@@ -4517,7 +4517,7 @@
         {
           "date": "2026-08-23",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери в��бінар – копія",
           "spend": 4.73,
           "impressions": 1378,
           "clicks": 19,
@@ -5039,7 +5039,7 @@
         {
           "date": "2026-09-08",
           "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ж",
+          "campaign_name": "хае�� тн ж",
           "spend": 6.51,
           "impressions": 1527,
           "clicks": 20,
@@ -6695,7 +6695,7 @@
         {
           "date": "2026-10-12",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ контк��ти 14.09",
           "spend": 6.31,
           "impressions": 1602,
           "clicks": 22,
@@ -6749,7 +6749,7 @@
         {
           "date": "2026-10-16",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ конт��ати 14.09",
           "spend": 4.62,
           "impressions": 1167,
           "clicks": 18,
@@ -7129,7 +7129,7 @@
           "campaign_id": "120251984768110749",
           "campaign_name": "ЛІДИ ТН КВІЗ основний",
           "spend": 4.53,
-          "impressions": 1274,
+          "impressions": 1275,
           "clicks": 28,
           "leads": 1
         },
