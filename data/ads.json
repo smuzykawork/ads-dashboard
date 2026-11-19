@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T21:24:52.728Z",
+  "generated_at": "2026-11-19T22:20:44.123Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -1208,42 +1208,6 @@
         }
       ],
       "daily": [
-        {
-          "date": "2026-08-21",
-          "campaign_id": "120247139188530027",
-          "campaign_name": "Курс ОН Монт.Конд",
-          "spend": 3.9,
-          "impressions": 1257,
-          "clicks": 16,
-          "leads": 0
-        },
-        {
-          "date": "2026-08-21",
-          "campaign_id": "120247833451410027",
-          "campaign_name": "проєктування 1=2",
-          "spend": 10.21,
-          "impressions": 4249,
-          "clicks": 51,
-          "leads": 5
-        },
-        {
-          "date": "2026-08-21",
-          "campaign_id": "120247920622710027",
-          "campaign_name": "Курс ОН Монт.Конд НОВА",
-          "spend": 9.11,
-          "impressions": 3465,
-          "clicks": 64,
-          "leads": 1
-        },
-        {
-          "date": "2026-08-21",
-          "campaign_id": "120248032664350027",
-          "campaign_name": "Курс ОН сервісант систем конд і вент 19.08",
-          "spend": 14.81,
-          "impressions": 4792,
-          "clicks": 93,
-          "leads": 3
-        },
         {
           "date": "2026-08-22",
           "campaign_id": "120247833451410027",
@@ -3718,6 +3682,33 @@
           "impressions": 26753,
           "clicks": 47,
           "leads": 0
+        },
+        {
+          "date": "2026-11-19",
+          "campaign_id": "120248843546410027",
+          "campaign_name": "ОН Теплові насоси 07.10",
+          "spend": 4.26,
+          "impressions": 2265,
+          "clicks": 43,
+          "leads": 1
+        },
+        {
+          "date": "2026-11-19",
+          "campaign_id": "120249497985930027",
+          "campaign_name": "БФ ОХОПЛЕННЯ",
+          "spend": 9.81,
+          "impressions": 54463,
+          "clicks": 97,
+          "leads": 0
+        },
+        {
+          "date": "2026-11-19",
+          "campaign_id": "120249530995720027",
+          "campaign_name": "БФ ОХОПЛЕННЯ 2",
+          "spend": 9.87,
+          "impressions": 55505,
+          "clicks": 87,
+          "leads": 0
         }
       ]
     },
@@ -4425,42 +4416,6 @@
       ],
       "daily": [
         {
-          "date": "2026-08-21",
-          "campaign_id": "120245542298330292",
-          "campaign_name": "хаер тн ж",
-          "spend": 7.1,
-          "impressions": 1403,
-          "clicks": 21,
-          "leads": 1
-        },
-        {
-          "date": "2026-08-21",
-          "campaign_id": "120245543377600292",
-          "campaign_name": "Дилер Контакти 03.06 – копія",
-          "spend": 6.47,
-          "impressions": 1828,
-          "clicks": 17,
-          "leads": 2
-        },
-        {
-          "date": "2026-08-21",
-          "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
-          "spend": 3.78,
-          "impressions": 1329,
-          "clicks": 19,
-          "leads": 4
-        },
-        {
-          "date": "2026-08-21",
-          "campaign_id": "120246007640630292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія",
-          "spend": 6.66,
-          "impressions": 1113,
-          "clicks": 26,
-          "leads": 0
-        },
-        {
           "date": "2026-08-22",
           "campaign_id": "120245542298330292",
           "campaign_name": "хаер тн ж",
@@ -4517,7 +4472,7 @@
         {
           "date": "2026-08-23",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери веб��нар – копія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 4.73,
           "impressions": 1378,
           "clicks": 19,
@@ -5881,6 +5836,15 @@
           "impressions": 2113,
           "clicks": 38,
           "leads": 3
+        },
+        {
+          "date": "2026-11-19",
+          "campaign_id": "120247250663800292",
+          "campaign_name": "ТГ канал хвац",
+          "spend": 7.27,
+          "impressions": 2096,
+          "clicks": 40,
+          "leads": 5
         }
       ]
     },
@@ -6018,18 +5982,9 @@
       ],
       "daily": [
         {
-          "date": "2026-08-21",
-          "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
-          "spend": 10.33,
-          "impressions": 3166,
-          "clicks": 54,
-          "leads": 4
-        },
-        {
           "date": "2026-08-22",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІД�� 14.08 – копія",
+          "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 9.03,
           "impressions": 2772,
           "clicks": 44,
@@ -6038,7 +5993,7 @@
         {
           "date": "2026-08-23",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – копія",
+          "campaign_name": "ТН Л��ДИ 14.08 – копія",
           "spend": 13.32,
           "impressions": 4264,
           "clicks": 86,
@@ -6128,7 +6083,7 @@
         {
           "date": "2026-09-02",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН Л��ДИ 14.08 – копія",
+          "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 9.13,
           "impressions": 3378,
           "clicks": 43,
@@ -6596,7 +6551,7 @@
         {
           "date": "2026-10-05",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГА��И конткати 14.09",
           "spend": 4.51,
           "impressions": 1147,
           "clicks": 18,
@@ -6650,7 +6605,7 @@
         {
           "date": "2026-10-09",
           "campaign_id": "120251126564730749",
-          "campaign_name": "Вебінар курс майконд 30.09",
+          "campaign_name": "В��бінар курс майконд 30.09",
           "spend": 34.74,
           "impressions": 8802,
           "clicks": 124,
@@ -6776,7 +6731,7 @@
         {
           "date": "2026-10-17",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАД�� конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 3.57,
           "impressions": 970,
           "clicks": 8,
@@ -6920,7 +6875,7 @@
         {
           "date": "2026-10-28",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткат�� 14.09",
+          "campaign_name": "БРИ��АДИ конткати 14.09",
           "spend": 3.66,
           "impressions": 953,
           "clicks": 8,
@@ -6983,7 +6938,7 @@
         {
           "date": "2026-11-03",
           "campaign_id": "120250995433840749",
-          "campaign_name": "Б��ИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 3.96,
           "impressions": 727,
           "clicks": 13,
@@ -7140,6 +7095,24 @@
           "spend": 2.35,
           "impressions": 572,
           "clicks": 14,
+          "leads": 2
+        },
+        {
+          "date": "2026-11-19",
+          "campaign_id": "120251984768110749",
+          "campaign_name": "ЛІДИ ТН КВІЗ основний",
+          "spend": 4.37,
+          "impressions": 554,
+          "clicks": 13,
+          "leads": 2
+        },
+        {
+          "date": "2026-11-19",
+          "campaign_id": "120251996476260749",
+          "campaign_name": "ЛІДИ ТН  основний Форма коротка",
+          "spend": 5.15,
+          "impressions": 1484,
+          "clicks": 23,
           "leads": 2
         }
       ]
