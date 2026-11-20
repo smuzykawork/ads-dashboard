@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T10:31:45.994Z",
+  "generated_at": "2026-11-20T11:24:18.063Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3697,7 +3697,7 @@
           "campaign_id": "120249497985930027",
           "campaign_name": "БФ ОХОПЛЕННЯ",
           "spend": 9.88,
-          "impressions": 54698,
+          "impressions": 54705,
           "clicks": 97,
           "leads": 0
         },
@@ -3706,7 +3706,7 @@
           "campaign_id": "120249530995720027",
           "campaign_name": "БФ ОХОПЛЕННЯ 2",
           "spend": 9.88,
-          "impressions": 55678,
+          "impressions": 55684,
           "clicks": 88,
           "leads": 0
         }
@@ -4553,7 +4553,7 @@
         {
           "date": "2026-08-25",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебінар – копія",
+          "campaign_name": "Дилери вебінар – к��пія",
           "spend": 4.28,
           "impressions": 1411,
           "clicks": 13,
@@ -4697,7 +4697,7 @@
         {
           "date": "2026-08-29",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери веб��нар – копія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 3.32,
           "impressions": 1095,
           "clicks": 13,
@@ -5246,7 +5246,7 @@
         {
           "date": "2026-09-17",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія С��РВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 5.84,
           "impressions": 832,
           "clicks": 12,
@@ -6182,7 +6182,7 @@
         {
           "date": "2026-09-13",
           "campaign_id": "120250630086770749",
-          "campaign_name": "ТН ЛІДИ 14.08 – к��пія",
+          "campaign_name": "ТН ЛІДИ 14.08 – копія",
           "spend": 6.49,
           "impressions": 1700,
           "clicks": 29,
@@ -6425,7 +6425,7 @@
         {
           "date": "2026-09-25",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ кон��кати 14.09",
           "spend": 16.99,
           "impressions": 4039,
           "clicks": 69,
@@ -6443,7 +6443,7 @@
         {
           "date": "2026-09-26",
           "campaign_id": "120250995433840749",
-          "campaign_name": "Б��ИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 20.3,
           "impressions": 4494,
           "clicks": 68,
@@ -6659,7 +6659,7 @@
         {
           "date": "2026-10-12",
           "campaign_id": "120251126564730749",
-          "campaign_name": "Вебінар курс майконд 30.09",
+          "campaign_name": "Вебінар ��урс майконд 30.09",
           "spend": 15.41,
           "impressions": 3266,
           "clicks": 52,
@@ -7100,7 +7100,7 @@
         {
           "date": "2026-11-19",
           "campaign_id": "120251984768110749",
-          "campaign_name": "ЛІДИ ТН КВІЗ основний",
+          "campaign_name": "ЛІДИ ТН КВІЗ осно��ний",
           "spend": 4.37,
           "impressions": 554,
           "clicks": 13,
