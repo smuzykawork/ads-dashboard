@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:23:35.276Z",
+  "generated_at": "2026-11-21T19:37:15.165Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3714,8 +3714,8 @@
           "date": "2026-11-20",
           "campaign_id": "120249564308440027",
           "campaign_name": "БФ Ліди 20.11 мега",
-          "spend": 38.88,
-          "impressions": 14418,
+          "spend": 38.89,
+          "impressions": 14422,
           "clicks": 283,
           "leads": 19
         }
@@ -4544,7 +4544,7 @@
         {
           "date": "2026-08-25",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер ��онтакти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 5.58,
           "impressions": 1484,
           "clicks": 21,
@@ -4958,7 +4958,7 @@
         {
           "date": "2026-09-07",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контак��и 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 5.88,
           "impressions": 759,
           "clicks": 6,
