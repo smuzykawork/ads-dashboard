@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T11:32:59.840Z",
+  "generated_at": "2026-11-21T16:24:38.391Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3714,8 +3714,8 @@
           "date": "2026-11-20",
           "campaign_id": "120249564308440027",
           "campaign_name": "БФ Ліди 20.11 мега",
-          "spend": 38.87,
-          "impressions": 14404,
+          "spend": 38.88,
+          "impressions": 14416,
           "clicks": 283,
           "leads": 19
         }
@@ -5408,7 +5408,7 @@
         {
           "date": "2026-10-12",
           "campaign_id": "120247250663800292",
-          "campaign_name": "ТГ канал хвац",
+          "campaign_name": "��Г канал хвац",
           "spend": 4.8,
           "impressions": 1068,
           "clicks": 39,
@@ -6641,7 +6641,7 @@
         {
           "date": "2026-10-13",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГ��ДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 5.02,
           "impressions": 1424,
           "clicks": 16,
@@ -6767,7 +6767,7 @@
         {
           "date": "2026-10-20",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ ��онткати 14.09",
           "spend": 5.15,
           "impressions": 1149,
           "clicks": 20,
@@ -7028,7 +7028,7 @@
         {
           "date": "2026-11-15",
           "campaign_id": "120251919249500749",
-          "campaign_name": "БРИГАДИ анкета Сайт2",
+          "campaign_name": "БРИГАДИ анк��та Сайт2",
           "spend": 19.26,
           "impressions": 3176,
           "clicks": 30,
@@ -7055,7 +7055,7 @@
         {
           "date": "2026-11-18",
           "campaign_id": "120251984768110749",
-          "campaign_name": "ЛІДИ Т�� КВІЗ основний",
+          "campaign_name": "ЛІДИ ТН КВІЗ основний",
           "spend": 4.53,
           "impressions": 1275,
           "clicks": 28,
@@ -7092,8 +7092,8 @@
           "date": "2026-11-20",
           "campaign_id": "120251996476260749",
           "campaign_name": "ЛІДИ ТН  основний Форма коротка",
-          "spend": 9.16,
-          "impressions": 3883,
+          "spend": 9.2,
+          "impressions": 3892,
           "clicks": 100,
           "leads": 10
         }
@@ -10633,8 +10633,8 @@
           "date": "2026-11-20",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 92.42,
-          "impressions": 4293,
+          "spend": 92.57,
+          "impressions": 4295,
           "clicks": 89,
           "leads": 5
         }
