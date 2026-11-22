@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T02:39:45.778Z",
+  "generated_at": "2026-11-22T03:03:19.167Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3706,7 +3706,7 @@
           "campaign_id": "120249564308440027",
           "campaign_name": "БФ Ліди 20.11 мега",
           "spend": 71.82,
-          "impressions": 25239,
+          "impressions": 25242,
           "clicks": 480,
           "leads": 19
         }
@@ -4733,7 +4733,7 @@
         {
           "date": "2026-09-01",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери вебін��р – копія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 1.23,
           "impressions": 417,
           "clicks": 4,
@@ -6404,7 +6404,7 @@
         {
           "date": "2026-09-27",
           "campaign_id": "120251126564730749",
-          "campaign_name": "Вебінар курс майкон�� 30.09",
+          "campaign_name": "Вебінар курс майконд 30.09",
           "spend": 22.5,
           "impressions": 4625,
           "clicks": 64,
@@ -6566,7 +6566,7 @@
         {
           "date": "2026-10-11",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "��РИГАДИ конткати 14.09",
           "spend": 6.16,
           "impressions": 1145,
           "clicks": 20,
@@ -6737,7 +6737,7 @@
         {
           "date": "2026-10-20",
           "campaign_id": "120250995561940749",
-          "campaign_name": "ТН ��ІДИ 14.09",
+          "campaign_name": "ТН ЛІДИ 14.09",
           "spend": 18.7,
           "impressions": 6428,
           "clicks": 89,
@@ -7063,7 +7063,7 @@
           "campaign_id": "120251996476260749",
           "campaign_name": "ЛІДИ ТН  основний Форма коротка",
           "spend": 19.28,
-          "impressions": 7427,
+          "impressions": 7431,
           "clicks": 216,
           "leads": 16
         },
