@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T18:02:58.920Z",
+  "generated_at": "2026-11-22T19:28:42.778Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3706,7 +3706,7 @@
           "campaign_id": "120249564308440027",
           "campaign_name": "БФ Ліди 20.11 мега",
           "spend": 72.14,
-          "impressions": 25370,
+          "impressions": 25372,
           "clicks": 481,
           "leads": 19
         }
@@ -5075,7 +5075,7 @@
         {
           "date": "2026-09-13",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Диле�� Контакти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 5.9,
           "impressions": 982,
           "clicks": 10,
@@ -6611,7 +6611,7 @@
         {
           "date": "2026-10-14",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ к��нткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 4.79,
           "impressions": 1294,
           "clicks": 21,
@@ -7063,7 +7063,7 @@
           "campaign_id": "120251996476260749",
           "campaign_name": "ЛІДИ ТН  основний Форма коротка",
           "spend": 19.52,
-          "impressions": 7534,
+          "impressions": 7537,
           "clicks": 219,
           "leads": 16
         },
