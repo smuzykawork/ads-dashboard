@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T15:07:25.427Z",
+  "generated_at": "2026-11-23T20:34:41.398Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3705,8 +3705,8 @@
           "date": "2026-11-22",
           "campaign_id": "120249564308440027",
           "campaign_name": "БФ Ліди 20.11 мега",
-          "spend": 58.09,
-          "impressions": 19938,
+          "spend": 58.1,
+          "impressions": 19947,
           "clicks": 461,
           "leads": 22
         }
@@ -5291,7 +5291,7 @@
         {
           "date": "2026-10-01",
           "campaign_id": "120246978949550292",
-          "campaign_name": "Пошук співпраці ОВІК (Проєктант)",
+          "campaign_name": "Пошук співпраці ОВІК (П��оєктант)",
           "spend": 11.81,
           "impressions": 1546,
           "clicks": 20,
@@ -5743,7 +5743,7 @@
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
           "spend": 8.34,
-          "impressions": 2453,
+          "impressions": 2455,
           "clicks": 43,
           "leads": 5
         }
@@ -6314,7 +6314,7 @@
         {
           "date": "2026-09-25",
           "campaign_id": "120251126564730749",
-          "campaign_name": "Вебінар курс майконд 30.09",
+          "campaign_name": "Вебінар курс м��йконд 30.09",
           "spend": 22.73,
           "impressions": 6483,
           "clicks": 90,
@@ -6836,7 +6836,7 @@
         {
           "date": "2026-11-04",
           "campaign_id": "120251760159240749",
-          "campaign_name": "Т�� Майконд",
+          "campaign_name": "ТН Майконд",
           "spend": 8.87,
           "impressions": 2227,
           "clicks": 74,
@@ -7027,7 +7027,7 @@
           "campaign_id": "120251996476260749",
           "campaign_name": "ЛІДИ ТН Форма Максим питань",
           "spend": 11.22,
-          "impressions": 3803,
+          "impressions": 3814,
           "clicks": 94,
           "leads": 3
         },
@@ -7035,8 +7035,8 @@
           "date": "2026-11-22",
           "campaign_id": "120252047170900749",
           "campaign_name": "ЛІДИ ТН  основний Форма коротка БУКОВЕЛЬ",
-          "spend": 10.97,
-          "impressions": 3962,
+          "spend": 10.99,
+          "impressions": 3969,
           "clicks": 66,
           "leads": 1
         }
@@ -10576,8 +10576,8 @@
           "date": "2026-11-22",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 116.09,
-          "impressions": 5150,
+          "spend": 116.11,
+          "impressions": 5153,
           "clicks": 92,
           "leads": 2
         }
