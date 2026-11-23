@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T08:55:41.374Z",
+  "generated_at": "2026-11-23T15:07:25.427Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3705,8 +3705,8 @@
           "date": "2026-11-22",
           "campaign_id": "120249564308440027",
           "campaign_name": "БФ Ліди 20.11 мега",
-          "spend": 58.03,
-          "impressions": 19914,
+          "spend": 58.09,
+          "impressions": 19938,
           "clicks": 461,
           "leads": 22
         }
@@ -4850,7 +4850,7 @@
         {
           "date": "2026-09-07",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇ�� 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.55,
           "impressions": 1483,
           "clicks": 37,
@@ -5742,9 +5742,9 @@
           "date": "2026-11-22",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 8.32,
-          "impressions": 2445,
-          "clicks": 42,
+          "spend": 8.34,
+          "impressions": 2453,
+          "clicks": 43,
           "leads": 5
         }
       ]
@@ -5762,7 +5762,7 @@
         },
         {
           "id": "120251996476260749",
-          "name": "ЛІДИ ТН  основний Форма коротка",
+          "name": "ЛІДИ ТН Форма Максим питань",
           "status": "ACTIVE",
           "objective": "OUTCOME_LEADS"
         },
@@ -6458,7 +6458,7 @@
         {
           "date": "2026-10-08",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткат�� 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 5.09,
           "impressions": 1213,
           "clicks": 23,
@@ -6836,7 +6836,7 @@
         {
           "date": "2026-11-04",
           "campaign_id": "120251760159240749",
-          "campaign_name": "ТН Майконд",
+          "campaign_name": "Т�� Майконд",
           "spend": 8.87,
           "impressions": 2227,
           "clicks": 74,
@@ -6971,7 +6971,7 @@
         {
           "date": "2026-11-18",
           "campaign_id": "120251996476260749",
-          "campaign_name": "ЛІДИ ТН  основний Форма коротка",
+          "campaign_name": "ЛІДИ ТН Форма Максим питань",
           "spend": 2.35,
           "impressions": 572,
           "clicks": 14,
@@ -6989,7 +6989,7 @@
         {
           "date": "2026-11-19",
           "campaign_id": "120251996476260749",
-          "campaign_name": "ЛІДИ ТН  основний Форма коротка",
+          "campaign_name": "ЛІДИ ТН Форма Максим питань",
           "spend": 5.23,
           "impressions": 1501,
           "clicks": 24,
@@ -6998,7 +6998,7 @@
         {
           "date": "2026-11-20",
           "campaign_id": "120251996476260749",
-          "campaign_name": "ЛІДИ ТН  основний Форма коротка",
+          "campaign_name": "ЛІДИ ТН Форма Максим питань",
           "spend": 9.2,
           "impressions": 3893,
           "clicks": 100,
@@ -7007,7 +7007,7 @@
         {
           "date": "2026-11-21",
           "campaign_id": "120251996476260749",
-          "campaign_name": "ЛІДИ ТН  основний Форма коротка",
+          "campaign_name": "ЛІДИ ТН Форма Максим питань",
           "spend": 19.56,
           "impressions": 7539,
           "clicks": 219,
@@ -7025,18 +7025,18 @@
         {
           "date": "2026-11-22",
           "campaign_id": "120251996476260749",
-          "campaign_name": "ЛІДИ ТН  основний Форма коротка",
-          "spend": 11.18,
-          "impressions": 3786,
-          "clicks": 93,
+          "campaign_name": "ЛІДИ ТН Форма Максим питань",
+          "spend": 11.22,
+          "impressions": 3803,
+          "clicks": 94,
           "leads": 3
         },
         {
           "date": "2026-11-22",
           "campaign_id": "120252047170900749",
           "campaign_name": "ЛІДИ ТН  основний Форма коротка БУКОВЕЛЬ",
-          "spend": 10.94,
-          "impressions": 3953,
+          "spend": 10.97,
+          "impressions": 3962,
           "clicks": 66,
           "leads": 1
         }
@@ -10568,7 +10568,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 112.23,
-          "impressions": 4316,
+          "impressions": 4317,
           "clicks": 79,
           "leads": 2
         },
@@ -10576,9 +10576,9 @@
           "date": "2026-11-22",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 115.97,
-          "impressions": 5144,
-          "clicks": 90,
+          "spend": 116.09,
+          "impressions": 5150,
+          "clicks": 92,
           "leads": 2
         }
       ]
