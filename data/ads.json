@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T04:59:27.343Z",
+  "generated_at": "2026-11-24T05:56:07.603Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3687,8 +3687,8 @@
           "date": "2026-11-23",
           "campaign_id": "120249564308440027",
           "campaign_name": "БФ Ліди 20.11 мега",
-          "spend": 56.89,
-          "impressions": 21002,
+          "spend": 56.91,
+          "impressions": 21025,
           "clicks": 352,
           "leads": 12
         }
@@ -4589,7 +4589,7 @@
         {
           "date": "2026-08-31",
           "campaign_id": "120245840198040292",
-          "campaign_name": "Дилери ��ебінар – копія",
+          "campaign_name": "Дилери вебінар – копія",
           "spend": 4.12,
           "impressions": 1180,
           "clicks": 14,
@@ -5453,7 +5453,7 @@
         {
           "date": "2026-10-28",
           "campaign_id": "120247250663800292",
-          "campaign_name": "Т�� канал хвац",
+          "campaign_name": "ТГ канал хвац",
           "spend": 7.6,
           "impressions": 2798,
           "clicks": 64,
@@ -5697,8 +5697,8 @@
           "date": "2026-11-23",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 7.36,
-          "impressions": 2228,
+          "spend": 7.4,
+          "impressions": 2236,
           "clicks": 44,
           "leads": 4
         }
@@ -6386,7 +6386,7 @@
         {
           "date": "2026-10-06",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "��РИГАДИ конткати 14.09",
           "spend": 5.26,
           "impressions": 1320,
           "clicks": 23,
@@ -6683,7 +6683,7 @@
         {
           "date": "2026-10-26",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ кон��кати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 6.01,
           "impressions": 1284,
           "clicks": 5,
@@ -6854,7 +6854,7 @@
         {
           "date": "2026-11-13",
           "campaign_id": "120251913776780749",
-          "campaign_name": "БРИГАДИ анкета Сайт",
+          "campaign_name": "БРИГАДИ а��кета Сайт",
           "spend": 4.57,
           "impressions": 1469,
           "clicks": 45,
@@ -7000,7 +7000,7 @@
           "campaign_id": "120252047170900749",
           "campaign_name": "ЛІДИ ТН  основний Форма коротка БУКОВЕЛЬ",
           "spend": 7.51,
-          "impressions": 3762,
+          "impressions": 3765,
           "clicks": 41,
           "leads": 2
         }
@@ -10541,7 +10541,7 @@
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
           "spend": 90.18,
-          "impressions": 3691,
+          "impressions": 3692,
           "clicks": 73,
           "leads": 2
         }
