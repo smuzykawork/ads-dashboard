@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T22:29:12.832Z",
+  "generated_at": "2026-11-26T22:36:40.134Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3706,7 +3706,7 @@
           "campaign_id": "120249640559550027",
           "campaign_name": "ОН БФ 24.11 ФАЙЛИ – копія",
           "spend": 16.94,
-          "impressions": 4219,
+          "impressions": 4220,
           "clicks": 66,
           "leads": 2
         }
@@ -4634,7 +4634,7 @@
         {
           "date": "2026-09-04",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дил��р Контакти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 4.6,
           "impressions": 798,
           "clicks": 15,
@@ -5039,7 +5039,7 @@
         {
           "date": "2026-09-22",
           "campaign_id": "120246711269350292",
-          "campaign_name": "хаер тн ж 14.09",
+          "campaign_name": "хаер тн �� 14.09",
           "spend": 5.02,
           "impressions": 966,
           "clicks": 25,
@@ -5264,7 +5264,7 @@
         {
           "date": "2026-10-19",
           "campaign_id": "120247250663800292",
-          "campaign_name": "ТГ канал ��вац",
+          "campaign_name": "ТГ канал хвац",
           "spend": 6.66,
           "impressions": 2492,
           "clicks": 56,
@@ -6554,7 +6554,7 @@
         {
           "date": "2026-10-21",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ контка��и 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 2.41,
           "impressions": 612,
           "clicks": 6,
@@ -6878,7 +6878,7 @@
         {
           "date": "2026-11-21",
           "campaign_id": "120252047170900749",
-          "campaign_name": "ЛІДИ ТН   Форма макс питань БУКОВЕЛЬ",
+          "campaign_name": "ЛІДИ ТН   Форма макс ��итань БУКОВЕЛЬ",
           "spend": 0.64,
           "impressions": 193,
           "clicks": 0,
@@ -6969,8 +6969,8 @@
           "date": "2026-11-26",
           "campaign_id": "120252047170900749",
           "campaign_name": "ЛІДИ ТН   Форма макс питань БУКОВЕЛЬ",
-          "spend": 3.56,
-          "impressions": 1970,
+          "spend": 3.57,
+          "impressions": 1972,
           "clicks": 7,
           "leads": 0
         },
