@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:26:11.504Z",
+  "generated_at": "2026-11-26T02:57:58.900Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3670,7 +3670,7 @@
           "campaign_id": "120249564308440027",
           "campaign_name": "БФ Ліди 20.11 мега",
           "spend": 0.96,
-          "impressions": 413,
+          "impressions": 418,
           "clicks": 3,
           "leads": 0
         },
@@ -3678,8 +3678,8 @@
           "date": "2026-11-25",
           "campaign_id": "120249621709610027",
           "campaign_name": "ОН БФ 24.11",
-          "spend": 14.96,
-          "impressions": 4531,
+          "spend": 15.01,
+          "impressions": 4546,
           "clicks": 89,
           "leads": 0
         },
@@ -3687,17 +3687,17 @@
           "date": "2026-11-25",
           "campaign_id": "120249621895330027",
           "campaign_name": "ОН БФ 24.11 ФАЙЛИ",
-          "spend": 13.55,
-          "impressions": 3035,
-          "clicks": 49,
+          "spend": 13.57,
+          "impressions": 3047,
+          "clicks": 50,
           "leads": 1
         },
         {
           "date": "2026-11-25",
           "campaign_id": "120249640559550027",
           "campaign_name": "ОН БФ 24.11 ФАЙЛИ – копія",
-          "spend": 5.39,
-          "impressions": 1671,
+          "spend": 5.41,
+          "impressions": 1684,
           "clicks": 17,
           "leads": 1
         }
@@ -4634,7 +4634,7 @@
         {
           "date": "2026-09-03",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Ко��такти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 5.17,
           "impressions": 692,
           "clicks": 6,
@@ -4652,7 +4652,7 @@
         {
           "date": "2026-09-04",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копі��",
           "spend": 8.11,
           "impressions": 1539,
           "clicks": 38,
@@ -4787,7 +4787,7 @@
         {
           "date": "2026-09-09",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇ�� 12.08 – копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 7.46,
           "impressions": 1550,
           "clicks": 18,
@@ -4823,7 +4823,7 @@
         {
           "date": "2026-09-10",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакти 24.08",
+          "campaign_name": "Д��лер Контакти 24.08",
           "spend": 4.85,
           "impressions": 753,
           "clicks": 10,
@@ -4868,7 +4868,7 @@
         {
           "date": "2026-09-12",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – коп��я – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 6.14,
           "impressions": 1085,
           "clicks": 21,
@@ -5471,7 +5471,7 @@
         {
           "date": "2026-11-06",
           "campaign_id": "120247250663800292",
-          "campaign_name": "ТГ канал хвац",
+          "campaign_name": "ТГ канал хва��",
           "spend": 6.02,
           "impressions": 2455,
           "clicks": 52,
@@ -5652,8 +5652,8 @@
           "date": "2026-11-25",
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
-          "spend": 6.29,
-          "impressions": 1834,
+          "spend": 6.31,
+          "impressions": 1843,
           "clicks": 29,
           "leads": 0
         }
@@ -6917,7 +6917,7 @@
         {
           "date": "2026-11-22",
           "campaign_id": "120252047170900749",
-          "campaign_name": "ЛІДИ ТН   Форма макс питань БУКОВЕЛЬ",
+          "campaign_name": "ЛІДИ ТН   Форма макс п��тань БУКОВЕЛЬ",
           "spend": 10.99,
           "impressions": 3969,
           "clicks": 66,
@@ -6964,7 +6964,7 @@
           "campaign_id": "120251996476260749",
           "campaign_name": "ЛІДИ ТН Форма Максим питань",
           "spend": 7.99,
-          "impressions": 3016,
+          "impressions": 3025,
           "clicks": 39,
           "leads": 3
         },
@@ -6973,7 +6973,7 @@
           "campaign_id": "120252047170900749",
           "campaign_name": "ЛІДИ ТН   Форма макс питань БУКОВЕЛЬ",
           "spend": 2.92,
-          "impressions": 1483,
+          "impressions": 1485,
           "clicks": 6,
           "leads": 0
         }
@@ -9043,24 +9043,6 @@
       ],
       "daily": [
         {
-          "date": "2026-08-27",
-          "campaign_id": "120252365230840392",
-          "campaign_name": "FGAZ Knopka",
-          "spend": 53.61,
-          "impressions": 1331,
-          "clicks": 40,
-          "leads": 1
-        },
-        {
-          "date": "2026-08-27",
-          "campaign_id": "120252379723490392",
-          "campaign_name": "FGAZY Forma",
-          "spend": 14.06,
-          "impressions": 489,
-          "clicks": 20,
-          "leads": 1
-        },
-        {
           "date": "2026-08-28",
           "campaign_id": "120252365230840392",
           "campaign_name": "FGAZ Knopka",
@@ -10526,6 +10508,15 @@
           "impressions": 3793,
           "clicks": 79,
           "leads": 3
+        },
+        {
+          "date": "2026-11-25",
+          "campaign_id": "120245836336330392",
+          "campaign_name": "Kurs 2 Klima new",
+          "spend": 89.86,
+          "impressions": 3574,
+          "clicks": 71,
+          "leads": 2
         }
       ]
     }
