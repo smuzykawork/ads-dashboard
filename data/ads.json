@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:11:59.037Z",
+  "generated_at": "2026-11-27T14:23:32.311Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -7,9 +7,63 @@
       "currency": "USD",
       "campaigns": [
         {
+          "id": "120249669371030027",
+          "name": "БФ 10 27.11",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120249669294720027",
+          "name": "БФ 9 27.11",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120249669231650027",
+          "name": "БФ 8 27.11",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120249668663900027",
+          "name": "БФ 6 27.11",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120249668531300027",
+          "name": "БФ 7 27.11",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120249668455800027",
+          "name": "БФ 4 27.11",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120249668406350027",
+          "name": "БФ 3 27.11",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120249668306150027",
+          "name": "БФ 2 27.11",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
+          "id": "120249668109230027",
+          "name": "БФ 1 27.11",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120249662721600027",
           "name": "БФ Ліди 20.11 мега – копія",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -21,13 +75,13 @@
         {
           "id": "120249640559550027",
           "name": "ОН БФ 24.11 ФАЙЛИ – копія",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
           "id": "120249621895330027",
           "name": "ОН БФ 24.11 ФАЙЛИ",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -39,7 +93,7 @@
         {
           "id": "120249564308440027",
           "name": "БФ Ліди 20.11 мега",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -1149,60 +1203,6 @@
         {
           "id": "120213261621040027",
           "name": "LH|Ліди на сайті|Онлайн курс — 03.12",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120213261533180027",
-          "name": "LH|Ліди на сайті|Онлайн курс — 03.12",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120213175499840027",
-          "name": "BF\\LH\\Lead 20.11 (2)",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120212930548810027",
-          "name": "BF\\LH\\Lead 20.11 Remarketing",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120212930048780027",
-          "name": "BF\\LH\\Lead 20.11",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120212556646520027",
-          "name": "LH|Лідформи|Онлайн курс",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120212538926180027",
-          "name": "Пошук викладача_quiz(листопад)",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120212452467390027",
-          "name": "LH|Ліди на сайті|Ремаркетинг",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120212451484910027",
-          "name": "LH|Ліди на сайті|Онлайн курс",
-          "status": "PAUSED",
-          "objective": "OUTCOME_LEADS"
-        },
-        {
-          "id": "120212450331130027",
-          "name": "LH|Ліди на сайті|Офлайн-курс",
           "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         }
@@ -3687,8 +3687,8 @@
           "date": "2026-11-26",
           "campaign_id": "120249621709610027",
           "campaign_name": "ОН БФ 24.11",
-          "spend": 7.88,
-          "impressions": 1552,
+          "spend": 7.89,
+          "impressions": 1554,
           "clicks": 35,
           "leads": 0
         },
@@ -3696,17 +3696,17 @@
           "date": "2026-11-26",
           "campaign_id": "120249621895330027",
           "campaign_name": "ОН БФ 24.11 ФАЙЛИ",
-          "spend": 17.13,
-          "impressions": 3841,
-          "clicks": 68,
+          "spend": 17.16,
+          "impressions": 3847,
+          "clicks": 70,
           "leads": 3
         },
         {
           "date": "2026-11-26",
           "campaign_id": "120249640559550027",
           "campaign_name": "ОН БФ 24.11 ФАЙЛИ – копія",
-          "spend": 16.97,
-          "impressions": 4236,
+          "spend": 17,
+          "impressions": 4245,
           "clicks": 66,
           "leads": 2
         }
@@ -4688,7 +4688,7 @@
         {
           "date": "2026-09-06",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Ди��ер Контакти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 7.18,
           "impressions": 773,
           "clicks": 10,
@@ -5057,7 +5057,7 @@
         {
           "date": "2026-09-24",
           "campaign_id": "120246888745410292",
-          "campaign_name": "��енеджер з продажу ТН",
+          "campaign_name": "Менеджер з продажу ТН",
           "spend": 34.37,
           "impressions": 3021,
           "clicks": 61,
@@ -5635,7 +5635,7 @@
           "campaign_id": "120247250663800292",
           "campaign_name": "ТГ канал хвац",
           "spend": 7.2,
-          "impressions": 2023,
+          "impressions": 2024,
           "clicks": 23,
           "leads": 2
         }
@@ -5647,15 +5647,21 @@
       "currency": "USD",
       "campaigns": [
         {
+          "id": "120252141626230749",
+          "name": "ЛІДИ ТН Форма Максим питань – kopia",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS"
+        },
+        {
           "id": "120252127072250749",
           "name": "менеджер з продажів",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
           "id": "120252047170900749",
           "name": "ЛІДИ ТН   Форма макс питань БУКОВЕЛЬ",
-          "status": "ACTIVE",
+          "status": "PAUSED",
           "objective": "OUTCOME_LEADS"
         },
         {
@@ -6275,7 +6281,7 @@
         {
           "date": "2026-10-03",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ ко��ткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 4.41,
           "impressions": 884,
           "clicks": 22,
@@ -6770,7 +6776,7 @@
         {
           "date": "2026-11-13",
           "campaign_id": "120251913776780749",
-          "campaign_name": "БРИГАДИ анкета С��йт",
+          "campaign_name": "БРИГАДИ анкета Сайт",
           "spend": 4.57,
           "impressions": 1469,
           "clicks": 45,
@@ -6960,8 +6966,8 @@
           "date": "2026-11-26",
           "campaign_id": "120251996476260749",
           "campaign_name": "ЛІДИ ТН Форма Максим питань",
-          "spend": 7.95,
-          "impressions": 3285,
+          "spend": 7.97,
+          "impressions": 3288,
           "clicks": 33,
           "leads": 2
         },
@@ -6970,7 +6976,7 @@
           "campaign_id": "120252047170900749",
           "campaign_name": "ЛІДИ ТН   Форма макс питань БУКОВЕЛЬ",
           "spend": 3.59,
-          "impressions": 1990,
+          "impressions": 1994,
           "clicks": 7,
           "leads": 0
         },
@@ -6979,7 +6985,7 @@
           "campaign_id": "120252127072250749",
           "campaign_name": "менеджер з продажів",
           "spend": 2.46,
-          "impressions": 524,
+          "impressions": 525,
           "clicks": 34,
           "leads": 3
         }
@@ -10510,9 +10516,9 @@
           "date": "2026-11-26",
           "campaign_id": "120245836336330392",
           "campaign_name": "Kurs 2 Klima new",
-          "spend": 90.62,
-          "impressions": 3245,
-          "clicks": 54,
+          "spend": 91.15,
+          "impressions": 3253,
+          "clicks": 55,
           "leads": 0
         }
       ]
