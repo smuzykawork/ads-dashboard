@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T14:32:25.190Z",
+  "generated_at": "2026-11-28T17:04:06.945Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3688,7 +3688,7 @@
           "campaign_id": "120249564308440027",
           "campaign_name": "БФ Ліди 20.11 мега",
           "spend": 31.18,
-          "impressions": 8850,
+          "impressions": 8857,
           "clicks": 108,
           "leads": 8
         },
@@ -3742,7 +3742,7 @@
           "campaign_id": "120249668406350027",
           "campaign_name": "БФ 3 27.11",
           "spend": 23.59,
-          "impressions": 2608,
+          "impressions": 2609,
           "clicks": 36,
           "leads": 2
         },
@@ -3768,8 +3768,8 @@
           "date": "2026-11-27",
           "campaign_id": "120249669231650027",
           "campaign_name": "БФ 8 27.11",
-          "spend": 13.92,
-          "impressions": 3521,
+          "spend": 14,
+          "impressions": 3524,
           "clicks": 60,
           "leads": 0
         },
@@ -3777,8 +3777,8 @@
           "date": "2026-11-27",
           "campaign_id": "120249669294720027",
           "campaign_name": "БФ 9 27.11",
-          "spend": 23.01,
-          "impressions": 3634,
+          "spend": 23.06,
+          "impressions": 3636,
           "clicks": 65,
           "leads": 3
         },
@@ -3786,8 +3786,8 @@
           "date": "2026-11-27",
           "campaign_id": "120249669371030027",
           "campaign_name": "БФ 10 27.11",
-          "spend": 10.75,
-          "impressions": 1641,
+          "spend": 10.76,
+          "impressions": 1642,
           "clicks": 19,
           "leads": 0
         }
@@ -4724,7 +4724,7 @@
         {
           "date": "2026-09-06",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 ��� копія – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 8.94,
           "impressions": 1329,
           "clicks": 19,
@@ -4841,7 +4841,7 @@
         {
           "date": "2026-09-10",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакти 24.08",
+          "campaign_name": "Ди��ер Контакти 24.08",
           "spend": 4.85,
           "impressions": 753,
           "clicks": 10,
@@ -4886,7 +4886,7 @@
         {
           "date": "2026-09-12",
           "campaign_id": "120246318509580292",
-          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – коп��я – копія",
+          "campaign_name": "Вакансія СЕРВІСАНТ КИЇВ 12.08 – копія – копія",
           "spend": 6.14,
           "impressions": 1085,
           "clicks": 21,
@@ -6335,7 +6335,7 @@
         {
           "date": "2026-10-04",
           "campaign_id": "120250995433840749",
-          "campaign_name": "��РИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 5.62,
           "impressions": 1076,
           "clicks": 14,
@@ -6443,7 +6443,7 @@
         {
           "date": "2026-10-12",
           "campaign_id": "120250995433840749",
-          "campaign_name": "БРИГАДИ конткати 14.09",
+          "campaign_name": "��РИГАДИ конткати 14.09",
           "spend": 6.31,
           "impressions": 1602,
           "clicks": 22,
@@ -7039,7 +7039,7 @@
           "campaign_id": "120251996476260749",
           "campaign_name": "ЛІДИ ТН Форма Максим питань",
           "spend": 15.35,
-          "impressions": 5600,
+          "impressions": 5601,
           "clicks": 44,
           "leads": 1
         },
