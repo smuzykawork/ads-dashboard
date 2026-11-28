@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T17:04:06.945Z",
+  "generated_at": "2026-11-28T18:51:38.748Z",
   "projects": [
     {
       "account_id": "act_1579613729153862",
@@ -3688,7 +3688,7 @@
           "campaign_id": "120249564308440027",
           "campaign_name": "БФ Ліди 20.11 мега",
           "spend": 31.18,
-          "impressions": 8857,
+          "impressions": 8858,
           "clicks": 108,
           "leads": 8
         },
@@ -3742,7 +3742,7 @@
           "campaign_id": "120249668406350027",
           "campaign_name": "БФ 3 27.11",
           "spend": 23.59,
-          "impressions": 2609,
+          "impressions": 2610,
           "clicks": 36,
           "leads": 2
         },
@@ -4733,7 +4733,7 @@
         {
           "date": "2026-09-06",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Дилер Контакти 24.08",
+          "campaign_name": "Дил��р Контакти 24.08",
           "spend": 7.18,
           "impressions": 773,
           "clicks": 10,
@@ -4841,7 +4841,7 @@
         {
           "date": "2026-09-10",
           "campaign_id": "120246318688090292",
-          "campaign_name": "Ди��ер Контакти 24.08",
+          "campaign_name": "Дилер Контакти 24.08",
           "spend": 4.85,
           "impressions": 753,
           "clicks": 10,
@@ -6443,7 +6443,7 @@
         {
           "date": "2026-10-12",
           "campaign_id": "120250995433840749",
-          "campaign_name": "��РИГАДИ конткати 14.09",
+          "campaign_name": "БРИГАДИ конткати 14.09",
           "spend": 6.31,
           "impressions": 1602,
           "clicks": 22,
@@ -7039,7 +7039,7 @@
           "campaign_id": "120251996476260749",
           "campaign_name": "ЛІДИ ТН Форма Максим питань",
           "spend": 15.35,
-          "impressions": 5601,
+          "impressions": 5602,
           "clicks": 44,
           "leads": 1
         },
